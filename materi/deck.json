@@ -1,0 +1,20 @@
+[
+ {"id": "acl", "berkas": "acl", "ikon": "lari", "warna": "hijau", "logo": "logo-bpjs",
+  "penyusun": "Alif Noeriyanto Rahman, MD, Sp.OT",
+  "kicker": {"id": "Rehabilitasi berbasis kriteria", "en": "Criteria-based rehabilitation", "zh": "基于标准的康复", "uz": "Mezonlarga asoslangan reabilitatsiya"},
+  "judul": {"id": "Rehabilitasi Cedera ACL", "en": "ACL Injury Rehabilitation", "zh": "前交叉韧带损伤康复", "uz": "Oldingi xochsimon boylam jarohatidan keyingi reabilitatsiya"},
+  "judulPendek": {"id": "Rehabilitasi ACL", "en": "ACL rehabilitation", "zh": "前交叉韧带康复", "uz": "ACL reabilitatsiyasi"},
+  "ringkas": {"id": "Kapan boleh mulai berlari dan kembali berolahraga — berbasis kriteria, mengacu protokol Aspetar 2023–2024.", "en": "When to start running and return to sport — criteria-based, following the 2023–2024 Aspetar protocol.", "zh": "何时可以开始跑步、何时可以重返运动——以标准为依据，参照 2023–2024 年 Aspetar 方案。", "uz": "Qachon yugurishni boshlash va sportga qaytish mumkin — mezonlarga asoslangan, Aspetar 2023–2024 protokoliga muvofiq."}},
+ {"id": "acl-meniskus", "berkas": "aclm", "ikon": "lutut", "warna": "ungu", "logo": "logo-bpjs",
+  "penyusun": "dr. Florencia Wirawan, Sp.KFR, MM, MARS",
+  "kicker": {"id": "Rehabilitasi medik · cedera lutut", "en": "Rehabilitation medicine · knee injury", "zh": "康复医学 · 膝关节损伤", "uz": "Tibbiy reabilitatsiya · tizza jarohati"},
+  "judul": {"id": "Pemulihan Pasca Cedera ACL & Meniskus", "en": "Recovery after ACL & Meniscus Injury", "zh": "前交叉韧带与半月板损伤后的康复", "uz": "Oldingi xochsimon boylam va menisk jarohatidan keyingi tiklanish"},
+  "judulPendek": {"id": "Pemulihan ACL & meniskus", "en": "ACL & meniscus recovery", "zh": "前交叉韧带与半月板康复", "uz": "ACL va menisk tiklanishi"},
+  "ringkas": {"id": "Timeline berbasis kriteria dari pra-operasi hingga kembali bertanding dan kembali bekerja, termasuk alat ukur untuk verifikator.", "en": "A criteria-based timeline from pre-surgery to return to sport and return to work, including objective measures for reviewers.", "zh": "从术前到重返赛场及重返工作的基于标准的时间线，并包括供核查人员使用的客观评估工具。", "uz": "Operatsiyadan oldingi davrdan sportga va ishga qaytishgacha boʻlgan mezonlarga asoslangan reja, tekshiruvchilar uchun obyektiv oʻlchov vositalari bilan."}},
+ {"id": "verifikasi-alkes", "berkas": "verif", "ikon": "periksa", "warna": "jingga", "logo": "logo-bpjs",
+  "penyusun": "Prof. Dr. dr. Alif Noeriyanto Rahman, Sp.OT, CIPP",
+  "kicker": {"id": "Klaim JKK · BPJS Ketenagakerjaan", "en": "JKK claims · BPJS Ketenagakerjaan", "zh": "JKK 理赔 · BPJS Ketenagakerjaan", "uz": "JKK daʼvolari · BPJS Ketenagakerjaan"},
+  "judul": {"id": "Verifikasi Alat Kesehatan dan Penunjang Diagnostik pada Kasus Ortopedi", "en": "Verification of Medical Devices and Diagnostic Investigations in Orthopaedic Cases", "zh": "骨科病例中医疗器械与辅助诊断检查的核查", "uz": "Ortopedik holatlarda tibbiy buyumlar va diagnostik tekshiruvlarni tekshirish (verifikatsiya)"},
+  "judulPendek": {"id": "Verifikasi alkes & penunjang", "en": "Device & investigation review", "zh": "器械与检查核查", "uz": "Tibbiy buyum va tekshiruvlar verifikatsiyasi"},
+  "ringkas": {"id": "Konsep, dasar regulasi, dan kerangka verifikasi: menautkan diagnosis, kebutuhan medis, dan bukti untuk alat kesehatan dan penunjang diagnostik.", "en": "Concepts, regulatory basis and a verification framework: linking diagnosis, medical need and evidence for medical devices and diagnostic investigations.", "zh": "概念、法规依据与核查框架：将诊断、医疗需要与证据联系起来，用于医疗器械与辅助诊断检查。", "uz": "Tushunchalar, meʼyoriy asos va tekshiruv tizimi: tibbiy buyumlar va diagnostik tekshiruvlar uchun tashxis, tibbiy ehtiyoj va dalillarni bogʻlash."}}
+]
