@@ -1,0 +1,1397 @@
+[
+ {
+  "slide": 1,
+  "id": "sampul-verifikasi",
+  "kicker": {
+   "id": "MATERI KULIAH · JKK BPJS KETENAGAKERJAAN",
+   "en": "LECTURE · JKK BPJS KETENAGAKERJAAN",
+   "zh": "讲座 · JKK BPJS KETENAGAKERJAAN",
+   "uz": "MAʼRUZA · JKK BPJS KETENAGAKERJAAN"
+  },
+  "judul": {
+   "id": "Verifikasi Alat Kesehatan dan Penunjang Diagnostik pada Kasus Ortopedi",
+   "en": "Verification of Medical Devices and Diagnostic Investigations in Orthopaedic Cases",
+   "zh": "骨科病例中医疗器械与辅助诊断检查的核查",
+   "uz": "Ortopedik holatlarda tibbiy buyumlar va yordamchi diagnostik tekshiruvlar tekshiruvi (verifikatsiyasi)"
+  },
+  "pesan": {
+   "id": "Konsep dan prinsip dasar: menautkan diagnosis, kebutuhan medis, dan bukti",
+   "en": "Concepts and basic principles: linking diagnosis, medical necessity, and evidence",
+   "zh": "概念与基本原则：将诊断、医疗必要性与证据相互关联",
+   "uz": "Tushuncha va asosiy tamoyillar: tashxis, tibbiy zarurat va dalillarni bogʻlash"
+  },
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": {
+       "id": "01",
+       "en": "01",
+       "zh": "01",
+       "uz": "01"
+      },
+      "judul": {
+       "id": "Konsep, dasar regulasi, dan kerangka verifikasi",
+       "en": "Concepts, regulatory basis, and verification framework",
+       "zh": "概念、法规依据与核查框架",
+       "uz": "Tushunchalar, meʼyoriy asos va tekshiruv (verifikatsiya) doirasi"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "02",
+       "en": "02",
+       "zh": "02",
+       "uz": "02"
+      },
+      "judul": {
+       "id": "Penunjang diagnostik: kapan dan mengapa",
+       "en": "Diagnostic investigations: when and why",
+       "zh": "辅助诊断检查：何时做、为何做",
+       "uz": "Yordamchi diagnostik tekshiruvlar: qachon va nima uchun"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "03",
+       "en": "03",
+       "zh": "03",
+       "uz": "03"
+      },
+      "judul": {
+       "id": "Alat kesehatan dan implan: jenis dan buktinya",
+       "en": "Medical devices and implants: types and evidence",
+       "zh": "医疗器械与植入物：类型与证据",
+       "uz": "Tibbiy buyumlar va implantlar: turlari va dalillari"
+      },
+      "teks": null,
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "galeri",
+    "item": [
+     {
+      "id": "verif-implan-1",
+      "keterangan": {
+       "id": "Plate",
+       "en": "Plate",
+       "zh": "接骨板（Plate）",
+       "uz": "Plastina (plate)"
+      }
+     },
+     {
+      "id": "verif-implan-2",
+      "keterangan": {
+       "id": "Intramedullary nail",
+       "en": "Intramedullary nail",
+       "zh": "髓内钉",
+       "uz": "Intramedullyar mix (nail)"
+      }
+     },
+     {
+      "id": "verif-implan-3",
+      "keterangan": {
+       "id": "K-wire",
+       "en": "K-wire",
+       "zh": "克氏针（K-wire）",
+       "uz": "K-sim (K-wire)"
+      }
+     },
+     {
+      "id": "verif-implan-4",
+      "keterangan": {
+       "id": "Cerclage",
+       "en": "Cerclage wire",
+       "zh": "环扎钢丝（Cerclage）",
+       "uz": "Serklyaj (cerclage)"
+      }
+     },
+     {
+      "id": "verif-implan-5",
+      "keterangan": {
+       "id": "Fiksator eksternal",
+       "en": "External fixator",
+       "zh": "外固定架",
+       "uz": "Tashqi fiksator"
+      }
+     },
+     {
+      "id": "verif-implan-6",
+      "keterangan": {
+       "id": "Locking screw",
+       "en": "Locking screw",
+       "zh": "锁定螺钉",
+       "uz": "Qulflanuvchi vint (locking screw)"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slide": 2,
+  "id": "narasumber",
+  "kicker": {
+   "id": "NARASUMBER",
+   "en": "SPEAKER",
+   "zh": "主讲人",
+   "uz": "MAʼRUZACHI"
+  },
+  "judul": {
+   "id": "Penyusun materi",
+   "en": "Author of the material",
+   "zh": "资料编写者",
+   "uz": "Material muallifi"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**Prof. Dr. dr. Alif Noeriyanto Rahman, Sp.OT, CIPP**\nDewan Pengawas BPJS TK",
+     "en": "**Prof. Dr. dr. Alif Noeriyanto Rahman, Sp.OT, CIPP**\nBoard of Supervisors, BPJS TK (BPJS Ketenagakerjaan)",
+     "zh": "**Prof. Dr. dr. Alif Noeriyanto Rahman, Sp.OT, CIPP**\nBPJS TK（BPJS Ketenagakerjaan）监事会成员",
+     "uz": "**Prof. Dr. dr. Alif Noeriyanto Rahman, Sp.OT, CIPP**\nBPJS TK (BPJS Ketenagakerjaan) Kuzatuv kengashi aʼzosi"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 3,
+  "id": "ringkasan-tiga-pertanyaan",
+  "kicker": {
+   "id": "RINGKASAN",
+   "en": "SUMMARY",
+   "zh": "摘要",
+   "uz": "QISQACHA MAZMUN"
+  },
+  "judul": {
+   "id": "Tiga pertanyaan, tiga jawaban singkat",
+   "en": "Three questions, three short answers",
+   "zh": "三个问题，三个简短回答",
+   "uz": "Uchta savol, uchta qisqa javob"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": {
+       "id": "01 · KONSEP",
+       "en": "01 · CONCEPT",
+       "zh": "01 · 概念",
+       "uz": "01 · TUSHUNCHA"
+      },
+      "judul": {
+       "id": "Apa yang diverifikasi?",
+       "en": "What is verified?",
+       "zh": "核查什么？",
+       "uz": "Nima tekshiriladi?"
+      },
+      "teks": {
+       "id": "Bahwa layanan yang ditagihkan benar diberikan, diperlukan secara medis, terdokumentasi, dan sesuai tarif yang disepakati. Verifikasi menilai kesesuaian antara diagnosis, tindakan, dan bukti; bukan mengulang keputusan klinis dokter.",
+       "en": "That the billed services were actually provided, medically necessary, documented, and in line with the agreed tariff. Verification assesses the consistency between diagnosis, procedure, and evidence; it does not re-make the physician's clinical decisions.",
+       "zh": "核查所申报的服务确实已提供、具有医疗必要性、有记录，并符合约定收费标准。核查评估的是诊断、操作与证据之间的一致性，而不是重新做出医生的临床决策。",
+       "uz": "Hisobga qoʻyilgan xizmatlar haqiqatan koʻrsatilgani, tibbiy jihatdan zarurligi, hujjatlashtirilgani va kelishilgan tarifga mosligi. Tekshiruv tashxis, muolaja va dalillar oʻrtasidagi muvofiqlikni baholaydi; shifokorning klinik qarorlarini qayta koʻrib chiqmaydi."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "02 · PENUNJANG",
+       "en": "02 · INVESTIGATIONS",
+       "zh": "02 · 辅助检查",
+       "uz": "02 · YORDAMCHI TEKSHIRUVLAR"
+      },
+      "judul": {
+       "id": "Kapan penunjang diagnostik sesuai?",
+       "en": "When is a diagnostic investigation appropriate?",
+       "zh": "辅助诊断检查何时适当？",
+       "uz": "Yordamchi diagnostik tekshiruv qachon oʻrinli?"
+      },
+      "teks": {
+       "id": "Saat hasilnya menjawab pertanyaan klinis yang tercatat. Pada trauma, rontgen dua proyeksi adalah langkah awal; CT atau MRI menyusul bila rontgen tidak cukup menjawab (ACR). USG dipilih untuk tendon dan jaringan lunak superfisial, misalnya rotator cuff (AMSSM). Aturan Ottawa membantu menilai perlu-tidaknya rontgen.",
+       "en": "When its result answers a documented clinical question. In trauma, two-view radiographs are the first step; CT or MRI follows when radiographs do not answer sufficiently (ACR). Ultrasound is chosen for tendons and superficial soft tissue, e.g. the rotator cuff (AMSSM). The Ottawa rules help decide whether radiographs are needed.",
+       "zh": "当检查结果能够回答已记录的临床问题时。创伤时，两个体位的X线片是第一步；X线片不足以回答问题时再行CT或MRI（ACR）。超声适用于肌腱和浅表软组织，例如肩袖（AMSSM）。Ottawa规则有助于判断是否需要X线检查。",
+       "uz": "Natijasi qayd etilgan klinik savolga javob berganda. Jarohatda ikki proyeksiyali rentgen birinchi qadam; rentgen yetarli javob bermasa, KT yoki MRT bajariladi (ACR). UTT paylar va yuza yumshoq toʻqimalar, masalan rotator manjet uchun tanlanadi (AMSSM). Ottawa qoidalari rentgen kerak-kerakmasligini baholashga yordam beradi."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "03 · ALAT KESEHATAN",
+       "en": "03 · MEDICAL DEVICES",
+       "zh": "03 · 医疗器械",
+       "uz": "03 · TIBBIY BUYUMLAR"
+      },
+      "judul": {
+       "id": "Bagaimana memverifikasi implan?",
+       "en": "How are implants verified?",
+       "zh": "如何核查植入物？",
+       "uz": "Implant qanday tekshiriladi?"
+      },
+      "teks": {
+       "id": "Cocokkan pola fraktur dengan jenis fiksasi, lalu telusuri laporan operasi, label implan dan izin edarnya, rontgen pascaoperasi, serta tarif dalam PKS. Bahan (stainless, titanium) dan sistem penguncian adalah dua hal berbeda.",
+       "en": "Match the fracture pattern with the type of fixation, then trace the operative report, the implant label and its marketing authorisation, the postoperative radiograph, and the tariff in the PKS (cooperation agreement). Material (stainless steel, titanium) and the locking system are two different things.",
+       "zh": "将骨折类型与固定方式相对照，再追溯手术记录、植入物标签及其上市许可、术后X线片以及PKS（合作协议）中的收费标准。材料（不锈钢、钛）与锁定系统是两回事。",
+       "uz": "Sinish shaklini fiksatsiya turi bilan solishtiring, soʻng operatsiya bayonnomasi, implant yorligʻi va roʻyxatdan oʻtganlik ruxsatnomasi, operatsiyadan keyingi rentgen hamda PKS (hamkorlik shartnomasi) dagi tarifni kuzating. Material (zanglamas poʻlat, titan) va qulflash tizimi — ikki xil narsa."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber: PP 44/2015 jo. PP 82/2019 · Permenaker 11/2016 · Perban BPJS Ketenagakerjaan 1/2024 · ACR Appropriateness Criteria · AO Principles of Fracture Management · infografik dokter.",
+     "en": "Sources: PP 44/2015 as amended by PP 82/2019 · Permenaker 11/2016 · Perban BPJS Ketenagakerjaan 1/2024 · ACR Appropriateness Criteria · AO Principles of Fracture Management · physician infographics.",
+     "zh": "来源：PP 44/2015 及 PP 82/2019 · Permenaker 11/2016 · Perban BPJS Ketenagakerjaan 1/2024 · ACR Appropriateness Criteria · AO Principles of Fracture Management · 医生信息图。",
+     "uz": "Manbalar: PP 44/2015 va PP 82/2019 · Permenaker 11/2016 · Perban BPJS Ketenagakerjaan 1/2024 · ACR Appropriateness Criteria · AO Principles of Fracture Management · shifokor infografikalari."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 4,
+  "id": "apa-itu-verifikasi",
+  "kicker": {
+   "id": "KONSEP · DEFINISI",
+   "en": "CONCEPT · DEFINITION",
+   "zh": "概念 · 定义",
+   "uz": "TUSHUNCHA · TAʼRIF"
+  },
+  "judul": {
+   "id": "Apa itu verifikasi?",
+   "en": "What is verification?",
+   "zh": "什么是核查？",
+   "uz": "Tekshiruv (verifikatsiya) nima?"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "DEFINISI KERJA",
+     "en": "WORKING DEFINITION",
+     "zh": "工作定义",
+     "uz": "ISHCHI TAʼRIF"
+    },
+    "teks": {
+     "id": "Verifikasi memastikan setiap layanan yang ditagihkan dapat ditelusuri: dari diagnosis, ke kebutuhan medis, ke tindakan atau alat, sampai ke bukti yang tercatat.",
+     "en": "Verification ensures that every billed service can be traced: from diagnosis, to medical necessity, to the procedure or device, through to the recorded evidence.",
+     "zh": "核查确保每一项申报的服务都可追溯：从诊断到医疗必要性，再到操作或器械，直至有记录的证据。",
+     "uz": "Tekshiruv hisobga qoʻyilgan har bir xizmatni kuzatish mumkinligini taʼminlaydi: tashxisdan tibbiy zaruratga, muolaja yoki buyumga va qayd etilgan dalilgacha."
+    }
+   },
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "Rumusan penulis untuk materi ini, disarikan dari peran kendali mutu dan biaya BPJS Ketenagakerjaan (Permenaker 11/2016 Pasal 7) dan tata cara klaim (Perban BPJS Ketenagakerjaan 1/2024).",
+     "en": "The author's own wording for this material, distilled from the quality- and cost-control role of BPJS Ketenagakerjaan (Permenaker 11/2016, Article 7) and the claim procedures (Perban BPJS Ketenagakerjaan 1/2024).",
+     "zh": "此表述为作者为本资料所拟，提炼自 BPJS Ketenagakerjaan 的质量与费用控制职能（Permenaker 11/2016 第7条）及理赔程序（Perban BPJS Ketenagakerjaan 1/2024）。",
+     "uz": "Bu taʼrif muallif tomonidan ushbu material uchun tuzilgan; BPJS Ketenagakerjaan ning sifat va xarajatlarni nazorat qilish vazifasi (Permenaker 11/2016, 7-modda) hamda daʼvo (klaim) tartibi (Perban BPJS Ketenagakerjaan 1/2024) asosida umumlashtirilgan."
+    }
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Administrasi",
+       "en": "Administrative",
+       "zh": "行政",
+       "uz": "Maʼmuriy"
+      },
+      "teks": {
+       "id": "Kepesertaan aktif, kasus JKK atau PAK yang dijamin, surat kelayakan pelayanan, dan kelengkapan berkas klaim.",
+       "en": "Active membership, a covered JKK or PAK case, a service eligibility letter, and a complete claim file.",
+       "zh": "有效参保、属于承保范围的 JKK 或 PAK 病例、服务资格函，以及完整的理赔材料。",
+       "uz": "Faol aʼzolik, kafolatlangan JKK yoki PAK holati, xizmatga yaroqlilik xati va daʼvo (klaim) hujjatlarining toʻliqligi."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Medis",
+       "en": "Medical",
+       "zh": "医疗",
+       "uz": "Tibbiy"
+      },
+      "teks": {
+       "id": "Indikasi tercatat; diagnosis, tindakan, alat, dan pemeriksaan saling cocok; hasil penunjang memiliki ekspertise.",
+       "en": "The indication is documented; diagnosis, procedure, device, and investigations are consistent with each other; investigation results have a specialist report.",
+       "zh": "适应证有记录；诊断、操作、器械与检查相互吻合；辅助检查结果附有专科报告。",
+       "uz": "Koʻrsatma qayd etilgan; tashxis, muolaja, buyum va tekshiruvlar bir-biriga mos; yordamchi tekshiruv natijalarida mutaxassis xulosasi bor."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Tarif",
+       "en": "Tariff",
+       "zh": "收费",
+       "uz": "Tarif"
+      },
+      "teks": {
+       "id": "Item dan harga sesuai PKS dan tarif yang disepakati; satuan dan jumlah benar; tidak tertagih ganda.",
+       "en": "Items and prices match the PKS and the agreed tariff; units and quantities are correct; nothing is billed twice.",
+       "zh": "项目与价格符合 PKS 及约定收费；单位和数量正确；无重复收费。",
+       "uz": "Bandlar va narxlar PKS va kelishilgan tarifga mos; birlik va miqdor toʻgʻri; ikki marta hisobga qoʻyilmagan."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": {
+     "id": "YANG BUKAN VERIFIKASI",
+     "en": "WHAT VERIFICATION IS NOT",
+     "zh": "核查不是什么",
+     "uz": "TEKSHIRUV NIMA EMAS"
+    },
+    "teks": {
+     "id": "Menebak ulang keputusan klinis dengan informasi yang belum ada saat itu, atau menolak hanya karena biaya tinggi. Bila ragu: klarifikasi ke faskes atau minta pertimbangan dokter penasihat.",
+     "en": "Second-guessing clinical decisions with information that was not available at the time, or rejecting a claim merely because of high cost. When in doubt: seek clarification from the healthcare facility or request the opinion of an advisory physician.",
+     "zh": "用当时尚不存在的信息事后重新揣度临床决策，或仅因费用高而拒付。如有疑问：向医疗机构澄清，或请顾问医生提供意见。",
+     "uz": "Oʻsha paytda mavjud boʻlmagan maʼlumot bilan klinik qarorni qayta taxmin qilish yoki faqat xarajat yuqoriligi sababli rad etish. Shubha boʻlsa: tibbiy muassasadan aniqlik soʻrang yoki maslahatchi shifokor fikrini oling."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber: Permenaker 11/2016 Pasal 7 · Perban BPJS Ketenagakerjaan 1/2024 Pasal 12–17 · Permenaker 5/2021 Pasal 121 (dokter penasihat). PAK = penyakit akibat kerja; PKS = perjanjian kerja sama.",
+     "en": "Sources: Permenaker 11/2016 Art. 7 · Perban BPJS Ketenagakerjaan 1/2024 Arts. 12–17 · Permenaker 5/2021 Art. 121 (advisory physician). PAK = occupational disease; PKS = cooperation agreement.",
+     "zh": "来源：Permenaker 11/2016 第7条 · Perban BPJS Ketenagakerjaan 1/2024 第12–17条 · Permenaker 5/2021 第121条（顾问医生）。PAK = 职业病；PKS = 合作协议。",
+     "uz": "Manbalar: Permenaker 11/2016, 7-modda · Perban BPJS Ketenagakerjaan 1/2024, 12–17-moddalar · Permenaker 5/2021, 121-modda (maslahatchi shifokor). PAK = kasbiy kasallik; PKS = hamkorlik shartnomasi."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 5,
+  "id": "dasar-regulasi-manfaat-jkk",
+  "kicker": {
+   "id": "KONSEP · DASAR REGULASI",
+   "en": "CONCEPT · REGULATORY BASIS",
+   "zh": "概念 · 法规依据",
+   "uz": "TUSHUNCHA · MEʼYORIY ASOS"
+  },
+  "judul": {
+   "id": "Alkes dan penunjang termasuk manfaat JKK",
+   "en": "Medical devices and investigations are JKK benefits",
+   "zh": "医疗器械与辅助检查属于 JKK 待遇范围",
+   "uz": "Tibbiy buyumlar va yordamchi tekshiruvlar JKK imtiyozlariga kiradi"
+  },
+  "pesan": {
+   "id": "Benang merah: regulasi menjamin manfaat sesuai kebutuhan medis; verifikasi memastikan kebutuhan itu terdokumentasi dan tertagih sesuai PKS.",
+   "en": "Common thread: the regulations guarantee benefits according to medical necessity; verification ensures that this necessity is documented and billed in line with the PKS.",
+   "zh": "主线：法规保障按医疗必要性提供待遇；核查确保这种必要性有记录，并按 PKS 收费。",
+   "uz": "Asosiy gʻoya: meʼyoriy hujjatlar imtiyozlarni tibbiy zaruratga koʻra kafolatlaydi; tekshiruv esa bu zarurat hujjatlashtirilgani va PKS ga muvofiq hisobga qoʻyilganini taʼminlaydi."
+  },
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": {
+       "id": "PP 44/2015 jo. PP 82/2019 · Pasal 25",
+       "en": "PP 44/2015 as amended by PP 82/2019 · Art. 25",
+       "zh": "PP 44/2015 及 PP 82/2019 · 第25条",
+       "uz": "PP 44/2015 va PP 82/2019 · 25-modda"
+      },
+      "judul": {
+       "id": "Manfaat pelayanan kesehatan JKK",
+       "en": "JKK health-care benefits",
+       "zh": "JKK 医疗服务待遇",
+       "uz": "JKK tibbiy xizmat imtiyozlari"
+      },
+      "teks": {
+       "id": "• Pelayanan kesehatan sesuai kebutuhan medis.\n• Mencakup penunjang diagnostik, alat kesehatan dan implan, serta rehabilitasi medik.\n• Rehabilitasi berupa alat bantu (orthose) dan/atau alat pengganti (prothese).",
+       "en": "• Health care according to medical necessity.\n• Includes diagnostic investigations, medical devices and implants, and medical rehabilitation.\n• Rehabilitation in the form of assistive devices (orthoses) and/or replacement devices (prostheses).",
+       "zh": "• 按医疗必要性提供医疗服务。\n• 包括辅助诊断检查、医疗器械与植入物以及医疗康复。\n• 康复包括辅助器具（矫形器）和/或替代器具（假肢）。",
+       "uz": "• Tibbiy zaruratga muvofiq tibbiy xizmat.\n• Yordamchi diagnostik tekshiruvlar, tibbiy buyumlar va implantlar hamda tibbiy reabilitatsiyani oʻz ichiga oladi.\n• Reabilitatsiya yordamchi vosita (ortez) va/yoki oʻrnini bosuvchi vosita (protez) shaklida."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "Permenaker 11/2016",
+       "en": "Permenaker 11/2016 (Minister of Manpower Regulation)",
+       "zh": "Permenaker 11/2016（劳工部长条例）",
+       "uz": "Permenaker 11/2016 (Mehnat vaziri qarori)"
+      },
+      "judul": {
+       "id": "Pelayanan kesehatan dan besaran tarif JKK",
+       "en": "JKK health services and tariff amounts",
+       "zh": "JKK 医疗服务及收费标准",
+       "uz": "JKK tibbiy xizmatlari va tarif miqdori"
+      },
+      "teks": {
+       "id": "• Pasal 2 ayat (2): daftar layanan, termasuk penunjang diagnostik, alat kesehatan dan implan, rehabilitasi medik.\n• Pasal 5–6: tarif mengacu kelas I RS pemerintah; besaran dan cara bayar disepakati dalam PKS.\n• Pasal 7: BPJS Ketenagakerjaan aktif mengendalikan mutu dan biaya.",
+       "en": "• Art. 2(2): list of services, including diagnostic investigations, medical devices and implants, and medical rehabilitation.\n• Arts. 5–6: tariffs refer to class I of government hospitals; amounts and payment method are agreed in the PKS.\n• Art. 7: BPJS Ketenagakerjaan actively controls quality and cost.",
+       "zh": "• 第2条第(2)款：服务清单，包括辅助诊断检查、医疗器械与植入物、医疗康复。\n• 第5–6条：收费参照政府医院一等病房标准；金额与支付方式在 PKS 中约定。\n• 第7条：BPJS Ketenagakerjaan 主动控制质量与费用。",
+       "uz": "• 2-modda (2)-band: xizmatlar roʻyxati, jumladan yordamchi diagnostik tekshiruvlar, tibbiy buyumlar va implantlar, tibbiy reabilitatsiya.\n• 5–6-moddalar: tarif davlat shifoxonalarining I toifasiga asoslanadi; miqdori va toʻlov usuli PKS da kelishiladi.\n• 7-modda: BPJS Ketenagakerjaan sifat va xarajatlarni faol nazorat qiladi."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "Perban BPJS Ketenagakerjaan 1/2024",
+       "en": "Perban BPJS Ketenagakerjaan 1/2024 (agency regulation)",
+       "zh": "Perban BPJS Ketenagakerjaan 1/2024（机构条例）",
+       "uz": "Perban BPJS Ketenagakerjaan 1/2024 (agentlik nizomi)"
+      },
+      "judul": {
+       "id": "Kerja sama dan pembayaran klaim faskes",
+       "en": "Cooperation with and claim payment to healthcare facilities",
+       "zh": "与医疗机构的合作及理赔支付",
+       "uz": "Tibbiy muassasalar bilan hamkorlik va daʼvo (klaim) toʻlovi"
+      },
+      "teks": {
+       "id": "• Berkas klaim memuat dokumen pendukung yang diperlukan (Pasal 12).\n• Pembayaran berdasarkan hasil verifikasi dan tarif dalam PKS (Pasal 16–17).\n• Dapat meminta ringkasan rekam medis (Pasal 18) dan melibatkan pihak ketiga menilai kesesuaian dengan pedoman praktik klinis (Pasal 22).",
+       "en": "• The claim file contains the required supporting documents (Art. 12).\n• Payment is based on the verification result and the tariff in the PKS (Arts. 16–17).\n• May request a medical record summary (Art. 18) and involve a third party to assess consistency with clinical practice guidelines (Art. 22).",
+       "zh": "• 理赔材料须包含所需的支持文件（第12条）。\n• 依据核查结果及 PKS 中的收费标准支付（第16–17条）。\n• 可索取病历摘要（第18条），并可委托第三方评估是否符合临床实践指南（第22条）。",
+       "uz": "• Daʼvo (klaim) hujjatlari zarur tasdiqlovchi hujjatlarni oʻz ichiga oladi (12-modda).\n• Toʻlov tekshiruv natijasi va PKS dagi tarif asosida amalga oshiriladi (16–17-moddalar).\n• Tibbiy yozuvlar xulosasini soʻrash (18-modda) va klinik amaliyot qoʻllanmalariga muvofiqlikni baholash uchun uchinchi tomonni jalb qilish mumkin (22-modda)."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "Permenaker 5/2021 jo. 1/2025",
+       "en": "Permenaker 5/2021 as amended by 1/2025",
+       "zh": "Permenaker 5/2021 及 1/2025",
+       "uz": "Permenaker 5/2021 va 1/2025"
+      },
+      "judul": {
+       "id": "Tata cara penyelenggaraan JKK",
+       "en": "Procedures for administering JKK",
+       "zh": "JKK 实施程序",
+       "uz": "JKK ni amalga oshirish tartibi"
+      },
+      "teks": {
+       "id": "• Laporan kecelakaan kerja tahap I dan tahap II.\n• Penetapan PAK memakai data medis: rekam medis, riwayat pekerjaan, hasil pemeriksaan (Pasal 121).\n• Pertimbangan medis dokter penasihat bila diperlukan.",
+       "en": "• Stage I and stage II work-accident reports.\n• Determination of PAK uses medical data: medical records, occupational history, examination results (Art. 121).\n• Medical opinion of an advisory physician when needed.",
+       "zh": "• 工伤事故第一阶段与第二阶段报告。\n• 认定 PAK 依据医疗资料：病历、职业史、检查结果（第121条）。\n• 必要时由顾问医生提供医学意见。",
+       "uz": "• Ishlab chiqarishdagi baxtsiz hodisa haqida I va II bosqich hisobotlari.\n• PAK ni belgilashda tibbiy maʼlumotlardan foydalaniladi: tibbiy yozuvlar, ish tarixi, tekshiruv natijalari (121-modda).\n• Zarur boʻlganda maslahatchi shifokorning tibbiy fikri."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber: PP 44/2015, PP 82/2019, PP 49/2023 · Permenaker 11/2016 · Permenaker 5/2021 dan perubahannya (Permenaker 1/2025) · Perban BPJS Ketenagakerjaan 1/2024. Cocokkan pasal dengan salinan resmi.",
+     "en": "Sources: PP 44/2015, PP 82/2019, PP 49/2023 · Permenaker 11/2016 · Permenaker 5/2021 and its amendment (Permenaker 1/2025) · Perban BPJS Ketenagakerjaan 1/2024. Check article numbers against the official copies.",
+     "zh": "来源：PP 44/2015、PP 82/2019、PP 49/2023 · Permenaker 11/2016 · Permenaker 5/2021 及其修订（Permenaker 1/2025）· Perban BPJS Ketenagakerjaan 1/2024。条款编号请与官方文本核对。",
+     "uz": "Manbalar: PP 44/2015, PP 82/2019, PP 49/2023 · Permenaker 11/2016 · Permenaker 5/2021 va unga oʻzgartirish (Permenaker 1/2025) · Perban BPJS Ketenagakerjaan 1/2024. Modda raqamlarini rasmiy matn bilan solishtiring."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 6,
+  "id": "alur-klaim-faskes",
+  "kicker": {
+   "id": "KONSEP · ALUR KLAIM",
+   "en": "CONCEPT · CLAIM FLOW",
+   "zh": "概念 · 理赔流程",
+   "uz": "TUSHUNCHA · DAʼVO JARAYONI"
+  },
+  "judul": {
+   "id": "Alur klaim faskes dan titik verifikasi",
+   "en": "Healthcare facility claim flow and the verification point",
+   "zh": "医疗机构理赔流程与核查节点",
+   "uz": "Tibbiy muassasa daʼvosi (klaim) jarayoni va tekshiruv nuqtasi"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": {
+       "id": "1",
+       "en": "1",
+       "zh": "1",
+       "uz": "1"
+      },
+      "judul": {
+       "id": "Kelayakan",
+       "en": "Eligibility",
+       "zh": "资格确认",
+       "uz": "Yaroqlilik"
+      },
+      "teks": {
+       "id": "Laporan tahap I diterima; surat kelayakan pelayanan terbit (Pasal 10).",
+       "en": "Stage I report received; service eligibility letter issued (Art. 10).",
+       "zh": "收到第一阶段报告；签发服务资格函（第10条）。",
+       "uz": "I bosqich hisoboti qabul qilinadi; xizmatga yaroqlilik xati beriladi (10-modda)."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "2",
+       "en": "2",
+       "zh": "2",
+       "uz": "2"
+      },
+      "judul": {
+       "id": "Pelayanan",
+       "en": "Care",
+       "zh": "医疗服务",
+       "uz": "Xizmat koʻrsatish"
+      },
+      "teks": {
+       "id": "Peserta dirawat di faskes kerja sama (PLKK) sesuai kebutuhan medis.",
+       "en": "The participant is treated at a partner facility (PLKK) according to medical necessity.",
+       "zh": "参保人在合作医疗机构（PLKK）按医疗必要性接受治疗。",
+       "uz": "Ishtirokchi hamkor tibbiy muassasada (PLKK) tibbiy zaruratga koʻra davolanadi."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "3",
+       "en": "3",
+       "zh": "3",
+       "uz": "3"
+      },
+      "judul": {
+       "id": "Penagihan",
+       "en": "Billing",
+       "zh": "申报收费",
+       "uz": "Hisob taqdim etish"
+      },
+      "teks": {
+       "id": "Kolektif 1× sebulan, paling lambat tanggal 10 bulan berikutnya (Pasal 11).",
+       "en": "Collectively once a month, no later than the 10th of the following month (Art. 11).",
+       "zh": "每月集中申报1次，最迟于次月10日（第11条）。",
+       "uz": "Oyiga 1 marta jamlangan holda, keyingi oyning 10-sanasidan kechiktirmay (11-modda)."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "4 · TITIK VERIFIKASI",
+       "en": "4 · VERIFICATION POINT",
+       "zh": "4 · 核查节点",
+       "uz": "4 · TEKSHIRUV NUQTASI"
+      },
+      "judul": {
+       "id": "Verifikasi",
+       "en": "Verification",
+       "zh": "核查",
+       "uz": "Tekshiruv (verifikatsiya)"
+      },
+      "teks": {
+       "id": "Kelengkapan dan kesesuaian, ≤7 hari kerja; perbaikan oleh faskes ≤2 hari kerja (Pasal 13–14).",
+       "en": "Completeness and consistency, ≤7 working days; corrections by the facility ≤2 working days (Arts. 13–14).",
+       "zh": "审核完整性与一致性，≤7个工作日；医疗机构补正≤2个工作日（第13–14条）。",
+       "uz": "Toʻliqlik va muvofiqlik, ≤7 ish kuni; tibbiy muassasa tomonidan tuzatish ≤2 ish kuni (13–14-moddalar)."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "5",
+       "en": "5",
+       "zh": "5",
+       "uz": "5"
+      },
+      "judul": {
+       "id": "Pembayaran",
+       "en": "Payment",
+       "zh": "支付",
+       "uz": "Toʻlov"
+      },
+      "teks": {
+       "id": "Sesuai tarif PKS, ≤7 hari kerja setelah dinyatakan lengkap dan benar (Pasal 16–17).",
+       "en": "According to the PKS tariff, ≤7 working days after being declared complete and correct (Arts. 16–17).",
+       "zh": "按 PKS 收费标准，在确认完整且正确后≤7个工作日内支付（第16–17条）。",
+       "uz": "PKS tarifiga muvofiq, toʻliq va toʻgʻri deb topilgandan soʻng ≤7 ish kuni ichida (16–17-moddalar)."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Di langkah 4: yang lazim diperiksa untuk alkes dan penunjang",
+     "en": "At step 4: what is usually checked for devices and investigations",
+     "zh": "第4步：器械与辅助检查通常核查的内容",
+     "uz": "4-qadamda: tibbiy buyumlar va yordamchi tekshiruvlar uchun odatda tekshiriladigan narsalar"
+    },
+    "butir": [
+     {
+      "id": "Resume medis dan diagnosis; laporan operasi",
+      "en": "Medical summary and diagnosis; operative report",
+      "zh": "出院小结与诊断；手术记录",
+      "uz": "Tibbiy xulosa va tashxis; operatsiya bayonnomasi"
+     },
+     {
+      "id": "Label atau stiker implan; USG, rontgen pascaoperasi",
+      "en": "Implant label or sticker; ultrasound, postoperative radiograph",
+      "zh": "植入物标签或贴纸；超声、术后X线片",
+      "uz": "Implant yorligʻi yoki stikeri; UTT, operatsiyadan keyingi rentgen"
+     },
+     {
+      "id": "Hasil dan ekspertise penunjang; resep alat bantu; rincian biaya",
+      "en": "Investigation results and specialist reports; prescription for assistive devices; itemised bill",
+      "zh": "辅助检查结果及专科报告；辅助器具处方；费用明细",
+      "uz": "Yordamchi tekshiruv natijalari va mutaxassis xulosasi; yordamchi vosita retsepti; xarajatlar tafsiloti"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Perban 1/2024 hanya menyebut “dokumen pendukung lainnya yang diperlukan”; rinciannya mengikuti PKS dan praktik verifikasi.",
+     "en": "Perban 1/2024 only mentions “other required supporting documents”; the details follow the PKS and verification practice.",
+     "zh": "Perban 1/2024 仅提及“所需的其他支持文件”；具体内容依照 PKS 及核查惯例。",
+     "uz": "Perban 1/2024 faqat “zarur boshqa tasdiqlovchi hujjatlar” deb aytadi; tafsilotlar PKS va tekshiruv amaliyotiga koʻra belgilanadi."
+    }
+   },
+   {
+    "tipe": "angka",
+    "item": [
+     {
+      "nilai": "6",
+      "label": {
+       "id": "bulan · batas waktu pengajuan klaim",
+       "en": "months · claim submission time limit",
+       "zh": "个月 · 理赔提交时限",
+       "uz": "oy · daʼvo (klaim) topshirish muddati"
+      },
+      "teks": {
+       "id": "Klaim kedaluwarsa bila diajukan lewat 6 bulan sejak pelayanan selesai (Pasal 15). BPJS dapat meminta ringkasan rekam medis (Pasal 18).",
+       "en": "A claim expires if submitted more than 6 months after care is completed (Art. 15). BPJS may request a medical record summary (Art. 18).",
+       "zh": "服务结束后超过6个月提交的理赔即失效（第15条）。BPJS 可索取病历摘要（第18条）。",
+       "uz": "Xizmat tugaganidan keyin 6 oydan kech topshirilgan daʼvo (klaim) muddati oʻtgan hisoblanadi (15-modda). BPJS tibbiy yozuvlar xulosasini soʻrashi mumkin (18-modda)."
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber: Perban BPJS Ketenagakerjaan 1/2024 tentang tata cara kerja sama dan pembayaran klaim fasilitas pelayanan kesehatan (Pasal 10–18). PLKK = Pusat Layanan Kecelakaan Kerja.",
+     "en": "Source: Perban BPJS Ketenagakerjaan 1/2024 on procedures for cooperation and claim payment to healthcare facilities (Arts. 10–18). PLKK = Work Accident Service Centre.",
+     "zh": "来源：Perban BPJS Ketenagakerjaan 1/2024《医疗机构合作及理赔支付程序》（第10–18条）。PLKK = 工伤服务中心。",
+     "uz": "Manba: Perban BPJS Ketenagakerjaan 1/2024 — tibbiy muassasalar bilan hamkorlik va daʼvo (klaim) toʻlovi tartibi (10–18-moddalar). PLKK = Ishlab chiqarishdagi baxtsiz hodisalar xizmat markazi."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 7,
+  "id": "lima-kesesuaian",
+  "kicker": {
+   "id": "KONSEP · KERANGKA KERJA",
+   "en": "CONCEPT · FRAMEWORK",
+   "zh": "概念 · 框架",
+   "uz": "TUSHUNCHA · ISH DOIRASI"
+  },
+  "judul": {
+   "id": "Lima kesesuaian yang diperiksa",
+   "en": "Five points of consistency to check",
+   "zh": "需核查的五项一致性",
+   "uz": "Tekshiriladigan beshta muvofiqlik"
+  },
+  "pesan": {
+   "id": "Satu titik tidak cocok berarti klarifikasi dulu, bukan otomatis ditolak.",
+   "en": "One mismatch means clarify first, not automatic rejection.",
+   "zh": "任何一点不吻合，意味着先澄清，而不是自动拒付。",
+   "uz": "Bitta nuqtada nomuvofiqlik — avval aniqlik kiritish demak, avtomatik rad etish emas."
+  },
+  "blok": [
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": {
+       "id": "01",
+       "en": "01",
+       "zh": "01",
+       "uz": "01"
+      },
+      "judul": {
+       "id": "Kasus",
+       "en": "Case",
+       "zh": "病例",
+       "uz": "Holat"
+      },
+      "teks": {
+       "id": "**Apakah ini kasus JKK atau PAK yang dijamin?**\nKronologi cocok dengan pola cedera, misalnya jatuh dari ketinggian dengan fraktur kalkaneus.\n**Bukti: **Laporan tahap I, kronologi",
+       "en": "**Is this a covered JKK or PAK case?**\nThe chronology matches the injury pattern, e.g. a fall from height with a calcaneal fracture.\n**Evidence: **Stage I report, chronology",
+       "zh": "**这是否属于承保范围的 JKK 或 PAK 病例？**\n事故经过与损伤类型吻合，例如高处坠落伴跟骨骨折。\n**证据：**第一阶段报告、事故经过",
+       "uz": "**Bu kafolatlangan JKK yoki PAK holatimi?**\nVoqea xronologiyasi jarohat shakliga mos, masalan balandlikdan yiqilish va tovon suyagi sinishi.\n**Dalil: **I bosqich hisoboti, xronologiya"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "02",
+       "en": "02",
+       "zh": "02",
+       "uz": "02"
+      },
+      "judul": {
+       "id": "Indikasi",
+       "en": "Indication",
+       "zh": "适应证",
+       "uz": "Koʻrsatma"
+      },
+      "teks": {
+       "id": "**Mengapa alat atau pemeriksaan ini diperlukan?**\nDiagnosis dan temuan klinis tercatat sebelum pemeriksaan atau tindakan.\n**Bukti: **Resume medis, catatan IGD",
+       "en": "**Why is this device or investigation needed?**\nDiagnosis and clinical findings are documented before the investigation or procedure.\n**Evidence: **Medical summary, ED notes",
+       "zh": "**为何需要该器械或检查？**\n诊断与临床发现在检查或操作之前已有记录。\n**证据：**出院小结、急诊记录",
+       "uz": "**Nima uchun bu buyum yoki tekshiruv kerak?**\nTashxis va klinik topilmalar tekshiruv yoki muolajadan oldin qayd etilgan.\n**Dalil: **Tibbiy xulosa, shoshilinch boʻlim yozuvlari"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "03",
+       "en": "03",
+       "zh": "03",
+       "uz": "03"
+      },
+      "judul": {
+       "id": "Kecocokan",
+       "en": "Fit",
+       "zh": "匹配",
+       "uz": "Moslik"
+      },
+      "teks": {
+       "id": "**Apakah jenisnya sesuai lokasi dan pola cedera?**\nFiksasi dan pencitraan sesuai lokasi, pola fraktur, dan kondisi jaringan lunak.\n**Bukti: **Laporan operasi, ekspertise",
+       "en": "**Does the type fit the location and pattern of the injury?**\nFixation and imaging fit the location, fracture pattern, and soft-tissue condition.\n**Evidence: **Operative report, specialist report",
+       "zh": "**其类型是否与损伤部位和类型相符？**\n固定方式和影像检查与部位、骨折类型及软组织状况相符。\n**证据：**手术记录、专科报告",
+       "uz": "**Turi jarohat joyi va shakliga mosmi?**\nFiksatsiya va tasvirlash joy, sinish shakli va yumshoq toʻqimalar holatiga mos.\n**Dalil: **Operatsiya bayonnomasi, mutaxassis xulosasi"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "04",
+       "en": "04",
+       "zh": "04",
+       "uz": "04"
+      },
+      "judul": {
+       "id": "Bukti",
+       "en": "Evidence",
+       "zh": "证据",
+       "uz": "Dalil"
+      },
+      "teks": {
+       "id": "**Apakah semua bukti saling cocok?**\nLaporan operasi, label implan, USG, dan rontgen pascaoperasi menyebut hal yang sama.\n**Bukti: **Label implan, rontgen",
+       "en": "**Is all the evidence consistent?**\nThe operative report, implant label, ultrasound, and postoperative radiograph state the same thing.\n**Evidence: **Implant label, radiograph",
+       "zh": "**所有证据是否相互吻合？**\n手术记录、植入物标签、超声和术后X线片所示内容一致。\n**证据：**植入物标签、X线片",
+       "uz": "**Barcha dalillar bir-biriga mosmi?**\nOperatsiya bayonnomasi, implant yorligʻi, UTT va operatsiyadan keyingi rentgen bir xil narsani koʻrsatadi.\n**Dalil: **Implant yorligʻi, rentgen"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "05",
+       "en": "05",
+       "zh": "05",
+       "uz": "05"
+      },
+      "judul": {
+       "id": "Tarif",
+       "en": "Tariff",
+       "zh": "收费",
+       "uz": "Tarif"
+      },
+      "teks": {
+       "id": "**Apakah tagihan sesuai PKS?**\nItem, satuan, jumlah, dan harga sesuai kesepakatan; tidak ganda dengan paket.\n**Bukti: **Rincian biaya, PKS",
+       "en": "**Does the bill match the PKS?**\nItems, units, quantities, and prices match the agreement; no double billing with a package.\n**Evidence: **Itemised bill, PKS",
+       "zh": "**收费是否符合 PKS？**\n项目、单位、数量与价格符合约定；不与打包收费重复。\n**证据：**费用明细、PKS",
+       "uz": "**Hisob PKS ga mosmi?**\nBandlar, birlik, miqdor va narx kelishuvga mos; paket bilan ikki marta hisoblanmagan.\n**Dalil: **Xarajatlar tafsiloti, PKS"
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Kerangka ini sintesis penulis untuk edukasi, bukan istilah resmi regulasi. Sumber: sintesis penulis dari Permenaker 11/2016, Perban BPJS Ketenagakerjaan 1/2024, dan infografik dokter (empat syarat klaim JKK pada deck ACL).",
+     "en": "This framework is the author's synthesis for teaching, not an official regulatory term. Source: author's synthesis from Permenaker 11/2016, Perban BPJS Ketenagakerjaan 1/2024, and physician infographics (four JKK claim requirements in the ACL deck).",
+     "zh": "此框架为作者为教学所作的归纳，并非法规正式术语。来源：作者依据 Permenaker 11/2016、Perban BPJS Ketenagakerjaan 1/2024 及医生信息图（ACL 讲义中 JKK 理赔的四项条件）归纳。",
+     "uz": "Bu doira muallifning taʼlim uchun umumlashmasi, rasmiy meʼyoriy atama emas. Manba: Permenaker 11/2016, Perban BPJS Ketenagakerjaan 1/2024 va shifokor infografikalari (ACL taqdimotidagi JKK daʼvosining toʻrt sharti) asosida muallif umumlashmasi."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 8,
+  "id": "rantai-dokumen",
+  "kicker": {
+   "id": "KONSEP · DOKUMEN",
+   "en": "CONCEPT · DOCUMENTS",
+   "zh": "概念 · 文件",
+   "uz": "TUSHUNCHA · HUJJATLAR"
+  },
+  "judul": {
+   "id": "Rantai dokumen: apa membuktikan apa",
+   "en": "The document chain: what proves what",
+   "zh": "文件链：什么证明什么",
+   "uz": "Hujjatlar zanjiri: nima nimani isbotlaydi"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Dokumen",
+      "en": "Document",
+      "zh": "文件",
+      "uz": "Hujjat"
+     },
+     {
+      "id": "Yang dibuktikan",
+      "en": "What it proves",
+      "zh": "证明内容",
+      "uz": "Nimani isbotlaydi"
+     },
+     {
+      "id": "Yang dicek",
+      "en": "What is checked",
+      "zh": "核查要点",
+      "uz": "Nima tekshiriladi"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Resume medis dan diagnosis (ICD-10)",
+       "en": "Medical summary and diagnosis (ICD-10)",
+       "zh": "出院小结与诊断（ICD-10）",
+       "uz": "Tibbiy xulosa va tashxis (ICD-10)"
+      },
+      {
+       "id": "Cedera dan lokasinya",
+       "en": "The injury and its location",
+       "zh": "损伤及其部位",
+       "uz": "Jarohat va uning joyi"
+      },
+      {
+       "id": "Regio dan sisi kanan/kiri; cocok dengan kronologi kejadian",
+       "en": "Region and right/left side; consistent with the chronology of the event",
+       "zh": "部位及左右侧；与事故经过相符",
+       "uz": "Soha va oʻng/chap tomon; voqea xronologiyasiga mos"
+      }
+     ],
+     [
+      {
+       "id": "Hasil dan ekspertise penunjang",
+       "en": "Investigation results and specialist reports",
+       "zh": "辅助检查结果及专科报告",
+       "uz": "Yordamchi tekshiruv natijalari va mutaxassis xulosasi"
+      },
+      {
+       "id": "Temuan objektif",
+       "en": "Objective findings",
+       "zh": "客观发现",
+       "uz": "Obyektiv topilmalar"
+      },
+      {
+       "id": "Tanggal, regio, jumlah proyeksi; dibaca dan ditandatangani",
+       "en": "Date, region, number of views; read and signed",
+       "zh": "日期、部位、投照体位数；已阅片并签名",
+       "uz": "Sana, soha, proyeksiyalar soni; oʻqilgan va imzolangan"
+      }
+     ],
+     [
+      {
+       "id": "Laporan operasi (ICD-9-CM)",
+       "en": "Operative report (ICD-9-CM)",
+       "zh": "手术记录（ICD-9-CM）",
+       "uz": "Operatsiya bayonnomasi (ICD-9-CM)"
+      },
+      {
+       "id": "Tindakan dan implan terpasang",
+       "en": "Procedure and implants placed",
+       "zh": "所行操作及已置入的植入物",
+       "uz": "Muolaja va oʻrnatilgan implantlar"
+      },
+      {
+       "id": "Jenis, ukuran, jumlah implan; tindakan tambahan; implan yang diganti",
+       "en": "Type, size, number of implants; additional procedures; implants replaced",
+       "zh": "植入物类型、尺寸、数量；附加操作；更换的植入物",
+       "uz": "Implant turi, oʻlchami, soni; qoʻshimcha muolajalar; almashtirilgan implantlar"
+      }
+     ],
+     [
+      {
+       "id": "Label atau stiker implan",
+       "en": "Implant label or sticker",
+       "zh": "植入物标签或贴纸",
+       "uz": "Implant yorligʻi yoki stikeri"
+      },
+      {
+       "id": "Identitas produk",
+       "en": "Product identity",
+       "zh": "产品身份信息",
+       "uz": "Mahsulot identifikatsiyasi"
+      },
+      {
+       "id": "Nama produk, nomor katalog atau lot, nomor izin edar AKD/AKL",
+       "en": "Product name, catalogue or lot number, AKD/AKL marketing authorisation number",
+       "zh": "产品名称、目录号或批号、AKD/AKL 上市许可证号",
+       "uz": "Mahsulot nomi, katalog yoki partiya raqami, AKD/AKL roʻyxatdan oʻtganlik ruxsatnomasi raqami"
+      }
+     ],
+     [
+      {
+       "id": "USG, rontgen pascaoperasi",
+       "en": "Ultrasound, postoperative radiograph",
+       "zh": "超声、术后X线片",
+       "uz": "UTT, operatsiyadan keyingi rentgen"
+      },
+      {
+       "id": "Implan benar-benar terpasang",
+       "en": "The implant was actually placed",
+       "zh": "植入物确已置入",
+       "uz": "Implant haqiqatan oʻrnatilgan"
+      },
+      {
+       "id": "Jumlah dan posisi plate, screw, nail, atau kawat",
+       "en": "Number and position of plates, screws, nails, or wires",
+       "zh": "接骨板、螺钉、髓内钉或钢丝的数量与位置",
+       "uz": "Plastina, vint, mix yoki simlarning soni va joylashuvi"
+      }
+     ],
+     [
+      {
+       "id": "Resep atau instruksi alat bantu",
+       "en": "Prescription or order for assistive devices",
+       "zh": "辅助器具处方或医嘱",
+       "uz": "Yordamchi vosita retsepti yoki koʻrsatmasi"
+      },
+      {
+       "id": "Kebutuhan alat bantu",
+       "en": "Need for assistive devices",
+       "zh": "辅助器具需求",
+       "uz": "Yordamchi vositaga ehtiyoj"
+      },
+      {
+       "id": "Jenis alat, sisi, status menapak, lama pemakaian",
+       "en": "Type of device, side, weight-bearing status, duration of use",
+       "zh": "器具类型、侧别、负重状态、使用时长",
+       "uz": "Vosita turi, tomoni, oyoqqa yuklama holati, foydalanish muddati"
+      }
+     ],
+     [
+      {
+       "id": "Rincian biaya",
+       "en": "Itemised bill",
+       "zh": "费用明细",
+       "uz": "Xarajatlar tafsiloti"
+      },
+      {
+       "id": "Apa yang ditagihkan",
+       "en": "What is billed",
+       "zh": "申报了哪些费用",
+       "uz": "Nima hisobga qoʻyilgan"
+      },
+      {
+       "id": "Item, satuan, jumlah, harga sesuai PKS",
+       "en": "Items, units, quantities, prices according to the PKS",
+       "zh": "项目、单位、数量、价格符合 PKS",
+       "uz": "Bandlar, birlik, miqdor, narx PKS ga muvofiq"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": {
+     "id": "Prinsip ketertelusuran",
+     "en": "Traceability principle",
+     "zh": "可追溯原则",
+     "uz": "Kuzatuvchanlik tamoyili"
+    },
+    "teks": {
+     "id": "Setiap item tagihan dapat ditunjuk dokumen asalnya. Bila satu mata rantai tidak ada, tanyakan dulu sebelum menyimpulkan; dokumen bisa tertinggal, bukan berarti layanan tidak diberikan.",
+     "en": "Every billed item can be traced to its source document. If one link in the chain is missing, ask first before drawing conclusions; a document may have been left out, which does not mean the service was not provided.",
+     "zh": "每一项收费都能指出其来源文件。如缺少某一环节，先询问再下结论；文件可能遗漏，并不意味着未提供服务。",
+     "uz": "Hisobdagi har bir band uchun manba hujjatni koʻrsatish mumkin. Zanjirning bir halqasi yoʻq boʻlsa, xulosa chiqarishdan oldin soʻrang; hujjat qolib ketgan boʻlishi mumkin, bu xizmat koʻrsatilmagan degani emas."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber: sintesis penulis; Perban BPJS Ketenagakerjaan 1/2024 Pasal 12 dan 18 (dokumen pendukung, ringkasan rekam medis). AKD/AKL: kode izin edar Kemenkes.",
+     "en": "Source: author's synthesis; Perban BPJS Ketenagakerjaan 1/2024 Arts. 12 and 18 (supporting documents, medical record summary). AKD/AKL: Indonesian Ministry of Health (Kemenkes) marketing authorisation codes.",
+     "zh": "来源：作者归纳；Perban BPJS Ketenagakerjaan 1/2024 第12条和第18条（支持文件、病历摘要）。AKD/AKL：印尼卫生部（Kemenkes）上市许可编码。",
+     "uz": "Manba: muallif umumlashmasi; Perban BPJS Ketenagakerjaan 1/2024, 12 va 18-moddalar (tasdiqlovchi hujjatlar, tibbiy yozuvlar xulosasi). AKD/AKL: Indoneziya Sogʻliqni saqlash vazirligi (Kemenkes) roʻyxatdan oʻtkazish kodlari."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 9,
+  "id": "istilah-fraktur-dislokasi",
+  "kicker": {
+   "id": "DASAR KLINIS · ISTILAH",
+   "en": "CLINICAL BASICS · TERMINOLOGY",
+   "zh": "临床基础 · 术语",
+   "uz": "KLINIK ASOSLAR · ATAMALAR"
+  },
+  "judul": {
+   "id": "Fraktur dan dislokasi: istilah yang menentukan alat",
+   "en": "Fractures and dislocations: terms that determine the device",
+   "zh": "骨折与脱位：决定器械选择的术语",
+   "uz": "Sinish va chiqish: buyumni belgilovchi atamalar"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Apa itu fraktur?",
+     "en": "What is a fracture?",
+     "zh": "什么是骨折？",
+     "uz": "Sinish nima?"
+    },
+    "teks": {
+     "id": "Terputusnya kesinambungan tulang, mulai dari retak hingga patah lengkap.",
+     "en": "A break in the continuity of bone, ranging from a crack to a complete break.",
+     "zh": "骨的连续性中断，从裂纹到完全断裂。",
+     "uz": "Suyak yaxlitligining uzilishi — darzdan toʻliq sinishgacha."
+    }
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Dislokasi",
+       "en": "Dislocation",
+       "zh": "脱位",
+       "uz": "Chiqish (dislokatsiya)"
+      },
+      "teks": {
+       "id": "Permukaan sendi bergeser seluruhnya, tidak lagi berkontak.",
+       "en": "The joint surfaces are completely displaced and no longer in contact.",
+       "zh": "关节面完全移位，不再相互接触。",
+       "uz": "Boʻgʻim yuzalari toʻliq siljigan, endi bir-biriga tegmaydi."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Subluksasi",
+       "en": "Subluxation",
+       "zh": "半脱位",
+       "uz": "Yarim chiqish (subluksatsiya)"
+      },
+      "teks": {
+       "id": "Bergeser sebagian; sebagian permukaan masih berkontak.",
+       "en": "Partially displaced; part of the surfaces is still in contact.",
+       "zh": "部分移位；部分关节面仍相互接触。",
+       "uz": "Qisman siljigan; yuzalarning bir qismi hali tegib turadi."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "Keduanya dapat disertai fraktur.",
+     "en": "Both may be accompanied by a fracture.",
+     "zh": "两者均可合并骨折。",
+     "uz": "Ikkalasi ham sinish bilan birga kechishi mumkin."
+    }
+   },
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Ciri",
+      "en": "Feature",
+      "zh": "特征",
+      "uz": "Belgi"
+     },
+     {
+      "id": "Kategori",
+      "en": "Category",
+      "zh": "分类",
+      "uz": "Toifa"
+     },
+     {
+      "id": "Arti untuk verifikasi",
+      "en": "Meaning for verification",
+      "zh": "对核查的意义",
+      "uz": "Tekshiruv uchun ahamiyati"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Luka",
+       "en": "Wound",
+       "zh": "伤口",
+       "uz": "Jarohat (yara)"
+      },
+      {
+       "id": "Tertutup · terbuka (berhubungan dengan luka ke luar)",
+       "en": "Closed · open (communicating with the outside through a wound)",
+       "zh": "闭合性 · 开放性（经伤口与外界相通）",
+       "uz": "Yopiq · ochiq (yara orqali tashqi muhit bilan tutashgan)"
+      },
+      {
+       "id": "Fraktur terbuka sering ditangani bertahap; lebih dari satu tindakan dan alat dapat wajar",
+       "en": "Open fractures are often managed in stages; more than one procedure and device may be justified",
+       "zh": "开放性骨折常分期处理；多于一次操作和一套器械可属合理",
+       "uz": "Ochiq sinishlar koʻpincha bosqichma-bosqich davolanadi; bittadan ortiq muolaja va buyum oʻrinli boʻlishi mumkin"
+      }
+     ],
+     [
+      {
+       "id": "Kelengkapan",
+       "en": "Completeness",
+       "zh": "完整性",
+       "uz": "Toʻliqlik"
+      },
+      {
+       "id": "Lengkap · tidak lengkap (greenstick, torus pada anak)",
+       "en": "Complete · incomplete (greenstick, torus in children)",
+       "zh": "完全性 · 不完全性（儿童青枝骨折、隆突骨折）",
+       "uz": "Toʻliq · toʻliq boʻlmagan (bolalarda «yashil novda» (greenstick), torus)"
+      },
+      {
+       "id": "Fraktur tidak lengkap umumnya ditangani tanpa implan",
+       "en": "Incomplete fractures are generally managed without implants",
+       "zh": "不完全性骨折一般无需植入物治疗",
+       "uz": "Toʻliq boʻlmagan sinishlar odatda implantsiz davolanadi"
+      }
+     ],
+     [
+      {
+       "id": "Pola",
+       "en": "Pattern",
+       "zh": "类型",
+       "uz": "Shakl"
+      },
+      {
+       "id": "Transversal, oblik, spiral, kominutif, segmental, impaksi",
+       "en": "Transverse, oblique, spiral, comminuted, segmental, impacted",
+       "zh": "横形、斜形、螺旋形、粉碎性、多段性、嵌插性",
+       "uz": "Koʻndalang, qiyshiq, spiral, parchalangan, segmentar, impaksiyalangan"
+      },
+      {
+       "id": "Pola menentukan jenis fiksasi dan perkiraan waktu menyatu",
+       "en": "The pattern determines the type of fixation and the expected time to union",
+       "zh": "类型决定固定方式及预计愈合时间",
+       "uz": "Shakl fiksatsiya turini va bitish muddatini belgilaydi"
+      }
+     ],
+     [
+      {
+       "id": "Penyebab",
+       "en": "Cause",
+       "zh": "原因",
+       "uz": "Sabab"
+      },
+      {
+       "id": "Trauma · stres (beban berulang) · patologis",
+       "en": "Trauma · stress (repetitive loading) · pathological",
+       "zh": "创伤性 · 应力性（反复负荷）· 病理性",
+       "uz": "Travmatik · stress (takroriy yuklama) · patologik"
+      },
+      {
+       "id": "Fraktur stres atau patologis perlu ditelusuri hubungannya dengan pekerjaan",
+       "en": "For stress or pathological fractures, the link with work needs to be traced",
+       "zh": "应力性或病理性骨折需追溯其与工作的关联",
+       "uz": "Stress yoki patologik sinishlarda ish bilan bogʻliqligini aniqlash kerak"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": null,
+    "teks": {
+     "id": "Satu fraktur dapat memiliki beberapa ciri sekaligus, misalnya terbuka, lengkap, dan kominutif.",
+     "en": "A single fracture can have several features at once, e.g. open, complete, and comminuted.",
+     "zh": "一处骨折可同时具有多种特征，例如开放性、完全性和粉碎性。",
+     "uz": "Bitta sinish bir vaqtning oʻzida bir nechta belgiga ega boʻlishi mumkin, masalan ochiq, toʻliq va parchalangan."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber: infografik Kegawatan Ortopedi (Apley & Solomon's System of Orthopaedics and Trauma, edisi ke-10, Bab 23). Kolom “arti untuk verifikasi” tambahan penulis.",
+     "en": "Source: Orthopaedic Emergencies infographic (Apley & Solomon's System of Orthopaedics and Trauma, 10th edition, Chapter 23). The “meaning for verification” column was added by the author.",
+     "zh": "来源：骨科急症信息图（Apley & Solomon's System of Orthopaedics and Trauma，第10版，第23章）。“对核查的意义”一栏为作者补充。",
+     "uz": "Manba: Ortopedik shoshilinch holatlar infografikasi (Apley & Solomon's System of Orthopaedics and Trauma, 10-nashr, 23-bob). “Tekshiruv uchun ahamiyati” ustuni muallif tomonidan qoʻshilgan."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 10,
+  "id": "empat-kegawatan",
+  "kicker": {
+   "id": "DASAR KLINIS · KEGAWATAN",
+   "en": "CLINICAL BASICS · EMERGENCIES",
+   "zh": "临床基础 · 急症",
+   "uz": "KLINIK ASOSLAR · SHOSHILINCH HOLATLAR"
+  },
+  "judul": {
+   "id": "Empat kegawatan: penunjang yang wajar",
+   "en": "Four emergencies: appropriate investigations",
+   "zh": "四种急症：合理的辅助检查",
+   "uz": "Toʻrtta shoshilinch holat: oʻrinli yordamchi tekshiruvlar"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Fraktur terbuka",
+       "en": "Open fracture",
+       "zh": "开放性骨折",
+       "uz": "Ochiq sinish"
+      },
+      "teks": {
+       "id": "Patahan berhubungan dengan luar melalui luka.\n**Penunjang:** Rontgen dua proyeksi; di RS antibiotik segera, status tetanus, debridemen, stabilisasi.\n**Verifikasi:** Tindakan bertahap wajar: fiksator eksternal dulu, fiksasi definitif kemudian.",
+       "en": "The fracture communicates with the outside through a wound.\n**Investigations:** Two-view radiographs; in hospital, immediate antibiotics, tetanus status, debridement, stabilisation.\n**Verification:** Staged treatment is justified: external fixator first, definitive fixation later.",
+       "zh": "骨折端经伤口与外界相通。\n**辅助检查：**两个体位X线片；入院后立即使用抗生素、确认破伤风免疫状态、清创、稳定。\n**核查：**分期处理属合理：先外固定架，后行确定性固定。",
+       "uz": "Sinish yara orqali tashqi muhit bilan tutashgan.\n**Yordamchi tekshiruvlar:** Ikki proyeksiyali rentgen; shifoxonada darhol antibiotik, qoqshol holati, debridment, stabilizatsiya.\n**Tekshiruv:** Bosqichma-bosqich davolash oʻrinli: avval tashqi fiksator, keyin yakuniy fiksatsiya."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Dislokasi akut",
+       "en": "Acute dislocation",
+       "zh": "急性脱位",
+       "uz": "Oʻtkir chiqish"
+      },
+      "teks": {
+       "id": "Permukaan sendi kehilangan kontak seluruhnya.\n**Penunjang:** Rontgen sebelum dan sesudah reposisi; periksa saraf dan pembuluh darah.\n**Verifikasi:** Dua rontgen regio sama di hari yang sama wajar bila ada reposisi di antaranya.",
+       "en": "The joint surfaces lose all contact.\n**Investigations:** Radiographs before and after reduction; check nerves and blood vessels.\n**Verification:** Two radiographs of the same region on the same day are justified if a reduction was performed in between.",
+       "zh": "关节面完全失去接触。\n**辅助检查：**复位前后均行X线检查；检查神经和血管。\n**核查：**如两次之间进行了复位，同日同部位两次X线检查属合理。",
+       "uz": "Boʻgʻim yuzalari bir-biri bilan aloqani butunlay yoʻqotadi.\n**Yordamchi tekshiruvlar:** Repozitsiyadan oldin va keyin rentgen; nervlar va qon tomirlarini tekshiring.\n**Tekshiruv:** Oraliqda repozitsiya bajarilgan boʻlsa, bir kunda bir sohaning ikki marta rentgeni oʻrinli."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Sindrom kompartemen",
+       "en": "Compartment syndrome",
+       "zh": "骨筋膜室综合征",
+       "uz": "Kompartment sindromi"
+      },
+      "teks": {
+       "id": "Tekanan dalam ruang otot meningkat.\n**Penunjang:** Diagnosis terutama klinis: nyeri hebat, kompartemen tegang, nyeri saat diregangkan pasif; nadi masih teraba.\n**Verifikasi:** Tidak adanya CT atau MRI bukan kekurangan berkas; fasciotomi adalah tindakan darurat.",
+       "en": "Raised pressure within a muscle compartment.\n**Investigations:** Diagnosis is mainly clinical: severe pain, a tense compartment, pain on passive stretch; pulses are still palpable.\n**Verification:** The absence of CT or MRI is not a deficiency in the file; fasciotomy is an emergency procedure.",
+       "zh": "肌肉间隔内压力升高。\n**辅助检查：**诊断主要依靠临床：剧痛、间隔张力高、被动牵拉痛；脉搏仍可触及。\n**核查：**缺少CT或MRI并非材料缺陷；筋膜切开术属急诊手术。",
+       "uz": "Mushak boʻlmasi ichidagi bosim oshgan.\n**Yordamchi tekshiruvlar:** Tashxis asosan klinik: kuchli ogʻriq, taranglashgan boʻlma, passiv choʻzishda ogʻriq; puls hali paypaslanadi.\n**Tekshiruv:** KT yoki MRT yoʻqligi hujjatlardagi kamchilik emas; fassiotomiya — shoshilinch muolaja."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Trauma vaskular",
+       "en": "Vascular trauma",
+       "zh": "血管损伤",
+       "uz": "Qon tomir jarohati"
+      },
+      "teks": {
+       "id": "Pembuluh robek, tertekan, atau tersumbat.\n**Penunjang:** Dingin, pucat, nadi lemah; CTA bersama rontgen sesuai pada dislokasi lutut atau trauma berat (ACR).\n**Verifikasi:** CT tanpa kontras tidak dapat menilai cedera pembuluh darah.",
+       "en": "A vessel is torn, compressed, or occluded.\n**Investigations:** Cold, pale, weak pulse; CTA together with radiographs is appropriate in knee dislocation or severe trauma (ACR).\n**Verification:** Non-contrast CT cannot assess vascular injury.",
+       "zh": "血管撕裂、受压或闭塞。\n**辅助检查：**肢体发凉、苍白、脉搏弱；膝关节脱位或严重创伤时，CTA 联合X线检查属适当（ACR）。\n**核查：**平扫CT无法评估血管损伤。",
+       "uz": "Qon tomir yirtilgan, ezilgan yoki tiqilib qolgan.\n**Yordamchi tekshiruvlar:** Sovuq, rangpar, puls zaif; tizza chiqishi yoki ogʻir jarohatda rentgen bilan birga KTA oʻrinli (ACR).\n**Tekshiruv:** Kontrastsiz KT qon tomir jarohatini baholay olmaydi."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": {
+     "id": "Pada kegawatan, tindakan tidak menunggu berkas.",
+     "en": "In emergencies, treatment does not wait for paperwork.",
+     "zh": "急症时，救治不等文件。",
+     "uz": "Shoshilinch holatda muolaja hujjatlarni kutmaydi."
+    },
+    "teks": {
+     "id": "Verifikasi dilakukan setelahnya, dengan membaca urutan waktu di catatan IGD dan kamar operasi.",
+     "en": "Verification is done afterwards, by reading the timeline in the emergency department and operating theatre records.",
+     "zh": "核查在事后进行，通过阅读急诊和手术室记录中的时间顺序完成。",
+     "uz": "Tekshiruv keyinroq, shoshilinch boʻlim va operatsiya xonasi yozuvlaridagi vaqt ketma-ketligini oʻqish orqali amalga oshiriladi."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber: infografik Kegawatan Ortopedi (Apley & Solomon edisi ke-10, Bab 23) · ACR Appropriateness Criteria Acute Trauma to the Knee, 2019 (Variant 7).",
+     "en": "Sources: Orthopaedic Emergencies infographic (Apley & Solomon, 10th edition, Chapter 23) · ACR Appropriateness Criteria Acute Trauma to the Knee, 2019 (Variant 7).",
+     "zh": "来源：骨科急症信息图（Apley & Solomon 第10版，第23章）· ACR Appropriateness Criteria Acute Trauma to the Knee，2019（Variant 7）。",
+     "uz": "Manbalar: Ortopedik shoshilinch holatlar infografikasi (Apley & Solomon, 10-nashr, 23-bob) · ACR Appropriateness Criteria Acute Trauma to the Knee, 2019 (Variant 7)."
+    }
+   }
+  ]
+ }
+]

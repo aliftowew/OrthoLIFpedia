@@ -1,0 +1,1835 @@
+[
+ {
+  "slide": 25,
+  "id": "kriteria-kembali-bertanding",
+  "kicker": {
+   "id": "FASE 6 · ≥ 9 BULAN",
+   "en": "PHASE 6 · ≥ 9 MONTHS",
+   "zh": "第6阶段 · ≥ 9个月",
+   "uz": "6-BOSQICH · ≥ 9 OY"
+  },
+  "judul": {
+   "id": "Kriteria Kembali Bertanding Tanpa Pembatasan",
+   "en": "Criteria for Unrestricted Return to Competition",
+   "zh": "无限制重返比赛的标准",
+   "uz": "Cheklovsiz musobaqaga qaytish mezonlari"
+  },
+  "pesan": {
+   "id": "8 kriteria, semua wajib",
+   "en": "8 criteria, all mandatory",
+   "zh": "8项标准，缺一不可",
+   "uz": "8 ta mezon, barchasi majburiy"
+  },
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Klinis",
+       "en": "Clinical",
+       "zh": "临床",
+       "uz": "Klinik"
+      },
+      "teks": {
+       "id": "Tanpa nyeri/bengkak, ROM penuh, lutut stabil",
+       "en": "No pain/swelling, full ROM, stable knee",
+       "zh": "无疼痛/肿胀，关节活动度（ROM）完全，膝关节稳定",
+       "uz": "Ogʻriq/shish yoʻq, ROM toʻliq, tizza barqaror"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Kekuatan isokinetik",
+       "en": "Isokinetic strength",
+       "zh": "等速肌力",
+       "uz": "Izokinetik kuch"
+      },
+      "teks": {
+       "id": "Quadriceps & hamstring 60°/s simetri ≥ 90%; 100% untuk olahraga pivot",
+       "en": "Quadriceps & hamstring at 60°/s: symmetry ≥ 90%; 100% for pivoting sports",
+       "zh": "股四头肌与腘绳肌 60°/s 对称性 ≥ 90%；变向/旋转类运动需达 100%",
+       "uz": "Kvadritseps va hamstring 60°/s da: simmetriya ≥ 90%; burilishli (pivot) sport turlari uchun 100%"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Lompatan",
+       "en": "Jumping",
+       "zh": "跳跃",
+       "uz": "Sakrash"
+      },
+      "teks": {
+       "id": "CMJ & drop jump > 90% simetri (tinggi & impuls)",
+       "en": "CMJ & drop jump > 90% symmetry (height & impulse)",
+       "zh": "CMJ 与跳深（drop jump）对称性 > 90%（高度与冲量）",
+       "uz": "CMJ va drop jump > 90% simmetriya (balandlik va impuls)"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Kekuatan reaktif",
+       "en": "Reactive strength",
+       "zh": "反应力量",
+       "uz": "Reaktiv kuch"
+      },
+      "teks": {
+       "id": "RSI > 1,3 (dua kaki), > 0,5 (satu kaki) pada atlet lapangan",
+       "en": "RSI > 1.3 (double-leg), > 0.5 (single-leg) in field-sport athletes",
+       "zh": "场地项目运动员：RSI > 1.3（双腿）、> 0.5（单腿）",
+       "uz": "Maydon sportchilarida RSI > 1,3 (ikki oyoq), > 0,5 (bir oyoq)"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Biomekanik",
+       "en": "Biomechanics",
+       "zh": "生物力学",
+       "uz": "Biomexanika"
+      },
+      "teks": {
+       "id": "Pola lompat & lari > 90% simetri",
+       "en": "Jumping & running patterns > 90% symmetry",
+       "zh": "跳跃与跑步模式对称性 > 90%",
+       "uz": "Sakrash va yugurish shakli > 90% simmetriya"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Psikologis",
+       "en": "Psychological",
+       "zh": "心理",
+       "uz": "Psixologik"
+      },
+      "teks": {
+       "id": "Kesiapan mental (ACL-RSI) & kinesiofobia (TSK) normal",
+       "en": "Normal psychological readiness (ACL-RSI) & kinesiophobia (TSK)",
+       "zh": "心理准备度（ACL-RSI）与运动恐惧（TSK）正常",
+       "uz": "Ruhiy tayyorgarlik (ACL-RSI) va kineziofobiya (TSK) meʼyorda"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Latihan olahraga",
+       "en": "Sport-specific training",
+       "zh": "专项运动训练",
+       "uz": "Sportga xos mashgʻulotlar"
+      },
+      "teks": {
+       "id": "Program spesifik olahraga selesai tanpa reaksi lutut",
+       "en": "Sport-specific programme completed without knee reaction",
+       "zh": "完成专项运动训练计划，膝关节无不良反应",
+       "uz": "Sportga xos dastur tizza reaksiyasisiz yakunlangan"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Waktu",
+       "en": "Time",
+       "zh": "时间",
+       "uz": "Vaqt"
+      },
+      "teks": {
+       "id": "Tidak lebih awal dari 9 bulan pasca-operasi",
+       "en": "No earlier than 9 months after surgery",
+       "zh": "术后不早于 9 个月",
+       "uz": "Operatsiyadan keyin 9 oydan erta emas"
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": null,
+    "teks": {
+     "id": "**Semua kriteria harus terpenuhi bersamaan.**",
+     "en": "**All criteria must be met simultaneously.**",
+     "zh": "**所有标准必须同时满足。**",
+     "uz": "**Barcha mezonlar bir vaqtda bajarilishi shart.**"
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki 2023 · [3] Grindem 2016 · [4] Kyritsis 2016 · [10] Webster 2008 · [17] Ardern 2016",
+     "en": "References: [1] Kotsifaki 2023 · [3] Grindem 2016 · [4] Kyritsis 2016 · [10] Webster 2008 · [17] Ardern 2016",
+     "zh": "参考文献：[1] Kotsifaki 2023 · [3] Grindem 2016 · [4] Kyritsis 2016 · [10] Webster 2008 · [17] Ardern 2016",
+     "uz": "Manbalar: [1] Kotsifaki 2023 · [3] Grindem 2016 · [4] Kyritsis 2016 · [10] Webster 2008 · [17] Ardern 2016"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 26,
+  "id": "boleh-berlari-vs-bertanding",
+  "kicker": {
+   "id": "DUA GERBANG BERBEDA",
+   "en": "TWO DIFFERENT GATES",
+   "zh": "两道不同的关卡",
+   "uz": "IKKI XIL DARVOZA"
+  },
+  "judul": {
+   "id": "“Boleh Berlari” ≠ “Boleh Bertanding”",
+   "en": "“Cleared to Run” ≠ “Cleared to Compete”",
+   "zh": "“可以跑步” ≠ “可以比赛”",
+   "uz": "“Yugurishga ruxsat” ≠ “Musobaqaga ruxsat”"
+  },
+  "pesan": {
+   "id": "Bisa lari ≠ siap tanding",
+   "en": "Able to run ≠ ready to compete",
+   "zh": "能跑 ≠ 能比赛",
+   "uz": "Yugura olish ≠ musobaqaga tayyorlik"
+  },
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Aspek",
+      "en": "Aspect",
+      "zh": "方面",
+      "uz": "Jihat"
+     },
+     {
+      "id": "Boleh mulai berlari",
+      "en": "Cleared to start running",
+      "zh": "可以开始跑步",
+      "uz": "Yugurishni boshlashga ruxsat"
+     },
+     {
+      "id": "Boleh kembali bertanding",
+      "en": "Cleared to return to competition",
+      "zh": "可以重返比赛",
+      "uz": "Musobaqaga qaytishga ruxsat"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Kekuatan quadriceps",
+       "en": "Quadriceps strength",
+       "zh": "股四头肌肌力",
+       "uz": "Kvadritseps kuchi"
+      },
+      {
+       "id": "LSI > 80%",
+       "en": "LSI > 80%",
+       "zh": "LSI > 80%",
+       "uz": "LSI > 80%"
+      },
+      {
+       "id": "Isokinetik simetri ≥ 90% (100% untuk olahraga pivot)",
+       "en": "Isokinetic symmetry ≥ 90% (100% for pivoting sports)",
+       "zh": "等速对称性 ≥ 90%（变向/旋转类运动需达 100%）",
+       "uz": "Izokinetik simmetriya ≥ 90% (burilishli sport turlari uchun 100%)"
+      }
+     ],
+     [
+      {
+       "id": "Lompatan",
+       "en": "Jumping",
+       "zh": "跳跃",
+       "uz": "Sakrash"
+      },
+      {
+       "id": "Pogo satu kaki tanpa nyeri; impuls eksentrik CMJ LSI > 80%",
+       "en": "Pain-free single-leg pogo; CMJ eccentric impulse LSI > 80%",
+       "zh": "单腿弹跳（pogo）无痛；CMJ 离心冲量 LSI > 80%",
+       "uz": "Bir oyoqda pogo sakrash ogʻriqsiz; CMJ ekssentrik impulsi LSI > 80%"
+      },
+      {
+       "id": "CMJ & drop jump > 90% simetri; RSI sesuai target",
+       "en": "CMJ & drop jump > 90% symmetry; RSI on target",
+       "zh": "CMJ 与跳深对称性 > 90%；RSI 达标",
+       "uz": "CMJ va drop jump > 90% simmetriya; RSI maqsadga mos"
+      }
+     ],
+     [
+      {
+       "id": "Gerak lutut",
+       "en": "Knee motion",
+       "zh": "膝关节活动度",
+       "uz": "Tizza harakati"
+      },
+      {
+       "id": "Fleksi ≥ 95% sisi sehat, ekstensi penuh",
+       "en": "Flexion ≥ 95% of the healthy side, full extension",
+       "zh": "屈曲 ≥ 健侧的 95%，伸直完全",
+       "uz": "Bukilish sogʻlom tomonning ≥ 95% i, toʻliq yozilish"
+      },
+      {
+       "id": "ROM penuh",
+       "en": "Full ROM",
+       "zh": "ROM 完全",
+       "uz": "ROM toʻliq"
+      }
+     ],
+     [
+      {
+       "id": "Efusi / nyeri",
+       "en": "Effusion / pain",
+       "zh": "积液 / 疼痛",
+       "uz": "Effuziya / ogʻriq"
+      },
+      {
+       "id": "Tidak ada atau trace",
+       "en": "None or trace",
+       "zh": "无或微量（trace）",
+       "uz": "Yoʻq yoki iz darajasida (trace)"
+      },
+      {
+       "id": "Tetap tenang setelah latihan intensitas tinggi",
+       "en": "Remains quiet after high-intensity training",
+       "zh": "高强度训练后仍保持平稳",
+       "uz": "Yuqori intensivlikdagi mashgʻulotdan keyin ham tinch"
+      }
+     ],
+     [
+      {
+       "id": "Kesiapan mental",
+       "en": "Psychological readiness",
+       "zh": "心理准备度",
+       "uz": "Ruhiy tayyorgarlik"
+      },
+      {
+       "id": "Mulai dinilai",
+       "en": "Assessment begins",
+       "zh": "开始评估",
+       "uz": "Baholash boshlanadi"
+      },
+      {
+       "id": "ACL-RSI & TSK normal",
+       "en": "Normal ACL-RSI & TSK",
+       "zh": "ACL-RSI 与 TSK 正常",
+       "uz": "ACL-RSI va TSK meʼyorda"
+      }
+     ],
+     [
+      {
+       "id": "Latihan olahraga",
+       "en": "Sport-specific training",
+       "zh": "专项运动训练",
+       "uz": "Sportga xos mashgʻulotlar"
+      },
+      {
+       "id": "Belum menjadi syarat",
+       "en": "Not yet required",
+       "zh": "尚非必要条件",
+       "uz": "Hali shart emas"
+      },
+      {
+       "id": "Program spesifik olahraga selesai",
+       "en": "Sport-specific programme completed",
+       "zh": "完成专项运动训练计划",
+       "uz": "Sportga xos dastur yakunlangan"
+      }
+     ],
+     [
+      {
+       "id": "Waktu",
+       "en": "Time",
+       "zh": "时间",
+       "uz": "Vaqt"
+      },
+      {
+       "id": "Umumnya ± 12 minggu",
+       "en": "Usually ± 12 weeks",
+       "zh": "通常约 12 周",
+       "uz": "Odatda ± 12 hafta"
+      },
+      {
+       "id": "≥ 9 bulan",
+       "en": "≥ 9 months",
+       "zh": "≥ 9 个月",
+       "uz": "≥ 9 oy"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": null,
+    "teks": {
+     "id": "Sudah bisa berlari bukan berarti sudah siap kembali bermain atau bertanding.",
+     "en": "Being able to run does not mean being ready to return to play or competition.",
+     "zh": "能够跑步并不意味着已准备好重返运动或比赛。",
+     "uz": "Yugura olish oʻyinga yoki musobaqaga qaytishga tayyor ekanini anglatmaydi."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki 2023 · [3] Grindem 2016 · [7] Rambaud 2018 · [10] Webster 2008",
+     "en": "References: [1] Kotsifaki 2023 · [3] Grindem 2016 · [7] Rambaud 2018 · [10] Webster 2008",
+     "zh": "参考文献：[1] Kotsifaki 2023 · [3] Grindem 2016 · [7] Rambaud 2018 · [10] Webster 2008",
+     "uz": "Manbalar: [1] Kotsifaki 2023 · [3] Grindem 2016 · [7] Rambaud 2018 · [10] Webster 2008"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 27,
+  "id": "tanda-bahaya-evaluasi-ulang",
+  "kicker": {
+   "id": "KEWASPADAAN",
+   "en": "VIGILANCE",
+   "zh": "警示",
+   "uz": "HUSHYORLIK"
+  },
+  "judul": {
+   "id": "Tanda Bahaya: Kapan Evaluasi Ulang",
+   "en": "Red Flags: When to Re-evaluate",
+   "zh": "危险信号：何时需要重新评估",
+   "uz": "Xavfli belgilar: qachon qayta baholash kerak"
+  },
+  "pesan": {
+   "id": "Kenali cepat, jangan menunggu",
+   "en": "Recognise early, don’t wait",
+   "zh": "尽早识别，切勿等待",
+   "uz": "Tez aniqlang, kutmang"
+  },
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": {
+       "id": "Evaluasi",
+       "en": "Evaluate",
+       "zh": "评估",
+       "uz": "Baholash"
+      },
+      "judul": {
+       "id": "Ekstensi tidak kunjung penuh",
+       "en": "Extension fails to become full",
+       "zh": "伸直始终无法完全",
+       "uz": "Yozilish toʻliq tiklanmayapti"
+      },
+      "teks": {
+       "id": "Curiga arthrofibrosis / lesi cyclops; evaluasi bila ROM berhenti membaik",
+       "en": "Suspect arthrofibrosis / cyclops lesion; evaluate if ROM stops improving",
+       "zh": "怀疑关节纤维化/独眼征（cyclops）病变；ROM 停止改善时应评估",
+       "uz": "Artrofibroz / cyclops shikastlanishiga gumon; ROM yaxshilanishdan toʻxtasa baholang"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "Evaluasi",
+       "en": "Evaluate",
+       "zh": "评估",
+       "uz": "Baholash"
+      },
+      "judul": {
+       "id": "Bengkak bertambah setelah latihan",
+       "en": "Swelling increases after exercise",
+       "zh": "训练后肿胀加重",
+       "uz": "Mashqdan keyin shish kuchayadi"
+      },
+      "teks": {
+       "id": "Turunkan beban; evaluasi bila efusi menetap",
+       "en": "Reduce load; evaluate if effusion persists",
+       "zh": "降低负荷；积液持续时应评估",
+       "uz": "Yuklamani kamaytiring; effuziya saqlanib qolsa baholang"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "Rujuk segera",
+       "en": "Refer urgently",
+       "zh": "立即转诊",
+       "uz": "Zudlik bilan yoʻllash"
+      },
+      "judul": {
+       "id": "Demam, luka merah, keluar cairan",
+       "en": "Fever, red wound, discharge",
+       "zh": "发热、切口发红、渗液",
+       "uz": "Isitma, yara qizarishi, suyuqlik ajralishi"
+      },
+      "teks": {
+       "id": "Curiga infeksi; rujuk segera ke operator",
+       "en": "Suspect infection; refer urgently to the operating surgeon",
+       "zh": "怀疑感染；立即转诊至主刀医生",
+       "uz": "Infeksiyaga gumon; zudlik bilan operatsiya qilgan shifokorga yoʻllang"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "Rujuk segera",
+       "en": "Refer urgently",
+       "zh": "立即转诊",
+       "uz": "Zudlik bilan yoʻllash"
+      },
+      "judul": {
+       "id": "Nyeri/bengkak betis, sesak napas",
+       "en": "Calf pain/swelling, shortness of breath",
+       "zh": "小腿疼痛/肿胀、呼吸困难",
+       "uz": "Boldir ogʻrigʻi/shishi, hansirash"
+      },
+      "teks": {
+       "id": "Curiga DVT / emboli paru; tindakan darurat",
+       "en": "Suspect DVT / pulmonary embolism; emergency management",
+       "zh": "怀疑 DVT/肺栓塞；紧急处理",
+       "uz": "DVT / oʻpka emboliyasiga gumon; shoshilinch choralar"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "Evaluasi",
+       "en": "Evaluate",
+       "zh": "评估",
+       "uz": "Baholash"
+      },
+      "judul": {
+       "id": "Lutut terkunci atau catching",
+       "en": "Knee locking or catching",
+       "zh": "膝关节交锁或卡顿",
+       "uz": "Tizza qulflanishi yoki ilinishi (catching)"
+      },
+      "teks": {
+       "id": "Curiga kegagalan repair / robekan meniskus baru",
+       "en": "Suspect repair failure / new meniscal tear",
+       "zh": "怀疑修复失败/新的半月板撕裂",
+       "uz": "Tikish muvaffaqiyatsizligi / yangi menisk yirtigʻiga gumon"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "Evaluasi",
+       "en": "Evaluate",
+       "zh": "评估",
+       "uz": "Baholash"
+      },
+      "judul": {
+       "id": "Lutut terasa goyang (giving way)",
+       "en": "Knee feels unstable (giving way)",
+       "zh": "膝关节打软（giving way）",
+       "uz": "Tizza boʻshashib ketadi (giving way)"
+      },
+      "teks": {
+       "id": "Evaluasi stabilitas graft",
+       "en": "Evaluate graft stability",
+       "zh": "评估移植物稳定性",
+       "uz": "Graft barqarorligini baholang"
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Ringkasan praktik klinis; selalu koordinasikan dengan dokter operator. Referensi: [1] Kotsifaki 2023 · [14] Calanna 2022",
+     "en": "Summary of clinical practice; always coordinate with the operating surgeon. References: [1] Kotsifaki 2023 · [14] Calanna 2022",
+     "zh": "临床实践摘要；请始终与主刀医生协调。参考文献：[1] Kotsifaki 2023 · [14] Calanna 2022",
+     "uz": "Klinik amaliyot xulosasi; har doim operatsiya qilgan shifokor bilan kelishing. Manbalar: [1] Kotsifaki 2023 · [14] Calanna 2022"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 28,
+  "id": "tuntutan-fisik-pekerjaan-mets",
+  "kicker": {
+   "id": "KEMBALI BEKERJA",
+   "en": "RETURN TO WORK",
+   "zh": "重返工作",
+   "uz": "ISHGA QAYTISH"
+  },
+  "judul": {
+   "id": "Tuntutan Fisik Pekerjaan dalam METs",
+   "en": "Physical Job Demands in METs",
+   "zh": "以 METs 衡量的工作体力需求",
+   "uz": "Ishning jismoniy talablari (METs)"
+  },
+  "pesan": {
+   "id": "Kapasitas ≥ tuntutan kerja",
+   "en": "Capacity ≥ job demands",
+   "zh": "能力 ≥ 工作需求",
+   "uz": "Imkoniyat ≥ ish talablari"
+  },
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Kategori kerja",
+      "en": "Work category",
+      "zh": "工作类别",
+      "uz": "Ish toifasi"
+     },
+     {
+      "id": "Contoh tugas (METs)",
+      "en": "Example tasks (METs)",
+      "zh": "任务举例（METs）",
+      "uz": "Vazifalar namunasi (METs)"
+     },
+     {
+      "id": "ACL saja",
+      "en": "ACL only",
+      "zh": "单纯 ACL",
+      "uz": "Faqat ACL"
+     },
+     {
+      "id": "ACL + repair meniskus",
+      "en": "ACL + meniscal repair",
+      "zh": "ACL + 半月板修复",
+      "uz": "ACL + menisk tikish"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Kantoran / duduk",
+       "en": "Office / sedentary",
+       "zh": "办公室/久坐",
+       "uz": "Ofis / oʻtirib ishlash"
+      },
+      {
+       "id": "Kerja komputer 1,3 · tugas duduk ringan 1,5",
+       "en": "Computer work 1.3 · light seated tasks 1.5",
+       "zh": "电脑工作 1.3 · 轻度坐姿任务 1.5",
+       "uz": "Kompyuterda ishlash 1,3 · yengil oʻtirib bajariladigan vazifalar 1,5"
+      },
+      {
+       "id": "2–4 mgg, jam bertahap",
+       "en": "2–4 wk, graded hours",
+       "zh": "2–4 周，逐步增加工时",
+       "uz": "2–4 hafta, ish soatlari bosqichma-bosqich"
+      },
+      {
+       "id": "2–4 mgg, bertahap + bantuan transportasi",
+       "en": "2–4 wk, graded + transport assistance",
+       "zh": "2–4 周，逐步增加 + 交通协助",
+       "uz": "2–4 hafta, bosqichma-bosqich + transport yordami"
+      }
+     ],
+     [
+      {
+       "id": "Ringan",
+       "en": "Light",
+       "zh": "轻度",
+       "uz": "Yengil"
+      },
+      {
+       "id": "Berdiri ringan 1,8 · berjalan di kantor 3,8",
+       "en": "Light standing 1.8 · walking in the office 3.8",
+       "zh": "轻度站立 1.8 · 办公室内步行 3.8",
+       "uz": "Yengil tik turish 1,8 · ofisda yurish 3,8"
+      },
+      {
+       "id": "4–8 mgg, tugas/jam dimodifikasi",
+       "en": "4–8 wk, modified duties/hours",
+       "zh": "4–8 周，调整任务/工时",
+       "uz": "4–8 hafta, vazifa/soatlar oʻzgartirilgan"
+      },
+      {
+       "id": "8–10 mgg",
+       "en": "8–10 wk",
+       "zh": "8–10 周",
+       "uz": "8–10 hafta"
+      }
+     ],
+     [
+      {
+       "id": "Sedang",
+       "en": "Moderate",
+       "zh": "中度",
+       "uz": "Oʻrtacha"
+      },
+      {
+       "id": "Perawatan pasien 2,3–3,5 · konstruksi 4,0",
+       "en": "Patient care 2.3–3.5 · construction 4.0",
+       "zh": "护理患者 2.3–3.5 · 建筑施工 4.0",
+       "uz": "Bemor parvarishi 2,3–3,5 · qurilish 4,0"
+      },
+      {
+       "id": "8–10 mgg",
+       "en": "8–10 wk",
+       "zh": "8–10 周",
+       "uz": "8–10 hafta"
+      },
+      {
+       "id": "10–12 mgg, tugas dimodifikasi",
+       "en": "10–12 wk, modified duties",
+       "zh": "10–12 周，调整任务",
+       "uz": "10–12 hafta, vazifalar oʻzgartirilgan"
+      }
+     ],
+     [
+      {
+       "id": "Berat",
+       "en": "Heavy",
+       "zh": "重度",
+       "uz": "Ogʻir"
+      },
+      {
+       "id": "Kerja manual berat 6,5 · angkut beban berat 7,3–8,0",
+       "en": "Heavy manual labour 6.5 · carrying heavy loads 7.3–8.0",
+       "zh": "重体力劳动 6.5 · 搬运重物 7.3–8.0",
+       "uz": "Ogʻir qoʻl mehnati 6,5 · ogʻir yuk tashish 7,3–8,0"
+      },
+      {
+       "id": "10–16 mgg",
+       "en": "10–16 wk",
+       "zh": "10–16 周",
+       "uz": "10–16 hafta"
+      },
+      {
+       "id": "10–16 mgg; bisa lebih lama bila ada proteksi",
+       "en": "10–16 wk; may be longer if protection is required",
+       "zh": "10–16 周；如需保护可能更长",
+       "uz": "10–16 hafta; himoya talab qilinsa uzoqroq boʻlishi mumkin"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Prinsip",
+       "en": "Principle",
+       "zh": "原则",
+       "uz": "Tamoyil"
+      },
+      "teks": {
+       "id": "Kapasitas fungsional pasien harus setara atau melebihi tuntutan METs pekerjaannya, tanpa nyeri atau bengkak bertambah",
+       "en": "The patient’s functional capacity must equal or exceed the METs demand of the job, without increased pain or swelling",
+       "zh": "患者的功能能力须达到或超过其工作的 METs 需求，且疼痛或肿胀不加重",
+       "uz": "Bemorning funksional imkoniyati ishning METs talabiga teng yoki undan yuqori boʻlishi, ogʻriq yoki shish kuchaymasligi kerak"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Contoh praktis",
+       "en": "Practical example",
+       "zh": "实例",
+       "uz": "Amaliy misol"
+      },
+      "teks": {
+       "id": "Pegawai kantor yang sudah berjalan nyaman dengan kecepatan sedang (± 3,8 METs) umumnya siap untuk tugas kantor",
+       "en": "An office worker who already walks comfortably at moderate speed (± 3.8 METs) is generally ready for office duties",
+       "zh": "能以中等速度舒适步行（约 3.8 METs）的办公室职员，通常已可胜任办公室工作",
+       "uz": "Oʻrtacha tezlikda qulay yura oladigan (± 3,8 METs) ofis xodimi odatda ofis vazifalariga tayyor"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Kembali bertahap",
+       "en": "Graded return",
+       "zh": "逐步复工",
+       "uz": "Bosqichma-bosqich qaytish"
+      },
+      "teks": {
+       "id": "Mulai dengan jam kerja dikurangi atau kerja dari rumah, selingi duduk dan berdiri, hindari jongkok dan berlutut berulang",
+       "en": "Start with reduced hours or working from home, alternate sitting and standing, avoid repeated squatting and kneeling",
+       "zh": "从缩短工时或居家办公开始，坐站交替，避免反复下蹲和跪姿",
+       "uz": "Qisqartirilgan ish soatlari yoki uydan ishlashdan boshlang, oʻtirish va turishni almashtiring, takroriy choʻkkalash va tiz choʻkishdan saqlaning"
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Pengelompokan METs ke kategori kerja adalah contoh; waktu kerja = opini ahli. Referensi: [32] ACC/NZOA · [33] Herrmann dkk., J Sport Health Sci 2024",
+     "en": "Grouping of METs into work categories is illustrative; return-to-work timing = expert opinion. References: [32] ACC/NZOA · [33] Herrmann et al., J Sport Health Sci 2024",
+     "zh": "METs 与工作类别的对应仅为示例；复工时间 = 专家意见。参考文献：[32] ACC/NZOA · [33] Herrmann 等，J Sport Health Sci 2024",
+     "uz": "METs ni ish toifalariga ajratish misol tariqasida; ishga qaytish muddati = ekspert fikri. Manbalar: [32] ACC/NZOA · [33] Herrmann va boshq., J Sport Health Sci 2024"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 29,
+  "id": "kriteria-kembali-kerja-kantoran",
+  "kicker": {
+   "id": "KEMBALI BEKERJA",
+   "en": "RETURN TO WORK",
+   "zh": "重返工作",
+   "uz": "ISHGA QAYTISH"
+  },
+  "judul": {
+   "id": "Kriteria Fungsional Kembali Bekerja Kantoran",
+   "en": "Functional Criteria for Return to Office Work",
+   "zh": "重返办公室工作的功能标准",
+   "uz": "Ofis ishiga qaytishning funksional mezonlari"
+  },
+  "pesan": {
+   "id": "Jalan normal, duduk nyaman, siap kerja",
+   "en": "Normal gait, comfortable sitting, ready for work",
+   "zh": "步态正常、坐姿舒适、即可上班",
+   "uz": "Normal yurish, qulay oʻtirish — ishga tayyor"
+  },
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": {
+       "id": "[1]",
+       "en": "[1]",
+       "zh": "[1]",
+       "uz": "[1]"
+      },
+      "judul": {
+       "id": "Berjalan",
+       "en": "Walking",
+       "zh": "步行",
+       "uz": "Yurish"
+      },
+      "teks": {
+       "id": "Tanpa kruk dan tanpa pincang",
+       "en": "Without crutches and without limping",
+       "zh": "不用拐杖、无跛行",
+       "uz": "Qoʻltiqtayoqsiz va oqsoqlanmasdan"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "[36]",
+       "en": "[36]",
+       "zh": "[36]",
+       "uz": "[36]"
+      },
+      "judul": {
+       "id": "Gerak lutut",
+       "en": "Knee motion",
+       "zh": "膝关节活动度",
+       "uz": "Tizza harakati"
+      },
+      "teks": {
+       "id": "Ekstensi penuh; fleksi ± 90–110° untuk duduk, bangkit dari kursi, dan tangga",
+       "en": "Full extension; flexion ± 90–110° for sitting, rising from a chair, and stairs",
+       "zh": "伸直完全；屈曲约 90–110°，以满足坐下、从椅子站起和上下楼梯",
+       "uz": "Toʻliq yozilish; oʻtirish, stuldan turish va zinapoya uchun bukilish ± 90–110°"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "[27]",
+       "en": "[27]",
+       "zh": "[27]",
+       "uz": "[27]"
+      },
+      "judul": {
+       "id": "Efusi",
+       "en": "Effusion",
+       "zh": "积液",
+       "uz": "Effuziya"
+      },
+      "teks": {
+       "id": "0 atau trace pada stroke test, juga di akhir hari kerja",
+       "en": "0 or trace on the stroke test, also at the end of the working day",
+       "zh": "stroke test 为 0 或微量（trace），工作日结束时亦然",
+       "uz": "Stroke testda 0 yoki iz (trace), ish kuni oxirida ham"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "[34][35]",
+       "en": "[34][35]",
+       "zh": "[34][35]",
+       "uz": "[34][35]"
+      },
+      "judul": {
+       "id": "6MWT",
+       "en": "6MWT",
+       "zh": "6MWT",
+       "uz": "6MWT"
+      },
+      "teks": {
+       "id": "Selesai tanpa nyeri atau pincang; jarak naik di tiap evaluasi",
+       "en": "Completed without pain or limping; distance increases at each assessment",
+       "zh": "完成测试无疼痛或跛行；每次评估距离均有增加",
+       "uz": "Ogʻriq yoki oqsoqlanishsiz bajariladi; har bir baholashda masofa ortadi"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "[25][26]",
+       "en": "[25][26]",
+       "zh": "[25][26]",
+       "uz": "[25][26]"
+      },
+      "judul": {
+       "id": "Fungsi harian",
+       "en": "Daily function",
+       "zh": "日常功能",
+       "uz": "Kundalik faoliyat"
+      },
+      "teks": {
+       "id": "KOOS-ADL atau IKDC membaik bermakna dari evaluasi sebelumnya",
+       "en": "KOOS-ADL or IKDC improves meaningfully from the previous assessment",
+       "zh": "KOOS-ADL 或 IKDC 较上次评估有显著改善",
+       "uz": "KOOS-ADL yoki IKDC oldingi baholashga nisbatan sezilarli yaxshilangan"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "[1]",
+       "en": "[1]",
+       "zh": "[1]",
+       "uz": "[1]"
+      },
+      "judul": {
+       "id": "Mengemudi",
+       "en": "Driving",
+       "zh": "驾驶",
+       "uz": "Avtomobil haydash"
+      },
+      "teks": {
+       "id": "Kaki kanan ± 4–6 mgg, kiri ± 2–3 mgg, bila mampu mengerem darurat",
+       "en": "Right leg ± 4–6 wk, left ± 2–3 wk, provided the patient can perform an emergency stop",
+       "zh": "右腿约 4–6 周，左腿约 2–3 周，前提是能够紧急制动",
+       "uz": "Oʻng oyoq ± 4–6 hafta, chap ± 2–3 hafta, agar favqulodda tormoz bera olsa"
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Six-Minute Walk Test (6MWT)",
+     "en": "Six-Minute Walk Test (6MWT)",
+     "zh": "六分钟步行试验（6MWT）",
+     "uz": "Olti daqiqalik yurish testi (6MWT)"
+    },
+    "butir": [
+     {
+      "id": "Protokol ATS: lintasan datar 30 m, instruksi dan dorongan standar, catat jarak, nyeri, dan pola jalan.",
+      "en": "ATS protocol: flat 30 m course, standardised instructions and encouragement; record distance, pain, and gait pattern.",
+      "zh": "ATS 方案：30 m 平直走道，标准化指令与鼓励语；记录距离、疼痛和步态。",
+      "uz": "ATS protokoli: 30 m tekis yoʻlak, standart koʻrsatma va ragʻbatlantirish; masofa, ogʻriq va yurish shaklini qayd eting."
+     }
+    ]
+   },
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Jarak prediksi (m) · Enright & Sherrill",
+      "en": "Predicted distance (m) · Enright & Sherrill",
+      "zh": "预测距离（m）· Enright & Sherrill",
+      "uz": "Bashorat qilingan masofa (m) · Enright & Sherrill"
+     },
+     {
+      "id": "Rumus",
+      "en": "Equation",
+      "zh": "公式",
+      "uz": "Formula"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Pria",
+       "en": "Men",
+       "zh": "男性",
+       "uz": "Erkaklar"
+      },
+      {
+       "id": "7,57 × TB − 5,02 × usia − 1,76 × BB − 309",
+       "en": "7.57 × height − 5.02 × age − 1.76 × weight − 309",
+       "zh": "7.57 × 身高 − 5.02 × 年龄 − 1.76 × 体重 − 309",
+       "uz": "7,57 × boʻy − 5,02 × yosh − 1,76 × vazn − 309"
+      }
+     ],
+     [
+      {
+       "id": "Wanita",
+       "en": "Women",
+       "zh": "女性",
+       "uz": "Ayollar"
+      },
+      {
+       "id": "2,11 × TB − 2,29 × BB − 5,78 × usia + 667",
+       "en": "2.11 × height − 2.29 × weight − 5.78 × age + 667",
+       "zh": "2.11 × 身高 − 2.29 × 体重 − 5.78 × 年龄 + 667",
+       "uz": "2,11 × boʻy − 2,29 × vazn − 5,78 × yosh + 667"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "TB (tinggi badan) dalam cm, BB (berat badan) dalam kg, usia dalam tahun.\n**Cara pakai:** hitung % prediksi dan pantau trennya. 6MWT bukan tes khusus lutut; pakai bersama kriteria lain.",
+     "en": "Height in cm, weight in kg, age in years.\n**How to use:** calculate the % predicted and monitor the trend. The 6MWT is not a knee-specific test; use it together with the other criteria.",
+     "zh": "身高单位 cm，体重单位 kg，年龄单位岁。\n**使用方法：**计算预测值百分比并观察趋势。6MWT 并非膝关节专项测试，应与其他标准结合使用。",
+     "uz": "Boʻy — sm, vazn — kg, yosh — yil.\n**Qoʻllash:** bashoratning % ini hisoblang va dinamikasini kuzating. 6MWT tizzaga xos test emas; boshqa mezonlar bilan birga qoʻllang."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Ambang kembali bekerja berbasis 6MWT belum baku untuk ACL; gunakan sebagai tren. Referensi: [1] [25] [26] [27] [34] Enright 1998 · [35] ATS 2002 · [36] Rowe 2000",
+     "en": "No established 6MWT-based return-to-work threshold exists for ACL; use it as a trend. References: [1] [25] [26] [27] [34] Enright 1998 · [35] ATS 2002 · [36] Rowe 2000",
+     "zh": "ACL 术后尚无基于 6MWT 的标准复工阈值，应作为趋势参考。参考文献：[1] [25] [26] [27] [34] Enright 1998 · [35] ATS 2002 · [36] Rowe 2000",
+     "uz": "ACL uchun 6MWT ga asoslangan ishga qaytish chegarasi hali belgilanmagan; dinamika sifatida foydalaning. Manbalar: [1] [25] [26] [27] [34] Enright 1998 · [35] ATS 2002 · [36] Rowe 2000"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 30,
+  "id": "alur-verifikasi-melewati-timeline",
+  "kicker": {
+   "id": "EVALUASI PROGRAM · VERIFIKATOR",
+   "en": "PROGRAMME EVALUATION · VERIFIER",
+   "zh": "项目评估 · 核查人员",
+   "uz": "DASTURNI BAHOLASH · TEKSHIRUVCHI (VERIFIKATOR)"
+  },
+  "judul": {
+   "id": "Alur Verifikasi Program yang Melewati Timeline",
+   "en": "Verification Pathway for Programmes Exceeding the Timeline",
+   "zh": "超出预期时间线项目的核查流程",
+   "uz": "Belgilangan muddatdan oshgan dasturni tekshirish tartibi"
+  },
+  "pesan": {
+   "id": "Progres, bukan durasi",
+   "en": "Progress, not duration",
+   "zh": "看进展，不看时长",
+   "uz": "Davomiylik emas, progress"
+  },
+  "blok": [
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Cek diagnosis & tindakan",
+       "en": "Check diagnosis & procedure",
+       "zh": "核对诊断与手术",
+       "uz": "Tashxis va muolajani tekshiring"
+      },
+      "teks": {
+       "id": "Laporan operasi: jenis graft, tindakan meniskus/kartilago, augmentasi. Tentukan timeline yang wajar",
+       "en": "Operative report: graft type, meniscal/cartilage procedure, augmentation. Determine a reasonable timeline",
+       "zh": "手术记录：移植物类型、半月板/软骨处理、加强术。确定合理的时间线",
+       "uz": "Operatsiya bayonnomasi: graft turi, menisk/togʻay muolajasi, augmentatsiya. Oqilona muddatni belgilang"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Petakan fase saat ini",
+       "en": "Map the current phase",
+       "zh": "确定当前阶段",
+       "uz": "Joriy bosqichni aniqlang"
+      },
+      "teks": {
+       "id": "Bandingkan fase yang dicapai dengan perkiraan waktu; gerbang mana yang belum lulus?",
+       "en": "Compare the phase reached with the expected time; which gates have not been passed?",
+       "zh": "将已达到的阶段与预期时间对比；哪些关卡尚未通过？",
+       "uz": "Erishilgan bosqichni kutilgan muddat bilan solishtiring; qaysi darvozalardan hali oʻtilmagan?"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Nilai progres objektif",
+       "en": "Assess objective progress",
+       "zh": "评估客观进展",
+       "uz": "Obyektiv progressni baholang"
+      },
+      "teks": {
+       "id": "Data terukur dan bertanggal di tiap evaluasi: ROM, efusi, kekuatan, lompatan, PROM",
+       "en": "Measured, dated data at each assessment: ROM, effusion, strength, jumping, PROMs",
+       "zh": "每次评估均有可测量且注明日期的数据：ROM、积液、肌力、跳跃、PROM",
+       "uz": "Har bir baholashda oʻlchangan va sanasi koʻrsatilgan maʼlumotlar: ROM, effuziya, kuch, sakrash, PROM"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Identifikasi penyebab",
+       "en": "Identify the cause",
+       "zh": "查明原因",
+       "uz": "Sababini aniqlang"
+      },
+      "teks": {
+       "id": "Komplikasi atau cedera penyerta yang terdokumentasi, atau tanpa penjelasan?",
+       "en": "Documented complications or concomitant injuries, or no explanation?",
+       "zh": "是否有已记录的并发症或合并损伤，还是无法解释？",
+       "uz": "Hujjatlashtirilgan asorat yoki yondosh jarohat bormi, yoki izohsizmi?"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Putuskan",
+       "en": "Decide",
+       "zh": "作出决定",
+       "uz": "Qaror qabul qiling"
+      },
+      "teks": {
+       "id": "Lanjutkan, revisi target, rujuk/peer review, atau transisi ke program mandiri",
+       "en": "Continue, revise targets, refer/peer review, or transition to a self-managed programme",
+       "zh": "继续、修订目标、转诊/同行评议，或过渡到自主训练计划",
+       "uz": "Davom ettirish, maqsadlarni qayta koʻrib chiqish, yoʻllash/hamkasblar ekspertizasi yoki mustaqil dasturga oʻtish"
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Dokumen minimum yang diminta",
+     "en": "Minimum documents requested",
+     "zh": "需提供的最低限度文件",
+     "uz": "Talab qilinadigan minimal hujjatlar"
+    },
+    "butir": [
+     {
+      "id": "Laporan operasi",
+      "en": "Operative report",
+      "zh": "手术记录",
+      "uz": "Operatsiya bayonnomasi"
+     },
+     {
+      "id": "Rencana terapi + target tiap fase",
+      "en": "Therapy plan + targets for each phase",
+      "zh": "治疗计划 + 各阶段目标",
+      "uz": "Davolash rejasi + har bir bosqich maqsadlari"
+     },
+     {
+      "id": "Hasil evaluasi objektif bertanggal",
+      "en": "Dated objective assessment results",
+      "zh": "注明日期的客观评估结果",
+      "uz": "Sanasi koʻrsatilgan obyektiv baholash natijalari"
+     },
+     {
+      "id": "Catatan kehadiran & latihan mandiri",
+      "en": "Attendance & home-exercise records",
+      "zh": "出勤与自主训练记录",
+      "uz": "Qatnashish va mustaqil mashqlar qaydlari"
+     },
+     {
+      "id": "Konsultasi/rujukan bila ada komplikasi",
+      "en": "Consultation/referral if complications occur",
+      "zh": "如有并发症，提供会诊/转诊记录",
+      "uz": "Asorat boʻlsa — konsultatsiya/yoʻllanma"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Timeline acuan: tabel tindakan & peta fase pada bagian sebelumnya. Referensi: [1] Kotsifaki 2023 · [14] Calanna 2022",
+     "en": "Reference timeline: procedure table & phase map in the previous sections. References: [1] Kotsifaki 2023 · [14] Calanna 2022",
+     "zh": "参考时间线：见前文的手术类型表与阶段图。参考文献：[1] Kotsifaki 2023 · [14] Calanna 2022",
+     "uz": "Asosiy muddatlar: oldingi boʻlimlardagi muolajalar jadvali va bosqichlar xaritasi. Manbalar: [1] Kotsifaki 2023 · [14] Calanna 2022"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 31,
+  "id": "alat-ukur-objektif-progres",
+  "kicker": {
+   "id": "EVALUASI PROGRAM · VERIFIKATOR",
+   "en": "PROGRAMME EVALUATION · VERIFIER",
+   "zh": "项目评估 · 核查人员",
+   "uz": "DASTURNI BAHOLASH · TEKSHIRUVCHI (VERIFIKATOR)"
+  },
+  "judul": {
+   "id": "Alat Ukur Objektif untuk Menilai Progres",
+   "en": "Objective Measures for Assessing Progress",
+   "zh": "评估进展的客观测量工具",
+   "uz": "Progressni baholash uchun obyektiv oʻlchov vositalari"
+  },
+  "pesan": {
+   "id": "Minta angka, bukan cerita",
+   "en": "Ask for numbers, not narratives",
+   "zh": "要数据，不要描述",
+   "uz": "Hikoya emas, raqam soʻrang"
+  },
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Domain",
+      "en": "Domain",
+      "zh": "领域",
+      "uz": "Soha"
+     },
+     {
+      "id": "Alat ukur",
+      "en": "Measure",
+      "zh": "测量工具",
+      "uz": "Oʻlchov vositasi"
+     },
+     {
+      "id": "Yang dicari verifikator",
+      "en": "What the verifier looks for",
+      "zh": "核查人员关注点",
+      "uz": "Tekshiruvchi nimaga eʼtibor beradi"
+     },
+     {
+      "id": "Ref.",
+      "en": "Ref.",
+      "zh": "文献",
+      "uz": "Manba"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Gerak sendi",
+       "en": "Joint motion",
+       "zh": "关节活动度",
+       "uz": "Boʻgʻim harakati"
+      },
+      {
+       "id": "Goniometer",
+       "en": "Goniometer",
+       "zh": "量角器",
+       "uz": "Goniometr"
+      },
+      {
+       "id": "Ekstensi penuh simetris; fleksi meningkat di tiap evaluasi",
+       "en": "Full, symmetrical extension; flexion increasing at each assessment",
+       "zh": "伸直完全且两侧对称；屈曲每次评估均有增加",
+       "uz": "Toʻliq simmetrik yozilish; bukilish har bir baholashda ortadi"
+      },
+      {
+       "id": "[1]",
+       "en": "[1]",
+       "zh": "[1]",
+       "uz": "[1]"
+      }
+     ],
+     [
+      {
+       "id": "Efusi",
+       "en": "Effusion",
+       "zh": "积液",
+       "uz": "Effuziya"
+      },
+      {
+       "id": "Stroke (sweep) test: 0 · trace · 1+ · 2+ · 3+ (kappa 0,75)",
+       "en": "Stroke (sweep) test: 0 · trace · 1+ · 2+ · 3+ (kappa 0.75)",
+       "zh": "Stroke（sweep）试验：0 · 微量 · 1+ · 2+ · 3+（kappa 0.75）",
+       "uz": "Stroke (sweep) test: 0 · iz · 1+ · 2+ · 3+ (kappa 0,75)"
+      },
+      {
+       "id": "Menurun, atau stabil di 0/trace setelah latihan",
+       "en": "Decreasing, or stable at 0/trace after exercise",
+       "zh": "逐渐减少，或训练后稳定在 0/微量",
+       "uz": "Kamayib bormoqda yoki mashqdan keyin 0/iz darajasida barqaror"
+      },
+      {
+       "id": "[27]",
+       "en": "[27]",
+       "zh": "[27]",
+       "uz": "[27]"
+      }
+     ],
+     [
+      {
+       "id": "Kekuatan quadriceps",
+       "en": "Quadriceps strength",
+       "zh": "股四头肌肌力",
+       "uz": "Kvadritseps kuchi"
+      },
+      {
+       "id": "Dinamometer / isokinetik (LSI)",
+       "en": "Dynamometer / isokinetic (LSI)",
+       "zh": "测力计/等速测试（LSI）",
+       "uz": "Dinamometr / izokinetik (LSI)"
+      },
+      {
+       "id": "LSI meningkat: > 80% untuk mulai lari, ≥ 90% untuk RTS",
+       "en": "LSI increasing: > 80% to start running, ≥ 90% for RTS",
+       "zh": "LSI 逐步提高：> 80% 可开始跑步，≥ 90% 可重返运动（RTS）",
+       "uz": "LSI ortib bormoqda: yugurishni boshlash uchun > 80%, RTS uchun ≥ 90%"
+      },
+      {
+       "id": "[1][3]",
+       "en": "[1][3]",
+       "zh": "[1][3]",
+       "uz": "[1][3]"
+      }
+     ],
+     [
+      {
+       "id": "Fungsi lompat",
+       "en": "Hop function",
+       "zh": "跳跃功能",
+       "uz": "Sakrash funksiyasi"
+      },
+      {
+       "id": "Hop test, CMJ, drop jump (LSI)",
+       "en": "Hop tests, CMJ, drop jump (LSI)",
+       "zh": "单腿跳测试、CMJ、跳深（LSI）",
+       "uz": "Hop test, CMJ, drop jump (LSI)"
+      },
+      {
+       "id": "> 90% simetri sebelum kembali bertanding",
+       "en": "> 90% symmetry before returning to competition",
+       "zh": "重返比赛前对称性 > 90%",
+       "uz": "Musobaqaga qaytishdan oldin > 90% simmetriya"
+      },
+      {
+       "id": "[1]",
+       "en": "[1]",
+       "zh": "[1]",
+       "uz": "[1]"
+      }
+     ],
+     [
+      {
+       "id": "Fungsi (laporan pasien)",
+       "en": "Function (patient-reported)",
+       "zh": "功能（患者报告）",
+       "uz": "Funksiya (bemor bahosi)"
+      },
+      {
+       "id": "IKDC subjektif",
+       "en": "Subjective IKDC",
+       "zh": "IKDC 主观评分",
+       "uz": "Subyektiv IKDC"
+      },
+      {
+       "id": "**Perubahan ≥ 11,5 poin dianggap bermakna (MCID)**",
+       "en": "**A change of ≥ 11.5 points is considered meaningful (MCID)**",
+       "zh": "**变化 ≥ 11.5 分视为有意义（MCID）**",
+       "uz": "**≥ 11,5 ball oʻzgarish ahamiyatli hisoblanadi (MCID)**"
+      },
+      {
+       "id": "[25]",
+       "en": "[25]",
+       "zh": "[25]",
+       "uz": "[25]"
+      }
+     ],
+     [
+      {
+       "id": "Fungsi (laporan pasien)",
+       "en": "Function (patient-reported)",
+       "zh": "功能（患者报告）",
+       "uz": "Funksiya (bemor bahosi)"
+      },
+      {
+       "id": "KOOS (5 subskala)",
+       "en": "KOOS (5 subscales)",
+       "zh": "KOOS（5 个分量表）",
+       "uz": "KOOS (5 ta kichik shkala)"
+      },
+      {
+       "id": "**Perubahan ≥ 8–10 poin dianggap bermakna**",
+       "en": "**A change of ≥ 8–10 points is considered meaningful**",
+       "zh": "**变化 ≥ 8–10 分视为有意义**",
+       "uz": "**≥ 8–10 ball oʻzgarish ahamiyatli hisoblanadi**"
+      },
+      {
+       "id": "[26]",
+       "en": "[26]",
+       "zh": "[26]",
+       "uz": "[26]"
+      }
+     ],
+     [
+      {
+       "id": "Kesiapan psikologis",
+       "en": "Psychological readiness",
+       "zh": "心理准备度",
+       "uz": "Ruhiy tayyorgarlik"
+      },
+      {
+       "id": "ACL-RSI, Tampa Scale (TSK)",
+       "en": "ACL-RSI, Tampa Scale (TSK)",
+       "zh": "ACL-RSI、Tampa 量表（TSK）",
+       "uz": "ACL-RSI, Tampa shkalasi (TSK)"
+      },
+      {
+       "id": "Membaik menjelang kembali berolahraga",
+       "en": "Improving as return to sport approaches",
+       "zh": "临近重返运动时逐步改善",
+       "uz": "Sportga qaytish yaqinlashgani sari yaxshilanadi"
+      },
+      {
+       "id": "[1][10]",
+       "en": "[1][10]",
+       "zh": "[1][10]",
+       "uz": "[1][10]"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "**Bandingkan dengan nilai sebelumnya, bukan hanya target akhir.** Perubahan di bawah MCID atau di dalam kesalahan ukur belum tentu bermakna bagi pasien.",
+     "en": "**Compare with previous values, not only with the final target.** A change below the MCID or within measurement error may not be meaningful to the patient.",
+     "zh": "**应与既往数值比较，而不仅是与最终目标比较。**低于 MCID 或处于测量误差范围内的变化，对患者未必有意义。",
+     "uz": "**Faqat yakuniy maqsad bilan emas, oldingi qiymatlar bilan solishtiring.** MCID dan past yoki oʻlchov xatosi doirasidagi oʻzgarish bemor uchun ahamiyatli boʻlmasligi mumkin."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki 2023 · [3] Grindem 2016 · [10] Webster 2008 · [25] Irrgang dkk., Am J Sports Med 2006 · [26] Roos & Lohmander 2003 · [27] Sturgill dkk. 2009",
+     "en": "References: [1] Kotsifaki 2023 · [3] Grindem 2016 · [10] Webster 2008 · [25] Irrgang dkk., Am J Sports Med 2006 · [26] Roos & Lohmander 2003 · [27] Sturgill dkk. 2009",
+     "zh": "参考文献：[1] Kotsifaki 2023 · [3] Grindem 2016 · [10] Webster 2008 · [25] Irrgang dkk., Am J Sports Med 2006 · [26] Roos & Lohmander 2003 · [27] Sturgill dkk. 2009",
+     "uz": "Manbalar: [1] Kotsifaki 2023 · [3] Grindem 2016 · [10] Webster 2008 · [25] Irrgang dkk., Am J Sports Med 2006 · [26] Roos & Lohmander 2003 · [27] Sturgill dkk. 2009"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 32,
+  "id": "keterlambatan-wajar-atau-ditinjau",
+  "kicker": {
+   "id": "EVALUASI PROGRAM · VERIFIKATOR",
+   "en": "PROGRAMME EVALUATION · VERIFIER",
+   "zh": "项目评估 · 核查人员",
+   "uz": "DASTURNI BAHOLASH · TEKSHIRUVCHI (VERIFIKATOR)"
+  },
+  "judul": {
+   "id": "Keterlambatan: Wajar atau Perlu Ditinjau?",
+   "en": "Delay: Justified or Needs Review?",
+   "zh": "进度延迟：合理还是需要审查？",
+   "uz": "Kechikish: asosli yoki koʻrib chiqish kerakmi?"
+  },
+  "pesan": {
+   "id": "Lambat boleh, mandek jangan",
+   "en": "Slow is acceptable; stalled is not",
+   "zh": "可以慢，不能停滞",
+   "uz": "Sekinlik mumkin, toʻxtab qolish mumkin emas"
+  },
+  "blok": [
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Dapat dibenarkan bila terdokumentasi",
+     "en": "Justifiable if documented",
+     "zh": "有记录时可视为合理",
+     "uz": "Hujjatlashtirilgan boʻlsa asosli"
+    },
+    "butir": [
+     {
+      "id": "Repair meniskus radial/root atau tindakan kartilago (timeline memang lebih panjang)",
+      "en": "Radial/root meniscal repair or cartilage procedure (the timeline is genuinely longer)",
+      "zh": "半月板放射状/根部修复或软骨手术（时间线本就更长）",
+      "uz": "Menisk radial/ildiz tikish yoki togʻay muolajasi (muddat haqiqatan uzoqroq)"
+     },
+     {
+      "id": "Komplikasi: arthrofibrosis, infeksi, DVT",
+      "en": "Complications: arthrofibrosis, infection, DVT",
+      "zh": "并发症：关节纤维化、感染、DVT",
+      "uz": "Asoratlar: artrofibroz, infeksiya, DVT"
+     },
+     {
+      "id": "Re-operasi, revisi, atau cedera multiligamen",
+      "en": "Re-operation, revision, or multiligament injury",
+      "zh": "再次手术、翻修或多韧带损伤",
+      "uz": "Qayta operatsiya, reviziya yoki koʻp boylamli jarohat"
+     },
+     {
+      "id": "Progres objektif tetap ada walau lebih lambat",
+      "en": "Objective progress continues, albeit more slowly",
+      "zh": "客观进展仍然存在，只是较慢",
+      "uz": "Sekinroq boʻlsa ham obyektiv progress mavjud"
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Tanda program perlu ditinjau",
+     "en": "Signs the programme needs review",
+     "zh": "项目需要审查的迹象",
+     "uz": "Dasturni koʻrib chiqish kerakligi belgilari"
+    },
+    "butir": [
+     {
+      "id": "Tidak ada data objektif bertanggal",
+      "en": "No dated objective data",
+      "zh": "无注明日期的客观数据",
+      "uz": "Sanasi koʻrsatilgan obyektiv maʼlumotlar yoʻq"
+     },
+     {
+      "id": "Tidak ada perbaikan bermakna pada ≥ 2 evaluasi berturut-turut*",
+      "en": "No meaningful improvement over ≥ 2 consecutive assessments*",
+      "zh": "连续 ≥ 2 次评估无显著改善*",
+      "uz": "Ketma-ket ≥ 2 baholashda sezilarli yaxshilanish yoʻq*"
+     },
+     {
+      "id": "Isi terapi tidak berubah atau hanya modalitas pasif",
+      "en": "Therapy content unchanged or passive modalities only",
+      "zh": "治疗内容无变化或仅为被动理疗",
+      "uz": "Davolash mazmuni oʻzgarmagan yoki faqat passiv muolajalar"
+     },
+     {
+      "id": "Target fase tidak diperbarui; tidak ada program latihan mandiri",
+      "en": "Phase targets not updated; no home-exercise programme",
+      "zh": "阶段目标未更新；无自主训练计划",
+      "uz": "Bosqich maqsadlari yangilanmagan; mustaqil mashq dasturi yoʻq"
+     }
+    ]
+   },
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**Matriks keputusan**",
+     "en": "**Decision matrix**",
+     "zh": "**决策矩阵**",
+     "uz": "**Qaror matritsasi**"
+    }
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 4,
+    "item": [
+     {
+      "label": {
+       "id": "HIJAU",
+       "en": "GREEN",
+       "zh": "绿色",
+       "uz": "YASHIL"
+      },
+      "judul": {
+       "id": "Progres sesuai gerbang",
+       "en": "Progress in line with the gates",
+       "zh": "进展符合各关卡要求",
+       "uz": "Progress darvozalarga mos"
+      },
+      "teks": {
+       "id": "→ **Lanjutkan program**",
+       "en": "→ **Continue the programme**",
+       "zh": "→ **继续当前计划**",
+       "uz": "→ **Dasturni davom ettiring**"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "KUNING",
+       "en": "YELLOW",
+       "zh": "黄色",
+       "uz": "SARIQ"
+      },
+      "judul": {
+       "id": "Lambat, tapi ada progres & alasan jelas",
+       "en": "Slow, but with progress & a clear reason",
+       "zh": "较慢，但有进展且原因明确",
+       "uz": "Sekin, lekin progress va aniq sabab bor"
+      },
+      "teks": {
+       "id": "→ **Lanjutkan dengan target dan batas waktu baru**",
+       "en": "→ **Continue with new targets and a new deadline**",
+       "zh": "→ **以新目标和新期限继续**",
+       "uz": "→ **Yangi maqsad va muddat bilan davom ettiring**"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "MERAH",
+       "en": "RED",
+       "zh": "红色",
+       "uz": "QIZIL"
+      },
+      "judul": {
+       "id": "Tidak ada progres atau ada tanda bahaya",
+       "en": "No progress or red flags present",
+       "zh": "无进展或出现危险信号",
+       "uz": "Progress yoʻq yoki xavfli belgilar bor"
+      },
+      "teks": {
+       "id": "→ **Rujuk ke operator / tinjauan sejawat**",
+       "en": "→ **Refer to the operating surgeon / peer review**",
+       "zh": "→ **转诊至主刀医生/同行评议**",
+       "uz": "→ **Operatsiya qilgan shifokorga yoʻllang / hamkasblar ekspertizasi**"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "BIRU",
+       "en": "BLUE",
+       "zh": "蓝色",
+       "uz": "KOʻK"
+      },
+      "judul": {
+       "id": "Gerbang tercapai atau plateau fungsional",
+       "en": "Gates achieved or functional plateau",
+       "zh": "已通过关卡或功能进入平台期",
+       "uz": "Darvozalarga erishilgan yoki funksional plato"
+      },
+      "teks": {
+       "id": "→ **Transisi ke program latihan mandiri**",
+       "en": "→ **Transition to a self-managed exercise programme**",
+       "zh": "→ **过渡到自主训练计划**",
+       "uz": "→ **Mustaqil mashq dasturiga oʻting**"
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "* Ambang praktis yang diusulkan, bukan dari pedoman; sesuaikan dengan kebijakan penjamin. Referensi: [1] Kotsifaki 2023 · [14] Calanna 2022 · [25] Irrgang 2006",
+     "en": "* Proposed practical threshold, not from guidelines; adapt to the payer’s policy. References: [1] Kotsifaki 2023 · [14] Calanna 2022 · [25] Irrgang 2006",
+     "zh": "* 为建议的实用阈值，并非出自指南；请根据承保方政策调整。参考文献：[1] Kotsifaki 2023 · [14] Calanna 2022 · [25] Irrgang 2006",
+     "uz": "* Taklif etilgan amaliy chegara, qoʻllanmadan emas; toʻlovchi siyosatiga moslang. Manbalar: [1] Kotsifaki 2023 · [14] Calanna 2022 · [25] Irrgang 2006"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 33,
+  "id": "enam-hal-dibawa-pulang",
+  "kicker": {
+   "id": "PESAN UTAMA",
+   "en": "KEY MESSAGES",
+   "zh": "核心要点",
+   "uz": "ASOSIY XULOSALAR"
+  },
+  "judul": {
+   "id": "Enam Hal untuk Dibawa Pulang",
+   "en": "Six Take-Home Messages",
+   "zh": "六条核心要点",
+   "uz": "Esda saqlash kerak boʻlgan olti xulosa"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Naik fase berdasarkan kriteria, bukan kalender",
+       "en": "Progress through phases by criteria, not by calendar",
+       "zh": "依据标准而非日历晋级阶段",
+       "uz": "Bosqichdan bosqichga kalendar emas, mezonlar asosida oʻting"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Ekstensi penuh & aktivasi quadriceps adalah prioritas minggu-minggu awal",
+       "en": "Full extension & quadriceps activation are the priorities of the early weeks",
+       "zh": "完全伸直与股四头肌激活是术后最初几周的重点",
+       "uz": "Toʻliq yozilish va kvadritseps faollashuvi — dastlabki haftalarning ustuvor vazifasi"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Jenis tindakan meniskus menentukan batas menapak, fleksi, dan brace",
+       "en": "The type of meniscal procedure determines weight-bearing, flexion, and brace limits",
+       "zh": "半月板手术类型决定负重、屈曲和支具的限制",
+       "uz": "Menisk muolajasi turi tayanish, bukilish va ortez cheklovlarini belgilaydi"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Limb Symmetry Index (LSI) saja bisa menyesatkan; bandingkan dengan kapasitas pra-cedera",
+       "en": "The Limb Symmetry Index (LSI) alone can be misleading; compare with pre-injury capacity",
+       "zh": "仅凭肢体对称指数（LSI）可能产生误导；应与伤前能力比较",
+       "uz": "Faqat Limb Symmetry Index (LSI) chalgʻitishi mumkin; jarohatdan oldingi imkoniyat bilan solishtiring"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Kerja kantoran bisa mulai dalam minggu; atlet kembali bertanding ≥ 9–12 bulan",
+       "en": "Office work can resume within weeks; athletes return to competition at ≥ 9–12 months",
+       "zh": "办公室工作数周内即可恢复；运动员重返比赛需 ≥ 9–12 个月",
+       "uz": "Ofis ishiga bir necha haftada qaytish mumkin; sportchilar musobaqaga ≥ 9–12 oyda qaytadi"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Program yang melewati timeline dinilai dari progres objektif, bukan durasi",
+       "en": "Programmes exceeding the timeline are judged on objective progress, not duration",
+       "zh": "超出时间线的项目应依据客观进展而非时长来评价",
+       "uz": "Muddatdan oshgan dastur davomiylik boʻyicha emas, obyektiv progress boʻyicha baholanadi"
+      },
+      "teks": null,
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Program selalu disesuaikan oleh dokter operator dan tim rehabilitasi.",
+     "en": "The programme is always tailored by the operating surgeon and the rehabilitation team.",
+     "zh": "康复计划始终由主刀医生和康复团队个体化调整。",
+     "uz": "Dastur har doim operatsiya qilgan shifokor va reabilitatsiya jamoasi tomonidan moslashtiriladi."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 34,
+  "id": "daftar-pustaka-1",
+  "kicker": {
+   "id": "DAFTAR PUSTAKA",
+   "en": "REFERENCES",
+   "zh": "参考文献",
+   "uz": "ADABIYOTLAR"
+  },
+  "judul": {
+   "id": "Referensi (1/2)",
+   "en": "References (1/2)",
+   "zh": "参考文献（1/2）",
+   "uz": "Adabiyotlar (1/2)"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "rujukan",
+    "item": [
+     "[1] Kotsifaki R, Korakakis V, King E, dkk. Aspetar clinical practice guideline on rehabilitation after anterior cruciate ligament reconstruction. Br J Sports Med. 2023;57(9):500–514.",
+     "[2] van Melick N, van Cingel RE, Brooijmans F, dkk. Evidence-based clinical practice update: practice guidelines for anterior cruciate ligament rehabilitation based on a systematic review and multidisciplinary consensus. Br J Sports Med. 2016;50(24):1506–1515.",
+     "[3] Grindem H, Snyder-Mackler L, Moksnes H, Engebretsen L, Risberg MA. Simple decision rules can reduce reinjury risk by 84% after ACL reconstruction: the Delaware-Oslo ACL cohort study. Br J Sports Med. 2016;50(13):804–808.",
+     "[4] Kyritsis P, Bahr R, Landreau P, Miladi R, Witvrouw E. Likelihood of ACL graft rupture: not meeting six clinical discharge criteria before return to sport is associated with a four times greater risk of rupture. Br J Sports Med. 2016;50(15):946–951.",
+     "[5] Failla MJ, Logerstedt DS, Grindem H, dkk. Does extended preoperative rehabilitation influence outcomes 2 years after ACL reconstruction? Am J Sports Med. 2016;44(10):2608–2614.",
+     "[6] Hauger AV, Reiman MP, Bjordal JM, dkk. Neuromuscular electrical stimulation is effective in strengthening the quadriceps muscle after anterior cruciate ligament surgery. Knee Surg Sports Traumatol Arthrosc. 2018;26(2):399–410.",
+     "[7] Rambaud AJM, Ardern CL, Thoreux P, Regnaux JP, Edouard P. Criteria for return to running after anterior cruciate ligament reconstruction: a scoping review. Br J Sports Med. 2018;52(22):1437–1444.",
+     "[8] Wellsandt E, Failla MJ, Snyder-Mackler L. Limb symmetry indexes can overestimate knee function after anterior cruciate ligament injury. J Orthop Sports Phys Ther. 2017;47(5):334–338.",
+     "[9] Buckthorpe M. Optimising the late-stage rehabilitation and return-to-sport training and testing process after ACL reconstruction. Sports Med. 2019;49(7):1043–1058.",
+     "[10] Webster KE, Feller JA, Lambros C. Development and preliminary validation of a scale to measure the psychological impact of returning to sport following anterior cruciate ligament reconstruction surgery. Phys Ther Sport. 2008;9(1):9–15.",
+     "[11] Spang RC 3rd, Nasr MC, Mohamadi A, dkk. Rehabilitation following meniscal repair: a systematic review. BMJ Open Sport Exerc Med. 2018;4(1):e000212.",
+     "[12] O’Donnell K, Freedman KB, Tjoumakaris FP. Rehabilitation protocols after isolated meniscal repair: a systematic review. Am J Sports Med. 2017;45(7):1687–1697.",
+     "[13] Lind M, Nielsen T, Faunø P, Lund B, Christiansen SE. Free rehabilitation is safe after isolated meniscus repair: a prospective randomized trial comparing free with restricted rehabilitation regimens. Am J Sports Med. 2013;41(12):2753–2758.",
+     "[14] Calanna F, Duthon V, Menetrey J. Rehabilitation and return to sports after isolated meniscal repairs: a new evidence-based protocol. J Exp Orthop. 2022;9(1):80.",
+     "[15] Mueller BT, Moulton SG, O’Brien L, LaPrade RF. Rehabilitation following meniscal root repair: a clinical commentary. J Orthop Sports Phys Ther. 2016;46(2):104–113.",
+     "[16] Kise NJ, Risberg MA, Stensrud S, dkk. Exercise therapy versus arthroscopic partial meniscectomy for degenerative meniscal tear in middle aged patients: randomised controlled trial with two year follow-up. BMJ. 2016;354:i3740.",
+     "[17] Ardern CL, Glasgow P, Schneiders A, dkk. 2016 Consensus statement on return to sport from the First World Congress in Sports Physical Therapy, Bern. Br J Sports Med. 2016;50(14):853–864.",
+     "[18] Arnoczky SP, Warren RF. Microvasculature of the human meniscus. Am J Sports Med. 1982;10(2):90–95."
+    ]
+   }
+  ]
+ },
+ {
+  "slide": 35,
+  "id": "daftar-pustaka-2",
+  "kicker": {
+   "id": "DAFTAR PUSTAKA",
+   "en": "REFERENCES",
+   "zh": "参考文献",
+   "uz": "ADABIYOTLAR"
+  },
+  "judul": {
+   "id": "Referensi (2/2)",
+   "en": "References (2/2)",
+   "zh": "参考文献（2/2）",
+   "uz": "Adabiyotlar (2/2)"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "rujukan",
+    "item": [
+     "[19] Duthon VB, Barea C, Abrassart S, Fasel JH, Fritschy D, Ménétrey J. Anatomy of the anterior cruciate ligament. Knee Surg Sports Traumatol Arthrosc. 2006;14(3):204–213.",
+     "[20] Fox AJS, Wanivenhaus F, Burge AJ, Warren RF, Rodeo SA. The human meniscus: a review of anatomy, function, injury, and advances in treatment. Clin Anat. 2015;28(2):269–287.",
+     "[21] Allaire R, Muriuki M, Gilbertson L, Harner CD. Biomechanical consequences of a tear of the posterior root of the medial meniscus: similar to total meniscectomy. J Bone Joint Surg Am. 2008;90(9):1922–1931.",
+     "[22] Mouarbes D, Menetrey J, Marot V, dkk. Anterior cruciate ligament reconstruction: a systematic review and meta-analysis of outcomes for quadriceps tendon autograft versus bone–patellar tendon–bone and hamstring-tendon autografts. Am J Sports Med. 2019;47(14):3531–3540.",
+     "[23] Getgood AMJ, Bryant DM, Litchfield R, dkk; STABILITY Study Group. Lateral extra-articular tenodesis reduces failure of hamstring tendon autograft anterior cruciate ligament reconstruction: 2-year outcomes from the STABILITY study randomized clinical trial. Am J Sports Med. 2020;48(2):285–297.",
+     "[24] Kopf S, Beaufils P, Hirschmann MT, dkk. Management of traumatic meniscus tears: the 2019 ESSKA meniscus consensus. Knee Surg Sports Traumatol Arthrosc. 2020;28(4):1177–1194.",
+     "[25] Irrgang JJ, Anderson AF, Boland AL, dkk. Responsiveness of the International Knee Documentation Committee subjective knee form. Am J Sports Med. 2006;34(10):1567–1573.",
+     "[26] Roos EM, Lohmander LS. The Knee injury and Osteoarthritis Outcome Score (KOOS): from joint injury to osteoarthritis. Health Qual Life Outcomes. 2003;1:64.",
+     "[27] Sturgill LP, Snyder-Mackler L, Manal TJ, Axe MJ. Interrater reliability of a clinical scale to assess knee joint effusion. J Orthop Sports Phys Ther. 2009;39(12):845–849.",
+     "[28] Kruse LM, Gray B, Wright RW. Rehabilitation after anterior cruciate ligament reconstruction: a systematic review. J Bone Joint Surg Am. 2012;94(19):1737–1748.",
+     "[29] Marois B, Tan XW, Pauyo T, dkk. Can a knee brace prevent ACL reinjury: a systematic review. Int J Environ Res Public Health. 2021;18(14):7611.",
+     "[30] Noyes FR, Barber SD, Mangine RE. Abnormal lower limb symmetry determined by function hop tests after anterior cruciate ligament rupture. Am J Sports Med. 1991;19(5):513–518.",
+     "[31] Özbek EA, Dursun Savran M, Baltacı C, dkk. Return to work after anterior cruciate ligament reconstruction: a systematic review. Orthop J Sports Med. 2024;12(5):23259671241249086.",
+     "[32] ACC & New Zealand Orthopaedic Association. Return to work guidance: ACL reconstruction (opini ahli New Zealand Knee Society). acc.co.nz, t.t.",
+     "[33] Herrmann SD, Willis EA, Ainsworth BE, dkk. 2024 Adult Compendium of Physical Activities: a third update of the energy costs of human activities. J Sport Health Sci. 2024;13(1):6–12.",
+     "[34] Enright PL, Sherrill DL. Reference equations for the six-minute walk in healthy adults. Am J Respir Crit Care Med. 1998;158(5 Pt 1):1384–1387.",
+     "[35] ATS Committee on Proficiency Standards for Clinical Pulmonary Function Laboratories. ATS statement: guidelines for the six-minute walk test. Am J Respir Crit Care Med. 2002;166(1):111–117.",
+     "[36] Rowe PJ, Myles CM, Walker C, Nutton R. Knee joint kinematics in gait and other functional activities measured using flexible electrogoniometry: how much knee motion is sufficient for normal daily life? Gait Posture. 2000;12(2):143–155."
+    ]
+   }
+  ]
+ }
+]

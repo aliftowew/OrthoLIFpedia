@@ -1,0 +1,1780 @@
+[
+ {
+  "slide": 13,
+  "id": "prehab-fase-0",
+  "kicker": {
+   "id": "FASE 0 · PRA-OPERASI",
+   "en": "PHASE 0 · PRE-OPERATIVE",
+   "zh": "第0期 · 术前",
+   "uz": "0-BOSQICH · OPERATSIYADAN OLDIN"
+  },
+  "judul": {
+   "id": "Prehab: Tenangkan Lutut Sebelum Operasi",
+   "en": "Prehab: Settle the Knee Before Surgery",
+   "zh": "术前康复：手术前先让膝关节安定下来",
+   "uz": "Prehab: operatsiyadan oldin tizzani tinchlantiring"
+  },
+  "pesan": {
+   "id": "Lutut tenang, operasi senang",
+   "en": "A calm knee makes for a good operation",
+   "zh": "膝关节安定，手术顺利",
+   "uz": "Tinch tizza — muvaffaqiyatli operatsiya"
+  },
+  "blok": [
+   {
+    "tipe": "angka",
+    "item": [
+     {
+      "nilai": "72%",
+      "label": {
+       "id": "kembali ke olahraga pra-cedera dalam 2 tahun",
+       "en": "returned to pre-injury sport within 2 years",
+       "zh": "2年内恢复伤前运动水平",
+       "uz": "2 yil ichida jarohatdan oldingi sportga qaytgan"
+      },
+      "teks": {
+       "id": "dengan prehabilitasi lanjutan (kohort Delaware-Oslo)",
+       "en": "with extended prehabilitation (Delaware-Oslo cohort)",
+       "zh": "接受延长术前康复（Delaware-Oslo 队列）",
+       "uz": "kengaytirilgan prehabilitatsiya bilan (Delaware-Oslo kogortasi)"
+      }
+     },
+     {
+      "nilai": "63%",
+      "label": {
+       "id": "kembali ke olahraga pra-cedera dalam 2 tahun",
+       "en": "returned to pre-injury sport within 2 years",
+       "zh": "2年内恢复伤前运动水平",
+       "uz": "2 yil ichida jarohatdan oldingi sportga qaytgan"
+      },
+      "teks": {
+       "id": "tanpa prehabilitasi lanjutan (kohort MOON)",
+       "en": "without extended prehabilitation (MOON cohort)",
+       "zh": "未接受延长术前康复（MOON 队列）",
+       "uz": "kengaytirilgan prehabilitatsiyasiz (MOON kogortasi)"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": {
+       "id": "SARAN REHABILITASI",
+       "en": "REHAB ADVICE",
+       "zh": "康复建议",
+       "uz": "REABILITATSIYA TAVSIYASI"
+      },
+      "judul": {
+       "id": "Kurangi bengkak & nyeri",
+       "en": "Reduce swelling & pain",
+       "zh": "减轻肿胀和疼痛",
+       "uz": "Shish va ogʻriqni kamaytirish"
+      },
+      "teks": {
+       "id": "Kompresi, elevasi, krioterapi",
+       "en": "Compression, elevation, cryotherapy",
+       "zh": "加压、抬高、冷疗",
+       "uz": "Kompressiya, oyoqni koʻtarish, krioterapiya"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "SARAN REHABILITASI",
+       "en": "REHAB ADVICE",
+       "zh": "康复建议",
+       "uz": "REABILITATSIYA TAVSIYASI"
+      },
+      "judul": {
+       "id": "Kembalikan ekstensi penuh",
+       "en": "Restore full extension",
+       "zh": "恢复完全伸直",
+       "uz": "Toʻliq ekstenziyani tiklash"
+      },
+      "teks": {
+       "id": "Cegah kontraktur fleksi sebelum operasi",
+       "en": "Prevent flexion contracture before surgery",
+       "zh": "术前预防屈曲挛缩",
+       "uz": "Operatsiyadan oldin fleksion kontrakturaning oldini olish"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "SARAN REHABILITASI",
+       "en": "REHAB ADVICE",
+       "zh": "康复建议",
+       "uz": "REABILITATSIYA TAVSIYASI"
+      },
+      "judul": {
+       "id": "Aktifkan quadriceps",
+       "en": "Activate the quadriceps",
+       "zh": "激活股四头肌",
+       "uz": "Kvadritsepsni faollashtirish"
+      },
+      "teks": {
+       "id": "Latihan penguatan progresif & neuromuskular",
+       "en": "Progressive strengthening & neuromuscular training",
+       "zh": "渐进性力量训练和神经肌肉训练",
+       "uz": "Progressiv kuch va neyromuskulyar mashqlar"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "SARAN REHABILITASI",
+       "en": "REHAB ADVICE",
+       "zh": "康复建议",
+       "uz": "REABILITATSIYA TAVSIYASI"
+      },
+      "judul": {
+       "id": "Edukasi pasien",
+       "en": "Patient education",
+       "zh": "患者教育",
+       "uz": "Bemorni oʻqitish"
+      },
+      "teks": {
+       "id": "Jelaskan alur pasca-operasi & target tiap fase",
+       "en": "Explain the post-operative pathway & the goals of each phase",
+       "zh": "讲解术后流程及各期目标",
+       "uz": "Operatsiyadan keyingi yoʻl va har bir bosqich maqsadlarini tushuntiring"
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Gerbang — siap dioperasi bila:",
+     "en": "Gate — ready for surgery when:",
+     "zh": "关卡——满足以下条件即可手术：",
+     "uz": "Darvoza — quyidagilar boʻlsa, operatsiyaga tayyor:"
+    },
+    "butir": [
+     {
+      "id": "Ekstensi penuh, tanpa kontraktur fleksi",
+      "en": "Full extension, no flexion contracture",
+      "zh": "完全伸直，无屈曲挛缩",
+      "uz": "Toʻliq ekstenziya, fleksion kontraktura yoʻq"
+     },
+     {
+      "id": "Bengkak minimal",
+      "en": "Minimal swelling",
+      "zh": "肿胀轻微",
+      "uz": "Shish minimal"
+     },
+     {
+      "id": "Kontraksi quadriceps volunter baik (SLR tanpa lag)",
+      "en": "Good voluntary quadriceps contraction (SLR without lag)",
+      "zh": "股四头肌自主收缩良好（直腿抬高无伸膝滞后）",
+      "uz": "Kvadritsepsning ixtiyoriy qisqarishi yaxshi (SLR lagsiz)"
+     },
+     {
+      "id": "Pola jalan normal",
+      "en": "Normal gait pattern",
+      "zh": "步态正常",
+      "uz": "Yurish shakli normal"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki dkk., Br J Sports Med 2023 · [5] Failla dkk., Am J Sports Med 2016",
+     "en": "References: [1] Kotsifaki et al., Br J Sports Med 2023 · [5] Failla et al., Am J Sports Med 2016",
+     "zh": "参考文献：[1] Kotsifaki et al., Br J Sports Med 2023 · [5] Failla et al., Am J Sports Med 2016",
+     "uz": "Manbalar: [1] Kotsifaki et al., Br J Sports Med 2023 · [5] Failla et al., Am J Sports Med 2016"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 14,
+  "id": "fase-1-proteksi",
+  "kicker": {
+   "id": "FASE 1 · 0–2 MINGGU",
+   "en": "PHASE 1 · 0–2 WEEKS",
+   "zh": "第1期 · 0–2周",
+   "uz": "1-BOSQICH · 0–2 HAFTA"
+  },
+  "judul": {
+   "id": "Proteksi, Ekstensi Penuh, Aktivasi Quadriceps",
+   "en": "Protection, Full Extension, Quadriceps Activation",
+   "zh": "保护、完全伸直、激活股四头肌",
+   "uz": "Himoya, toʻliq ekstenziya, kvadritsepsni faollashtirish"
+  },
+  "pesan": {
+   "id": "Lurus dulu, kuat kemudian",
+   "en": "Straight first, strong later",
+   "zh": "先伸直，后增力",
+   "uz": "Avval toʻgʻrilash, keyin kuch"
+  },
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 4,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Kontrol bengkak & nyeri",
+       "en": "Control swelling & pain",
+       "zh": "控制肿胀和疼痛",
+       "uz": "Shish va ogʻriqni nazorat qilish"
+      },
+      "teks": {
+       "id": "Kompresi, elevasi, krioterapi\nNMES dapat membantu mengurangi bengkak awal",
+       "en": "Compression, elevation, cryotherapy\nNMES can help reduce early swelling",
+       "zh": "加压、抬高、冷疗\nNMES 有助于减轻早期肿胀",
+       "uz": "Kompressiya, oyoqni koʻtarish, krioterapiya\nNMES erta shishni kamaytirishga yordam berishi mumkin"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Ekstensi penuh sejak awal",
+       "en": "Full extension from the start",
+       "zh": "尽早完全伸直",
+       "uz": "Boshidanoq toʻliq ekstenziya"
+      },
+      "teks": {
+       "id": "Prioritas utama minggu pertama\nDefisit ekstensi sulit dikoreksi belakangan",
+       "en": "Top priority in the first week\nAn extension deficit is hard to correct later",
+       "zh": "第一周的首要任务\n伸直受限日后难以纠正",
+       "uz": "Birinchi haftaning asosiy ustuvorligi\nEkstenziya yetishmovchiligini keyin tuzatish qiyin"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Aktivasi quadriceps",
+       "en": "Quadriceps activation",
+       "zh": "激活股四头肌",
+       "uz": "Kvadritsepsni faollashtirish"
+      },
+      "teks": {
+       "id": "Isometrik quadriceps mulai 2 minggu pertama\nTambahkan NMES untuk kekuatan quadriceps",
+       "en": "Isometric quadriceps exercises within the first 2 weeks\nAdd NMES for quadriceps strength",
+       "zh": "前2周内开始股四头肌等长收缩训练\n加用 NMES 增强股四头肌力量",
+       "uz": "Kvadritseps izometrik mashqlari dastlabki 2 haftada boshlanadi\nKvadritseps kuchi uchun NMES qoʻshing"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Mobilisasi & berjalan",
+       "en": "Mobilisation & walking",
+       "zh": "活动与行走",
+       "uz": "Mobilizatsiya va yurish"
+      },
+      "teks": {
+       "id": "ACL saja: menapak sesuai toleransi dengan kruk\nAda repair meniskus: ikuti batasan menapak",
+       "en": "ACL only: weight-bearing as tolerated with crutches\nWith meniscal repair: follow the weight-bearing restrictions",
+       "zh": "单纯前交叉韧带：扶拐杖在可耐受范围内负重\n合并半月板修复：遵守负重限制",
+       "uz": "Faqat oldingi xochsimon boylam: qoʻltiqtayoq bilan chidamlilik boʻyicha tayanish\nMenisk tikilgan boʻlsa: tayanish cheklovlariga rioya qiling"
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Gerbang — naik ke Fase 2 bila:",
+     "en": "Gate — progress to Phase 2 when:",
+     "zh": "关卡——满足以下条件进入第2期：",
+     "uz": "Darvoza — quyidagilar boʻlsa, 2-bosqichga oʻting:"
+    },
+    "butir": [
+     {
+      "id": "Ekstensi penuh",
+      "en": "Full extension",
+      "zh": "完全伸直",
+      "uz": "Toʻliq ekstenziya"
+     },
+     {
+      "id": "SLR tanpa extension lag",
+      "en": "SLR without extension lag",
+      "zh": "直腿抬高无伸膝滞后",
+      "uz": "SLR extension lagsiz"
+     },
+     {
+      "id": "Bengkak terkendali",
+      "en": "Swelling controlled",
+      "zh": "肿胀已控制",
+      "uz": "Shish nazorat ostida"
+     },
+     {
+      "id": "Nyeri terkontrol",
+      "en": "Pain controlled",
+      "zh": "疼痛已控制",
+      "uz": "Ogʻriq nazorat ostida"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki dkk., Br J Sports Med 2023 · [2] van Melick dkk., Br J Sports Med 2016 · [6] Hauger dkk., Knee Surg Sports Traumatol Arthrosc 2018",
+     "en": "References: [1] Kotsifaki et al., Br J Sports Med 2023 · [2] van Melick et al., Br J Sports Med 2016 · [6] Hauger et al., Knee Surg Sports Traumatol Arthrosc 2018",
+     "zh": "参考文献：[1] Kotsifaki et al., Br J Sports Med 2023 · [2] van Melick et al., Br J Sports Med 2016 · [6] Hauger et al., Knee Surg Sports Traumatol Arthrosc 2018",
+     "uz": "Manbalar: [1] Kotsifaki et al., Br J Sports Med 2023 · [2] van Melick et al., Br J Sports Med 2016 · [6] Hauger et al., Knee Surg Sports Traumatol Arthrosc 2018"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 15,
+  "id": "fase-2-rom-beban-awal",
+  "kicker": {
+   "id": "FASE 2 · 2–6 MINGGU",
+   "en": "PHASE 2 · 2–6 WEEKS",
+   "zh": "第2期 · 2–6周",
+   "uz": "2-BOSQICH · 2–6 HAFTA"
+  },
+  "judul": {
+   "id": "Memulihkan ROM, Pola Jalan, dan Beban Awal",
+   "en": "Restoring ROM, Gait, and Early Loading",
+   "zh": "恢复关节活动度、步态与早期负荷",
+   "uz": "ROM, yurish shakli va dastlabki yuklamani tiklash"
+  },
+  "pesan": {
+   "id": "Buka kunci latihan per minggu",
+   "en": "Unlock exercises week by week",
+   "zh": "按周逐步解锁训练",
+   "uz": "Mashqlarni hafta sayin ochib boring"
+  },
+  "blok": [
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**Kapan latihan boleh dimulai (rekonstruksi ACL)**",
+     "en": "**When exercises may begin (ACL reconstruction)**",
+     "zh": "**各项训练何时可以开始（前交叉韧带重建）**",
+     "uz": "**Mashqlarni qachon boshlash mumkin (oldingi xochsimon boylam rekonstruksiyasi)**"
+    }
+   },
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": {
+       "id": "Minggu 3",
+       "en": "Week 3",
+       "zh": "第3周",
+       "uz": "3-hafta"
+      },
+      "judul": {
+       "id": "Leg press 0–45°",
+       "en": "Leg press 0–45°",
+       "zh": "腿举 0–45°",
+       "uz": "Leg press 0–45°"
+      },
+      "teks": {
+       "id": "Pola half-squat; untuk graft hamstring",
+       "en": "Half-squat pattern; for hamstring grafts",
+       "zh": "半蹲模式；适用于腘绳肌移植物",
+       "uz": "Half-squat shakli; hamstring grafti uchun"
+      }
+     },
+     {
+      "label": {
+       "id": "Minggu 3",
+       "en": "Week 3",
+       "zh": "第3周",
+       "uz": "3-hafta"
+      },
+      "judul": {
+       "id": "Eksentrik quadriceps 20–60°",
+       "en": "Eccentric quadriceps 20–60°",
+       "zh": "股四头肌离心训练 20–60°",
+       "uz": "Kvadritseps ekssentrik mashqi 20–60°"
+      },
+      "teks": {
+       "id": "Graft tendon patela atau hamstring",
+       "en": "Patellar tendon or hamstring graft",
+       "zh": "髌腱或腘绳肌移植物",
+       "uz": "Patellyar pay yoki hamstring grafti"
+      }
+     },
+     {
+      "label": {
+       "id": "Minggu 3–4",
+       "en": "Weeks 3–4",
+       "zh": "第3–4周",
+       "uz": "3–4-hafta"
+      },
+      "judul": {
+       "id": "Terapi akuatik",
+       "en": "Aquatic therapy",
+       "zh": "水中治疗",
+       "uz": "Suv terapiyasi"
+      },
+      "teks": {
+       "id": "Setelah luka operasi sembuh sempurna",
+       "en": "Once the surgical wound has fully healed",
+       "zh": "手术切口完全愈合后",
+       "uz": "Operatsiya jarohati toʻliq bitgandan keyin"
+      }
+     },
+     {
+      "label": {
+       "id": "Minggu 4",
+       "en": "Week 4",
+       "zh": "第4周",
+       "uz": "4-hafta"
+      },
+      "judul": {
+       "id": "Open kinetic chain 90–45°",
+       "en": "Open kinetic chain 90–45°",
+       "zh": "开链训练 90–45°",
+       "uz": "Open kinetic chain 90–45°"
+      },
+      "teks": {
+       "id": "Pantau nyeri lutut depan; tidak ada bukti mendukung lebih awal",
+       "en": "Monitor anterior knee pain; no evidence supports starting earlier",
+       "zh": "监测膝前痛；无证据支持更早开始",
+       "uz": "Tizza old ogʻrigʻini kuzating; ertaroq boshlashni qoʻllovchi dalil yoʻq"
+      }
+     },
+     {
+      "label": {
+       "id": "Fase awal",
+       "en": "Early phase",
+       "zh": "早期",
+       "uz": "Erta bosqich"
+      },
+      "judul": {
+       "id": "BFR beban rendah",
+       "en": "Low-load BFR",
+       "zh": "低负荷血流限制训练（BFR）",
+       "uz": "Past yuklamali BFR"
+      },
+      "teks": {
+       "id": "Bila beban tinggi belum toleran; skrining kontraindikasi",
+       "en": "When high loads are not yet tolerated; screen for contraindications",
+       "zh": "尚不能耐受高负荷时使用；需筛查禁忌证",
+       "uz": "Yuqori yuklamaga hali chidamaganda; qarshi koʻrsatmalarni tekshiring"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Gerbang — naik ke Fase 3 bila:",
+     "en": "Gate — progress to Phase 3 when:",
+     "zh": "关卡——满足以下条件进入第3期：",
+     "uz": "Darvoza — quyidagilar boʻlsa, 3-bosqichga oʻting:"
+    },
+    "butir": [
+     {
+      "id": "Jalan tanpa kruk & tanpa pincang",
+      "en": "Walking without crutches & without a limp",
+      "zh": "无需拐杖行走且无跛行",
+      "uz": "Qoʻltiqtayoqsiz va oqsoqlanmasdan yurish"
+     },
+     {
+      "id": "Ekstensi penuh; fleksi terus meningkat",
+      "en": "Full extension; flexion keeps improving",
+      "zh": "完全伸直；屈曲持续改善",
+      "uz": "Toʻliq ekstenziya; fleksiya oshib bormoqda"
+     },
+     {
+      "id": "Bengkak tidak bertambah setelah latihan",
+      "en": "No increase in swelling after exercise",
+      "zh": "训练后肿胀不加重",
+      "uz": "Mashqdan keyin shish oshmaydi"
+     },
+     {
+      "id": "Squat dua kaki terkontrol",
+      "en": "Controlled double-leg squat",
+      "zh": "双腿深蹲控制良好",
+      "uz": "Ikki oyoqda squat nazoratli"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki dkk., Br J Sports Med 2023 · [2] van Melick dkk., Br J Sports Med 2016",
+     "en": "References: [1] Kotsifaki et al., Br J Sports Med 2023 · [2] van Melick et al., Br J Sports Med 2016",
+     "zh": "参考文献：[1] Kotsifaki et al., Br J Sports Med 2023 · [2] van Melick et al., Br J Sports Med 2016",
+     "uz": "Manbalar: [1] Kotsifaki et al., Br J Sports Med 2023 · [2] van Melick et al., Br J Sports Med 2016"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 16,
+  "id": "contoh-latihan-fase-1-2",
+  "kicker": {
+   "id": "CONTOH LATIHAN · FASE 1–2",
+   "en": "EXERCISE EXAMPLES · PHASES 1–2",
+   "zh": "训练示例 · 第1–2期",
+   "uz": "MASHQ NAMUNALARI · 1–2-BOSQICH"
+  },
+  "judul": {
+   "id": "Latihan Awal: Aktivasi, ROM, dan Beban Ringan",
+   "en": "Early Exercises: Activation, ROM, and Light Loading",
+   "zh": "早期训练：激活、关节活动度与轻负荷",
+   "uz": "Dastlabki mashqlar: faollashtirish, ROM va yengil yuklama"
+  },
+  "pesan": {
+   "id": "Kecil, rutin, konsisten",
+   "en": "Small, regular, consistent",
+   "zh": "小量、规律、坚持",
+   "uz": "Kichik, muntazam, izchil"
+  },
+  "blok": [
+   {
+    "tipe": "galeri",
+    "item": [
+     {
+      "id": "aclm-latihan16-1",
+      "keterangan": {
+       "id": "**Straight leg raise**\nKencangkan quadriceps dulu; angkat hanya bila lutut tetap lurus (tanpa lag)",
+       "en": "**Straight leg raise**\nTighten the quadriceps first; lift only if the knee stays straight (no lag)",
+       "zh": "**直腿抬高**\n先收紧股四头肌；只有膝关节能保持伸直（无滞后）时才抬腿",
+       "uz": "**Straight leg raise**\nAvval kvadritsepsni taranglang; tizza toʻgʻri qolsagina koʻtaring (lagsiz)"
+      }
+     },
+     {
+      "id": "aclm-latihan16-2",
+      "keterangan": {
+       "id": "**Heel slide**\nGeser tumit ke arah bokong sebatas toleransi; patuhi batas 0–90° bila ada repair meniskus",
+       "en": "**Heel slide**\nSlide the heel towards the buttock as tolerated; respect the 0–90° limit after meniscal repair",
+       "zh": "**足跟滑动**\n在可耐受范围内将足跟滑向臀部；半月板修复者须遵守 0–90° 限制",
+       "uz": "**Heel slide**\nTovonni chidamlilik doirasida dumba tomon suring; menisk tikilgan boʻlsa 0–90° chegarasiga rioya qiling"
+      }
+     },
+     {
+      "id": "aclm-latihan16-3",
+      "keterangan": {
+       "id": "**Bridge**\nAngkat panggul dengan gluteus; panggul tetap rata, tanpa nyeri lutut",
+       "en": "**Bridge**\nLift the pelvis using the glutes; keep the pelvis level, no knee pain",
+       "zh": "**臀桥**\n用臀肌抬起骨盆；骨盆保持水平，膝关节无痛",
+       "uz": "**Bridge**\nToz-sonni gluteus bilan koʻtaring; toz tekis qolsin, tizzada ogʻriq boʻlmasin"
+      }
+     },
+     {
+      "id": "aclm-latihan16-4",
+      "keterangan": {
+       "id": "**Mini squat 0–45°**\nBerat seimbang di kedua kaki; lutut segaris dengan jari kaki",
+       "en": "**Mini squat 0–45°**\nWeight evenly on both legs; knees in line with the toes",
+       "zh": "**微蹲 0–45°**\n体重均匀分布于双腿；膝关节与足尖对齐",
+       "uz": "**Mini squat 0–45°**\nOgʻirlik ikki oyoqqa teng; tizzalar oyoq barmoqlari bilan bir chiziqda"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Kaki merah = kaki yang dioperasi; angka di kiri atas = fleksi lutut kaki tersebut.",
+     "en": "Red leg = operated leg; the number at top left = knee flexion of that leg.",
+     "zh": "红色腿＝手术侧；左上角数字＝该侧膝关节屈曲角度。",
+     "uz": "Qizil oyoq — operatsiya qilingan oyoq; chap yuqoridagi raqam — shu oyoq tizzasining fleksiyasi."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki 2023 · [2] van Melick 2016 · [14] Calanna 2022",
+     "en": "References: [1] Kotsifaki 2023 · [2] van Melick 2016 · [14] Calanna 2022",
+     "zh": "参考文献：[1] Kotsifaki 2023 · [2] van Melick 2016 · [14] Calanna 2022",
+     "uz": "Manbalar: [1] Kotsifaki 2023 · [2] van Melick 2016 · [14] Calanna 2022"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 17,
+  "id": "repair-meniskus-stabil-vs-radial-root",
+  "kicker": {
+   "id": "KHUSUS MENISKUS",
+   "en": "MENISCUS-SPECIFIC",
+   "zh": "半月板专题",
+   "uz": "MENISK UCHUN MAXSUS"
+  },
+  "judul": {
+   "id": "Repair Meniskus: Stabil vs Radial/Root",
+   "en": "Meniscal Repair: Stable vs Radial/Root",
+   "zh": "半月板修复：稳定型 vs 放射状/根部撕裂",
+   "uz": "Menisk tikish: barqaror va radial/ildiz yirtigʻi"
+  },
+  "pesan": {
+   "id": "Root & radial = lebih sabar",
+   "en": "Root & radial = more patience",
+   "zh": "根部和放射状撕裂＝更需耐心",
+   "uz": "Ildiz va radial — koʻproq sabr"
+  },
+  "blok": [
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Repair stabil — longitudinal, ramp",
+     "en": "Stable repair — longitudinal, ramp",
+     "zh": "稳定型修复——纵行、ramp 损伤",
+     "uz": "Barqaror tikish — longitudinal, ramp"
+    },
+    "butir": [
+     {
+      "id": "**0–4 mgg:** menapak parsial 20 kg; ROM 0–90° dengan brace",
+      "en": "**0–4 wk:** partial weight-bearing 20 kg; ROM 0–90° in a brace",
+      "zh": "**0–4周：**部分负重 20 kg；佩戴支具，活动度 0–90°",
+      "uz": "**0–4 hafta:** qisman tayanish 20 kg; ortezda ROM 0–90°"
+     },
+     {
+      "id": "**4–6 mgg:** menapak sesuai toleransi; brace hingga minggu 6",
+      "en": "**4–6 wk:** weight-bearing as tolerated; brace until week 6",
+      "zh": "**4–6周：**可耐受负重；支具佩戴至第6周",
+      "uz": "**4–6 hafta:** chidamlilik boʻyicha tayanish; ortez 6-haftagacha"
+     },
+     {
+      "id": "**> 6 mgg:** fleksi > 90° diperbolehkan",
+      "en": "**> 6 wk:** flexion > 90° allowed",
+      "zh": "**>6周：**允许屈曲 >90°",
+      "uz": "**> 6 hafta:** fleksiya > 90° ruxsat etiladi"
+     },
+     {
+      "id": "**3–4 bln:** penguatan berbeban dari bulan 3; hindari fleksi dalam berbeban hingga ± 4 bulan",
+      "en": "**3–4 mo:** loaded strengthening from month 3; avoid loaded deep flexion until ~4 months",
+      "zh": "**3–4个月：**第3个月起负重力量训练；约4个月内避免负重深屈",
+      "uz": "**3–4 oy:** 3-oydan yuklamali kuch mashqlari; ~4 oygacha yuklama bilan chuqur fleksiyadan saqlaning"
+     },
+     {
+      "id": "**4–6 bln:** olahraga kontak & kompetitif (repair terisolasi)",
+      "en": "**4–6 mo:** contact & competitive sport (isolated repair)",
+      "zh": "**4–6个月：**对抗性及竞技运动（单纯修复）",
+      "uz": "**4–6 oy:** kontaktli va musobaqa sporti (izolyatsiyalangan tikish)"
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Repair radial / root — serat hoop terputus",
+     "en": "Radial / root repair — hoop fibres disrupted",
+     "zh": "放射状/根部修复——环形纤维断裂",
+     "uz": "Radial / ildiz tikish — halqasimon tolalar uzilgan"
+    },
+    "butir": [
+     {
+      "id": "**0–6 mgg:** tidak menapak; ROM 0–90°",
+      "en": "**0–6 wk:** non-weight-bearing; ROM 0–90°",
+      "zh": "**0–6周：**不负重；活动度 0–90°",
+      "uz": "**0–6 hafta:** tayanmaslik; ROM 0–90°"
+     },
+     {
+      "id": "**> 6 mgg:** menapak bertahap hingga penuh",
+      "en": "**> 6 wk:** gradual weight-bearing to full",
+      "zh": "**>6周：**逐步负重至完全负重",
+      "uz": "**> 6 hafta:** toʻliq tayanishgacha bosqichma-bosqich"
+     },
+     {
+      "id": "**4–5 bln:** penguatan berbeban ditunda 1 bulan dibanding repair stabil",
+      "en": "**4–5 mo:** loaded strengthening delayed by 1 month compared with stable repair",
+      "zh": "**4–5个月：**负重力量训练较稳定型修复推迟1个月",
+      "uz": "**4–5 oy:** yuklamali kuch mashqlari barqaror tikishga nisbatan 1 oyga kechiktiriladi"
+     },
+     {
+      "id": "**± 9 bln:** olahraga kontak/pivot profesional",
+      "en": "**~9 mo:** professional contact/pivoting sport",
+      "zh": "**约9个月：**职业对抗性/旋转类运动",
+      "uz": "**~9 oy:** professional kontaktli/pivot sport"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Apa kata bukti?",
+     "en": "What does the evidence say?",
+     "zh": "证据怎么说？",
+     "uz": "Dalillar nima deydi?"
+    },
+    "teks": {
+     "id": "**RCT, 60 pasien, repair vertikal terisolasi:** rehab bebas (2 minggu ROM 0–90°, lalu tanpa batasan) tidak meningkatkan kegagalan dibanding rehab terbatas 6 minggu (28% vs 36% tidak/parsial sembuh) [13]\n**Tinjauan sistematis:** ROM dini dan menapak segera tampak tidak merugikan; belum ada konsensus protokol ideal [11][12]",
+     "en": "**RCT, 60 patients, isolated vertical repair:** free rehab (2 weeks ROM 0–90°, then unrestricted) did not increase failure compared with 6 weeks of restricted rehab (28% vs 36% not/partially healed) [13]\n**Systematic reviews:** early ROM and immediate weight-bearing do not appear harmful; there is no consensus on the ideal protocol [11][12]",
+     "zh": "**RCT，60例，单纯垂直撕裂修复：**自由康复（2周内活动度 0–90°，之后不限制）与限制性康复6周相比，失败率未增加（未愈合/部分愈合 28% vs 36%）[13]\n**系统评价：**早期活动度训练和立即负重似乎无害；理想方案尚无共识 [11][12]",
+     "uz": "**RCT, 60 bemor, izolyatsiyalangan vertikal tikish:** erkin reabilitatsiya (2 hafta ROM 0–90°, keyin cheklovsiz) 6 haftalik cheklangan reabilitatsiyaga nisbatan muvaffaqiyatsizlikni oshirmagan (bitmagan/qisman bitgan 28% va 36%) [13]\n**Tizimli sharhlar:** erta ROM va darhol tayanish zararli emasga oʻxshaydi; ideal protokol boʻyicha konsensus yoʻq [11][12]"
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [11] Spang dkk., BMJ Open Sport Exerc Med 2018 · [12] O’Donnell dkk., Am J Sports Med 2017 · [13] Lind dkk., Am J Sports Med 2013 · [14] Calanna dkk. 2022 · [15] Mueller dkk. 2016",
+     "en": "References: [11] Spang et al., BMJ Open Sport Exerc Med 2018 · [12] O’Donnell et al., Am J Sports Med 2017 · [13] Lind et al., Am J Sports Med 2013 · [14] Calanna et al. 2022 · [15] Mueller et al. 2016",
+     "zh": "参考文献：[11] Spang et al., BMJ Open Sport Exerc Med 2018 · [12] O’Donnell et al., Am J Sports Med 2017 · [13] Lind et al., Am J Sports Med 2013 · [14] Calanna et al. 2022 · [15] Mueller et al. 2016",
+     "uz": "Manbalar: [11] Spang et al., BMJ Open Sport Exerc Med 2018 · [12] OʼDonnell et al., Am J Sports Med 2017 · [13] Lind et al., Am J Sports Med 2013 · [14] Calanna et al. 2022 · [15] Mueller et al. 2016"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 18,
+  "id": "fase-3-kekuatan-kontrol",
+  "kicker": {
+   "id": "FASE 3 · 6–12 MINGGU",
+   "en": "PHASE 3 · 6–12 WEEKS",
+   "zh": "第3期 · 6–12周",
+   "uz": "3-BOSQICH · 6–12 HAFTA"
+  },
+  "judul": {
+   "id": "Kekuatan & Kontrol: Dari Dua Kaki ke Satu Kaki",
+   "en": "Strength & Control: From Two Legs to One",
+   "zh": "力量与控制：从双腿到单腿",
+   "uz": "Kuch va nazorat: ikki oyoqdan bir oyoqqa"
+  },
+  "pesan": {
+   "id": "Dua kaki → satu kaki",
+   "en": "Two legs → one leg",
+   "zh": "双腿 → 单腿",
+   "uz": "Ikki oyoq → bir oyoq"
+  },
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Awal",
+      "en": "Start",
+      "zh": "起始",
+      "uz": "Boshlanish"
+     },
+     {
+      "id": "Progresi",
+      "en": "Progression",
+      "zh": "进阶",
+      "uz": "Progressiya"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Squat dua kaki",
+       "en": "Double-leg squat",
+       "zh": "双腿深蹲",
+       "uz": "Ikki oyoqda squat"
+      },
+      {
+       "id": "Front squat berbeban",
+       "en": "Loaded front squat",
+       "zh": "负重前蹲",
+       "uz": "Yuklamali front squat"
+      }
+     ],
+     [
+      {
+       "id": "Leg press dua kaki",
+       "en": "Double-leg leg press",
+       "zh": "双腿腿举",
+       "uz": "Ikki oyoqda leg press"
+      },
+      {
+       "id": "Leg press satu kaki",
+       "en": "Single-leg leg press",
+       "zh": "单腿腿举",
+       "uz": "Bir oyoqda leg press"
+      }
+     ],
+     [
+      {
+       "id": "Hip hinge dua kaki",
+       "en": "Double-leg hip hinge",
+       "zh": "双腿髋铰链",
+       "uz": "Ikki oyoqda hip hinge"
+      },
+      {
+       "id": "Single-leg Romanian deadlift",
+       "en": "Single-leg Romanian deadlift",
+       "zh": "单腿罗马尼亚硬拉",
+       "uz": "Single-leg Romanian deadlift"
+      }
+     ],
+     [
+      {
+       "id": "Calf raise dua kaki",
+       "en": "Double-leg calf raise",
+       "zh": "双腿提踵",
+       "uz": "Ikki oyoqda calf raise"
+      },
+      {
+       "id": "Calf raise satu kaki berbeban",
+       "en": "Loaded single-leg calf raise",
+       "zh": "负重单腿提踵",
+       "uz": "Yuklamali bir oyoqda calf raise"
+      }
+     ],
+     [
+      {
+       "id": "Latihan pinggul tanpa beban",
+       "en": "Unloaded hip exercises",
+       "zh": "无负重髋部训练",
+       "uz": "Yuklamasiz son-chanoq mashqlari"
+      },
+      {
+       "id": "Abduksi, adduksi, rotasi berbeban",
+       "en": "Loaded abduction, adduction, rotation",
+       "zh": "负重外展、内收、旋转",
+       "uz": "Yuklamali abduksiya, adduksiya, rotatsiya"
+      }
+     ],
+     [
+      {
+       "id": "Keseimbangan statis",
+       "en": "Static balance",
+       "zh": "静态平衡",
+       "uz": "Statik muvozanat"
+      },
+      {
+       "id": "Satu kaki dengan gangguan",
+       "en": "Single-leg with perturbation",
+       "zh": "单腿加干扰",
+       "uz": "Bir oyoqda, tashqi taʼsir bilan"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": {
+     "id": "Bila ada repair meniskus",
+     "en": "With meniscal repair",
+     "zh": "合并半月板修复时",
+     "uz": "Menisk tikilgan boʻlsa"
+    },
+    "teks": {
+     "id": "Penguatan berbeban mulai ± bulan 3; hindari squat dalam/fleksi berbeban > 90° hingga ± 4 bulan.",
+     "en": "Loaded strengthening from ~month 3; avoid deep squats/loaded flexion > 90° until ~4 months.",
+     "zh": "约第3个月开始负重力量训练；约4个月内避免深蹲/负重屈曲 >90°。",
+     "uz": "Yuklamali kuch mashqlari ~3-oydan; ~4 oygacha chuqur squat/yuklama bilan > 90° fleksiyadan saqlaning."
+    }
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Gerbang — siap uji kriteria lari bila:",
+     "en": "Gate — ready for running-criteria testing when:",
+     "zh": "关卡——满足以下条件可进行跑步标准测试：",
+     "uz": "Darvoza — quyidagilar boʻlsa, yugurish mezonlarini sinashga tayyor:"
+    },
+    "butir": [
+     {
+      "id": "Kontrol satu kaki baik (panggul & lutut netral)",
+      "en": "Good single-leg control (pelvis & knee neutral)",
+      "zh": "单腿控制良好（骨盆和膝关节保持中立）",
+      "uz": "Bir oyoqda yaxshi nazorat (toz va tizza neytral)"
+     },
+     {
+      "id": "Tanpa bengkak setelah latihan",
+      "en": "No swelling after exercise",
+      "zh": "训练后无肿胀",
+      "uz": "Mashqdan keyin shish yoʻq"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": {
+     "id": "Target",
+     "en": "Goal",
+     "zh": "目标",
+     "uz": "Maqsad"
+    },
+    "teks": {
+     "id": "Bukan sekadar menyelesaikan repetisi, tetapi mempertahankan posisi panggul, lutut, dan kaki yang benar.",
+     "en": "Not just completing the repetitions, but maintaining correct pelvis, knee, and foot alignment.",
+     "zh": "不只是完成重复次数，而是保持骨盆、膝关节和足部的正确位置。",
+     "uz": "Faqat takrorlarni bajarish emas, balki toz, tizza va oyoq panjasining toʻgʻri holatini saqlash."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki 2023 · [2] van Melick 2016 · [14] Calanna 2022",
+     "en": "References: [1] Kotsifaki 2023 · [2] van Melick 2016 · [14] Calanna 2022",
+     "zh": "参考文献：[1] Kotsifaki 2023 · [2] van Melick 2016 · [14] Calanna 2022",
+     "uz": "Manbalar: [1] Kotsifaki 2023 · [2] van Melick 2016 · [14] Calanna 2022"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 19,
+  "id": "contoh-latihan-fase-3",
+  "kicker": {
+   "id": "CONTOH LATIHAN · FASE 3",
+   "en": "EXERCISE EXAMPLES · PHASE 3",
+   "zh": "训练示例 · 第3期",
+   "uz": "MASHQ NAMUNALARI · 3-BOSQICH"
+  },
+  "judul": {
+   "id": "Kekuatan Satu Kaki dan Kontrol Neuromuskular",
+   "en": "Single-Leg Strength and Neuromuscular Control",
+   "zh": "单腿力量与神经肌肉控制",
+   "uz": "Bir oyoq kuchi va neyromuskulyar nazorat"
+  },
+  "pesan": {
+   "id": "Lutut jangan jatuh ke dalam!",
+   "en": "Don't let the knee collapse inwards!",
+   "zh": "膝关节不要内扣！",
+   "uz": "Tizza ichkariga tushib ketmasin!"
+  },
+  "blok": [
+   {
+    "tipe": "galeri",
+    "item": [
+     {
+      "id": "aclm-latihan19-1",
+      "keterangan": {
+       "id": "**Split squat**\nTurun terkontrol; lutut depan tidak jatuh ke dalam",
+       "en": "**Split squat**\nControlled descent; the front knee does not collapse inwards",
+       "zh": "**分腿蹲**\n控制下蹲；前侧膝关节不内扣",
+       "uz": "**Split squat**\nNazoratli tushish; oldingi tizza ichkariga tushmaydi"
+      }
+     },
+     {
+      "id": "aclm-latihan19-2",
+      "keterangan": {
+       "id": "**Single-leg RDL**\nEngsel di panggul, punggung netral, panggul tetap datar",
+       "en": "**Single-leg RDL**\nHinge at the hip, neutral spine, pelvis stays level",
+       "zh": "**单腿罗马尼亚硬拉**\n以髋为轴屈曲，脊柱中立，骨盆保持水平",
+       "uz": "**Single-leg RDL**\nSon boʻgʻimidan egiling, bel neytral, toz tekis qoladi"
+      }
+     },
+     {
+      "id": "aclm-latihan19-3",
+      "keterangan": {
+       "id": "**Step-up**\nDorong melalui kaki di atas box; kontrol saat turun",
+       "en": "**Step-up**\nDrive through the leg on the box; control the descent",
+       "zh": "**上台阶**\n通过踏在箱上的腿发力；下落时保持控制",
+       "uz": "**Step-up**\nQutidagi oyoq orqali itaring; tushishda nazorat qiling"
+      }
+     },
+     {
+      "id": "aclm-latihan19-4",
+      "keterangan": {
+       "id": "**Single-leg squat**\nKedalaman sebatas kontrol; lutut segaris jari kaki",
+       "en": "**Single-leg squat**\nDepth only as far as control allows; knee in line with the toes",
+       "zh": "**单腿深蹲**\n下蹲深度以能控制为限；膝关节与足尖对齐",
+       "uz": "**Single-leg squat**\nChuqurlik nazorat doirasida; tizza oyoq barmoqlari bilan bir chiziqda"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Kaki merah = kaki yang dioperasi; angka di kiri atas = fleksi lutut kaki tersebut.",
+     "en": "Red leg = operated leg; the number at top left = knee flexion of that leg.",
+     "zh": "红色腿＝手术侧；左上角数字＝该侧膝关节屈曲角度。",
+     "uz": "Qizil oyoq — operatsiya qilingan oyoq; chap yuqoridagi raqam — shu oyoq tizzasining fleksiyasi."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": null,
+    "teks": {
+     "id": "Repair meniskus: hindari fleksi berbeban > 90° hingga ± 4 bulan.",
+     "en": "Meniscal repair: avoid loaded flexion > 90° until ~4 months.",
+     "zh": "半月板修复：约4个月内避免负重屈曲 >90°。",
+     "uz": "Menisk tikilgan boʻlsa: ~4 oygacha yuklama bilan > 90° fleksiyadan saqlaning."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki 2023 · [2] van Melick 2016 · [14] Calanna 2022",
+     "en": "References: [1] Kotsifaki 2023 · [2] van Melick 2016 · [14] Calanna 2022",
+     "zh": "参考文献：[1] Kotsifaki 2023 · [2] van Melick 2016 · [14] Calanna 2022",
+     "uz": "Manbalar: [1] Kotsifaki 2023 · [2] van Melick 2016 · [14] Calanna 2022"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 20,
+  "id": "fase-4-kriteria-lari",
+  "kicker": {
+   "id": "FASE 4 · ± 3–5 BULAN",
+   "en": "PHASE 4 · ~3–5 MONTHS",
+   "zh": "第4期 · 约3–5个月",
+   "uz": "4-BOSQICH · ~3–5 OY"
+  },
+  "judul": {
+   "id": "Kapan Pasien Boleh Mulai Berlari?",
+   "en": "When May the Patient Start Running?",
+   "zh": "患者何时可以开始跑步？",
+   "uz": "Bemor qachon yugurishni boshlashi mumkin?"
+  },
+  "pesan": {
+   "id": "Lari = hadiah, bukan jadwal",
+   "en": "Running is a reward, not a date on the calendar",
+   "zh": "跑步是奖励，不是日程",
+   "uz": "Yugurish — mukofot, jadval emas"
+  },
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Kriteria mulai berlari (Aspetar 2023)",
+      "en": "Return-to-running criteria (Aspetar 2023)",
+      "zh": "开始跑步的标准（Aspetar 2023）",
+      "uz": "Yugurishni boshlash mezonlari (Aspetar 2023)"
+     },
+     {
+      "id": "Ambang",
+      "en": "Threshold",
+      "zh": "阈值",
+      "uz": "Chegara"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Fleksi lutut",
+       "en": "Knee flexion",
+       "zh": "膝关节屈曲",
+       "uz": "Tizza fleksiyasi"
+      },
+      {
+       "id": "≥ 95% sisi sehat",
+       "en": "≥ 95% of the healthy side",
+       "zh": "≥ 健侧的 95%",
+       "uz": "≥ sogʻlom tomonning 95%"
+      }
+     ],
+     [
+      {
+       "id": "Ekstensi lutut",
+       "en": "Knee extension",
+       "zh": "膝关节伸直",
+       "uz": "Tizza ekstenziyasi"
+      },
+      {
+       "id": "Penuh",
+       "en": "Full",
+       "zh": "完全",
+       "uz": "Toʻliq"
+      }
+     ],
+     [
+      {
+       "id": "Efusi",
+       "en": "Effusion",
+       "zh": "关节积液",
+       "uz": "Effuziya"
+      },
+      {
+       "id": "Tidak ada / trace",
+       "en": "None / trace",
+       "zh": "无 / 微量",
+       "uz": "Yoʻq / iz miqdorida"
+      }
+     ],
+     [
+      {
+       "id": "Kekuatan quadriceps",
+       "en": "Quadriceps strength",
+       "zh": "股四头肌力量",
+       "uz": "Kvadritseps kuchi"
+      },
+      {
+       "id": "LSI > 80%",
+       "en": "LSI > 80%",
+       "zh": "LSI > 80%",
+       "uz": "LSI > 80%"
+      }
+     ],
+     [
+      {
+       "id": "Impuls eksentrik CMJ",
+       "en": "CMJ eccentric impulse",
+       "zh": "CMJ 离心冲量",
+       "uz": "CMJ ekssentrik impulsi"
+      },
+      {
+       "id": "LSI > 80%",
+       "en": "LSI > 80%",
+       "zh": "LSI > 80%",
+       "uz": "LSI > 80%"
+      }
+     ],
+     [
+      {
+       "id": "Pogo satu kaki berulang",
+       "en": "Repeated single-leg pogo hops",
+       "zh": "单腿连续弹跳（pogo）",
+       "uz": "Bir oyoqda takroriy pogo sakrash"
+      },
+      {
+       "id": "Tanpa nyeri",
+       "en": "Pain-free",
+       "zh": "无痛",
+       "uz": "Ogʻriqsiz"
+      }
+     ],
+     [
+      {
+       "id": "Aqua jogging & treadmill antigravitasi",
+       "en": "Aqua jogging & anti-gravity treadmill",
+       "zh": "水中慢跑和抗重力跑台",
+       "uz": "Aqua jogging va antigravitatsion treadmill"
+      },
+      {
+       "id": "Tanpa nyeri",
+       "en": "Pain-free",
+       "zh": "无痛",
+       "uz": "Ogʻriqsiz"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "angka",
+    "item": [
+     {
+      "nilai": "99%",
+      "label": {
+       "id": "studi memakai waktu sebagai syarat lari (median 12 minggu)",
+       "en": "of studies used time as the criterion for running (median 12 weeks)",
+       "zh": "的研究以时间作为跑步条件（中位数12周）",
+       "uz": "tadqiqotlar yugurish sharti sifatida vaqtdan foydalangan (mediana 12 hafta)"
+      },
+      "teks": {
+       "id": "Hanya 18% memakai tes fungsi.",
+       "en": "Only 18% used functional tests.",
+       "zh": "仅 18% 采用功能测试。",
+       "uz": "Faqat 18% funksional testlardan foydalangan."
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**Progresi**",
+     "en": "**Progression**",
+     "zh": "**进阶**",
+     "uz": "**Progressiya**"
+    }
+   },
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Aqua jogging",
+       "en": "Aqua jogging",
+       "zh": "水中慢跑",
+       "uz": "Aqua jogging"
+      },
+      "teks": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Treadmill antigravitasi",
+       "en": "Anti-gravity treadmill",
+       "zh": "抗重力跑台",
+       "uz": "Antigravitatsion treadmill"
+      },
+      "teks": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Lari interval di darat",
+       "en": "Interval running on land",
+       "zh": "陆上间歇跑",
+       "uz": "Quruqlikda intervalli yugurish"
+      },
+      "teks": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Lari kontinu",
+       "en": "Continuous running",
+       "zh": "持续跑",
+       "uz": "Uzluksiz yugurish"
+      },
+      "teks": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": null,
+    "teks": {
+     "id": "Naikkan bila tidak ada nyeri/bengkak baru keesokan hari.",
+     "en": "Progress only if there is no new pain/swelling the next day.",
+     "zh": "次日无新发疼痛/肿胀时再进阶。",
+     "uz": "Ertasi kuni yangi ogʻriq/shish boʻlmasa, oshiring."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki dkk., Br J Sports Med 2023 · [7] Rambaud dkk., Br J Sports Med 2018",
+     "en": "References: [1] Kotsifaki et al., Br J Sports Med 2023 · [7] Rambaud et al., Br J Sports Med 2018",
+     "zh": "参考文献：[1] Kotsifaki et al., Br J Sports Med 2023 · [7] Rambaud et al., Br J Sports Med 2018",
+     "uz": "Manbalar: [1] Kotsifaki et al., Br J Sports Med 2023 · [7] Rambaud et al., Br J Sports Med 2018"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 21,
+  "id": "lsi-cara-mengukur",
+  "kicker": {
+   "id": "ALAT UKUR",
+   "en": "MEASUREMENT TOOL",
+   "zh": "评估工具",
+   "uz": "OʻLCHOV VOSITASI"
+  },
+  "judul": {
+   "id": "Limb Symmetry Index (LSI): Cara Mengukur",
+   "en": "Limb Symmetry Index (LSI): How to Measure",
+   "zh": "肢体对称指数（LSI）：如何测量",
+   "uz": "Limb Symmetry Index (LSI): qanday oʻlchanadi"
+  },
+  "pesan": {
+   "id": "80 lari · 90 tanding · 100 pivot",
+   "en": "80 run · 90 compete · 100 pivot",
+   "zh": "80 跑步 · 90 比赛 · 100 旋转",
+   "uz": "80 yugurish · 90 musobaqa · 100 pivot"
+  },
+  "blok": [
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Definisi",
+     "en": "Definition",
+     "zh": "定义",
+     "uz": "Taʼrif"
+    },
+    "teks": {
+     "id": "Persentase kemampuan kaki yang cedera dibanding kaki yang sehat pada tes yang sama.\n**Tes jarak, tinggi, kekuatan:** cedera ÷ sehat × 100%\n**Tes waktu (6-m timed hop):** sehat ÷ cedera × 100%",
+     "en": "The injured leg's performance as a percentage of the healthy leg's on the same test.\n**Distance, height, strength tests:** injured ÷ healthy × 100%\n**Timed tests (6-m timed hop):** healthy ÷ injured × 100%",
+     "zh": "同一测试中患侧能力占健侧能力的百分比。\n**距离、高度、力量测试：**患侧 ÷ 健侧 × 100%\n**计时测试（6 m 计时单腿跳）：**健侧 ÷ 患侧 × 100%",
+     "uz": "Bir xil testda jarohatlangan oyoq imkoniyatining sogʻlom oyoqqa nisbatan foizi.\n**Masofa, balandlik, kuch testlari:** jarohatlangan ÷ sogʻlom × 100%\n**Vaqt testlari (6-m timed hop):** sogʻlom ÷ jarohatlangan × 100%"
+    }
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Apa yang diukur",
+     "en": "What is measured",
+     "zh": "测量内容",
+     "uz": "Nima oʻlchanadi"
+    },
+    "butir": [
+     {
+      "id": "**Kekuatan** — quadriceps & hamstring: isokinetik 60°/s atau dinamometer",
+      "en": "**Strength** — quadriceps & hamstrings: isokinetic 60°/s or dynamometer",
+      "zh": "**力量**——股四头肌和腘绳肌：60°/s 等速测试或测力计",
+      "uz": "**Kuch** — kvadritseps va hamstring: izokinetik 60°/s yoki dinamometr"
+     },
+     {
+      "id": "**Hop test** — single hop, triple hop, crossover hop (jarak); 6-m timed hop (waktu)",
+      "en": "**Hop tests** — single hop, triple hop, crossover hop (distance); 6-m timed hop (time)",
+      "zh": "**单腿跳测试**——单次跳、三级跳、交叉跳（距离）；6 m 计时跳（时间）",
+      "uz": "**Hop test** — single hop, triple hop, crossover hop (masofa); 6-m timed hop (vaqt)"
+     },
+     {
+      "id": "**Lompatan** — countermovement & drop jump: tinggi dan impuls",
+      "en": "**Jumps** — countermovement & drop jump: height and impulse",
+      "zh": "**跳跃**——反向纵跳和跳深：高度与冲量",
+      "uz": "**Sakrash** — countermovement va drop jump: balandlik va impuls"
+     }
+    ]
+   },
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**Cara menafsirkan**",
+     "en": "**How to interpret**",
+     "zh": "**如何解读**",
+     "uz": "**Qanday talqin qilinadi**"
+    }
+   },
+   {
+    "tipe": "angka",
+    "item": [
+     {
+      "nilai": "> 80%",
+      "label": {
+       "id": "Mulai berlari",
+       "en": "Start running",
+       "zh": "开始跑步",
+       "uz": "Yugurishni boshlash"
+      },
+      "teks": {
+       "id": "Quadriceps & impuls eksentrik CMJ [1]",
+       "en": "Quadriceps & CMJ eccentric impulse [1]",
+       "zh": "股四头肌和 CMJ 离心冲量 [1]",
+       "uz": "Kvadritseps va CMJ ekssentrik impulsi [1]"
+      }
+     },
+     {
+      "nilai": "≥ 90%",
+      "label": {
+       "id": "Kembali bertanding",
+       "en": "Return to competition",
+       "zh": "重返比赛",
+       "uz": "Musobaqaga qaytish"
+      },
+      "teks": {
+       "id": "Kekuatan & lompatan [1][3]",
+       "en": "Strength & jumps [1][3]",
+       "zh": "力量和跳跃 [1][3]",
+       "uz": "Kuch va sakrash [1][3]"
+      }
+     },
+     {
+      "nilai": "100%",
+      "label": {
+       "id": "Olahraga pivot",
+       "en": "Pivoting sport",
+       "zh": "旋转类运动",
+       "uz": "Pivot sport"
+      },
+      "teks": {
+       "id": "Target kekuatan isokinetik [1]",
+       "en": "Isokinetic strength target [1]",
+       "zh": "等速力量目标 [1]",
+       "uz": "Izokinetik kuch maqsadi [1]"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": {
+     "id": "Agar bisa dibandingkan antar-evaluasi",
+     "en": "For comparability between assessments",
+     "zh": "为使各次评估可比",
+     "uz": "Baholashlar oʻrtasida solishtirish uchun"
+    },
+    "teks": {
+     "id": "Pakai alat, posisi, sudut dan kecepatan yang sama; catat nilai mentah kedua kaki, bukan hanya persentasenya.",
+     "en": "Use the same device, position, angle and speed; record the raw values of both legs, not just the percentage.",
+     "zh": "使用相同的设备、体位、角度和速度；记录双侧原始数值，而不只是百分比。",
+     "uz": "Bir xil asbob, holat, burchak va tezlikdan foydalaning; faqat foizni emas, ikkala oyoqning xom qiymatlarini yozib qoʻying."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki 2023 · [3] Grindem 2016 · [8] Wellsandt 2017 · [30] Noyes dkk., Am J Sports Med 1991",
+     "en": "References: [1] Kotsifaki 2023 · [3] Grindem 2016 · [8] Wellsandt 2017 · [30] Noyes et al., Am J Sports Med 1991",
+     "zh": "参考文献：[1] Kotsifaki 2023 · [3] Grindem 2016 · [8] Wellsandt 2017 · [30] Noyes et al., Am J Sports Med 1991",
+     "uz": "Manbalar: [1] Kotsifaki 2023 · [3] Grindem 2016 · [8] Wellsandt 2017 · [30] Noyes et al., Am J Sports Med 1991"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 22,
+  "id": "lsi-bisa-menyesatkan",
+  "kicker": {
+   "id": "ALAT UKUR",
+   "en": "MEASUREMENT TOOL",
+   "zh": "评估工具",
+   "uz": "OʻLCHOV VOSITASI"
+  },
+  "judul": {
+   "id": "Hati-hati: LSI Saja Bisa Menyesatkan",
+   "en": "Caution: LSI Alone Can Mislead",
+   "zh": "注意：仅看 LSI 可能产生误导",
+   "uz": "Ehtiyot boʻling: faqat LSI chalgʻitishi mumkin"
+  },
+  "pesan": {
+   "id": "Kaki sehat juga bisa melemah",
+   "en": "The healthy leg can weaken too",
+   "zh": "健侧腿也会变弱",
+   "uz": "Sogʻlom oyoq ham zaiflashishi mumkin"
+  },
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": {
+       "id": "LSI",
+       "en": "LSI",
+       "zh": "LSI",
+       "uz": "LSI"
+      },
+      "judul": {
+       "id": "LSI = kaki cedera ÷ kaki sehat × 100%",
+       "en": "LSI = injured leg ÷ healthy leg × 100%",
+       "zh": "LSI ＝ 患侧 ÷ 健侧 × 100%",
+       "uz": "LSI = jarohatlangan oyoq ÷ sogʻlom oyoq × 100%"
+      },
+      "teks": {
+       "id": "Contoh: 80 kg ÷ 100 kg × 100% = 80%",
+       "en": "Example: 80 kg ÷ 100 kg × 100% = 80%",
+       "zh": "示例：80 kg ÷ 100 kg × 100% ＝ 80%",
+       "uz": "Misol: 80 kg ÷ 100 kg × 100% = 80%"
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "EPIC",
+       "en": "EPIC",
+       "zh": "EPIC",
+       "uz": "EPIC"
+      },
+      "judul": {
+       "id": "EPIC (estimated preinjury capacity)",
+       "en": "EPIC (estimated preinjury capacity)",
+       "zh": "EPIC（估计伤前能力）",
+       "uz": "EPIC (estimated preinjury capacity)"
+      },
+      "teks": {
+       "id": "Kaki cedera saat ini ÷ kaki sehat sebelum operasi. Butuh data tes pra-operasi.",
+       "en": "Current injured leg ÷ healthy leg before surgery. Requires pre-operative test data.",
+       "zh": "当前患侧 ÷ 术前健侧。需要术前测试数据。",
+       "uz": "Hozirgi jarohatlangan oyoq ÷ operatsiyadan oldingi sogʻlom oyoq. Operatsiyadan oldingi test maʼlumotlari kerak."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**Pasien yang lulus seluruh tes 6 bulan pasca-ACLR (n = 70)**",
+     "en": "**Patients passing all tests 6 months after ACLR (n = 70)**",
+     "zh": "**ACL 重建术后6个月通过全部测试的患者（n = 70）**",
+     "uz": "**ACLR dan 6 oy oʻtib barcha testlardan oʻtgan bemorlar (n = 70)**"
+    }
+   },
+   {
+    "tipe": "angka",
+    "item": [
+     {
+      "nilai": "57,1%",
+      "label": {
+       "id": "Lulus LSI ≥ 90%",
+       "en": "Passed LSI ≥ 90%",
+       "zh": "LSI ≥ 90% 达标",
+       "uz": "LSI ≥ 90% dan oʻtgan"
+      },
+      "teks": null
+     },
+     {
+      "nilai": "28,6%",
+      "label": {
+       "id": "Lulus EPIC ≥ 90%",
+       "en": "Passed EPIC ≥ 90%",
+       "zh": "EPIC ≥ 90% 达标",
+       "uz": "EPIC ≥ 90% dan oʻtgan"
+      },
+      "teks": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": {
+     "id": "Mengapa berbeda?",
+     "en": "Why the difference?",
+     "zh": "为何不同？",
+     "uz": "Nega farq bor?"
+    },
+    "teks": {
+     "id": "Kaki sehat ikut melemah selama rehabilitasi, sehingga LSI tampak tinggi padahal kedua kaki sama-sama lemah.",
+     "en": "The healthy leg also weakens during rehabilitation, so the LSI looks high even though both legs are weak.",
+     "zh": "康复期间健侧腿也会变弱，因此即使双腿都弱，LSI 看起来仍然很高。",
+     "uz": "Reabilitatsiya davomida sogʻlom oyoq ham zaiflashadi, shuning uchun ikkala oyoq ham zaif boʻlsa-da, LSI yuqori koʻrinadi."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [8] Wellsandt E, Failla MJ, Snyder-Mackler L. J Orthop Sports Phys Ther 2017;47(5):334–338",
+     "en": "References: [8] Wellsandt E, Failla MJ, Snyder-Mackler L. J Orthop Sports Phys Ther 2017;47(5):334–338",
+     "zh": "参考文献：[8] Wellsandt E, Failla MJ, Snyder-Mackler L. J Orthop Sports Phys Ther 2017;47(5):334–338",
+     "uz": "Manbalar: [8] Wellsandt E, Failla MJ, Snyder-Mackler L. J Orthop Sports Phys Ther 2017;47(5):334–338"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 23,
+  "id": "fase-5-plyometrik-agility",
+  "kicker": {
+   "id": "FASE 5 · ± 5–9 BULAN",
+   "en": "PHASE 5 · ~5–9 MONTHS",
+   "zh": "第5期 · 约5–9个月",
+   "uz": "5-BOSQICH · ~5–9 OY"
+  },
+  "judul": {
+   "id": "Plyometrik, Perubahan Arah, dan Agility",
+   "en": "Plyometrics, Change of Direction, and Agility",
+   "zh": "增强式训练、变向与灵敏性",
+   "uz": "Pliometrika, yoʻnalishni oʻzgartirish va chaqqonlik"
+  },
+  "pesan": {
+   "id": "Terencana dulu, reaktif kemudian",
+   "en": "Planned first, reactive later",
+   "zh": "先预设，后反应",
+   "uz": "Avval rejalashtirilgan, keyin reaktiv"
+  },
+  "blok": [
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Plyometrik bertahap",
+       "en": "Graded plyometrics",
+       "zh": "渐进式增强训练",
+       "uz": "Bosqichma-bosqich pliometrika"
+      },
+      "teks": {
+       "id": "Dua kaki → satu kaki; vertikal → horizontal → lateral",
+       "en": "Two legs → one leg; vertical → horizontal → lateral",
+       "zh": "双腿 → 单腿；垂直 → 水平 → 侧向",
+       "uz": "Ikki oyoq → bir oyoq; vertikal → gorizontal → lateral"
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Perubahan arah terencana",
+       "en": "Planned change of direction",
+       "zh": "预设变向",
+       "uz": "Rejalashtirilgan yoʻnalish oʻzgarishi"
+      },
+      "teks": {
+       "id": "Arah sudah diketahui; sudut kecil → besar",
+       "en": "Direction known in advance; small → large angles",
+       "zh": "方向事先已知；小角度 → 大角度",
+       "uz": "Yoʻnalish oldindan maʼlum; kichik → katta burchak"
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Agility reaktif",
+       "en": "Reactive agility",
+       "zh": "反应性灵敏训练",
+       "uz": "Reaktiv chaqqonlik"
+      },
+      "teks": {
+       "id": "Arah berubah sebagai respons rangsangan",
+       "en": "Direction changes in response to a stimulus",
+       "zh": "根据刺激改变方向",
+       "uz": "Yoʻnalish qoʻzgʻatuvchiga javoban oʻzgaradi"
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Latihan spesifik olahraga",
+       "en": "Sport-specific training",
+       "zh": "专项运动训练",
+       "uz": "Sportga xos mashqlar"
+      },
+      "teks": {
+       "id": "Gerakan olahraga di lapangan, intensitas naik",
+       "en": "Sport movements on the field, increasing intensity",
+       "zh": "在场地上进行专项动作，强度递增",
+       "uz": "Maydonda sport harakatlari, intensivlik oshadi"
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Simulasi pertandingan",
+       "en": "Match simulation",
+       "zh": "比赛模拟",
+       "uz": "Musobaqa simulyatsiyasi"
+      },
+      "teks": {
+       "id": "Situasi laga, kondisi lelah, kontak",
+       "en": "Game situations, under fatigue, with contact",
+       "zh": "比赛情境、疲劳状态、身体对抗",
+       "uz": "Oʻyin holatlari, charchoq sharoitida, kontakt bilan"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": {
+     "id": "Urutan tidak boleh dibalik.",
+     "en": "The order must not be reversed.",
+     "zh": "顺序不可颠倒。",
+     "uz": "Ketma-ketlikni teskari qilish mumkin emas."
+    },
+    "teks": {
+     "id": "Kuasai gerakan terencana sebelum gerakan reaktif yang tak terduga.",
+     "en": "Master planned movements before unpredictable reactive ones.",
+     "zh": "先掌握预设动作，再进行不可预知的反应性动作。",
+     "uz": "Kutilmagan reaktiv harakatlardan oldin rejalashtirilgan harakatlarni oʻzlashtiring."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": null,
+    "teks": {
+     "id": "Naikkan intensitas hanya bila lutut tetap tenang keesokan harinya dan kualitas gerak terjaga.",
+     "en": "Increase intensity only if the knee stays calm the next day and movement quality is maintained.",
+     "zh": "仅在次日膝关节仍保持安定且动作质量良好时才增加强度。",
+     "uz": "Intensivlikni faqat ertasi kuni tizza tinch qolsa va harakat sifati saqlansa oshiring."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki dkk., Br J Sports Med 2023 · [9] Buckthorpe M., Sports Med 2019",
+     "en": "References: [1] Kotsifaki et al., Br J Sports Med 2023 · [9] Buckthorpe M., Sports Med 2019",
+     "zh": "参考文献：[1] Kotsifaki et al., Br J Sports Med 2023 · [9] Buckthorpe M., Sports Med 2019",
+     "uz": "Manbalar: [1] Kotsifaki et al., Br J Sports Med 2023 · [9] Buckthorpe M., Sports Med 2019"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 24,
+  "id": "contoh-latihan-fase-4-5",
+  "kicker": {
+   "id": "CONTOH LATIHAN · FASE 4–5",
+   "en": "EXERCISE EXAMPLES · PHASES 4–5",
+   "zh": "训练示例 · 第4–5期",
+   "uz": "MASHQ NAMUNALARI · 4–5-BOSQICH"
+  },
+  "judul": {
+   "id": "Lari, Lompat, dan Mendarat dengan Aman",
+   "en": "Running, Jumping, and Landing Safely",
+   "zh": "安全地跑、跳与落地",
+   "uz": "Xavfsiz yugurish, sakrash va qoʻnish"
+  },
+  "pesan": {
+   "id": "Mendarat lembut, lutut segaris jari",
+   "en": "Land softly, knee over toes",
+   "zh": "轻柔落地，膝对足尖",
+   "uz": "Yumshoq qoʻning, tizza barmoqlar bilan bir chiziqda"
+  },
+  "blok": [
+   {
+    "tipe": "galeri",
+    "item": [
+     {
+      "id": "aclm-latihan24-1",
+      "keterangan": {
+       "id": "**Lari interval**\nMulai dengan interval jalan–lari; naikkan bila lutut tetap tenang keesokan hari",
+       "en": "**Interval running**\nStart with walk–run intervals; progress if the knee stays calm the next day",
+       "zh": "**间歇跑**\n从走跑交替开始；次日膝关节仍安定时再进阶",
+       "uz": "**Intervalli yugurish**\nYurish–yugurish intervallaridan boshlang; ertasi kuni tizza tinch qolsa, oshiring"
+      }
+     },
+     {
+      "id": "aclm-latihan24-2",
+      "keterangan": {
+       "id": "**Pogo satu kaki**\nKontak singkat dan ringan di telapak depan; tanpa nyeri",
+       "en": "**Single-leg pogo**\nShort, light contacts on the forefoot; pain-free",
+       "zh": "**单腿弹跳（pogo）**\n前脚掌短促轻触地；无痛",
+       "uz": "**Bir oyoqda pogo**\nOyoq old qismida qisqa va yengil tegish; ogʻriqsiz"
+      }
+     },
+     {
+      "id": "aclm-latihan24-3",
+      "keterangan": {
+       "id": "**Drop landing**\nMendarat lembut dua kaki; lutut dan panggul menekuk, lutut tidak jatuh ke dalam",
+       "en": "**Drop landing**\nLand softly on both feet; knees and hips bend, knees do not collapse inwards",
+       "zh": "**跳落着地**\n双脚轻柔落地；屈膝屈髋，膝关节不内扣",
+       "uz": "**Drop landing**\nIkki oyoqqa yumshoq qoʻning; tizza va son bukiladi, tizza ichkariga tushmaydi"
+      }
+     },
+     {
+      "id": "aclm-latihan24-4",
+      "keterangan": {
+       "id": "**Hop & stick**\nLompat ke depan satu kaki, tahan pendaratan 2–3 detik",
+       "en": "**Hop & stick**\nHop forward on one leg, hold the landing for 2–3 seconds",
+       "zh": "**单腿跳停**\n单腿向前跳，落地后保持 2–3 秒",
+       "uz": "**Hop & stick**\nBir oyoqda oldinga sakrang, qoʻnishni 2–3 soniya ushlab turing"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Kaki merah = kaki yang dioperasi; angka di kiri atas = fleksi lutut kaki tersebut.",
+     "en": "Red leg = operated leg; the number at top left = knee flexion of that leg.",
+     "zh": "红色腿＝手术侧；左上角数字＝该侧膝关节屈曲角度。",
+     "uz": "Qizil oyoq — operatsiya qilingan oyoq; chap yuqoridagi raqam — shu oyoq tizzasining fleksiyasi."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki 2023 · [7] Rambaud 2018 · [9] Buckthorpe 2019",
+     "en": "References: [1] Kotsifaki 2023 · [7] Rambaud 2018 · [9] Buckthorpe 2019",
+     "zh": "参考文献：[1] Kotsifaki 2023 · [7] Rambaud 2018 · [9] Buckthorpe 2019",
+     "uz": "Manbalar: [1] Kotsifaki 2023 · [7] Rambaud 2018 · [9] Buckthorpe 2019"
+    }
+   }
+  ]
+ }
+]

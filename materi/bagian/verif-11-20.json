@@ -1,0 +1,1703 @@
+[
+ {
+  "slide": 11,
+  "id": "infografik-kegawatan-ortopedi",
+  "kicker": {
+   "id": "INFOGRAFIK · KEGAWATAN",
+   "en": "INFOGRAPHIC · EMERGENCIES",
+   "zh": "信息图 · 急症",
+   "uz": "INFOGRAFIKA · SHOSHILINCH HOLATLAR"
+  },
+  "judul": {
+   "id": "Kegawatan ortopedi",
+   "en": "Orthopaedic emergencies",
+   "zh": "骨科急症",
+   "uz": "Ortopedik shoshilinch holatlar"
+  },
+  "pesan": {
+   "id": "Empat kondisi memerlukan penanganan segera: fraktur terbuka, dislokasi akut, sindrom kompartemen, dan trauma vaskular.",
+   "en": "Four conditions require immediate management: open fracture, acute dislocation, compartment syndrome and vascular trauma.",
+   "zh": "四种情况需要立即处理：开放性骨折、急性脱位、骨筋膜室综合征和血管损伤。",
+   "uz": "Toʻrt holat zudlik bilan davolashni talab qiladi: ochiq sinish, oʻtkir chiqish, kompartment sindromi va qon tomir shikastlanishi."
+  },
+  "blok": [
+   {
+    "tipe": "gambar",
+    "id": "verif-info-kegawatan",
+    "keterangan": {
+     "id": "Infografik kegawatan trauma ortopedi (ditampilkan utuh).",
+     "en": "Infographic on orthopaedic trauma emergencies (shown in full).",
+     "zh": "骨科创伤急症信息图（完整展示）。",
+     "uz": "Ortopedik travma shoshilinch holatlari infografikasi (toʻliq koʻrsatilgan)."
+    }
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Relevansi untuk verifikasi",
+     "en": "Relevance for verification",
+     "zh": "对核查的意义",
+     "uz": "Tekshiruv (verifikatsiya) uchun ahamiyati"
+    },
+    "butir": [
+     {
+      "id": "Tindakan kegawatan tidak menunggu berkas; verifikasi membaca urutan waktunya setelah itu.",
+      "en": "Emergency treatment does not wait for paperwork; verification reviews the timeline afterwards.",
+      "zh": "急症处理不等待文书；核查在事后审阅时间顺序。",
+      "uz": "Shoshilinch muolaja hujjatlarni kutmaydi; tekshiruv voqealar ketma-ketligini keyin koʻrib chiqadi."
+     },
+     {
+      "id": "Sindrom kompartemen didiagnosis secara klinis; nadi masih dapat teraba.",
+      "en": "Compartment syndrome is a clinical diagnosis; distal pulses may still be palpable.",
+      "zh": "骨筋膜室综合征为临床诊断；脉搏仍可能触及。",
+      "uz": "Kompartment sindromi klinik tashxis qilinadi; puls hali ham paypaslanishi mumkin."
+     },
+     {
+      "id": "Rontgen sebelum dan sesudah reposisi, serta CTA pada cedera pembuluh darah, adalah wajar.",
+      "en": "Radiographs before and after reduction, and CTA for vascular injury, are reasonable.",
+      "zh": "复位前后的X线片以及血管损伤时的CTA均属合理。",
+      "uz": "Repozitsiyadan oldin va keyin rentgen, shuningdek qon tomir shikastlanishida CTA oʻrinli."
+     },
+     {
+      "id": "Satu fraktur dapat memiliki beberapa ciri sekaligus.",
+      "en": "A single fracture can have several of these features at once.",
+      "zh": "同一骨折可同时具有多种特征。",
+      "uz": "Bitta sinish bir vaqtning oʻzida bir nechta belgiga ega boʻlishi mumkin."
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Sumber",
+     "en": "Source",
+     "zh": "来源",
+     "uz": "Manba"
+    },
+    "teks": {
+     "id": "Sumber infografik: Apley & Solomon's System of Orthopaedics and Trauma, edisi ke-10, Bab 23, hlm. 711–713, 728–729, 734–736, 752–753. Infografik dokter ditampilkan utuh; relevansi untuk verifikasi ditulis penulis.",
+     "en": "Infographic source: Apley & Solomon's System of Orthopaedics and Trauma, 10th edition, Chapter 23, pp. 711–713, 728–729, 734–736, 752–753. The clinician's infographic is shown in full; the relevance for verification was written by the author.",
+     "zh": "信息图来源：Apley & Solomon's System of Orthopaedics and Trauma，第10版，第23章，第711–713、728–729、734–736、752–753页。医生制作的信息图完整展示；对核查的意义由作者撰写。",
+     "uz": "Infografika manbasi: Apley & Solomon's System of Orthopaedics and Trauma, 10-nashr, 23-bob, 711–713, 728–729, 734–736, 752–753-betlar. Shifokor infografikasi toʻliq koʻrsatilgan; tekshiruv uchun ahamiyatini muallif yozgan."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 12,
+  "id": "penunjang-menjawab-pertanyaan-klinis",
+  "kicker": {
+   "id": "PENUNJANG · PRINSIP",
+   "en": "INVESTIGATIONS · PRINCIPLE",
+   "zh": "辅助检查 · 原则",
+   "uz": "YORDAMCHI TEKSHIRUVLAR · TAMOYIL"
+  },
+  "judul": {
+   "id": "Penunjang menjawab pertanyaan klinis",
+   "en": "Investigations answer clinical questions",
+   "zh": "辅助检查回答临床问题",
+   "uz": "Yordamchi tekshiruvlar klinik savollarga javob beradi"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": {
+       "id": "Langkah 1",
+       "en": "Step 1",
+       "zh": "第1步",
+       "uz": "1-qadam"
+      },
+      "judul": {
+       "id": "Anamnesis dan pemeriksaan fisik",
+       "en": "History and physical examination",
+       "zh": "病史与体格检查",
+       "uz": "Anamnez va fizik koʻrik"
+      },
+      "teks": {
+       "id": "Mekanisme cedera, nyeri tekan, deformitas, status saraf dan pembuluh darah.",
+       "en": "Mechanism of injury, tenderness, deformity, neurovascular status.",
+       "zh": "受伤机制、压痛、畸形、神经和血管状况。",
+       "uz": "Shikastlanish mexanizmi, bosilganda ogʻriq, deformatsiya, nerv va qon tomirlar holati."
+      }
+     },
+     {
+      "label": {
+       "id": "Langkah 2",
+       "en": "Step 2",
+       "zh": "第2步",
+       "uz": "2-qadam"
+      },
+      "judul": {
+       "id": "Rontgen",
+       "en": "Radiography",
+       "zh": "X线检查",
+       "uz": "Rentgen"
+      },
+      "teks": {
+       "id": "Ada patah atau dislokasi? Bagaimana posisinya? Implan di tempatnya?",
+       "en": "Is there a fracture or dislocation? What is the position? Is the implant in place?",
+       "zh": "有无骨折或脱位？位置如何？植入物是否在位？",
+       "uz": "Sinish yoki chiqish bormi? Holati qanday? Implant joyidami?"
+      }
+     },
+     {
+      "label": {
+       "id": "Langkah 3",
+       "en": "Step 3",
+       "zh": "第3步",
+       "uz": "3-qadam"
+      },
+      "judul": {
+       "id": "CT, MRI, atau USG",
+       "en": "CT, MRI or ultrasound",
+       "zh": "CT、MRI或超声",
+       "uz": "CT, MRI yoki UTT"
+      },
+      "teks": {
+       "id": "Fraktur kompleks atau intraartikular? Ligamen, meniskus, tendon? Fraktur tersembunyi?",
+       "en": "Complex or intra-articular fracture? Ligament, meniscus, tendon? Occult fracture?",
+       "zh": "复杂或关节内骨折？韧带、半月板、肌腱？隐匿性骨折？",
+       "uz": "Murakkab yoki boʻgʻim ichi sinishi? Boylam, menisk, pay? Yashirin sinish?"
+      }
+     },
+     {
+      "label": {
+       "id": "Langkah 4",
+       "en": "Step 4",
+       "zh": "第4步",
+       "uz": "4-qadam"
+      },
+      "judul": {
+       "id": "Pemeriksaan khusus",
+       "en": "Special investigations",
+       "zh": "特殊检查",
+       "uz": "Maxsus tekshiruvlar"
+      },
+      "teks": {
+       "id": "CTA untuk pembuluh darah, EMG/KHS untuk saraf, laboratorium untuk infeksi.",
+       "en": "CTA for blood vessels, EMG/NCS for nerves, laboratory tests for infection.",
+       "zh": "CTA评估血管，肌电图/神经传导检查评估神经，实验室检查评估感染。",
+       "uz": "Qon tomirlar uchun CTA, nervlar uchun EMG/nerv oʻtkazuvchanlik tekshiruvi, infeksiya uchun laboratoriya tahlillari."
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": {
+       "id": "Pertanyaan 1",
+       "en": "Question 1",
+       "zh": "问题1",
+       "uz": "1-savol"
+      },
+      "judul": {
+       "id": "Apa pertanyaan klinis yang ingin dijawab, dan tercatat di mana?",
+       "en": "What clinical question is being answered, and where is it documented?",
+       "zh": "要回答的临床问题是什么？记录在哪里？",
+       "uz": "Qaysi klinik savolga javob izlanmoqda va u qayerda qayd etilgan?"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "Pertanyaan 2",
+       "en": "Question 2",
+       "zh": "问题2",
+       "uz": "2-savol"
+      },
+      "judul": {
+       "id": "Apakah hasil sebelumnya sudah menjawabnya?",
+       "en": "Has a previous result already answered it?",
+       "zh": "之前的检查结果是否已经回答了该问题？",
+       "uz": "Oldingi natija bunga allaqachon javob berganmi?"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "Pertanyaan 3",
+       "en": "Question 3",
+       "zh": "问题3",
+       "uz": "3-savol"
+      },
+      "judul": {
+       "id": "Apakah hasilnya mengubah tata laksana?",
+       "en": "Will the result change management?",
+       "zh": "检查结果是否会改变治疗方案？",
+       "uz": "Natija davolash taktikasini oʻzgartiradimi?"
+      },
+      "teks": null,
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": null,
+    "teks": {
+     "id": "Urutan ini adalah pola umum. Pada kegawatan atau trauma berat, beberapa langkah dapat berjalan bersamaan.",
+     "en": "This sequence is a general pattern. In emergencies or major trauma, several steps may run in parallel.",
+     "zh": "此顺序为一般模式。在急症或严重创伤时，多个步骤可同时进行。",
+     "uz": "Bu ketma-ketlik umumiy namunadir. Shoshilinch holatlarda yoki ogʻir travmada bir nechta qadam bir vaqtda bajarilishi mumkin."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Sumber",
+     "en": "Source",
+     "zh": "来源",
+     "uz": "Manba"
+    },
+    "teks": {
+     "id": "Sintesis penulis dari ACR Appropriateness Criteria (radiografi sebagai pemeriksaan awal trauma) dan Apley & Solomon edisi ke-10. KHS = kecepatan hantar saraf.",
+     "en": "Author's synthesis of the ACR Appropriateness Criteria (radiography as the initial trauma examination) and Apley & Solomon, 10th edition. NCS = nerve conduction study (Indonesian: KHS).",
+     "zh": "作者综合自ACR Appropriateness Criteria（X线片作为创伤初始检查）及Apley & Solomon第10版。KHS（印尼语）= 神经传导速度检查。",
+     "uz": "Muallifning ACR Appropriateness Criteria (rentgenografiya travmada dastlabki tekshiruv sifatida) va Apley & Solomon 10-nashri asosidagi sintezi. KHS (indonez.) = nerv oʻtkazuvchanlik tezligi."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 13,
+  "id": "rontgen-trauma-aturan-dua",
+  "kicker": {
+   "id": "PENUNJANG · RONTGEN",
+   "en": "INVESTIGATIONS · RADIOGRAPHY",
+   "zh": "辅助检查 · X线",
+   "uz": "YORDAMCHI TEKSHIRUVLAR · RENTGEN"
+  },
+  "judul": {
+   "id": "Rontgen trauma: aturan dua",
+   "en": "Trauma radiography: the rule of twos",
+   "zh": "创伤X线检查：“二”原则",
+   "uz": "Travmada rentgen: “ikkilik” qoidasi"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": {
+       "id": "2",
+       "en": "2",
+       "zh": "2",
+       "uz": "2"
+      },
+      "judul": {
+       "id": "Dua proyeksi",
+       "en": "Two views",
+       "zh": "两个投照位",
+       "uz": "Ikki proyeksiya"
+      },
+      "teks": {
+       "id": "Minimal AP dan lateral; satu proyeksi dapat melewatkan pergeseran fragmen.",
+       "en": "At least AP and lateral; a single view can miss fragment displacement.",
+       "zh": "至少正位（AP）和侧位；单一投照位可能漏诊骨折块移位。",
+       "uz": "Kamida AP va lateral; bitta proyeksiya boʻlaklar siljishini koʻrsatmay qolishi mumkin."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "2",
+       "en": "2",
+       "zh": "2",
+       "uz": "2"
+      },
+      "judul": {
+       "id": "Dua sendi",
+       "en": "Two joints",
+       "zh": "两个关节",
+       "uz": "Ikki boʻgʻim"
+      },
+      "teks": {
+       "id": "Sendi di atas dan di bawah fraktur batang tulang panjang ikut difoto.",
+       "en": "The joints above and below a long-bone shaft fracture are included.",
+       "zh": "长骨骨干骨折时，骨折上下方的关节均需包括在内。",
+       "uz": "Uzun suyak tanasi sinishida yuqori va pastdagi boʻgʻimlar ham suratga olinadi."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "2",
+       "en": "2",
+       "zh": "2",
+       "uz": "2"
+      },
+      "judul": {
+       "id": "Dua sisi",
+       "en": "Two sides",
+       "zh": "两侧",
+       "uz": "Ikki tomon"
+      },
+      "teks": {
+       "id": "Pada anak, sisi sehat dapat dibandingkan karena lempeng pertumbuhan dapat membingungkan.",
+       "en": "In children, the uninjured side may be compared because growth plates can be confusing.",
+       "zh": "儿童可与健侧对比，因为骨骺板（生长板）可能造成混淆。",
+       "uz": "Bolalarda sogʻlom tomon bilan solishtirish mumkin, chunki oʻsish plastinkalari chalkashtirishi mumkin."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "2",
+       "en": "2",
+       "zh": "2",
+       "uz": "2"
+      },
+      "judul": {
+       "id": "Dua cedera",
+       "en": "Two injuries",
+       "zh": "两处损伤",
+       "uz": "Ikki shikast"
+      },
+      "teks": {
+       "id": "Trauma berat sering menimbulkan cedera di lebih dari satu tempat.",
+       "en": "Major trauma often causes injuries at more than one site.",
+       "zh": "严重创伤常导致多个部位受伤。",
+       "uz": "Ogʻir travma koʻpincha bir nechta joyda shikast keltirib chiqaradi."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "2",
+       "en": "2",
+       "zh": "2",
+       "uz": "2"
+      },
+      "judul": {
+       "id": "Dua waktu",
+       "en": "Two occasions",
+       "zh": "两个时间点",
+       "uz": "Ikki vaqt"
+      },
+      "teks": {
+       "id": "Fraktur tertentu, misalnya skafoid, baru tampak pada rontgen ulang beberapa waktu kemudian.",
+       "en": "Some fractures, such as the scaphoid, only become visible on repeat radiographs some time later.",
+       "zh": "某些骨折（如舟骨骨折）需在一段时间后复查X线片才能显现。",
+       "uz": "Baʼzi sinishlar, masalan qayiqsimon suyak (skafoid) sinishi, faqat birmuncha vaqtdan keyin takroriy rentgenda koʻrinadi."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": {
+     "id": "Catatan verifikasi",
+     "en": "Verification note",
+     "zh": "核查要点",
+     "uz": "Tekshiruv uchun eslatma"
+    },
+    "teks": {
+     "id": "Tagihan dua proyeksi per regio, termasuk sendi di atas dan di bawah fraktur batang tulang panjang, adalah standar dan bukan duplikasi. Rontgen ulang pada curiga fraktur tersembunyi juga sesuai bila alasannya tercatat.",
+     "en": "Billing two views per region, including the joints above and below a long-bone shaft fracture, is standard practice and not duplication. Repeat radiographs for a suspected occult fracture are also appropriate when the reason is documented.",
+     "zh": "每个部位两个投照位（包括长骨骨干骨折上下方关节）的收费属于标准做法，并非重复收费。怀疑隐匿性骨折时复查X线片，只要记录了理由，也属恰当。",
+     "uz": "Har bir soha uchun ikki proyeksiya (uzun suyak tanasi sinishida yuqori va pastdagi boʻgʻimlar bilan birga) hisobi standart amaliyot boʻlib, takrorlash emas. Yashirin sinishga shubha boʻlganda takroriy rentgen ham, sababi qayd etilgan boʻlsa, oʻrinli."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Sumber",
+     "en": "Source",
+     "zh": "来源",
+     "uz": "Manba"
+    },
+    "teks": {
+     "id": "Apley & Solomon's System of Orthopaedics and Trauma, edisi ke-10, prinsip pencitraan fraktur (“rule of twos”). Catatan verifikasi tambahan penulis.",
+     "en": "Apley & Solomon's System of Orthopaedics and Trauma, 10th edition, principles of fracture imaging (“rule of twos”). Verification note added by the author.",
+     "zh": "Apley & Solomon's System of Orthopaedics and Trauma，第10版，骨折影像学原则（“rule of twos”）。核查要点为作者补充。",
+     "uz": "Apley & Solomon's System of Orthopaedics and Trauma, 10-nashr, sinishlarni tasvirlash tamoyillari (“rule of twos”). Tekshiruv eslatmasini muallif qoʻshgan."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 14,
+  "id": "aturan-klinis-kapan-rontgen",
+  "kicker": {
+   "id": "PENUNJANG · ATURAN KLINIS",
+   "en": "INVESTIGATIONS · CLINICAL DECISION RULES",
+   "zh": "辅助检查 · 临床决策规则",
+   "uz": "YORDAMCHI TEKSHIRUVLAR · KLINIK QOIDALAR"
+  },
+  "judul": {
+   "id": "Aturan klinis: kapan rontgen diperlukan",
+   "en": "Clinical rules: when is a radiograph needed?",
+   "zh": "临床规则：何时需要X线检查",
+   "uz": "Klinik qoidalar: rentgen qachon kerak"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "angka",
+    "item": [
+     {
+      "nilai": "97,6%",
+      "label": {
+       "id": "Ottawa ankle rules",
+       "en": "Ottawa ankle rules",
+       "zh": "Ottawa ankle rules（渥太华踝关节规则）",
+       "uz": "Ottawa ankle rules"
+      },
+      "teks": {
+       "id": "Sensitivitas gabungan untuk menyingkirkan fraktur pergelangan dan kaki tengah; 27 studi, 15.581 pasien; dapat mengurangi rontgen 30–40% (Bachmann dkk., BMJ 2003).",
+       "en": "Pooled sensitivity for ruling out ankle and midfoot fractures; 27 studies, 15,581 patients; may reduce radiographs by 30–40% (Bachmann et al., BMJ 2003).",
+       "zh": "排除踝关节和中足骨折的合并敏感度；27项研究，15,581例患者；可减少30–40%的X线检查（Bachmann等，BMJ 2003）。",
+       "uz": "Toʻpiq va oyoq oʻrta qismi sinishini istisno qilishda umumlashgan sezgirlik; 27 ta tadqiqot, 15 581 bemor; rentgenni 30–40% ga kamaytirishi mumkin (Bachmann va boshq., BMJ 2003)."
+      }
+     },
+     {
+      "nilai": "1 dari 5",
+      "label": {
+       "id": "Ottawa knee rule",
+       "en": "Ottawa knee rule (1 of 5)",
+       "zh": "Ottawa knee rule（5项中1项）",
+       "uz": "Ottawa knee rule (5 tadan 1 tasi)"
+      },
+      "teks": {
+       "id": "Cukup satu kriteria untuk indikasi rontgen lutut pada dewasa (dikutip ACR Acute Trauma to the Knee, 2019).",
+       "en": "A single criterion is enough to indicate knee radiography in adults (cited in ACR Acute Trauma to the Knee, 2019).",
+       "zh": "成人满足任一标准即有膝关节X线检查指征（引自ACR Acute Trauma to the Knee，2019）。",
+       "uz": "Kattalarda tizza rentgeni uchun bitta mezon yetarli (ACR Acute Trauma to the Knee, 2019 dan iqtibos)."
+      }
+     },
+     {
+      "nilai": "99,4%",
+      "label": {
+       "id": "Canadian C-spine rule",
+       "en": "Canadian C-spine rule",
+       "zh": "Canadian C-spine rule（加拿大颈椎规则）",
+       "uz": "Canadian C-spine rule"
+      },
+      "teks": {
+       "id": "Sensitivitas untuk cedera tulang leher yang bermakna, dibanding 90,7% untuk kriteria NEXUS (Stiell dkk., NEJM 2003).",
+       "en": "Sensitivity for clinically important cervical spine injury, versus 90.7% for the NEXUS criteria (Stiell et al., NEJM 2003).",
+       "zh": "对有临床意义颈椎损伤的敏感度，NEXUS标准为90.7%（Stiell等，NEJM 2003）。",
+       "uz": "Ahamiyatli boʻyin umurtqasi shikastlanishi uchun sezgirlik; NEXUS mezonlarida 90,7% (Stiell va boshq., NEJM 2003)."
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Ottawa ankle rules: nyeri di area maleolus atau kaki tengah, ditambah salah satu:",
+     "en": "Ottawa ankle rules: pain in the malleolar or midfoot zone, plus any of:",
+     "zh": "Ottawa ankle rules：踝部或中足区域疼痛，并伴以下任一项：",
+     "uz": "Ottawa ankle rules: toʻpiq yoki oyoq oʻrta qismi sohasida ogʻriq, qoʻshimcha ravishda quyidagilardan biri:"
+    },
+    "butir": [
+     {
+      "id": "nyeri tekan tepi belakang atau ujung maleolus",
+      "en": "tenderness at the posterior edge or tip of a malleolus",
+      "zh": "内踝或外踝后缘或尖端压痛",
+      "uz": "toʻpiqning orqa cheti yoki uchida bosilganda ogʻriq"
+     },
+     {
+      "id": "nyeri tekan basis metatarsal V atau navikular",
+      "en": "tenderness at the base of the fifth metatarsal or the navicular",
+      "zh": "第五跖骨基底或足舟骨压痛",
+      "uz": "V kaft suyagi asosi yoki qayiqsimon suyakda bosilganda ogʻriq"
+     },
+     {
+      "id": "tidak dapat menapak 4 langkah",
+      "en": "inability to bear weight for 4 steps",
+      "zh": "无法负重行走4步",
+      "uz": "4 qadam tayanib yura olmaslik"
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Ottawa knee rule (dewasa): rontgen bila ada satu dari",
+     "en": "Ottawa knee rule (adults): radiograph if any one of",
+     "zh": "Ottawa knee rule（成人）：满足以下任一项即行X线检查",
+     "uz": "Ottawa knee rule (kattalar): quyidagilardan biri boʻlsa rentgen"
+    },
+    "butir": [
+     {
+      "id": "Usia ≥55 tahun",
+      "en": "Age ≥55 years",
+      "zh": "年龄≥55岁",
+      "uz": "Yosh ≥55"
+     },
+     {
+      "id": "Nyeri tekan kepala fibula",
+      "en": "Tenderness at the head of the fibula",
+      "zh": "腓骨头压痛",
+      "uz": "Kichik boldir suyagi boshchasida bosilganda ogʻriq"
+     },
+     {
+      "id": "Nyeri tekan patela terisolasi",
+      "en": "Isolated patellar tenderness",
+      "zh": "孤立性髌骨压痛",
+      "uz": "Faqat tizza qopqogʻida bosilganda ogʻriq"
+     },
+     {
+      "id": "Tidak dapat fleksi 90°",
+      "en": "Inability to flex to 90°",
+      "zh": "无法屈曲至90°",
+      "uz": "90° gacha buka olmaslik"
+     },
+     {
+      "id": "Tidak dapat menapak 4 langkah",
+      "en": "Inability to bear weight for 4 steps",
+      "zh": "无法负重行走4步",
+      "uz": "4 qadam tayanib yura olmaslik"
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Canadian C-spine rule",
+     "en": "Canadian C-spine rule",
+     "zh": "Canadian C-spine rule（加拿大颈椎规则）",
+     "uz": "Canadian C-spine rule"
+    },
+    "butir": [
+     {
+      "id": "Untuk pasien sadar dan stabil",
+      "en": "For alert and stable patients",
+      "zh": "适用于清醒且病情稳定的患者",
+      "uz": "Hushi joyida va barqaror bemorlar uchun"
+     },
+     {
+      "id": "Nilai faktor risiko tinggi, lalu faktor risiko rendah",
+      "en": "Assess high-risk factors, then low-risk factors",
+      "zh": "先评估高危因素，再评估低危因素",
+      "uz": "Avval yuqori xavf omillarini, soʻng past xavf omillarini baholang"
+     },
+     {
+      "id": "Lalu kemampuan menoleh 45° ke kiri dan kanan",
+      "en": "Then the ability to rotate the neck 45° left and right",
+      "zh": "然后评估能否向左右转头45°",
+      "uz": "Soʻng boshni chapga va oʻngga 45° bura olishini baholang"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": null,
+    "teks": {
+     "id": "**Aturan positif → rontgen sesuai.** Aturan negatif tetapi rontgen tetap dibuat → cari alasan tercatat (pasien tidak dapat dinilai, intoksikasi, cedera penyerta). AMSSM: jangan rontgen pergelangan atau kaki tengah pada usia >6 tahun tanpa kriteria Ottawa positif.",
+     "en": "**Rule positive → radiograph appropriate.** Rule negative but a radiograph was still taken → look for a documented reason (patient cannot be assessed, intoxication, associated injuries). AMSSM: do not order ankle or midfoot radiographs in patients >6 years old without positive Ottawa criteria.",
+     "zh": "**规则阳性 → X线检查恰当。**规则阴性但仍行X线检查 → 查找有记录的理由（患者无法评估、中毒、合并伤）。AMSSM：6岁以上患者若Ottawa标准阴性，不应行踝关节或中足X线检查。",
+     "uz": "**Qoida musbat → rentgen oʻrinli.** Qoida manfiy, lekin rentgen baribir qilingan → qayd etilgan sababni izlang (bemorni baholab boʻlmaydi, intoksikatsiya, hamroh shikastlar). AMSSM: >6 yoshdagi bemorlarda Ottawa mezonlari musbat boʻlmasa, toʻpiq yoki oyoq oʻrta qismi rentgenini buyurmang."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Sumber",
+     "en": "Sources",
+     "zh": "来源",
+     "uz": "Manbalar"
+    },
+    "teks": {
+     "id": "Bachmann dkk., BMJ 2003;326:417 · ACR Appropriateness Criteria Acute Trauma to the Knee (2019) · Stiell dkk., N Engl J Med 2003;349:2510–8 · AMSSM Choosing Wisely (2022).",
+     "en": "Bachmann et al., BMJ 2003;326:417 · ACR Appropriateness Criteria Acute Trauma to the Knee (2019) · Stiell et al., N Engl J Med 2003;349:2510–8 · AMSSM Choosing Wisely (2022).",
+     "zh": "Bachmann等，BMJ 2003;326:417 · ACR Appropriateness Criteria Acute Trauma to the Knee（2019）· Stiell等，N Engl J Med 2003;349:2510–8 · AMSSM Choosing Wisely（2022）。",
+     "uz": "Bachmann va boshq., BMJ 2003;326:417 · ACR Appropriateness Criteria Acute Trauma to the Knee (2019) · Stiell va boshq., N Engl J Med 2003;349:2510–8 · AMSSM Choosing Wisely (2022)."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 15,
+  "id": "kekuatan-modalitas-pencitraan",
+  "kicker": {
+   "id": "PENUNJANG · MODALITAS",
+   "en": "INVESTIGATIONS · MODALITIES",
+   "zh": "辅助检查 · 检查方式",
+   "uz": "YORDAMCHI TEKSHIRUVLAR · USULLAR"
+  },
+  "judul": {
+   "id": "Rontgen, CT, MRI, USG: kekuatan masing-masing",
+   "en": "Radiography, CT, MRI, ultrasound: the strengths of each",
+   "zh": "X线、CT、MRI、超声：各自的优势",
+   "uz": "Rentgen, CT, MRI, UTT: har birining kuchli tomonlari"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Modalitas",
+      "en": "Modality",
+      "zh": "检查方式",
+      "uz": "Usul"
+     },
+     {
+      "id": "Paling berguna untuk",
+      "en": "Most useful for",
+      "zh": "最适用于",
+      "uz": "Eng foydali"
+     },
+     {
+      "id": "Contoh sesuai",
+      "en": "Appropriate examples",
+      "zh": "恰当示例",
+      "uz": "Oʻrinli misollar"
+     },
+     {
+      "id": "Perlu klarifikasi bila",
+      "en": "Needs clarification when",
+      "zh": "以下情况需澄清",
+      "uz": "Aniqlik kiritish kerak, agar"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "**Rontgen**",
+       "en": "**Radiography**",
+       "zh": "**X线**",
+       "uz": "**Rentgen**"
+      },
+      {
+       "id": "Tulang, posisi fragmen, sendi, implan",
+       "en": "Bone, fragment position, joints, implants",
+       "zh": "骨骼、骨折块位置、关节、植入物",
+       "uz": "Suyak, boʻlaklar holati, boʻgʻimlar, implantlar"
+      },
+      {
+       "id": "Penilaian awal hampir semua trauma; kontrol pascaoperasi",
+       "en": "Initial assessment of almost all trauma; postoperative follow-up",
+       "zh": "几乎所有创伤的初始评估；术后复查",
+       "uz": "Deyarli barcha travmalarda dastlabki baholash; operatsiyadan keyingi nazorat"
+      },
+      {
+       "id": "Diulang tanpa perubahan klinis atau titik keputusan",
+       "en": "Repeated without a clinical change or decision point",
+       "zh": "无临床变化或决策节点而重复检查",
+       "uz": "Klinik oʻzgarish yoki qaror nuqtasisiz takrorlangan"
+      }
+     ],
+     [
+      {
+       "id": "**CT**",
+       "en": "**CT**",
+       "zh": "**CT**",
+       "uz": "**CT**"
+      },
+      {
+       "id": "Fraktur intraartikular dan kompleks, panggul, tulang belakang",
+       "en": "Intra-articular and complex fractures, pelvis/hip, spine",
+       "zh": "关节内及复杂骨折、骨盆/髋部、脊柱",
+       "uz": "Boʻgʻim ichi va murakkab sinishlar, chanoq-son, umurtqa pogʻonasi"
+      },
+      {
+       "id": "Fraktur tibial plateau: CT atau MRI, pilih satu (ACR); perencanaan operasi fraktur kompleks",
+       "en": "Tibial plateau fracture: CT or MRI, choose one (ACR); surgical planning for complex fractures",
+       "zh": "胫骨平台骨折：CT或MRI，二选一（ACR）；复杂骨折的手术规划",
+       "uz": "Katta boldir suyagi plato sinishi: CT yoki MRI, bittasini tanlang (ACR); murakkab sinishlarda operatsiyani rejalashtirish"
+      },
+      {
+       "id": "Dibuat sebelum rontgen pada trauma ringan",
+       "en": "Performed before radiography in minor trauma",
+       "zh": "轻微创伤时在X线检查前进行",
+       "uz": "Yengil travmada rentgendan oldin qilingan"
+      }
+     ],
+     [
+      {
+       "id": "**MRI**",
+       "en": "**MRI**",
+       "zh": "**MRI**",
+       "uz": "**MRI**"
+      },
+      {
+       "id": "Ligamen, meniskus, tulang rawan, fraktur tersembunyi",
+       "en": "Ligaments, meniscus, cartilage, occult fractures",
+       "zh": "韧带、半月板、软骨、隐匿性骨折",
+       "uz": "Boylamlar, menisk, togʻay, yashirin sinishlar"
+      },
+      {
+       "id": "Lutut nyeri tekan atau efusi dengan rontgen negatif (ACR); curiga fraktur panggul tersembunyi (NICE)",
+       "en": "Knee tenderness or effusion with negative radiographs (ACR); suspected occult hip fracture (NICE)",
+       "zh": "膝关节压痛或积液而X线阴性（ACR）；怀疑隐匿性髋部骨折（NICE）",
+       "uz": "Rentgen manfiy boʻlganda tizzada bosilganda ogʻriq yoki efuziya (ACR); son sohasida yashirin sinishga shubha (NICE)"
+      },
+      {
+       "id": "Nyeri lutut depan tanpa gejala mekanik atau efusi, sebelum rehabilitasi (AMSSM)",
+       "en": "Anterior knee pain without mechanical symptoms or effusion, before rehabilitation (AMSSM)",
+       "zh": "无机械症状或积液的膝前痛，且尚未康复治疗（AMSSM）",
+       "uz": "Mexanik belgilar yoki efuziyasiz tizza old qismidagi ogʻriq, reabilitatsiyadan oldin (AMSSM)"
+      }
+     ],
+     [
+      {
+       "id": "**USG**",
+       "en": "**Ultrasound**",
+       "zh": "**超声**",
+       "uz": "**UTT**"
+      },
+      {
+       "id": "Tendon superfisial, cairan, rotator cuff, saraf, sendi, ligamen, meniskus, pembuluh darah, bantalan sendi (bursa)",
+       "en": "Superficial tendons, fluid, rotator cuff, nerves, joints, ligaments, meniscus, blood vessels, bursae",
+       "zh": "浅表肌腱、积液、肩袖、神经、关节、韧带、半月板、血管、滑囊",
+       "uz": "Yuza paylar, suyuqlik, rotator manjet, nervlar, boʻgʻimlar, boylamlar, menisk, qon tomirlar, boʻgʻim xaltachalari (bursa)"
+      },
+      {
+       "id": "Robekan rotator cuff bila operatornya berpengalaman, sebelum MRI (AMSSM)",
+       "en": "Rotator cuff tear when the operator is experienced, before MRI (AMSSM)",
+       "zh": "操作者经验丰富时评估肩袖撕裂，先于MRI（AMSSM）",
+       "uz": "Operator tajribali boʻlsa, rotator manjet yirtilishi, MRIdan oldin (AMSSM)"
+      },
+      {
+       "id": "Tanpa dokumentasi gambar atau ekspertise",
+       "en": "No image documentation or report",
+       "zh": "无图像记录或检查报告",
+       "uz": "Tasvir hujjati yoki xulosa yoʻq"
+      }
+     ],
+     [
+      {
+       "id": "**CTA**",
+       "en": "**CTA**",
+       "zh": "**CTA**",
+       "uz": "**CTA**"
+      },
+      {
+       "id": "Cedera pembuluh darah",
+       "en": "Vascular injury",
+       "zh": "血管损伤",
+       "uz": "Qon tomir shikastlanishi"
+      },
+      {
+       "id": "Dislokasi lutut atau trauma berat, bersama rontgen (ACR)",
+       "en": "Knee dislocation or major trauma, together with radiography (ACR)",
+       "zh": "膝关节脱位或严重创伤，与X线检查联合（ACR）",
+       "uz": "Tizza chiqishi yoki ogʻir travma, rentgen bilan birga (ACR)"
+      },
+      {
+       "id": "CT tanpa kontras ditagih untuk menilai pembuluh",
+       "en": "Non-contrast CT billed to assess vessels",
+       "zh": "以平扫CT收费用于评估血管",
+       "uz": "Qon tomirlarni baholash uchun kontrastsiz CT hisoblangan"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": {
+     "id": "Rumus kasar",
+     "en": "Rule of thumb",
+     "zh": "简要原则",
+     "uz": "Taxminiy qoida"
+    },
+    "teks": {
+     "id": "Rontgen dulu; pemeriksaan lanjutan bila rontgen tidak menjawab pertanyaan klinis yang tercatat. Kolom terakhir adalah pemicu klarifikasi, bukan alasan penolakan.",
+     "en": "Radiograph first; advanced imaging when the radiograph does not answer the documented clinical question. The last column is a trigger for clarification, not a reason for rejection.",
+     "zh": "先行X线检查；当X线未能回答已记录的临床问题时再行进一步检查。最后一列是需要澄清的提示，而非拒付理由。",
+     "uz": "Avval rentgen; rentgen qayd etilgan klinik savolga javob bermasa, qoʻshimcha tekshiruv. Oxirgi ustun rad etish sababi emas, balki aniqlik kiritish uchun ishora."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Sumber",
+     "en": "Sources",
+     "zh": "来源",
+     "uz": "Manbalar"
+    },
+    "teks": {
+     "id": "ACR Appropriateness Criteria Acute Trauma to the Knee (2019) · NICE CG124 Hip fracture · AMSSM Choosing Wisely (2014, 2022). CTA = CT angiografi.",
+     "en": "ACR Appropriateness Criteria Acute Trauma to the Knee (2019) · NICE CG124 Hip fracture · AMSSM Choosing Wisely (2014, 2022). CTA = CT angiography.",
+     "zh": "ACR Appropriateness Criteria Acute Trauma to the Knee（2019）· NICE CG124 Hip fracture · AMSSM Choosing Wisely（2014、2022）。CTA = CT血管造影。",
+     "uz": "ACR Appropriateness Criteria Acute Trauma to the Knee (2019) · NICE CG124 Hip fracture · AMSSM Choosing Wisely (2014, 2022). CTA = KT angiografiya."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 16,
+  "id": "contoh-trauma-lutut-akut-mri",
+  "kicker": {
+   "id": "PENUNJANG · CONTOH KASUS",
+   "en": "INVESTIGATIONS · CASE EXAMPLE",
+   "zh": "辅助检查 · 病例示例",
+   "uz": "YORDAMCHI TEKSHIRUVLAR · KLINIK MISOL"
+  },
+  "judul": {
+   "id": "Contoh: trauma lutut akut dan kebutuhan MRI",
+   "en": "Example: acute knee trauma and the need for MRI",
+   "zh": "示例：急性膝关节创伤与MRI需求",
+   "uz": "Misol: tizzaning oʻtkir travmasi va MRI zarurati"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Trauma lutut akut",
+       "en": "Acute knee trauma",
+       "zh": "急性膝关节创伤",
+       "uz": "Tizzaning oʻtkir travmasi"
+      },
+      "teks": {
+       "id": "Mekanisme, nyeri tekan, efusi, kemampuan menapak.",
+       "en": "Mechanism, tenderness, effusion, ability to bear weight.",
+       "zh": "受伤机制、压痛、积液、负重能力。",
+       "uz": "Mexanizm, bosilganda ogʻriq, efuziya, tayanib yura olish."
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Kriteria Ottawa atau ACR",
+       "en": "Ottawa or ACR criteria",
+       "zh": "Ottawa或ACR标准",
+       "uz": "Ottawa yoki ACR mezonlari"
+      },
+      "teks": {
+       "id": "Nyeri tekan fokal, efusi, atau tidak dapat menapak (ACR Variant 2).",
+       "en": "Focal tenderness, effusion, or inability to bear weight (ACR Variant 2).",
+       "zh": "局部压痛、积液或无法负重（ACR Variant 2）。",
+       "uz": "Oʻchoqli ogʻriq, efuziya yoki tayanib yura olmaslik (ACR Variant 2)."
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Rontgen lutut dan/atau USG lutut",
+       "en": "Knee radiograph and/or knee ultrasound",
+       "zh": "膝关节X线和/或膝关节超声",
+       "uz": "Tizza rentgeni va/yoki tizza UTT"
+      },
+      "teks": {
+       "id": "Usually appropriate sebagai pemeriksaan awal.",
+       "en": "Usually appropriate as the initial examination.",
+       "zh": "作为初始检查通常适宜（usually appropriate）。",
+       "uz": "Dastlabki tekshiruv sifatida usually appropriate (odatda oʻrinli)."
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": {
+       "id": "Rontgen negatif, efusi atau instabilitas",
+       "en": "Negative radiograph, effusion or instability",
+       "zh": "X线阴性，伴积液或不稳定",
+       "uz": "Rentgen manfiy, efuziya yoki beqarorlik"
+      },
+      "judul": {
+       "id": "MRI lutut tanpa kontras",
+       "en": "Non-contrast knee MRI",
+       "zh": "膝关节MRI平扫",
+       "uz": "Kontrastsiz tizza MRI"
+      },
+      "teks": {
+       "id": "Usually appropriate untuk curiga cedera dalam atau fraktur tersembunyi (ACR Variant 3).",
+       "en": "Usually appropriate for suspected internal derangement or occult fracture (ACR Variant 3).",
+       "zh": "怀疑关节内结构损伤或隐匿性骨折时通常适宜（ACR Variant 3）。",
+       "uz": "Ichki shikast yoki yashirin sinishga shubha boʻlganda usually appropriate (ACR Variant 3)."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "Fraktur tibial plateau",
+       "en": "Tibial plateau fracture",
+       "zh": "胫骨平台骨折",
+       "uz": "Katta boldir suyagi plato sinishi"
+      },
+      "judul": {
+       "id": "CT atau MRI, pilih satu",
+       "en": "CT or MRI, choose one",
+       "zh": "CT或MRI，二选一",
+       "uz": "CT yoki MRI, bittasini tanlang"
+      },
+      "teks": {
+       "id": "Keduanya alternatif setara; CT membantu klasifikasi fraktur (ACR Variant 5).",
+       "en": "The two are equivalent alternatives; CT helps classify the fracture (ACR Variant 5).",
+       "zh": "两者为同等替代方案；CT有助于骨折分型（ACR Variant 5）。",
+       "uz": "Ikkalasi teng muqobil; CT sinishni tasniflashga yordam beradi (ACR Variant 5)."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "Dislokasi lutut, curiga cedera pembuluh",
+       "en": "Knee dislocation, suspected vascular injury",
+       "zh": "膝关节脱位，怀疑血管损伤",
+       "uz": "Tizza chiqishi, qon tomir shikastiga shubha"
+      },
+      "judul": {
+       "id": "Rontgen dan CTA",
+       "en": "Radiograph and CTA",
+       "zh": "X线与CTA",
+       "uz": "Rentgen va CTA"
+      },
+      "teks": {
+       "id": "Saling melengkapi; keduanya usually appropriate (ACR Variant 7).",
+       "en": "Complementary; both are usually appropriate (ACR Variant 7).",
+       "zh": "二者互补；均为通常适宜（ACR Variant 7）。",
+       "uz": "Bir-birini toʻldiradi; ikkalasi ham usually appropriate (ACR Variant 7)."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Dari materi ACL",
+     "en": "From the ACL module",
+     "zh": "来自ACL课程",
+     "uz": "ACL materialidan"
+    },
+    "butir": [
+     {
+      "id": "Diagnosis ACL memadukan riwayat dan pemeriksaan fisik; Lachman: sensitivitas 81%, spesifisitas 85% (Sokal dkk., 2022).",
+      "en": "ACL diagnosis combines history and physical examination; Lachman: sensitivity 81%, specificity 85% (Sokal et al., 2022).",
+      "zh": "前交叉韧带（ACL）损伤的诊断结合病史与体格检查；Lachman试验：敏感度81%，特异度85%（Sokal等，2022）。",
+      "uz": "ACL (oldingi xochsimon boylam) tashxisi anamnez va fizik koʻrikni birlashtiradi; Lachman: sezgirlik 81%, oʻziga xoslik 85% (Sokal va boshq., 2022)."
+     },
+     {
+      "id": "MRI tidak selalu wajib untuk diagnosis ACL, tetapi memperlihatkan meniskus dan tulang rawan yang memengaruhi rencana operasi (AAOS OrthoInfo).",
+      "en": "MRI is not always mandatory to diagnose an ACL injury, but it shows the meniscus and cartilage, which influence surgical planning (AAOS OrthoInfo).",
+      "zh": "MRI并非诊断ACL损伤的必需检查，但可显示影响手术方案的半月板和软骨情况（AAOS OrthoInfo）。",
+      "uz": "ACL tashxisi uchun MRI har doim ham shart emas, lekin u operatsiya rejasiga taʼsir qiluvchi menisk va togʻayni koʻrsatadi (AAOS OrthoInfo)."
+     },
+     {
+      "id": "Jadi MRI pada lutut dengan efusi atau instabilitas setelah rontgen umumnya sesuai; MRI tanpa temuan klinis yang tercatat perlu klarifikasi.",
+      "en": "Thus MRI of a knee with effusion or instability after radiography is generally appropriate; MRI without documented clinical findings needs clarification.",
+      "zh": "因此，X线检查后膝关节有积液或不稳定时行MRI一般属恰当；无记录临床发现的MRI需要澄清。",
+      "uz": "Demak, rentgendan keyin efuziya yoki beqarorlik boʻlgan tizzada MRI odatda oʻrinli; qayd etilgan klinik topilmalarsiz MRI aniqlik kiritishni talab qiladi."
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Sumber",
+     "en": "Sources",
+     "zh": "来源",
+     "uz": "Manbalar"
+    },
+    "teks": {
+     "id": "ACR Appropriateness Criteria Acute Trauma to the Knee, revisi 2019 (Variant 2, 3, 5, 7) · Sokal dkk., KSSTA 2022 · AAOS OrthoInfo ACL Injuries (lihat deck Cedera ACL).",
+     "en": "ACR Appropriateness Criteria Acute Trauma to the Knee, 2019 revision (Variants 2, 3, 5, 7) · Sokal et al., KSSTA 2022 · AAOS OrthoInfo ACL Injuries (see the ACL Injury deck).",
+     "zh": "ACR Appropriateness Criteria Acute Trauma to the Knee，2019年修订版（Variant 2、3、5、7）· Sokal等，KSSTA 2022 · AAOS OrthoInfo ACL Injuries（见ACL损伤课程）。",
+     "uz": "ACR Appropriateness Criteria Acute Trauma to the Knee, 2019-yil tahriri (Variant 2, 3, 5, 7) · Sokal va boshq., KSSTA 2022 · AAOS OrthoInfo ACL Injuries (ACL shikastlanishi taqdimotiga qarang)."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 17,
+  "id": "rontgen-kontrol-titik-keputusan",
+  "kicker": {
+   "id": "PENUNJANG · KONTROL DAN PENYEMBUHAN",
+   "en": "INVESTIGATIONS · FOLLOW-UP AND HEALING",
+   "zh": "辅助检查 · 复查与愈合",
+   "uz": "YORDAMCHI TEKSHIRUVLAR · NAZORAT VA BITISH"
+  },
+  "judul": {
+   "id": "Rontgen kontrol mengikuti titik keputusan",
+   "en": "Follow-up radiographs follow decision points",
+   "zh": "复查X线片应围绕决策节点",
+   "uz": "Nazorat rentgeni qaror nuqtalariga bogʻliq"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**Patokan klasik dewasa (Perkins)**",
+     "en": "**Classic adult benchmarks (Perkins)**",
+     "zh": "**成人经典参考（Perkins）**",
+     "uz": "**Kattalar uchun klassik moʻljal (Perkins)**"
+    }
+   },
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Lokasi",
+      "en": "Site",
+      "zh": "部位",
+      "uz": "Joylashuv"
+     },
+     {
+      "id": "Pola",
+      "en": "Pattern",
+      "zh": "类型",
+      "uz": "Shakl"
+     },
+     {
+      "id": "Union",
+      "en": "Union",
+      "zh": "初步愈合（union）",
+      "uz": "Bitish (union)"
+     },
+     {
+      "id": "Konsolidasi",
+      "en": "Consolidation",
+      "zh": "巩固愈合",
+      "uz": "Konsolidatsiya"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Lengan",
+       "en": "Upper limb",
+       "zh": "上肢",
+       "uz": "Qoʻl"
+      },
+      {
+       "id": "Spiral",
+       "en": "Spiral",
+       "zh": "螺旋形",
+       "uz": "Spiral"
+      },
+      {
+       "id": "3 minggu",
+       "en": "3 weeks",
+       "zh": "3周",
+       "uz": "3 hafta"
+      },
+      {
+       "id": "6 minggu",
+       "en": "6 weeks",
+       "zh": "6周",
+       "uz": "6 hafta"
+      }
+     ],
+     [
+      {
+       "id": "Lengan",
+       "en": "Upper limb",
+       "zh": "上肢",
+       "uz": "Qoʻl"
+      },
+      {
+       "id": "Transversal",
+       "en": "Transverse",
+       "zh": "横形",
+       "uz": "Koʻndalang"
+      },
+      {
+       "id": "6 minggu",
+       "en": "6 weeks",
+       "zh": "6周",
+       "uz": "6 hafta"
+      },
+      {
+       "id": "12 minggu",
+       "en": "12 weeks",
+       "zh": "12周",
+       "uz": "12 hafta"
+      }
+     ],
+     [
+      {
+       "id": "Tungkai",
+       "en": "Lower limb",
+       "zh": "下肢",
+       "uz": "Oyoq"
+      },
+      {
+       "id": "Spiral",
+       "en": "Spiral",
+       "zh": "螺旋形",
+       "uz": "Spiral"
+      },
+      {
+       "id": "6 minggu",
+       "en": "6 weeks",
+       "zh": "6周",
+       "uz": "6 hafta"
+      },
+      {
+       "id": "12 minggu",
+       "en": "12 weeks",
+       "zh": "12周",
+       "uz": "12 hafta"
+      }
+     ],
+     [
+      {
+       "id": "Tungkai",
+       "en": "Lower limb",
+       "zh": "下肢",
+       "uz": "Oyoq"
+      },
+      {
+       "id": "Transversal",
+       "en": "Transverse",
+       "zh": "横形",
+       "uz": "Koʻndalang"
+      },
+      {
+       "id": "12 minggu",
+       "en": "12 weeks",
+       "zh": "12周",
+       "uz": "12 hafta"
+      },
+      {
+       "id": "24 minggu",
+       "en": "24 weeks",
+       "zh": "24周",
+       "uz": "24 hafta"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**Union** = penyatuan awal · **Konsolidasi** = penyatuan lebih kuat.\nApley: lengan 6–8 minggu dan tungkai 12–16 minggu untuk fraktur spiral; tambah sekitar 25% bila bukan spiral atau melibatkan femur. Angka Apley mendekati kolom konsolidasi Perkins.",
+     "en": "**Union** = early bony union · **Consolidation** = stronger, complete union.\nApley: 6–8 weeks for the upper limb and 12–16 weeks for the lower limb in spiral fractures; add about 25% if the fracture is not spiral or involves the femur. Apley's figures approximate Perkins' consolidation column.",
+     "zh": "**初步愈合（union）** = 早期骨性连接 · **巩固愈合** = 更牢固的愈合。\nApley：螺旋形骨折上肢6–8周、下肢12–16周；非螺旋形或累及股骨者约增加25%。Apley的数字接近Perkins的巩固愈合一栏。",
+     "uz": "**Union** = dastlabki bitish · **Konsolidatsiya** = mustahkamroq bitish.\nApley: spiral sinishlarda qoʻl uchun 6–8 hafta, oyoq uchun 12–16 hafta; spiral boʻlmasa yoki son suyagi ishtirok etsa, taxminan 25% qoʻshiladi. Apley raqamlari Perkinsning konsolidatsiya ustuniga yaqin."
+    }
+   },
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**Rontgen kontrol wajar pada titik keputusan**",
+     "en": "**Follow-up radiographs are reasonable at decision points**",
+     "zh": "**在决策节点行复查X线片属合理**",
+     "uz": "**Nazorat rentgeni qaror nuqtalarida oʻrinli**"
+    }
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Setelah reposisi atau operasi",
+       "en": "After reduction or surgery",
+       "zh": "复位或手术后",
+       "uz": "Repozitsiya yoki operatsiyadan keyin"
+      },
+      "teks": {
+       "id": "Menilai posisi fragmen dan letak implan.",
+       "en": "Assess fragment position and implant placement.",
+       "zh": "评估骨折块位置和植入物位置。",
+       "uz": "Boʻlaklar holati va implant joylashuvini baholash."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Sebelum menambah beban",
+       "en": "Before increasing weight-bearing",
+       "zh": "增加负重前",
+       "uz": "Yuklamani oshirishdan oldin"
+      },
+      "teks": {
+       "id": "Menilai kalus; menapak penuh setelah penyatuan cukup kuat.",
+       "en": "Assess callus; full weight-bearing once union is strong enough.",
+       "zh": "评估骨痂；骨愈合足够牢固后方可完全负重。",
+       "uz": "Kallusni baholash; bitish yetarlicha mustahkam boʻlgach toʻliq tayanish."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Saat curiga komplikasi",
+       "en": "When a complication is suspected",
+       "zh": "怀疑并发症时",
+       "uz": "Asoratga shubha boʻlganda"
+      },
+      "teks": {
+       "id": "Nyeri baru, implan longgar atau patah, tanda infeksi.",
+       "en": "New pain, loose or broken implant, signs of infection.",
+       "zh": "新发疼痛、植入物松动或断裂、感染征象。",
+       "uz": "Yangi ogʻriq, implantning boʻshashishi yoki sinishi, infeksiya belgilari."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Sebelum pelepasan implan",
+       "en": "Before implant removal",
+       "zh": "取出植入物前",
+       "uz": "Implantni olib tashlashdan oldin"
+      },
+      "teks": {
+       "id": "Memastikan tulang sudah menyatu kuat.",
+       "en": "Confirm that the bone has united solidly.",
+       "zh": "确认骨折已牢固愈合。",
+       "uz": "Suyak mustahkam bitganiga ishonch hosil qilish."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": {
+     "id": "Arti untuk verifikasi",
+     "en": "What it means for verification",
+     "zh": "对核查的意义",
+     "uz": "Tekshiruv uchun maʼnosi"
+    },
+    "teks": {
+     "id": "Kontrol lebih panjang pada tungkai, pola transversal, lansia, atau fraktur terbuka dapat wajar. Angka tabel adalah perkiraan, bukan batas klaim.",
+     "en": "Longer follow-up for the lower limb, transverse patterns, older patients or open fractures can be reasonable. The table figures are estimates, not claim limits.",
+     "zh": "下肢、横形骨折、老年患者或开放性骨折的复查期较长属合理。表中数字为估计值，而非理赔上限。",
+     "uz": "Oyoq, koʻndalang shakl, keksa bemorlar yoki ochiq sinishlarda uzoqroq nazorat oʻrinli boʻlishi mumkin. Jadvaldagi raqamlar taxminiy boʻlib, daʼvo (klaim) chegarasi emas."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Sumber",
+     "en": "Sources",
+     "zh": "来源",
+     "uz": "Manbalar"
+    },
+    "teks": {
+     "id": "Infografik Perkins (UK Ministry of Defence, Fractures – Long Bones: Upper Limb, Gbr. 3) · infografik Apley & Solomon edisi ke-10, hlm. 715. Titik keputusan: sintesis penulis.",
+     "en": "Perkins infographic (UK Ministry of Defence, Fractures – Long Bones: Upper Limb, Fig. 3) · Apley & Solomon infographic, 10th edition, p. 715. Decision points: author's synthesis.",
+     "zh": "Perkins信息图（UK Ministry of Defence, Fractures – Long Bones: Upper Limb，图3）· Apley & Solomon第10版信息图，第715页。决策节点：作者综合。",
+     "uz": "Perkins infografikasi (UK Ministry of Defence, Fractures – Long Bones: Upper Limb, 3-rasm) · Apley & Solomon infografikasi, 10-nashr, 715-bet. Qaror nuqtalari: muallif sintezi."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 18,
+  "id": "alat-bantu-orthose-prothese",
+  "kicker": {
+   "id": "ALAT KESEHATAN · ALAT BANTU",
+   "en": "MEDICAL DEVICES · ASSISTIVE DEVICES",
+   "zh": "医疗器械 · 辅助器具",
+   "uz": "TIBBIY BUYUMLAR · YORDAMCHI VOSITALAR"
+  },
+  "judul": {
+   "id": "Alat bantu, orthose, dan prothese",
+   "en": "Assistive devices, orthoses and prostheses",
+   "zh": "辅助器具、矫形器与假肢",
+   "uz": "Yordamchi vositalar, ortezlar va protezlar"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 4,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Kruk dan walker",
+       "en": "Crutches and walkers",
+       "zh": "拐杖与助行器",
+       "uz": "Qoʻltiqtayoq va yurish moslamasi (walker)"
+      },
+      "teks": {
+       "id": "Mengikuti status menapak: tidak menapak, sebagian, atau penuh. Tidak ada minggu baku; dokter menilai stabilitas dan metode fiksasi.",
+       "en": "Follow the weight-bearing status: non, partial or full weight-bearing. There is no fixed week; the doctor assesses stability and the fixation method.",
+       "zh": "依据负重状态：不负重、部分负重或完全负重。没有固定周数；由医生评估稳定性和固定方式。",
+       "uz": "Tayanish holatiga qarab: tayanmaslik, qisman yoki toʻliq tayanish. Belgilangan hafta yoʻq; shifokor barqarorlik va fiksatsiya usulini baholaydi."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Brace lutut",
+       "en": "Knee brace",
+       "zh": "膝关节支具",
+       "uz": "Tizza ortezi"
+      },
+      "teks": {
+       "id": "Contoh: brace 0–90° sekitar 4 minggu setelah perbaikan meniskus atau tulang rawan pada rekonstruksi ACL; tanpa tindakan tambahan sering tidak perlu.",
+       "en": "Example: a 0–90° brace for about 4 weeks after meniscal or cartilage repair during ACL reconstruction; without additional procedures it is often unnecessary.",
+       "zh": "例如：前交叉韧带重建同时行半月板或软骨修复后，使用0–90°支具约4周；无附加手术时通常不需要。",
+       "uz": "Misol: ACL rekonstruksiyasida menisk yoki togʻay tiklanganidan keyin taxminan 4 hafta 0–90° ortez; qoʻshimcha muolajasiz koʻpincha kerak emas."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Splint dan gips",
+       "en": "Splints and casts",
+       "zh": "夹板与石膏",
+       "uz": "Shina va gips"
+      },
+      "teks": {
+       "id": "Imobilisasi fraktur stabil atau setelah reposisi. Penggantian dapat wajar bila longgar, rusak, atau bengkak berkurang.",
+       "en": "Immobilisation of stable fractures or after reduction. Replacement can be reasonable if it becomes loose or damaged, or when swelling subsides.",
+       "zh": "用于稳定性骨折或复位后的固定。若松动、损坏或肿胀消退，更换属合理。",
+       "uz": "Barqaror sinishlarni yoki repozitsiyadan keyin immobilizatsiya. Boʻshashsa, shikastlansa yoki shish kamaysa, almashtirish oʻrinli boʻlishi mumkin."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Orthose dan prothese",
+       "en": "Orthoses and prostheses",
+       "zh": "矫形器与假肢",
+       "uz": "Ortezlar va protezlar"
+      },
+      "teks": {
+       "id": "Bagi anggota badan yang hilang atau tidak berfungsi akibat kecelakaan kerja; bagian dari manfaat rehabilitasi JKK.",
+       "en": "For limbs lost or rendered non-functional by a work accident; part of the JKK rehabilitation benefit.",
+       "zh": "用于因工伤事故而缺失或丧失功能的肢体；属于JKK康复待遇的一部分。",
+       "uz": "Ish joyidagi baxtsiz hodisa tufayli yoʻqotilgan yoki ishlamay qolgan aʼzolar uchun; JKK reabilitatsiya imtiyozining bir qismi."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Daftar periksa alat bantu",
+     "en": "Assistive device checklist",
+     "zh": "辅助器具核查清单",
+     "uz": "Yordamchi vositalar uchun nazorat roʻyxati"
+    },
+    "butir": [
+     {
+      "id": "Resep atau instruksi dokter",
+      "en": "Doctor's prescription or order",
+      "zh": "医生处方或医嘱",
+      "uz": "Shifokor retsepti yoki koʻrsatmasi"
+     },
+     {
+      "id": "Indikasi tercatat",
+      "en": "Documented indication",
+      "zh": "有记录的适应证",
+      "uz": "Qayd etilgan koʻrsatma"
+     },
+     {
+      "id": "Regio dan sisi sesuai",
+      "en": "Correct region and side",
+      "zh": "部位和侧别相符",
+      "uz": "Soha va tomon mos"
+     },
+     {
+      "id": "Tidak ganda dengan paket",
+      "en": "Not duplicated within a package",
+      "zh": "未与打包收费重复",
+      "uz": "Paket bilan takrorlanmaydi"
+     },
+     {
+      "id": "Jumlah dan periode masuk akal",
+      "en": "Reasonable quantity and duration",
+      "zh": "数量和使用期限合理",
+      "uz": "Miqdor va muddat oqilona"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Sumber",
+     "en": "Sources",
+     "zh": "来源",
+     "uz": "Manbalar"
+    },
+    "teks": {
+     "id": "Infografik Patah Tulang: kapan menapak (Apley & Solomon edisi ke-10) · PPT Rehabilitasi Cedera ACL (Aspetar 2023–24) · PP 44/2015 jo. PP 82/2019 Pasal 25 (orthose, prothese). Daftar periksa disusun penulis.",
+     "en": "Infographic “Fractures: when to bear weight” (Apley & Solomon, 10th edition) · ACL Injury Rehabilitation slides (Aspetar 2023–24) · PP 44/2015 jo. PP 82/2019 (Government Regulations), Article 25 (orthoses, prostheses). Checklist compiled by the author.",
+     "zh": "信息图《骨折：何时负重》（Apley & Solomon第10版）· ACL损伤康复课件（Aspetar 2023–24）· PP 44/2015 jo. PP 82/2019（印尼政府条例）第25条（矫形器、假肢）。核查清单由作者编制。",
+     "uz": "“Sinish: qachon tayanish mumkin” infografikasi (Apley & Solomon, 10-nashr) · ACL shikastlanishi reabilitatsiyasi taqdimoti (Aspetar 2023–24) · PP 44/2015 jo. PP 82/2019 (hukumat qarorlari), 25-modda (ortezlar, protezlar). Nazorat roʻyxatini muallif tuzgan."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 19,
+  "id": "contoh-terpadu-cedera-acl-kerja",
+  "kicker": {
+   "id": "CONTOH TERPADU",
+   "en": "INTEGRATED EXAMPLE",
+   "zh": "综合示例",
+   "uz": "YAXLIT MISOL"
+  },
+  "judul": {
+   "id": "Cedera ACL akibat kerja: dari penunjang ke implan",
+   "en": "Work-related ACL injury: from investigations to implants",
+   "zh": "工伤所致前交叉韧带损伤：从辅助检查到植入物",
+   "uz": "Ish bilan bogʻliq ACL shikastlanishi: tekshiruvlardan implantgacha"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": {
+       "id": "01",
+       "en": "01",
+       "zh": "01",
+       "uz": "01"
+      },
+      "judul": {
+       "id": "Cedera",
+       "en": "Injury",
+       "zh": "受伤",
+       "uz": "Shikastlanish"
+      },
+      "teks": {
+       "id": "Mekanisme berputar atau mendarat saat bekerja.\n**Verifikasi:** Cocokkan kronologi dengan mekanisme.",
+       "en": "Twisting or landing mechanism while working.\n**Verification:** Match the chronology with the mechanism.",
+       "zh": "工作时扭转或落地受伤机制。\n**核查:** 核对时间经过与受伤机制是否一致。",
+       "uz": "Ish vaqtida burilish yoki sakrab tushish mexanizmi.\n**Tekshiruv:** Xronologiyani mexanizm bilan solishtiring."
+      }
+     },
+     {
+      "label": {
+       "id": "02",
+       "en": "02",
+       "zh": "02",
+       "uz": "02"
+      },
+      "judul": {
+       "id": "Rontgen",
+       "en": "Radiograph",
+       "zh": "X线检查",
+       "uz": "Rentgen"
+      },
+      "teks": {
+       "id": "Menyingkirkan fraktur, termasuk avulsi.\n**Verifikasi:** Sesuai sebagai langkah awal.",
+       "en": "Rules out fracture, including avulsion.\n**Verification:** Appropriate as the first step.",
+       "zh": "排除骨折，包括撕脱骨折。\n**核查:** 作为第一步属恰当。",
+       "uz": "Sinishni, jumladan avulsiyani istisno qiladi.\n**Tekshiruv:** Dastlabki qadam sifatida oʻrinli."
+      }
+     },
+     {
+      "label": {
+       "id": "03",
+       "en": "03",
+       "zh": "03",
+       "uz": "03"
+      },
+      "judul": {
+       "id": "MRI",
+       "en": "MRI",
+       "zh": "MRI",
+       "uz": "MRI"
+      },
+      "teks": {
+       "id": "Melihat meniskus dan tulang rawan; tidak selalu wajib.\n**Verifikasi:** Sesuai bila ada efusi atau instabilitas setelah rontgen.",
+       "en": "Shows the meniscus and cartilage; not always mandatory.\n**Verification:** Appropriate if there is effusion or instability after radiography.",
+       "zh": "观察半月板和软骨；并非必需。\n**核查:** X线检查后有积液或不稳定时属恰当。",
+       "uz": "Menisk va togʻayni koʻrsatadi; har doim ham shart emas.\n**Tekshiruv:** Rentgendan keyin efuziya yoki beqarorlik boʻlsa oʻrinli."
+      }
+     },
+     {
+      "label": {
+       "id": "04",
+       "en": "04",
+       "zh": "04",
+       "uz": "04"
+      },
+      "judul": {
+       "id": "Lutut tenang",
+       "en": "Quiet knee",
+       "zh": "膝关节平稳",
+       "uz": "Tinch tizza"
+      },
+      "teks": {
+       "id": "Ekstensi penuh, fleksi >120°, bengkak minimal, otot paha aktif.\n**Verifikasi:** Jeda beberapa minggu sebelum operasi bukan kejanggalan.",
+       "en": "Full extension, flexion >120°, minimal swelling, active thigh muscles.\n**Verification:** A gap of several weeks before surgery is not an irregularity.",
+       "zh": "完全伸直，屈曲>120°，肿胀轻微，大腿肌肉可主动收缩。\n**核查:** 术前间隔数周并非异常。",
+       "uz": "Toʻliq yozilish, bukilish >120°, shish minimal, son mushaklari faol.\n**Tekshiruv:** Operatsiyadan oldin bir necha haftalik tanaffus gʻayritabiiy holat emas."
+      }
+     },
+     {
+      "label": {
+       "id": "05",
+       "en": "05",
+       "zh": "05",
+       "uz": "05"
+      },
+      "judul": {
+       "id": "Rekonstruksi",
+       "en": "Reconstruction",
+       "zh": "重建",
+       "uz": "Rekonstruksiya"
+      },
+      "teks": {
+       "id": "Bila diindikasikan, umumnya ≤3 bulan pada cedera akut terisolasi (AAOS 2022).\n**Verifikasi:** Alat fiksasi graft sesuai laporan operasi dan rontgen.",
+       "en": "When indicated, generally ≤3 months for an isolated acute injury (AAOS 2022).\n**Verification:** Graft fixation devices match the operative report and radiographs.",
+       "zh": "如有指征，孤立性急性损伤一般在≤3个月内进行（AAOS 2022）。\n**核查:** 移植物固定装置与手术记录和X线片相符。",
+       "uz": "Koʻrsatma boʻlsa, ajralgan oʻtkir shikastlanishda odatda ≤3 oy ichida (AAOS 2022).\n**Tekshiruv:** Graft fiksatsiya vositalari operatsiya bayonnomasi va rentgenga mos."
+      }
+     },
+     {
+      "label": {
+       "id": "06",
+       "en": "06",
+       "zh": "06",
+       "uz": "06"
+      },
+      "judul": {
+       "id": "Rehabilitasi",
+       "en": "Rehabilitation",
+       "zh": "康复",
+       "uz": "Reabilitatsiya"
+      },
+      "teks": {
+       "id": "Berhenti saat kriteria lulus, bukan saat bulan tertentu tiba.\n**Verifikasi:** Brace hanya bila ada tindakan tambahan tertentu.",
+       "en": "Ends when criteria are passed, not when a particular month arrives.\n**Verification:** Brace only when certain additional procedures were performed.",
+       "zh": "达到标准时结束，而非到某个月份就结束。\n**核查:** 仅在进行了特定附加手术时才需支具。",
+       "uz": "Mezonlar bajarilganda tugaydi, maʼlum oy kelganda emas.\n**Tekshiruv:** Ortez faqat muayyan qoʻshimcha muolaja boʻlganda."
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Alat fiksasi graft (cangkok) ACL beragam, misalnya button kortikal atau interference screw; jenis dan jumlahnya mengikuti teknik operator.",
+     "en": "ACL graft fixation devices vary, e.g. cortical buttons or interference screws; their type and number depend on the surgeon's technique.",
+     "zh": "前交叉韧带移植物固定装置多样，如皮质悬吊钢板（cortical button）或界面螺钉（interference screw）；其种类和数量取决于术者技术。",
+     "uz": "ACL graft fiksatsiya vositalari turlicha, masalan kortikal button yoki interference screw; turi va soni operator texnikasiga bogʻliq."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Sumber",
+     "en": "Sources",
+     "zh": "来源",
+     "uz": "Manbalar"
+    },
+    "teks": {
+     "id": "Deck Cedera ACL (6 November 2026): AAOS CPG 2022, AAOS OrthoInfo, Aspetar ACL Rehabilitation Protocol 2023–24 · infografik ACL Robek. Alur dan baris verifikasi: sintesis penulis.",
+     "en": "ACL Injury deck (6 November 2026): AAOS CPG 2022, AAOS OrthoInfo, Aspetar ACL Rehabilitation Protocol 2023–24 · “Torn ACL” infographic. Pathway and verification lines: author's synthesis.",
+     "zh": "ACL损伤课程（2026年11月6日）：AAOS CPG 2022、AAOS OrthoInfo、Aspetar ACL Rehabilitation Protocol 2023–24 · 《ACL撕裂》信息图。流程与核查要点：作者综合。",
+     "uz": "ACL shikastlanishi taqdimoti (2026-yil 6-noyabr): AAOS CPG 2022, AAOS OrthoInfo, Aspetar ACL Rehabilitation Protocol 2023–24 · “ACL yirtilishi” infografikasi. Yoʻl va tekshiruv qatorlari: muallif sintezi."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 20,
+  "id": "infografik-acl-robek-kapan-operasi",
+  "kicker": {
+   "id": "INFOGRAFIK · ACL",
+   "en": "INFOGRAPHIC · ACL",
+   "zh": "信息图 · 前交叉韧带",
+   "uz": "INFOGRAFIKA · ACL"
+  },
+  "judul": {
+   "id": "ACL robek: kapan operasi?",
+   "en": "Torn ACL: when to operate?",
+   "zh": "前交叉韧带撕裂：何时手术？",
+   "uz": "ACL yirtilishi: qachon operatsiya qilinadi?"
+  },
+  "pesan": {
+   "id": "Robekan ACL parsial maupun total tidak otomatis harus dioperasi hari ini atau besok; lutut disiapkan lebih dahulu.",
+   "en": "Neither a partial nor a complete ACL tear automatically needs surgery today or tomorrow; the knee is prepared first.",
+   "zh": "无论部分还是完全前交叉韧带撕裂，都不必今天或明天就立即手术；应先让膝关节做好准备。",
+   "uz": "Qisman yoki toʻliq ACL yirtilishi avtomatik ravishda bugun yoki ertaga operatsiya qilinishi shart emas; avval tizza tayyorlanadi."
+  },
+  "blok": [
+   {
+    "tipe": "gambar",
+    "id": "verif-info-acl",
+    "keterangan": {
+     "id": "Infografik ACL robek: kapan operasi? (ditampilkan utuh).",
+     "en": "Infographic: torn ACL, when to operate? (shown in full).",
+     "zh": "信息图：前交叉韧带撕裂，何时手术？（完整展示）",
+     "uz": "Infografika: ACL yirtilishi, qachon operatsiya? (toʻliq koʻrsatilgan)."
+    }
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Relevansi untuk verifikasi",
+     "en": "Relevance for verification",
+     "zh": "对核查的意义",
+     "uz": "Tekshiruv (verifikatsiya) uchun ahamiyati"
+    },
+    "butir": [
+     {
+      "id": "Jeda praoperasi untuk menenangkan lutut adalah bagian terapi (lihat contoh terpadu cedera ACL akibat kerja).",
+      "en": "The preoperative interval to settle the knee is part of treatment (see the integrated work-related ACL injury example).",
+      "zh": "术前等待膝关节平稳的间隔属于治疗的一部分（见工伤ACL损伤综合示例）。",
+      "uz": "Tizzani tinchlantirish uchun operatsiyadan oldingi tanaffus davolashning bir qismi (ish bilan bogʻliq ACL shikastlanishi yaxlit misoliga qarang)."
+     },
+     {
+      "id": "Bila rekonstruksi diperlukan pada robekan akut terisolasi, AAOS menganjurkan umumnya dalam 3 bulan.",
+      "en": "When reconstruction is needed for an isolated acute tear, AAOS generally recommends it within 3 months.",
+      "zh": "孤立性急性撕裂如需重建，AAOS一般建议在3个月内进行。",
+      "uz": "Ajralgan oʻtkir yirtilishda rekonstruksiya zarur boʻlsa, AAOS odatda 3 oy ichida tavsiya qiladi."
+     },
+     {
+      "id": "Pengecualian: lutut terkunci, cedera beberapa ligamen, gangguan saraf atau pembuluh darah.",
+      "en": "Exceptions: locked knee, multiligament injury, nerve or vascular compromise.",
+      "zh": "例外：膝关节交锁、多发韧带损伤、神经或血管损伤。",
+      "uz": "Istisnolar: tizzaning qulflanishi, bir nechta boylam shikastlanishi, nerv yoki qon tomir buzilishi."
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Sumber",
+     "en": "Sources",
+     "zh": "来源",
+     "uz": "Manbalar"
+    },
+    "teks": {
+     "id": "Sumber infografik: Aspetar ACL Rehabilitation Protocol, kriteria praoperasi (hlm. 15); AAOS ACL Clinical Practice Guideline (2022). Infografik dokter ditampilkan utuh; relevansi untuk verifikasi ditulis penulis.",
+     "en": "Infographic sources: Aspetar ACL Rehabilitation Protocol, preoperative criteria (p. 15); AAOS ACL Clinical Practice Guideline (2022). The clinician's infographic is shown in full; the relevance for verification was written by the author.",
+     "zh": "信息图来源：Aspetar ACL Rehabilitation Protocol，术前标准（第15页）；AAOS ACL Clinical Practice Guideline（2022）。医生制作的信息图完整展示；对核查的意义由作者撰写。",
+     "uz": "Infografika manbalari: Aspetar ACL Rehabilitation Protocol, operatsiyadan oldingi mezonlar (15-bet); AAOS ACL Clinical Practice Guideline (2022). Shifokor infografikasi toʻliq koʻrsatilgan; tekshiruv uchun ahamiyatini muallif yozgan."
+    }
+   }
+  ]
+ }
+]

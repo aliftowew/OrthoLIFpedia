@@ -1,0 +1,1721 @@
+[
+ {
+  "slide": 12,
+  "id": "kapan-mulai-berlari",
+  "kicker": {
+   "id": "KEMBALI BERLARI",
+   "en": "RETURN TO RUNNING",
+   "zh": "恢复跑步",
+   "uz": "YUGURISHGA QAYTISH"
+  },
+  "judul": {
+   "id": "Kapan Pasien Boleh Mulai Berlari?",
+   "en": "When May the Patient Start Running?",
+   "zh": "患者何时可以开始跑步？",
+   "uz": "Bemor qachon yugurishni boshlashi mumkin?"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "angka",
+    "item": [
+     {
+      "nilai": "10",
+      "label": {
+       "id": "km/jam",
+       "en": "km/h",
+       "zh": "km/h",
+       "uz": "km/soat"
+      },
+      "teks": null
+     },
+     {
+      "nilai": "200",
+      "label": {
+       "id": "meter",
+       "en": "metres",
+       "zh": "米",
+       "uz": "metr"
+      },
+      "teks": null
+     },
+     {
+      "nilai": "6×",
+      "label": {
+       "id": "pengulangan",
+       "en": "repetitions",
+       "zh": "次重复",
+       "uz": "takrorlash"
+      },
+      "teks": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Definisi Aspetar: kembali berlari",
+     "en": "Aspetar definition: return to running",
+     "zh": "Aspetar 定义：恢复跑步",
+     "uz": "Aspetar taʼrifi: yugurishga qaytish"
+    },
+    "teks": {
+     "id": "Kembali berlari = berlari di darat **10 km/jam × 200 meter × 6 pengulangan**. Lari di kolam atau treadmill antigravitasi belum dihitung sebagai kembali berlari di darat.",
+     "en": "Return to running = land-based running at **10 km/h × 200 metres × 6 repetitions**. Pool running or anti-gravity treadmill running does not yet count as returning to running on land.",
+     "zh": "恢复跑步 = 陆地跑步 **10 km/h × 200 米 × 6 次重复**。水中跑步或抗重力跑步机跑步尚不算作恢复陆地跑步。",
+     "uz": "Yugurishga qaytish = quruqlikda **10 km/soat × 200 metr × 6 takrorlash** yugurish. Hovuzda yoki antigravitatsion yugurish yoʻlakchasida yugurish hali quruqlikda yugurishga qaytish hisoblanmaydi."
+    }
+   },
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Kriteria sebelum mulai berlari",
+      "en": "Criteria before starting to run",
+      "zh": "开始跑步前的标准",
+      "uz": "Yugurishni boshlashdan oldingi mezonlar"
+     },
+     {
+      "id": "Target",
+      "en": "Target",
+      "zh": "目标",
+      "uz": "Maqsad"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Waktu setelah operasi",
+       "en": "Time since surgery",
+       "zh": "术后时间",
+       "uz": "Operatsiyadan keyingi vaqt"
+      },
+      {
+       "id": "Umumnya >12 minggu",
+       "en": "Usually >12 weeks",
+       "zh": "通常 >12 周",
+       "uz": "Odatda >12 hafta"
+      }
+     ],
+     [
+      {
+       "id": "Bengkak",
+       "en": "Swelling",
+       "zh": "肿胀",
+       "uz": "Shish"
+      },
+      {
+       "id": "Tidak ada / minimal",
+       "en": "None / minimal",
+       "zh": "无 / 轻微",
+       "uz": "Yoʻq / minimal"
+      }
+     ],
+     [
+      {
+       "id": "Nyeri saat latihan lari",
+       "en": "Pain during running drills",
+       "zh": "跑步训练时疼痛",
+       "uz": "Yugurish mashqi paytidagi ogʻriq"
+      },
+      {
+       "id": "0 dari 10",
+       "en": "0 out of 10",
+       "zh": "0/10",
+       "uz": "10 dan 0"
+      }
+     ],
+     [
+      {
+       "id": "Reaksi keesokan hari",
+       "en": "Next-day reaction",
+       "zh": "次日反应",
+       "uz": "Ertasi kungi reaksiya"
+      },
+      {
+       "id": "Tanpa nyeri/bengkak baru",
+       "en": "No new pain/swelling",
+       "zh": "无新发疼痛/肿胀",
+       "uz": "Yangi ogʻriq/shishsiz"
+      }
+     ],
+     [
+      {
+       "id": "Ekstensi lutut",
+       "en": "Knee extension",
+       "zh": "膝关节伸直",
+       "uz": "Tizza ekstenziyasi"
+      },
+      {
+       "id": "Penuh",
+       "en": "Full",
+       "zh": "完全",
+       "uz": "Toʻliq"
+      }
+     ],
+     [
+      {
+       "id": "Fleksi lutut",
+       "en": "Knee flexion",
+       "zh": "膝关节屈曲",
+       "uz": "Tizza fleksiyasi"
+      },
+      {
+       "id": "Sekitar 135°",
+       "en": "About 135°",
+       "zh": "约 135°",
+       "uz": "Taxminan 135°"
+      }
+     ],
+     [
+      {
+       "id": "Single-leg pogo",
+       "en": "Single-leg pogo",
+       "zh": "单腿 pogo 跳",
+       "uz": "Bir oyoqda pogo"
+      },
+      {
+       "id": "30 kali, teknik baik",
+       "en": "30 reps, good technique",
+       "zh": "30 次，技术良好",
+       "uz": "30 marta, texnika yaxshi"
+      }
+     ],
+     [
+      {
+       "id": "Kestabilan panggul",
+       "en": "Pelvic stability",
+       "zh": "骨盆稳定性",
+       "uz": "Chanoq barqarorligi"
+      },
+      {
+       "id": "Netral saat kaki menapak",
+       "en": "Neutral at foot strike",
+       "zh": "足着地时保持中立",
+       "uz": "Oyoq yerga tekkanda neytral"
+      }
+     ],
+     [
+      {
+       "id": "Kekuatan quadriceps",
+       "en": "Quadriceps strength",
+       "zh": "股四头肌力量",
+       "uz": "Kvadritseps kuchi"
+      },
+      {
+       "id": "LSI >70%",
+       "en": "LSI >70%",
+       "zh": "LSI >70%",
+       "uz": "LSI >70%"
+      }
+     ],
+     [
+      {
+       "id": "Skor IKDC",
+       "en": "IKDC score",
+       "zh": "IKDC 评分",
+       "uz": "IKDC bali"
+      },
+      {
+       "id": ">64%",
+       "en": ">64%",
+       "zh": ">64%",
+       "uz": ">64%"
+      }
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "slide": 13,
+  "id": "memahami-lsi",
+  "kicker": {
+   "id": "ALAT UKUR",
+   "en": "MEASUREMENT TOOL",
+   "zh": "测量工具",
+   "uz": "OʻLCHOV VOSITASI"
+  },
+  "judul": {
+   "id": "Memahami Limb Symmetry Index (LSI)",
+   "en": "Understanding the Limb Symmetry Index (LSI)",
+   "zh": "理解肢体对称指数（LSI）",
+   "uz": "Limb Symmetry Index (LSI) ni tushunish"
+  },
+  "pesan": {
+   "id": "LSI = kekuatan kaki cedera ÷ kekuatan kaki sehat × 100%",
+   "en": "LSI = injured-limb strength ÷ healthy-limb strength × 100%",
+   "zh": "LSI = 患侧下肢力量 ÷ 健侧下肢力量 × 100%",
+   "uz": "LSI = jarohatlangan oyoq kuchi ÷ sogʻlom oyoq kuchi × 100%"
+  },
+  "blok": [
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "Limb Symmetry Index membandingkan kemampuan kaki yang cedera dengan kaki yang sehat. Semakin tinggi nilainya, semakin kecil selisih kemampuan kedua kaki.",
+     "en": "The Limb Symmetry Index compares the capacity of the injured leg with that of the healthy leg. The higher the value, the smaller the difference between the two legs.",
+     "zh": "肢体对称指数比较患侧下肢与健侧下肢的能力。数值越高，两侧下肢能力差距越小。",
+     "uz": "Limb Symmetry Index jarohatlangan oyoq imkoniyatini sogʻlom oyoq bilan solishtiradi. Qiymat qanchalik yuqori boʻlsa, ikki oyoq oʻrtasidagi farq shunchalik kichik boʻladi."
+    }
+   },
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**LSI = (kekuatan kaki cedera ÷ kekuatan kaki sehat) × 100%**",
+     "en": "**LSI = (injured-limb strength ÷ healthy-limb strength) × 100%**",
+     "zh": "**LSI =（患侧下肢力量 ÷ 健侧下肢力量）× 100%**",
+     "uz": "**LSI = (jarohatlangan oyoq kuchi ÷ sogʻlom oyoq kuchi) × 100%**"
+    }
+   },
+   {
+    "tipe": "angka",
+    "item": [
+     {
+      "nilai": "100 kg",
+      "label": {
+       "id": "Kaki sehat",
+       "en": "Healthy leg",
+       "zh": "健侧下肢",
+       "uz": "Sogʻlom oyoq"
+      },
+      "teks": null
+     },
+     {
+      "nilai": "80 kg",
+      "label": {
+       "id": "Kaki cedera",
+       "en": "Injured leg",
+       "zh": "患侧下肢",
+       "uz": "Jarohatlangan oyoq"
+      },
+      "teks": null
+     },
+     {
+      "nilai": "80%",
+      "label": {
+       "id": "LSI",
+       "en": "LSI",
+       "zh": "LSI",
+       "uz": "LSI"
+      },
+      "teks": {
+       "id": "Contoh perhitungan: 80 ÷ 100 × 100% = 80%",
+       "en": "Worked example: 80 ÷ 100 × 100% = 80%",
+       "zh": "计算示例：80 ÷ 100 × 100% = 80%",
+       "uz": "Hisoblash misoli: 80 ÷ 100 × 100% = 80%"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": {
+     "id": "Peringatan penting",
+     "en": "Important caution",
+     "zh": "重要提示",
+     "uz": "Muhim ogohlantirish"
+    },
+    "teks": {
+     "id": "LSI tidak boleh menjadi satu-satunya ukuran. Kaki yang sehat juga dapat mengalami penurunan kekuatan selama rehabilitasi, sehingga nilai LSI bisa terlihat baik padahal kedua kaki sama-sama melemah.",
+     "en": "LSI must not be the only measure. The healthy leg can also lose strength during rehabilitation, so the LSI may look good even though both legs have weakened.",
+     "zh": "LSI 不应作为唯一的评估指标。康复期间健侧下肢力量也可能下降，因此即使双下肢都已减弱，LSI 数值仍可能看起来良好。",
+     "uz": "LSI yagona oʻlchov boʻlmasligi kerak. Reabilitatsiya davomida sogʻlom oyoq kuchi ham pasayishi mumkin, shuning uchun ikkala oyoq ham zaiflashgan boʻlsa-da, LSI qiymati yaxshi koʻrinishi mumkin."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 14,
+  "id": "tiga-tahap-lari",
+  "kicker": {
+   "id": "PROGRESI LARI",
+   "en": "RUNNING PROGRESSION",
+   "zh": "跑步进阶",
+   "uz": "YUGURISH PROGRESSIYASI"
+  },
+  "judul": {
+   "id": "Tiga Tahap Menuju Lari di Lapangan",
+   "en": "Three Stages Toward Field Running",
+   "zh": "迈向场地跑步的三个阶段",
+   "uz": "Maydonda yugurishga uch bosqich"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": {
+       "id": "7–8 minggu",
+       "en": "7–8 weeks",
+       "zh": "7–8 周",
+       "uz": "7–8 hafta"
+      },
+      "judul": {
+       "id": "Lari di air",
+       "en": "Water running",
+       "zh": "水中跑步",
+       "uz": "Suvda yugurish"
+      },
+      "teks": {
+       "id": "Latihan awal: 6–7 km/jam · beban 30% · 10 menit\nTarget akhir: **10 km/jam · beban 30% · 15 menit**",
+       "en": "Starting dose: 6–7 km/h · 30% load · 10 min\nEnd target: **10 km/h · 30% load · 15 min**",
+       "zh": "起始训练：6–7 km/h · 负荷 30% · 10 分钟\n最终目标：**10 km/h · 负荷 30% · 15 分钟**",
+       "uz": "Boshlangʻich mashq: 6–7 km/soat · yuk 30% · 10 daqiqa\nYakuniy maqsad: **10 km/soat · yuk 30% · 15 daqiqa**"
+      }
+     },
+     {
+      "label": {
+       "id": "10–12 minggu",
+       "en": "10–12 weeks",
+       "zh": "10–12 周",
+       "uz": "10–12 hafta"
+      },
+      "judul": {
+       "id": "Treadmill antigravitasi",
+       "en": "Anti-gravity treadmill",
+       "zh": "抗重力跑步机",
+       "uz": "Antigravitatsion yugurish yoʻlakchasi"
+      },
+      "teks": {
+       "id": "Latihan awal: 10 km/jam · beban 50% · 15 menit\nTarget akhir: **10 km/jam · beban 90% · 15 menit**",
+       "en": "Starting dose: 10 km/h · 50% load · 15 min\nEnd target: **10 km/h · 90% load · 15 min**",
+       "zh": "起始训练：10 km/h · 负荷 50% · 15 分钟\n最终目标：**10 km/h · 负荷 90% · 15 分钟**",
+       "uz": "Boshlangʻich mashq: 10 km/soat · yuk 50% · 15 daqiqa\nYakuniy maqsad: **10 km/soat · yuk 90% · 15 daqiqa**"
+      }
+     },
+     {
+      "label": {
+       "id": ">12 minggu",
+       "en": ">12 weeks",
+       "zh": ">12 周",
+       "uz": ">12 hafta"
+      },
+      "judul": {
+       "id": "Treadmill / lapangan",
+       "en": "Treadmill / field",
+       "zh": "跑步机 / 场地",
+       "uz": "Yugurish yoʻlakchasi / maydon"
+      },
+      "teks": {
+       "id": "Latihan awal: 10 km/jam × 200 m × 6\nTarget akhir: **16 km/jam × 200 m × 8**",
+       "en": "Starting dose: 10 km/h × 200 m × 6\nEnd target: **16 km/h × 200 m × 8**",
+       "zh": "起始训练：10 km/h × 200 米 × 6\n最终目标：**16 km/h × 200 米 × 8**",
+       "uz": "Boshlangʻich mashq: 10 km/soat × 200 m × 6\nYakuniy maqsad: **16 km/soat × 200 m × 8**"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Untuk olahraga dalam ruang atau atlet rekreasional, target akhir dapat disesuaikan — misalnya sekitar 12 km/jam.",
+     "en": "For indoor sports or recreational athletes, the end target can be adjusted — for example to about 12 km/h.",
+     "zh": "对于室内运动项目或业余运动员，最终目标可适当调整——例如约 12 km/h。",
+     "uz": "Yopiq zal sport turlari yoki havaskor sportchilar uchun yakuniy maqsad moslashtirilishi mumkin — masalan, taxminan 12 km/soat."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": null,
+    "teks": {
+     "id": "Kecepatan atau jumlah pengulangan hanya dinaikkan bila teknik tetap baik dan tidak muncul nyeri atau bengkak.",
+     "en": "Speed or number of repetitions is increased only if technique remains good and no pain or swelling appears.",
+     "zh": "只有在技术保持良好且未出现疼痛或肿胀时，才可提高速度或重复次数。",
+     "uz": "Tezlik yoki takrorlashlar soni faqat texnika yaxshi saqlanib, ogʻriq yoki shish paydo boʻlmagandagina oshiriladi."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 15,
+  "id": "perubahan-arah-agility",
+  "kicker": {
+   "id": "KEMAMPUAN GERAK",
+   "en": "MOVEMENT CAPACITY",
+   "zh": "运动能力",
+   "uz": "HARAKAT QOBILIYATI"
+  },
+  "judul": {
+   "id": "Perubahan Arah, Agility, dan Gerakan Olahraga",
+   "en": "Change of Direction, Agility, and Sport-Specific Movement",
+   "zh": "变向、灵敏性与专项运动动作",
+   "uz": "Yoʻnalishni oʻzgartirish, agility va sportga xos harakat"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": {
+       "id": "01",
+       "en": "01",
+       "zh": "01",
+       "uz": "01"
+      },
+      "judul": {
+       "id": "Change of direction",
+       "en": "Change of direction",
+       "zh": "变向（Change of direction）",
+       "uz": "Change of direction (yoʻnalishni oʻzgartirish)"
+      },
+      "teks": {
+       "id": "Arah gerakan sudah diketahui sebelumnya.\nContoh: berlari lalu berbelok 90° ke kanan.",
+       "en": "The direction of movement is known in advance.\nExample: run, then turn 90° to the right.",
+       "zh": "运动方向事先已知。\n示例：跑动后向右转 90°。",
+       "uz": "Harakat yoʻnalishi oldindan maʼlum.\nMisol: yugurib, soʻng oʻngga 90° burilish."
+      }
+     },
+     {
+      "label": {
+       "id": "02",
+       "en": "02",
+       "zh": "02",
+       "uz": "02"
+      },
+      "judul": {
+       "id": "Agility",
+       "en": "Agility",
+       "zh": "灵敏性（Agility）",
+       "uz": "Agility (chaqqonlik)"
+      },
+      "teks": {
+       "id": "Arah berubah sebagai respons terhadap rangsangan.\nContoh: bergerak mengikuti lawan atau arah bola.",
+       "en": "Direction changes in response to a stimulus.\nExample: moving in reaction to an opponent or the ball.",
+       "zh": "方向随刺激而改变。\n示例：跟随对手或球的方向移动。",
+       "uz": "Yoʻnalish qoʻzgʻatuvchiga javoban oʻzgaradi.\nMisol: raqib yoki toʻp yoʻnalishiga qarab harakatlanish."
+      }
+     },
+     {
+      "label": {
+       "id": "03",
+       "en": "03",
+       "zh": "03",
+       "uz": "03"
+      },
+      "judul": {
+       "id": "Sports-specific movement",
+       "en": "Sport-specific movement",
+       "zh": "专项运动动作",
+       "uz": "Sportga xos harakat"
+      },
+      "teks": {
+       "id": "Gerakan sesuai situasi olahraga yang sebenarnya.\nContoh: cutting, dribbling, crossing, shooting.",
+       "en": "Movements that match real sport situations.\nExample: cutting, dribbling, crossing, shooting.",
+       "zh": "符合真实比赛情境的动作。\n示例：切入（cutting）、运球、传中、射门。",
+       "uz": "Haqiqiy sport vaziyatiga mos harakatlar.\nMisol: cutting, dribling, krossing, zarba berish."
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": {
+     "id": "Urutan tidak boleh dibalik",
+     "en": "The order must not be reversed",
+     "zh": "顺序不可颠倒",
+     "uz": "Tartibni teskari qilish mumkin emas"
+    },
+    "teks": {
+     "id": "Latihan perubahan arah yang sudah direncanakan harus dikuasai lebih dahulu sebelum pasien menjalani latihan agility dengan reaksi yang tidak terduga.",
+     "en": "Pre-planned change-of-direction drills must be mastered first, before the patient progresses to agility drills with unanticipated reactions.",
+     "zh": "患者必须先掌握预先计划的变向训练，然后才能进行需要应对不可预知情况的灵敏性训练。",
+     "uz": "Bemor kutilmagan reaksiyali agility mashqlariga oʻtishidan oldin rejalashtirilgan yoʻnalishni oʻzgartirish mashqlarini oʻzlashtirishi shart."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 16,
+  "id": "kriteria-perubahan-arah",
+  "kicker": {
+   "id": "GERBANG BERIKUTNYA",
+   "en": "THE NEXT GATE",
+   "zh": "下一道关卡",
+   "uz": "KEYINGI DARVOZA"
+  },
+  "judul": {
+   "id": "Kriteria Memulai Latihan Perubahan Arah",
+   "en": "Criteria for Starting Change-of-Direction Training",
+   "zh": "开始变向训练的标准",
+   "uz": "Yoʻnalishni oʻzgartirish mashqlarini boshlash mezonlari"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "angka",
+    "item": [
+     {
+      "nilai": "≥18",
+      "label": {
+       "id": "minggu",
+       "en": "weeks",
+       "zh": "周",
+       "uz": "hafta"
+      },
+      "teks": {
+       "id": "Latihan dengan perubahan arah lebih dari 45° umumnya mulai dipertimbangkan setelah sekitar 18 minggu — dan hanya bila seluruh kriteria di bawah ini terpenuhi.",
+       "en": "Training with changes of direction greater than 45° is generally considered from about 18 weeks — and only when all of the criteria below are met.",
+       "zh": "超过 45° 的变向训练一般在约 18 周后才开始考虑——且仅在满足以下全部标准时进行。",
+       "uz": "45° dan katta yoʻnalish oʻzgarishli mashqlar odatda taxminan 18 haftadan keyin koʻrib chiqiladi — va faqat quyidagi barcha mezonlar bajarilgandagina."
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Kriteria",
+      "en": "Criterion",
+      "zh": "标准",
+      "uz": "Mezon"
+     },
+     {
+      "id": "Target",
+      "en": "Target",
+      "zh": "目标",
+      "uz": "Maqsad"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Squat satu kaki",
+       "en": "Single-leg squat",
+       "zh": "单腿深蹲",
+       "uz": "Bir oyoqda squat"
+      },
+      {
+       "id": "Fleksi ±90°, netral",
+       "en": "Flexion ~90°, neutral",
+       "zh": "屈曲约 90°，中立位",
+       "uz": "Fleksiya ~90°, neytral"
+      }
+     ],
+     [
+      {
+       "id": "Melompat depan-belakang",
+       "en": "Forward–backward hopping",
+       "zh": "前后跳",
+       "uz": "Oldinga-orqaga sakrash"
+      },
+      {
+       "id": "Stabil dan terkontrol",
+       "en": "Stable and controlled",
+       "zh": "稳定且受控",
+       "uz": "Barqaror va nazoratli"
+      }
+     ],
+     [
+      {
+       "id": "Pendaratan tiga arah",
+       "en": "Landing in three directions",
+       "zh": "三方向落地",
+       "uz": "Uch yoʻnalishda qoʻnish"
+      },
+      {
+       "id": "Teknik netral",
+       "en": "Neutral technique",
+       "zh": "技术中立",
+       "uz": "Neytral texnika"
+      }
+     ],
+     [
+      {
+       "id": "Program berlari",
+       "en": "Running programme",
+       "zh": "跑步计划",
+       "uz": "Yugurish dasturi"
+      },
+      {
+       "id": "Tanpa nyeri/bengkak",
+       "en": "No pain/swelling",
+       "zh": "无疼痛/肿胀",
+       "uz": "Ogʻriq/shishsiz"
+      }
+     ],
+     [
+      {
+       "id": "Dorongan lateral",
+       "en": "Lateral push-off",
+       "zh": "侧向蹬伸",
+       "uz": "Lateral itarish"
+      },
+      {
+       "id": "Simetris",
+       "en": "Symmetrical",
+       "zh": "对称",
+       "uz": "Simmetrik"
+      }
+     ],
+     [
+      {
+       "id": "Kekuatan quadriceps & hamstring",
+       "en": "Quadriceps & hamstring strength",
+       "zh": "股四头肌与腘绳肌力量",
+       "uz": "Kvadritseps va hamstring kuchi"
+      },
+      {
+       "id": "LSI >80%",
+       "en": "LSI >80%",
+       "zh": "LSI >80%",
+       "uz": "LSI >80%"
+      }
+     ],
+     [
+      {
+       "id": "Tenaga saat melompat & mendarat",
+       "en": "Power in jumping & landing",
+       "zh": "跳跃与落地爆发力",
+       "uz": "Sakrash va qoʻnishdagi quvvat"
+      },
+      {
+       "id": "LSI >80%",
+       "en": "LSI >80%",
+       "zh": "LSI >80%",
+       "uz": "LSI >80%"
+      }
+     ],
+     [
+      {
+       "id": "Reactive Strength Index",
+       "en": "Reactive Strength Index",
+       "zh": "反应力量指数（RSI）",
+       "uz": "Reactive Strength Index"
+      },
+      {
+       "id": "LSI >80%",
+       "en": "LSI >80%",
+       "zh": "LSI >80%",
+       "uz": "LSI >80%"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Setelah kriteria terpenuhi: dari perubahan arah terencana → agility → latihan menghadapi lawan.",
+     "en": "Once the criteria are met: pre-planned change of direction → agility → training against an opponent.",
+     "zh": "达标后：预先计划的变向 → 灵敏性 → 对抗训练。",
+     "uz": "Mezonlar bajarilgach: rejalashtirilgan yoʻnalish oʻzgarishi → agility → raqibga qarshi mashq."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 17,
+  "id": "lima-tahap-sepak-bola",
+  "kicker": {
+   "id": "CONTOH PENERAPAN",
+   "en": "APPLICATION EXAMPLE",
+   "zh": "应用示例",
+   "uz": "QOʻLLASH MISOLI"
+  },
+  "judul": {
+   "id": "Lima Tahap Latihan Khusus Sepak Bola",
+   "en": "Five Stages of Football-Specific Training",
+   "zh": "足球专项训练的五个阶段",
+   "uz": "Futbolga xos mashgʻulotning besh bosqichi"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": {
+       "id": "1",
+       "en": "1",
+       "zh": "1",
+       "uz": "1"
+      },
+      "judul": {
+       "id": "Gerakan lurus",
+       "en": "Linear movement",
+       "zh": "直线运动",
+       "uz": "Toʻgʻri chiziqli harakat"
+      },
+      "teks": {
+       "id": "Lari, akselerasi–deselerasi, passing",
+       "en": "Running, acceleration–deceleration, passing",
+       "zh": "跑动、加速–减速、传球",
+       "uz": "Yugurish, tezlanish–sekinlashish, pas"
+      }
+     },
+     {
+      "label": {
+       "id": "2",
+       "en": "2",
+       "zh": "2",
+       "uz": "2"
+      },
+      "judul": {
+       "id": "Gerakan berbagai arah",
+       "en": "Multidirectional movement",
+       "zh": "多方向运动",
+       "uz": "Koʻp yoʻnalishli harakat"
+      },
+      "teks": {
+       "id": "Lari multidirectional, passing, dribbling",
+       "en": "Multidirectional running, passing, dribbling",
+       "zh": "多方向跑动、传球、运球",
+       "uz": "Koʻp yoʻnalishli yugurish, pas, dribling"
+      }
+     },
+     {
+      "label": {
+       "id": "3",
+       "en": "3",
+       "zh": "3",
+       "uz": "3"
+      },
+      "judul": {
+       "id": "Intensitas tinggi",
+       "en": "High intensity",
+       "zh": "高强度",
+       "uz": "Yuqori intensivlik"
+      },
+      "teks": {
+       "id": "Lari cepat dan perubahan arah lebih berat",
+       "en": "Sprinting and more demanding changes of direction",
+       "zh": "快速跑和难度更高的变向",
+       "uz": "Tez yugurish va ogʻirroq yoʻnalish oʻzgarishlari"
+      }
+     },
+     {
+      "label": {
+       "id": "4",
+       "en": "4",
+       "zh": "4",
+       "uz": "4"
+      },
+      "judul": {
+       "id": "Keterampilan sepak bola",
+       "en": "Football skills",
+       "zh": "足球技术",
+       "uz": "Futbol mahorati"
+      },
+      "teks": {
+       "id": "Crossing, shooting, latihan dengan lawan",
+       "en": "Crossing, shooting, training against an opponent",
+       "zh": "传中、射门、对抗训练",
+       "uz": "Krossing, zarba berish, raqib bilan mashq"
+      }
+     },
+     {
+      "label": {
+       "id": "5",
+       "en": "5",
+       "zh": "5",
+       "uz": "5"
+      },
+      "judul": {
+       "id": "Simulasi pertandingan",
+       "en": "Match simulation",
+       "zh": "比赛模拟",
+       "uz": "Oʻyin simulyatsiyasi"
+      },
+      "teks": {
+       "id": "Skenario laga, latihan saat lelah, sesuai posisi",
+       "en": "Match scenarios, training under fatigue, position-specific",
+       "zh": "比赛情景、疲劳状态下训练、按场上位置",
+       "uz": "Oʻyin ssenariylari, charchoq holatida mashq, pozitsiyaga mos"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Tahap awal ±2× seminggu; tahap lanjut dapat menjadi 3× seminggu.",
+     "en": "Early stages ~2× per week; later stages may increase to 3× per week.",
+     "zh": "早期阶段约每周 2 次；后期阶段可增至每周 3 次。",
+     "uz": "Dastlabki bosqichlar haftasiga ~2 marta; keyingi bosqichlarda haftasiga 3 martagacha boʻlishi mumkin."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": null,
+    "teks": {
+     "id": "Frekuensi dan beban selalu menyesuaikan respons lutut serta kebutuhan atlet.",
+     "en": "Frequency and load are always adjusted to the knee's response and the athlete's needs.",
+     "zh": "训练频率和负荷始终根据膝关节反应和运动员需求进行调整。",
+     "uz": "Chastota va yuk har doim tizza reaksiyasi hamda sportchi ehtiyojlariga moslashtiriladi."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 18,
+  "id": "evaluasi-berkala",
+  "kicker": {
+   "id": "EVALUASI BERKALA",
+   "en": "PERIODIC EVALUATION",
+   "zh": "定期评估",
+   "uz": "DAVRIY BAHOLASH"
+  },
+  "judul": {
+   "id": "Apa yang Dipantau dan Seberapa Sering",
+   "en": "What to Monitor and How Often",
+   "zh": "监测内容与频率",
+   "uz": "Nima va qanchalik tez-tez kuzatiladi"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Setiap hari / sesi",
+       "en": "Every day / session",
+       "zh": "每天 / 每次训练",
+       "uz": "Har kuni / har mashgʻulotda"
+      },
+      "gambar": null,
+      "teks": {
+       "id": "Nyeri dan lokasinya, bengkak, gerak lutut, aktivasi quadriceps",
+       "en": "Pain and its location, swelling, knee range of motion, quadriceps activation",
+       "zh": "疼痛及其部位、肿胀、膝关节活动度、股四头肌激活",
+       "uz": "Ogʻriq va uning joylashuvi, shish, tizza harakati, kvadritseps faollashuvi"
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Setiap minggu",
+       "en": "Every week",
+       "zh": "每周",
+       "uz": "Har hafta"
+      },
+      "gambar": null,
+      "teks": {
+       "id": "Semua pemeriksaan harian, lingkar paha, squat, calf raise, kontrol satu kaki",
+       "en": "All daily checks, thigh circumference, squat, calf raise, single-leg control",
+       "zh": "所有每日检查项目、大腿围度、深蹲、提踵、单腿控制",
+       "uz": "Barcha kundalik tekshiruvlar, son aylanasi, squat, calf raise, bir oyoq nazorati"
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Sekitar tiap 6 minggu",
+       "en": "About every 6 weeks",
+       "zh": "约每 6 周",
+       "uz": "Taxminan har 6 haftada"
+      },
+      "gambar": null,
+      "teks": {
+       "id": "Kekuatan, lompatan, pendaratan, pola lari, perubahan arah, daya tahan, kesiapan psikologis",
+       "en": "Strength, jumping, landing, running pattern, change of direction, endurance, psychological readiness",
+       "zh": "力量、跳跃、落地、跑步模式、变向、耐力、心理准备度",
+       "uz": "Kuch, sakrash, qoʻnish, yugurish uslubi, yoʻnalishni oʻzgartirish, chidamlilik, psixologik tayyorgarlik"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**Alat penilaian tambahan**",
+     "en": "**Additional assessment tools**",
+     "zh": "**附加评估工具**",
+     "uz": "**Qoʻshimcha baholash vositalari**"
+    }
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 4,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "IKDC",
+       "en": "IKDC",
+       "zh": "IKDC",
+       "uz": "IKDC"
+      },
+      "gambar": null,
+      "teks": {
+       "id": "Menilai keluhan dan fungsi lutut",
+       "en": "Assesses knee symptoms and function",
+       "zh": "评估膝关节症状与功能",
+       "uz": "Tizza shikoyatlari va funksiyasini baholaydi"
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Tampa Scale of Kinesiophobia",
+       "en": "Tampa Scale of Kinesiophobia",
+       "zh": "Tampa 运动恐惧量表（TSK）",
+       "uz": "Tampa Scale of Kinesiophobia"
+      },
+      "gambar": null,
+      "teks": {
+       "id": "Menilai ketakutan bergerak atau cedera ulang",
+       "en": "Assesses fear of movement or re-injury",
+       "zh": "评估对运动或再次受伤的恐惧",
+       "uz": "Harakatdan yoki qayta jarohatdan qoʻrquvni baholaydi"
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Yo-Yo Test",
+       "en": "Yo-Yo Test",
+       "zh": "Yo-Yo 测试",
+       "uz": "Yo-Yo Test"
+      },
+      "gambar": null,
+      "teks": {
+       "id": "Menilai kebugaran dan daya tahan olahraga",
+       "en": "Assesses fitness and sport endurance",
+       "zh": "评估体能与运动耐力",
+       "uz": "Jismoniy tayyorgarlik va sport chidamliligini baholaydi"
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Analisis biomekanik",
+       "en": "Biomechanical analysis",
+       "zh": "生物力学分析",
+       "uz": "Biomexanik tahlil"
+      },
+      "gambar": null,
+      "teks": {
+       "id": "Sudut sendi, gaya pendaratan, pola gerakan",
+       "en": "Joint angles, landing forces, movement patterns",
+       "zh": "关节角度、落地力、动作模式",
+       "uz": "Boʻgʻim burchaklari, qoʻnish kuchi, harakat uslubi"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slide": 19,
+  "id": "target-kekuatan",
+  "kicker": {
+   "id": "TARGET KEKUATAN",
+   "en": "STRENGTH TARGETS",
+   "zh": "力量目标",
+   "uz": "KUCH MAQSADLARI"
+  },
+  "judul": {
+   "id": "Atlet Kompetitif vs Atlet Rekreasional",
+   "en": "Competitive vs Recreational Athletes",
+   "zh": "竞技运动员与业余运动员对比",
+   "uz": "Musobaqa sportchilari va havaskor sportchilar"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Target kekuatan (% berat badan)",
+      "en": "Strength target (% body weight)",
+      "zh": "力量目标（% 体重）",
+      "uz": "Kuch maqsadi (tana vaznining %)"
+     },
+     {
+      "id": "Atlet kompetitif",
+      "en": "Competitive athlete",
+      "zh": "竞技运动员",
+      "uz": "Musobaqa sportchisi"
+     },
+     {
+      "id": "Atlet rekreasional",
+      "en": "Recreational athlete",
+      "zh": "业余运动员",
+      "uz": "Havaskor sportchi"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Quadriceps",
+       "en": "Quadriceps",
+       "zh": "股四头肌",
+       "uz": "Kvadritseps"
+      },
+      {
+       "id": "300",
+       "en": "300",
+       "zh": "300",
+       "uz": "300"
+      },
+      {
+       "id": "260",
+       "en": "260",
+       "zh": "260",
+       "uz": "260"
+      }
+     ],
+     [
+      {
+       "id": "Betis (plantar-flexor)",
+       "en": "Calf (plantar flexors)",
+       "zh": "小腿（跖屈肌）",
+       "uz": "Boldir (plantar fleksorlar)"
+      },
+      {
+       "id": "200",
+       "en": "200",
+       "zh": "200",
+       "uz": "200"
+      },
+      {
+       "id": "150",
+       "en": "150",
+       "zh": "150",
+       "uz": "150"
+      }
+     ],
+     [
+      {
+       "id": "Hamstring",
+       "en": "Hamstrings",
+       "zh": "腘绳肌",
+       "uz": "Hamstring"
+      },
+      {
+       "id": "175",
+       "en": "175",
+       "zh": "175",
+       "uz": "175"
+      },
+      {
+       "id": "160",
+       "en": "160",
+       "zh": "160",
+       "uz": "160"
+      }
+     ],
+     [
+      {
+       "id": "Abduksi pinggul",
+       "en": "Hip abduction",
+       "zh": "髋外展",
+       "uz": "Son abduksiyasi"
+      },
+      {
+       "id": "40",
+       "en": "40",
+       "zh": "40",
+       "uz": "40"
+      },
+      {
+       "id": "30",
+       "en": "30",
+       "zh": "30",
+       "uz": "30"
+      }
+     ],
+     [
+      {
+       "id": "Adduksi pinggul",
+       "en": "Hip adduction",
+       "zh": "髋内收",
+       "uz": "Son adduksiyasi"
+      },
+      {
+       "id": "40",
+       "en": "40",
+       "zh": "40",
+       "uz": "40"
+      },
+      {
+       "id": "30",
+       "en": "30",
+       "zh": "30",
+       "uz": "30"
+      }
+     ],
+     [
+      {
+       "id": "Rotasi luar pinggul",
+       "en": "Hip external rotation",
+       "zh": "髋外旋",
+       "uz": "Sonning tashqi rotatsiyasi"
+      },
+      {
+       "id": "30",
+       "en": "30",
+       "zh": "30",
+       "uz": "30"
+      },
+      {
+       "id": "25",
+       "en": "25",
+       "zh": "25",
+       "uz": "25"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Sama untuk keduanya",
+     "en": "Same for both",
+     "zh": "两者相同",
+     "uz": "Ikkalasi uchun bir xil"
+    },
+    "butir": [
+     {
+      "id": "Squat satu kaki: fleksi >90° dengan kontrol netral",
+      "en": "Single-leg squat: flexion >90° with neutral control",
+      "zh": "单腿深蹲：屈曲 >90° 且保持中立控制",
+      "uz": "Bir oyoqda squat: neytral nazorat bilan fleksiya >90°"
+     },
+     {
+      "id": "Simetri kanan–kiri: >90%",
+      "en": "Right–left symmetry: >90%",
+      "zh": "左右对称性：>90%",
+      "uz": "Oʻng–chap simmetriya: >90%"
+     },
+     {
+      "id": "Lompatan: minimal setara nilai awal atau kebutuhan aktivitas",
+      "en": "Jumping: at least equal to baseline values or activity demands",
+      "zh": "跳跃：至少达到基线值或活动需求",
+      "uz": "Sakrash: kamida boshlangʻich qiymat yoki faoliyat talabiga teng"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Mengapa berbeda?",
+     "en": "Why the difference?",
+     "zh": "为何不同？",
+     "uz": "Nega farq qiladi?"
+    },
+    "teks": {
+     "id": "Atlet kompetitif membutuhkan target absolut yang lebih tinggi karena menghadapi kecepatan, benturan, kelelahan, dan tekanan pertandingan yang lebih besar.",
+     "en": "Competitive athletes need higher absolute targets because they face greater speed, contact, fatigue, and match pressure.",
+     "zh": "竞技运动员需要更高的绝对目标，因为他们面对更高的速度、更多的身体碰撞、更大的疲劳和比赛压力。",
+     "uz": "Musobaqa sportchilariga yuqoriroq mutlaq maqsadlar kerak, chunki ular kattaroq tezlik, toʻqnashuv, charchoq va oʻyin bosimiga duch keladi."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Kekuatan quadriceps dan hamstring diukur dengan pemeriksaan isokinetik — bukan beban yang diangkat sendiri di pusat kebugaran.",
+     "en": "Quadriceps and hamstring strength is measured with isokinetic testing — not with weights lifted at a gym.",
+     "zh": "股四头肌和腘绳肌力量通过等速肌力测试测量——而非在健身房自行举起的重量。",
+     "uz": "Kvadritseps va hamstring kuchi izokinetik tekshiruv bilan oʻlchanadi — sport zalida mustaqil koʻtarilgan yuk bilan emas."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 20,
+  "id": "boleh-berlari-vs-bertanding",
+  "kicker": {
+   "id": "DUA GERBANG BERBEDA",
+   "en": "TWO DIFFERENT GATES",
+   "zh": "两道不同的关卡",
+   "uz": "IKKI XIL DARVOZA"
+  },
+  "judul": {
+   "id": "“Boleh Berlari” Belum Berarti “Boleh Bertanding”",
+   "en": "“Cleared to Run” Does Not Mean “Cleared to Compete”",
+   "zh": "“可以跑步”不等于“可以比赛”",
+   "uz": "“Yugurish mumkin” hali “Musobaqalashish mumkin” degani emas"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Aspek",
+      "en": "Aspect",
+      "zh": "方面",
+      "uz": "Jihat"
+     },
+     {
+      "id": "Boleh mulai berlari",
+      "en": "Cleared to start running",
+      "zh": "可以开始跑步",
+      "uz": "Yugurishni boshlash mumkin"
+     },
+     {
+      "id": "Boleh kembali bertanding",
+      "en": "Cleared to return to competition",
+      "zh": "可以重返比赛",
+      "uz": "Musobaqaga qaytish mumkin"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Kekuatan quadriceps",
+       "en": "Quadriceps strength",
+       "zh": "股四头肌力量",
+       "uz": "Kvadritseps kuchi"
+      },
+      {
+       "id": "Minimal sekitar 70%",
+       "en": "At least about 70%",
+       "zh": "至少约 70%",
+       "uz": "Kamida taxminan 70%"
+      },
+      {
+       "id": ">90% dan memenuhi target absolut",
+       "en": ">90% and meets absolute targets",
+       "zh": ">90% 且达到绝对目标",
+       "uz": ">90% va mutlaq maqsadlarga erishgan"
+      }
+     ],
+     [
+      {
+       "id": "Lompatan",
+       "en": "Jumping",
+       "zh": "跳跃",
+       "uz": "Sakrash"
+      },
+      {
+       "id": "Pogo satu kaki 30 kali",
+       "en": "Single-leg pogo × 30",
+       "zh": "单腿 pogo 跳 30 次",
+       "uz": "Bir oyoqda pogo 30 marta"
+      },
+      {
+       "id": "Berbagai tes lompatan & pendaratan >90%",
+       "en": "Various jump & landing tests >90%",
+       "zh": "多项跳跃与落地测试 >90%",
+       "uz": "Turli sakrash va qoʻnish testlari >90%"
+      }
+     ],
+     [
+      {
+       "id": "Perubahan arah",
+       "en": "Change of direction",
+       "zh": "变向",
+       "uz": "Yoʻnalishni oʻzgartirish"
+      },
+      {
+       "id": "Belum menjadi syarat utama",
+       "en": "Not yet a main requirement",
+       "zh": "尚非主要要求",
+       "uz": "Hali asosiy talab emas"
+      },
+      {
+       "id": "Harus baik, simetris, dan aman",
+       "en": "Must be good, symmetrical, and safe",
+       "zh": "必须良好、对称且安全",
+       "uz": "Yaxshi, simmetrik va xavfsiz boʻlishi shart"
+      }
+     ],
+     [
+      {
+       "id": "Kebugaran",
+       "en": "Fitness",
+       "zh": "体能",
+       "uz": "Jismoniy tayyorgarlik"
+      },
+      {
+       "id": "Mulai dikembangkan",
+       "en": "Starting to be developed",
+       "zh": "开始发展",
+       "uz": "Rivojlantirila boshlanadi"
+      },
+      {
+       "id": "Kembali sesuai standar olahraga",
+       "en": "Back to the sport's standard",
+       "zh": "恢复至该运动项目标准",
+       "uz": "Sport turi standartiga qaytgan"
+      }
+     ],
+     [
+      {
+       "id": "Latihan olahraga",
+       "en": "Sport training",
+       "zh": "专项训练",
+       "uz": "Sport mashgʻuloti"
+      },
+      {
+       "id": "Belum penuh",
+       "en": "Not yet full",
+       "zh": "尚未完全",
+       "uz": "Hali toʻliq emas"
+      },
+      {
+       "id": "Sudah menyelesaikan simulasi pertandingan",
+       "en": "Has completed match simulation",
+       "zh": "已完成比赛模拟",
+       "uz": "Oʻyin simulyatsiyasini yakunlagan"
+      }
+     ],
+     [
+      {
+       "id": "Kesiapan mental",
+       "en": "Mental readiness",
+       "zh": "心理准备度",
+       "uz": "Ruhiy tayyorgarlik"
+      },
+      {
+       "id": "Mulai dinilai",
+       "en": "Starting to be assessed",
+       "zh": "开始评估",
+       "uz": "Baholana boshlanadi"
+      },
+      {
+       "id": "Percaya diri, tanpa rasa takut berlebihan",
+       "en": "Confident, without excessive fear",
+       "zh": "自信，无过度恐惧",
+       "uz": "Oʻziga ishongan, ortiqcha qoʻrquvsiz"
+      }
+     ],
+     [
+      {
+       "id": "Respons lutut",
+       "en": "Knee response",
+       "zh": "膝关节反应",
+       "uz": "Tizza reaksiyasi"
+      },
+      {
+       "id": "Tidak nyeri atau bengkak",
+       "en": "No pain or swelling",
+       "zh": "无疼痛或肿胀",
+       "uz": "Ogʻriq yoki shish yoʻq"
+      },
+      {
+       "id": "Tetap tenang setelah latihan intensitas tinggi",
+       "en": "Remains quiet after high-intensity training",
+       "zh": "高强度训练后仍保持平稳",
+       "uz": "Yuqori intensivlikdagi mashqdan keyin ham tinch"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": null,
+    "teks": {
+     "id": "Sudah bisa berlari bukan berarti sudah siap kembali bermain atau bertanding.",
+     "en": "Being able to run does not mean being ready to return to play or competition.",
+     "zh": "能够跑步并不意味着已准备好重返训练比赛或正式比赛。",
+     "uz": "Yugura olish hali oʻyinga yoki musobaqaga qaytishga tayyor degani emas."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 21,
+  "id": "kriteria-kembali-berolahraga",
+  "kicker": {
+   "id": "GERBANG TERAKHIR",
+   "en": "THE FINAL GATE",
+   "zh": "最后一道关卡",
+   "uz": "SOʻNGGI DARVOZA"
+  },
+  "judul": {
+   "id": "Kriteria Kembali Berolahraga Tanpa Pembatasan",
+   "en": "Criteria for Unrestricted Return to Sport",
+   "zh": "无限制重返运动的标准",
+   "uz": "Cheklovsiz sportga qaytish mezonlari"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Kondisi klinis",
+       "en": "Clinical status",
+       "zh": "临床状况",
+       "uz": "Klinik holat"
+      },
+      "teks": {
+       "id": "Tidak ada nyeri, bengkak, atau gangguan gerak",
+       "en": "No pain, swelling, or movement restriction",
+       "zh": "无疼痛、肿胀或活动受限",
+       "uz": "Ogʻriq, shish yoki harakat buzilishi yoʻq"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Gerak lutut",
+       "en": "Knee range of motion",
+       "zh": "膝关节活动度",
+       "uz": "Tizza harakati"
+      },
+      "teks": {
+       "id": "Ekstensi dan fleksi sudah optimal",
+       "en": "Extension and flexion are optimal",
+       "zh": "伸直和屈曲均已达最佳",
+       "uz": "Ekstenziya va fleksiya optimal"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Kontrol gerakan",
+       "en": "Movement control",
+       "zh": "动作控制",
+       "uz": "Harakat nazorati"
+      },
+      "teks": {
+       "id": "Squat satu kaki >90° dengan posisi baik",
+       "en": "Single-leg squat >90° with good alignment",
+       "zh": "单腿深蹲 >90° 且姿势良好",
+       "uz": "Bir oyoqda squat >90°, holat yaxshi"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Kekuatan",
+       "en": "Strength",
+       "zh": "力量",
+       "uz": "Kuch"
+      },
+      "teks": {
+       "id": "Minimal 90% sisi sehat dan memenuhi target absolut",
+       "en": "At least 90% of the healthy side and meets absolute targets",
+       "zh": "至少达健侧的 90% 且达到绝对目标",
+       "uz": "Sogʻlom tomonning kamida 90% i va mutlaq maqsadlarga erishgan"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Lompatan",
+       "en": "Jumping",
+       "zh": "跳跃",
+       "uz": "Sakrash"
+      },
+      "teks": {
+       "id": "Jarak, tinggi, tenaga, dan pendaratan minimal 90%",
+       "en": "Distance, height, power, and landing at least 90%",
+       "zh": "距离、高度、爆发力和落地均至少 90%",
+       "uz": "Masofa, balandlik, quvvat va qoʻnish kamida 90%"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Berlari",
+       "en": "Running",
+       "zh": "跑步",
+       "uz": "Yugurish"
+      },
+      "teks": {
+       "id": "Pola lari baik dan simetris",
+       "en": "Good, symmetrical running pattern",
+       "zh": "跑步模式良好且对称",
+       "uz": "Yugurish uslubi yaxshi va simmetrik"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Perubahan arah",
+       "en": "Change of direction",
+       "zh": "变向",
+       "uz": "Yoʻnalishni oʻzgartirish"
+      },
+      "teks": {
+       "id": "Mampu pada sudut 45°, 90°, dan 180°",
+       "en": "Able to perform at 45°, 90°, and 180°",
+       "zh": "能完成 45°、90° 和 180° 变向",
+       "uz": "45°, 90° va 180° burchaklarda bajara oladi"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Kebugaran",
+       "en": "Fitness",
+       "zh": "体能",
+       "uz": "Jismoniy tayyorgarlik"
+      },
+      "teks": {
+       "id": "Kembali ke tingkat sebelum cedera",
+       "en": "Back to pre-injury level",
+       "zh": "恢复至伤前水平",
+       "uz": "Jarohatdan oldingi darajaga qaytgan"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Latihan olahraga",
+       "en": "Sport training",
+       "zh": "专项训练",
+       "uz": "Sport mashgʻuloti"
+      },
+      "teks": {
+       "id": "Seluruh tahap selesai tanpa reaksi lutut",
+       "en": "All stages completed without knee reaction",
+       "zh": "完成所有阶段且膝关节无不良反应",
+       "uz": "Barcha bosqichlar tizza reaksiyasisiz yakunlangan"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Psikologis",
+       "en": "Psychological",
+       "zh": "心理",
+       "uz": "Psixologik"
+      },
+      "teks": {
+       "id": "Percaya diri menghadapi situasi pertandingan",
+       "en": "Confident facing match situations",
+       "zh": "有信心应对比赛情境",
+       "uz": "Oʻyin vaziyatlariga oʻziga ishonch bilan duch keladi"
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": null,
+    "teks": {
+     "id": "Seluruh kriteria harus terpenuhi bersama — bukan sebagian saja.",
+     "en": "All criteria must be met together — not just some of them.",
+     "zh": "所有标准必须同时满足——而不是只满足部分。",
+     "uz": "Barcha mezonlar birgalikda bajarilishi shart — faqat bir qismi emas."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 22,
+  "id": "kriteria-bukan-kalender",
+  "kicker": null,
+  "judul": {
+   "id": "Kembali berolahraga setelah cedera ACL bukan ditentukan oleh kalender, tetapi oleh kesiapan lutut dan seluruh tubuh.",
+   "en": "Return to sport after an ACL injury is determined not by the calendar, but by the readiness of the knee and the whole body.",
+   "zh": "前交叉韧带损伤后重返运动不取决于日历，而取决于膝关节和全身的准备状态。",
+   "uz": "Oldingi xochsimon boylam jarohatidan keyin sportga qaytish taqvim bilan emas, balki tizza va butun tananing tayyorligi bilan belgilanadi."
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Setiap peningkatan latihan harus mempertimbangkan",
+     "en": "Every training progression must consider",
+     "zh": "每一次训练进阶都必须考虑",
+     "uz": "Mashgʻulotning har bir oshirilishida quyidagilar hisobga olinishi kerak"
+    },
+    "butir": [
+     {
+      "id": "Kondisi nyeri dan bengkak",
+      "en": "Pain and swelling",
+      "zh": "疼痛和肿胀情况",
+      "uz": "Ogʻriq va shish holati"
+     },
+     {
+      "id": "Kualitas gerakan",
+      "en": "Movement quality",
+      "zh": "动作质量",
+      "uz": "Harakat sifati"
+     },
+     {
+      "id": "Kekuatan dan simetri kedua kaki",
+      "en": "Strength and symmetry of both legs",
+      "zh": "双下肢力量与对称性",
+      "uz": "Ikkala oyoq kuchi va simmetriyasi"
+     },
+     {
+      "id": "Kemampuan berlari, melompat, mengubah arah",
+      "en": "Ability to run, jump, and change direction",
+      "zh": "跑步、跳跃、变向能力",
+      "uz": "Yugurish, sakrash, yoʻnalishni oʻzgartirish qobiliyati"
+     },
+     {
+      "id": "Kebugaran",
+      "en": "Fitness",
+      "zh": "体能",
+      "uz": "Jismoniy tayyorgarlik"
+     },
+     {
+      "id": "Kesiapan mental",
+      "en": "Mental readiness",
+      "zh": "心理准备度",
+      "uz": "Ruhiy tayyorgarlik"
+     },
+     {
+      "id": "Tuntutan olahraga yang akan dijalani",
+      "en": "Demands of the sport to be played",
+      "zh": "将要从事的运动项目需求",
+      "uz": "Shugʻullaniladigan sport turining talablari"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Program tetap perlu disesuaikan oleh dokter dan tim rehabilitasi, terutama bila ada perbaikan meniskus, kerusakan tulang rawan, atau cedera beberapa ligamen.",
+     "en": "The programme still needs to be tailored by the physician and rehabilitation team, especially when there is a meniscal repair, cartilage damage, or multiligament injury.",
+     "zh": "康复计划仍需由医生和康复团队个体化调整，尤其是存在半月板修复、软骨损伤或多韧带损伤时。",
+     "uz": "Dastur shifokor va reabilitatsiya jamoasi tomonidan moslashtirilishi kerak, ayniqsa menisk tiklanishi, togʻay shikastlanishi yoki bir nechta boylam jarohati boʻlsa."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": null,
+    "teks": {
+     "id": "Pasien tidak boleh naik tahap hanya karena sudah memasuki bulan tertentu.",
+     "en": "Patients must not progress to the next stage merely because they have reached a certain month.",
+     "zh": "患者不能仅因到了某个月份就进入下一阶段。",
+     "uz": "Bemor faqat maʼlum bir oyga yetgani uchun keyingi bosqichga oʻtmasligi kerak."
+    }
+   },
+   {
+    "tipe": "rujukan",
+    "item": [
+     "Aspetar ACL Rehabilitation Protocol. Edisi 2023–2024"
+    ]
+   }
+  ]
+ }
+]

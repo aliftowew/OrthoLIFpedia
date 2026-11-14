@@ -1,0 +1,1137 @@
+[
+ {
+  "slide": 21,
+  "id": "tiga-pilar-tatalaksana",
+  "kicker": {
+   "id": "TATALAKSANA · TIGA PILAR",
+   "en": "MANAGEMENT · THREE PILLARS",
+   "zh": "治疗 · 三大支柱",
+   "uz": "DAVOLASH · UCH USTUN"
+  },
+  "judul": {
+   "id": "Konservatif, operatif, rehabilitasi: semuanya bisa tepat",
+   "en": "Conservative, operative, rehabilitation: each can be the right choice",
+   "zh": "保守、手术、康复：都可以是正确的选择",
+   "uz": "Konservativ, operativ, reabilitatsiya: har biri toʻgʻri tanlov boʻlishi mumkin"
+  },
+  "pesan": {
+   "id": "Jangan mengulang program yang sama tanpa alasan dan evaluasi.",
+   "en": "Do not repeat the same programme without a reason and an evaluation.",
+   "zh": "不要在没有理由和评估的情况下重复同一方案。",
+   "uz": "Bir xil dasturni sababsiz va baholashsiz takrorlamang."
+  },
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": {
+       "id": "PILAR 1",
+       "en": "PILLAR 1",
+       "zh": "支柱 1",
+       "uz": "1-USTUN"
+      },
+      "judul": {
+       "id": "Konservatif",
+       "en": "Conservative",
+       "zh": "保守治疗",
+       "uz": "Konservativ"
+      },
+      "teks": {
+       "id": "Edukasi, penyesuaian aktivitas, obat sesuai indikasi, gips atau brace, latihan.\n**Verifikasi:** tidak dioperasi ≠ kurang ditangani.",
+       "en": "Education, activity modification, medication as indicated, cast or brace, exercise.\n**Verification:** not operated ≠ undertreated.",
+       "zh": "健康教育、活动调整、按适应证用药、石膏或支具、功能锻炼。\n**核查：**未手术 ≠ 治疗不足。",
+       "uz": "Taʼlim, faollikni moslashtirish, koʻrsatmaga koʻra dori, gips yoki ortez, mashqlar.\n**Tekshiruv:** operatsiya qilinmagan ≠ yetarli davolanmagan."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "PILAR 2",
+       "en": "PILLAR 2",
+       "zh": "支柱 2",
+       "uz": "2-USTUN"
+      },
+      "judul": {
+       "id": "Operatif",
+       "en": "Operative",
+       "zh": "手术治疗",
+       "uz": "Operativ"
+      },
+      "teks": {
+       "id": "Memperbaiki struktur atau stabilitas bila diperlukan, termasuk kondisi darurat dan indikasi terpilih.\n**Verifikasi:** indikasi operasi harus tercatat.",
+       "en": "Restores structure or stability when needed, including emergencies and selected indications.\n**Verification:** the surgical indication must be documented.",
+       "zh": "必要时修复结构或恢复稳定性，包括急诊情况和特定适应证。\n**核查：**手术适应证必须有记录。",
+       "uz": "Zarur boʻlganda tuzilma yoki barqarorlikni tiklaydi, shoshilinch holatlar va tanlangan koʻrsatmalar ham shunga kiradi.\n**Tekshiruv:** operatsiya koʻrsatmasi qayd etilgan boʻlishi shart."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "PILAR 3",
+       "en": "PILLAR 3",
+       "zh": "支柱 3",
+       "uz": "3-USTUN"
+      },
+      "judul": {
+       "id": "Rehabilitasi",
+       "en": "Rehabilitation",
+       "zh": "康复",
+       "uz": "Reabilitatsiya"
+      },
+      "teks": {
+       "id": "Mengembalikan gerak, kekuatan, aktivitas, dan kemandirian; menyertai kedua pilihan.\n**Verifikasi:** terapi lanjut perlu target dan tanggal evaluasi.",
+       "en": "Restores motion, strength, activity and independence; accompanies both options.\n**Verification:** continued therapy needs a target and an evaluation date.",
+       "zh": "恢复活动度、肌力、日常活动和独立性；贯穿上述两种选择。\n**核查：**继续治疗需有目标和评估日期。",
+       "uz": "Harakat, kuch, faollik va mustaqillikni tiklaydi; har ikkala tanlovga hamroh boʻladi.\n**Tekshiruv:** davomli terapiya uchun maqsad va baholash sanasi kerak."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": {
+     "id": "Contoh: robekan meniskus degeneratif",
+     "en": "Example: degenerative meniscal tear",
+     "zh": "示例：退行性半月板撕裂",
+     "uz": "Misol: degenerativ menisk yirtilishi"
+    },
+    "teks": {
+     "id": "Artroskopi tidak lebih baik daripada latihan; BMJ 2017 merekomendasikan kuat **tidak** melakukan artroskopi pada hampir semua penyakit lutut degeneratif. Klaim artroskopi meniskus degeneratif perlu alasan tercatat, misalnya lutut benar-benar terkunci.",
+     "en": "Arthroscopy is no better than exercise; BMJ 2017 makes a strong recommendation **against** arthroscopy in nearly all degenerative knee disease. A claim for arthroscopy of a degenerative meniscus needs a documented reason, e.g. a truly locked knee.",
+     "zh": "关节镜并不优于运动锻炼；BMJ 2017 强烈推荐对几乎所有退行性膝关节病**不**行关节镜手术。退行性半月板关节镜手术的理赔需有记录的理由，例如膝关节真正交锁。",
+     "uz": "Artroskopiya mashqlardan yaxshiroq emas; BMJ 2017 deyarli barcha degenerativ tizza kasalliklarida artroskopiya **qilmaslikni** qatʼiy tavsiya etadi. Degenerativ menisk artroskopiyasi uchun daʼvo (klaim) qayd etilgan sababni talab qiladi, masalan, tizzaning haqiqatan qulflanib qolishi."
+    }
+   },
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": {
+       "id": "AWAL",
+       "en": "BASELINE",
+       "zh": "初始",
+       "uz": "BOSHLANISH"
+      },
+      "judul": {
+       "id": "Catat kondisi awal",
+       "en": "Record the baseline",
+       "zh": "记录初始状态",
+       "uz": "Boshlangʻich holatni qayd etish"
+      },
+      "teks": {
+       "id": "Sepakati target fungsi, frekuensi terapi, dan tanggal kontrol.",
+       "en": "Agree on functional targets, therapy frequency and follow-up date.",
+       "zh": "商定功能目标、治疗频次和复诊日期。",
+       "uz": "Funksional maqsad, terapiya chastotasi va nazorat sanasini kelishib oling."
+      }
+     },
+     {
+      "label": {
+       "id": "2–4 MINGGU",
+       "en": "2–4 WEEKS",
+       "zh": "2–4 周",
+       "uz": "2–4 HAFTA"
+      },
+      "judul": {
+       "id": "Tinjau kemajuan",
+       "en": "Review progress",
+       "zh": "评估进展",
+       "uz": "Rivojlanishni koʻrib chiqish"
+      },
+      "teks": {
+       "id": "Tinjau tren kemajuan, kepatuhan, dan dosis latihan; sesuaikan bila respons tidak sesuai.",
+       "en": "Review the progress trend, adherence and exercise dose; adjust if the response is not as expected.",
+       "zh": "评估进展趋势、依从性和训练剂量；如反应不符合预期则予以调整。",
+       "uz": "Rivojlanish tendensiyasi, rioya qilish va mashq dozasini koʻrib chiqing; javob kutilgandek boʻlmasa, moslang."
+      }
+     },
+     {
+      "label": {
+       "id": "6–12 MINGGU",
+       "en": "6–12 WEEKS",
+       "zh": "6–12 周",
+       "uz": "6–12 HAFTA"
+      },
+      "judul": {
+       "id": "Putuskan",
+       "en": "Decide",
+       "zh": "作出决定",
+       "uz": "Qaror qabul qilish"
+      },
+      "teks": {
+       "id": "Lanjut dengan target baru, beralih ke latihan mandiri, atau evaluasi ulang diagnosis.",
+       "en": "Continue with new targets, switch to self-directed exercise, or re-evaluate the diagnosis.",
+       "zh": "以新目标继续、转为自主训练，或重新评估诊断。",
+       "uz": "Yangi maqsad bilan davom etish, mustaqil mashqqa oʻtish yoki tashxisni qayta baholash."
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Maju",
+       "en": "Progressing",
+       "zh": "进展中",
+       "uz": "Rivojlanmoqda"
+      },
+      "teks": {
+       "id": "Lanjut bila manfaat terukur dan masih perlu pendampingan.",
+       "en": "Continue if the benefit is measurable and supervision is still needed.",
+       "zh": "如获益可量化且仍需指导，则继续。",
+       "uz": "Foyda oʻlchanadigan va hali nazorat kerak boʻlsa, davom eting."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Mandiri",
+       "en": "Independent",
+       "zh": "独立",
+       "uz": "Mustaqil"
+      },
+      "teks": {
+       "id": "Kurangi kunjungan saat target tercapai dan latihan aman sendiri.",
+       "en": "Reduce visits once targets are met and exercise is safe unsupervised.",
+       "zh": "目标达成且可安全自主训练时，减少就诊次数。",
+       "uz": "Maqsadga erishilib, mashqlarni mustaqil xavfsiz bajarish mumkin boʻlganda tashriflarni kamaytiring."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Tidak sesuai",
+       "en": "Not as expected",
+       "zh": "未达预期",
+       "uz": "Kutilgandek emas"
+      },
+      "teks": {
+       "id": "Tinjau diagnosis, hambatan, dan program; pertimbangkan pemeriksaan atau terapi lain.",
+       "en": "Review the diagnosis, barriers and programme; consider other investigations or therapies.",
+       "zh": "重新审视诊断、障碍和方案；考虑其他检查或治疗。",
+       "uz": "Tashxis, toʻsiqlar va dasturni qayta koʻrib chiqing; boshqa tekshiruv yoki terapiyani koʻrib chiqing."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber: infografik Tatalaksana Ortopedi (Miller's Review of Orthopaedics ed. 8; Siemieniuk dkk., BMJ 2017;357:j1982; APTA Initial Examination & Reexamination). Jadwal evaluasi adalah contoh, bukan batas universal; cedera kompleks dan pascaoperasi dapat memerlukan rehabilitasi berbulan-bulan. Baris verifikasi: penulis.",
+     "en": "Source: Orthopaedic Management infographic (Miller's Review of Orthopaedics 8th ed.; Siemieniuk et al., BMJ 2017;357:j1982; APTA Initial Examination & Reexamination). The evaluation schedule is an example, not a universal limit; complex and postoperative injuries may need months of rehabilitation. Verification lines: author.",
+     "zh": "来源：《骨科治疗》信息图（Miller's Review of Orthopaedics 第8版；Siemieniuk 等，BMJ 2017;357:j1982；APTA Initial Examination & Reexamination）。评估时间表仅为示例，并非通用上限；复杂损伤及术后可能需要数月康复。核查条目：作者。",
+     "uz": "Manba: Ortopedik davolash infografikasi (Miller's Review of Orthopaedics, 8-nashr; Siemieniuk va boshq., BMJ 2017;357:j1982; APTA Initial Examination & Reexamination). Baholash jadvali misol, universal chegara emas; murakkab va operatsiyadan keyingi jarohatlar oylab reabilitatsiyani talab qilishi mumkin. Tekshiruv satrlari: muallif."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 22,
+  "id": "infografik-tatalaksana",
+  "kicker": {
+   "id": "INFOGRAFIK · TATALAKSANA",
+   "en": "INFOGRAPHIC · MANAGEMENT",
+   "zh": "信息图 · 治疗",
+   "uz": "INFOGRAFIKA · DAVOLASH"
+  },
+  "judul": {
+   "id": "Tatalaksana ortopedi",
+   "en": "Orthopaedic management",
+   "zh": "骨科治疗",
+   "uz": "Ortopedik davolash"
+  },
+  "pesan": {
+   "id": "Ortopedi yang baik tahu kapan harus mengoperasi, kapan cukup konservatif, dan kapan mengubah strategi. Keberhasilan dinilai dari fungsi, keselamatan, dan kualitas hidup.",
+   "en": "Good orthopaedics knows when to operate, when conservative care is enough, and when to change strategy. Success is judged by function, safety and quality of life.",
+   "zh": "好的骨科知道何时手术、何时保守治疗即可、何时调整策略。成功以功能、安全和生活质量来衡量。",
+   "uz": "Yaxshi ortopediya qachon operatsiya qilish, qachon konservativ davolash yetarli va qachon strategiyani oʻzgartirishni biladi. Muvaffaqiyat funksiya, xavfsizlik va hayot sifati bilan baholanadi."
+  },
+  "blok": [
+   {
+    "tipe": "gambar",
+    "id": "verif-info-tatalaksana",
+    "keterangan": {
+     "id": "Infografik Tatalaksana Ortopedi, ditampilkan utuh.",
+     "en": "Orthopaedic Management infographic, shown in full.",
+     "zh": "《骨科治疗》信息图（完整展示）。",
+     "uz": "Ortopedik davolash infografikasi, toʻliq koʻrsatilgan."
+    }
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Relevansi untuk verifikasi",
+     "en": "Relevance for verification",
+     "zh": "与核查的关联",
+     "uz": "Tekshiruv uchun ahamiyati"
+    },
+    "butir": [
+     {
+      "id": "Tidak dioperasi bukan berarti kurang ditangani; pada diagnosis terpilih, konservatif setara operasi.",
+      "en": "Not operated does not mean undertreated; for selected diagnoses, conservative care is equivalent to surgery.",
+      "zh": "未手术并不意味着治疗不足；对于特定诊断，保守治疗与手术效果相当。",
+      "uz": "Operatsiya qilinmaganlik yetarli davolanmaganlikni anglatmaydi; tanlangan tashxislarda konservativ davolash operatsiyaga teng."
+     },
+     {
+      "id": "Contoh: robekan meniskus degeneratif, artroskopi tidak lebih baik daripada latihan; tidak berlaku untuk lutut yang benar-benar terkunci.",
+      "en": "Example: in degenerative meniscal tears, arthroscopy is no better than exercise; this does not apply to a truly locked knee.",
+      "zh": "示例：退行性半月板撕裂时，关节镜并不优于运动锻炼；但不适用于膝关节真正交锁的情况。",
+      "uz": "Misol: degenerativ menisk yirtilishida artroskopiya mashqlardan yaxshiroq emas; bu tizza haqiqatan qulflangan holatga taalluqli emas."
+     },
+     {
+      "id": "Fisioterapi perlu target, jangka waktu, dan tanggal evaluasi; jangan mengulang program yang sama tanpa alasan.",
+      "en": "Physiotherapy needs a target, a time frame and an evaluation date; do not repeat the same programme without a reason.",
+      "zh": "物理治疗需有目标、时限和评估日期；不要无理由重复同一方案。",
+      "uz": "Fizioterapiya maqsad, muddat va baholash sanasini talab qiladi; bir xil dasturni sababsiz takrorlamang."
+     },
+     {
+      "id": "Jadwal 2–4 dan 6–12 minggu adalah contoh, bukan batas universal.",
+      "en": "The 2–4 and 6–12 week schedule is an example, not a universal limit.",
+      "zh": "2–4 周和 6–12 周的时间表仅为示例，并非通用上限。",
+      "uz": "2–4 va 6–12 haftalik jadval misol, universal chegara emas."
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber infografik: Miller's Review of Orthopaedics edisi ke-8; Siemieniuk dkk., BMJ 2017;357:j1982; APTA, Initial Examination & Reexamination. Jadwal evaluasi adalah sintesis praktis. Infografik dokter ditampilkan utuh; relevansi untuk verifikasi ditulis penulis.",
+     "en": "Infographic sources: Miller's Review of Orthopaedics, 8th ed.; Siemieniuk et al., BMJ 2017;357:j1982; APTA, Initial Examination & Reexamination. The evaluation schedule is a practical synthesis. The physician's infographic is shown in full; the relevance for verification is written by the author.",
+     "zh": "信息图来源：Miller's Review of Orthopaedics 第8版；Siemieniuk 等，BMJ 2017;357:j1982；APTA, Initial Examination & Reexamination。评估时间表为实践性综合。医生信息图完整展示；与核查的关联由作者撰写。",
+     "uz": "Infografika manbalari: Miller's Review of Orthopaedics, 8-nashr; Siemieniuk va boshq., BMJ 2017;357:j1982; APTA, Initial Examination & Reexamination. Baholash jadvali amaliy sintez. Shifokor infografikasi toʻliq koʻrsatilgan; tekshiruv uchun ahamiyati muallif tomonidan yozilgan."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 23,
+  "id": "fisioterapi-pascafraktur",
+  "kicker": {
+   "id": "TATALAKSANA · REHABILITASI PASCAFRAKTUR",
+   "en": "MANAGEMENT · POST-FRACTURE REHABILITATION",
+   "zh": "治疗 · 骨折后康复",
+   "uz": "DAVOLASH · SINISHDAN KEYINGI REABILITATSIYA"
+  },
+  "judul": {
+   "id": "Fisioterapi pascafraktur: kapan diperpanjang?",
+   "en": "Post-fracture physiotherapy: when should it be extended?",
+   "zh": "骨折后物理治疗：何时延长？",
+   "uz": "Sinishdan keyingi fizioterapiya: qachon uzaytiriladi?"
+  },
+  "pesan": {
+   "id": "Waktu penyatuan ≠ batas maksimal fisioterapi.",
+   "en": "Union time ≠ maximum limit for physiotherapy.",
+   "zh": "骨愈合时间 ≠ 物理治疗的最长期限。",
+   "uz": "Bitish muddati ≠ fizioterapiyaning maksimal chegarasi."
+  },
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": {
+       "id": "1",
+       "en": "1",
+       "zh": "1",
+       "uz": "1"
+      },
+      "judul": {
+       "id": "Union berprogres",
+       "en": "Progressing union",
+       "zh": "愈合进展中",
+       "uz": "Rivojlanayotgan bitish (union)"
+      },
+      "teks": {
+       "id": "Naikkan gerak, kekuatan, dan beban sesuai izin; beralih ke latihan mandiri saat aman.\n**Verifikasi:** kunjungan berkurang bertahap; target fungsi dan kembali kerja tercatat.",
+       "en": "Increase motion, strength and load as permitted; switch to self-directed exercise when safe.\n**Verification:** visits taper gradually; functional and return-to-work targets are documented.",
+       "zh": "在允许范围内逐步增加活动度、肌力和负重；安全时转为自主训练。\n**核查：**就诊次数逐步减少；功能目标和重返工作目标有记录。",
+       "uz": "Ruxsat doirasida harakat, kuch va yuklamani oshiring; xavfsiz boʻlganda mustaqil mashqqa oʻting.\n**Tekshiruv:** tashriflar bosqichma-bosqich kamayadi; funksional va ishga qaytish maqsadlari qayd etilgan."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "2",
+       "en": "2",
+       "zh": "2",
+       "uz": "2"
+      },
+      "judul": {
+       "id": "Delayed union",
+       "en": "Delayed union",
+       "zh": "延迟愈合（delayed union）",
+       "uz": "Kechikkan bitish (delayed union)"
+      },
+      "teks": {
+       "id": "Penyatuan lebih lambat dari harapan, tetapi masih berpotensi menyatu. Evaluasi ortopedi; sesuaikan beban.\n**Verifikasi:** perpanjangan wajar bila ada evaluasi ortopedi dan rontgen yang menilai progres.",
+       "en": "Union is slower than expected but still has the potential to heal. Orthopaedic evaluation; adjust loading.\n**Verification:** an extension is reasonable when there is an orthopaedic evaluation and X-rays assessing progress.",
+       "zh": "愈合慢于预期，但仍有愈合潜力。需骨科评估；调整负重。\n**核查：**有骨科评估及评价进展的X线片时，延长治疗是合理的。",
+       "uz": "Bitish kutilganidan sekinroq, lekin hali bitish ehtimoli bor. Ortopedik baholash; yuklamani moslang.\n**Tekshiruv:** ortopedik baholash va rivojlanishni baholovchi rentgen boʻlsa, uzaytirish oʻrinli."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "3",
+       "en": "3",
+       "zh": "3",
+       "uz": "3"
+      },
+      "judul": {
+       "id": "Non-union",
+       "en": "Non-union",
+       "zh": "骨不连（non-union）",
+       "uz": "Bitmaslik (non-union)"
+      },
+      "teks": {
+       "id": "Umumnya belum menyatu 9 bulan dan tanpa progres 3 bulan. Tangani penyebab biologis, mekanis, atau infeksi.\n**Verifikasi:** fisioterapi mendukung fungsi, tidak menggantikan terapi penyatuan.",
+       "en": "Generally not united at 9 months with no progress over 3 months. Address biological, mechanical or infectious causes.\n**Verification:** physiotherapy supports function; it does not replace treatment to achieve union.",
+       "zh": "一般指9个月未愈合且近3个月无进展。需处理生物学、力学或感染原因。\n**核查：**物理治疗支持功能，但不能替代促进愈合的治疗。",
+       "uz": "Odatda 9 oyda bitmagan va 3 oy davomida rivojlanish yoʻq. Biologik, mexanik yoki infeksion sabablarni bartaraf eting.\n**Tekshiruv:** fizioterapiya funksiyani qoʻllab-quvvatlaydi, bitishga qaratilgan davoni almashtirmaydi."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Regio",
+      "en": "Region",
+      "zh": "部位",
+      "uz": "Soha"
+     },
+     {
+      "id": "Fase umum (sejak cedera atau operasi)",
+      "en": "General phases (from injury or surgery)",
+      "zh": "一般阶段（自受伤或手术起）",
+      "uz": "Umumiy bosqichlar (jarohat yoki operatsiyadan boshlab)"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Pergelangan tangan / siku sederhana",
+       "en": "Simple wrist / elbow",
+       "zh": "简单腕部 / 肘部",
+       "uz": "Oddiy bilak-kaft boʻgʻimi / tirsak"
+      },
+      {
+       "id": "0–6 minggu proteksi atau gerak terkontrol; 6–12 minggu progres fungsi",
+       "en": "0–6 weeks protection or controlled motion; 6–12 weeks functional progression",
+       "zh": "0–6 周保护或控制下活动；6–12 周功能进阶",
+       "uz": "0–6 hafta himoya yoki nazoratli harakat; 6–12 hafta funksional rivojlanish"
+      }
+     ],
+     [
+      {
+       "id": "Bahu / humerus proksimal",
+       "en": "Shoulder / proximal humerus",
+       "zh": "肩部 / 肱骨近端",
+       "uz": "Yelka / proksimal yelka suyagi"
+      },
+      {
+       "id": "0–6 minggu latihan bertahap; progres gerak dan kekuatan dapat berbulan-bulan",
+       "en": "0–6 weeks graded exercise; progression of motion and strength may take months",
+       "zh": "0–6 周循序渐进训练；活动度和肌力的进阶可能需数月",
+       "uz": "0–6 hafta bosqichma-bosqich mashqlar; harakat va kuchning rivojlanishi oylab davom etishi mumkin"
+      }
+     ],
+     [
+      {
+       "id": "Pergelangan kaki pascaoperasi",
+       "en": "Ankle, postoperative",
+       "zh": "踝关节术后",
+       "uz": "Operatsiyadan keyingi toʻpiq"
+      },
+      {
+       "id": "0–6 minggu proteksi; 6–12 minggu progres berjalan sesuai izin menapak",
+       "en": "0–6 weeks protection; 6–12 weeks gait progression according to weight-bearing clearance",
+       "zh": "0–6 周保护；6–12 周按负重许可进阶步行",
+       "uz": "0–6 hafta himoya; 6–12 hafta oyoqqa tayanish ruxsatiga koʻra yurishni rivojlantirish"
+      }
+     ],
+     [
+      {
+       "id": "Batang tibia pascanail",
+       "en": "Tibial shaft after nailing",
+       "zh": "胫骨干髓内钉术后",
+       "uz": "Mixlashdan keyingi katta boldir suyagi tanasi"
+      },
+      {
+       "id": "Latihan sendi sejak dini; progres sering melewati 12 minggu; penyatuan sering 4–6 bulan",
+       "en": "Early joint exercises; progression often extends beyond 12 weeks; union often at 4–6 months",
+       "zh": "早期关节活动训练；进阶常超过 12 周；愈合常需 4–6 个月",
+       "uz": "Erta boʻgʻim mashqlari; rivojlanish koʻpincha 12 haftadan oshadi; bitish koʻpincha 4–6 oy"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Setiap perpanjangan terapi",
+     "en": "Every therapy extension",
+     "zh": "每次延长治疗",
+     "uz": "Har bir terapiya uzaytirilishi"
+    },
+    "butir": [
+     {
+      "id": "Target jelas, alasan klinis, tanggal evaluasi.",
+      "en": "Clear target, clinical reason, evaluation date.",
+      "zh": "明确目标、临床理由、评估日期。",
+      "uz": "Aniq maqsad, klinik sabab, baholash sanasi."
+     },
+     {
+      "id": "Ukuran tiap evaluasi: nyeri, rentang gerak, kekuatan, aktivitas, kesiapan kerja.",
+      "en": "Measures at each evaluation: pain, range of motion, strength, activity, work readiness.",
+      "zh": "每次评估的指标：疼痛、关节活动度、肌力、活动能力、复工准备度。",
+      "uz": "Har bir baholashdagi koʻrsatkichlar: ogʻriq, harakat hajmi, kuch, faollik, ishga tayyorlik."
+     },
+     {
+      "id": "4 minggu tanpa kemajuan: evaluasi ortopedi dan konsultasi intervensi nyeri sesuai temuan.*",
+      "en": "4 weeks without progress: orthopaedic evaluation and pain-intervention consultation according to findings.*",
+      "zh": "4 周无进展：进行骨科评估，并根据检查结果会诊疼痛介入。*",
+      "uz": "4 hafta rivojlanishsiz: ortopedik baholash va topilmalarga koʻra ogʻriq intervensiyasi boʻyicha maslahat.*"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": null,
+    "teks": {
+     "id": "**Waktu penyatuan ≠ batas maksimal fisioterapi.** *Ambang 4 minggu adalah usulan alur layanan dari infografik, bukan ketentuan Apley atau indikasi otomatis tindakan.",
+     "en": "**Union time ≠ maximum limit for physiotherapy.** *The 4-week threshold is a care-pathway proposal from the infographic, not an Apley rule or an automatic indication for a procedure.",
+     "zh": "**骨愈合时间 ≠ 物理治疗的最长期限。** *4 周阈值是信息图提出的服务流程建议，并非 Apley 的规定，也不是实施操作的自动适应证。",
+     "uz": "**Bitish muddati ≠ fizioterapiyaning maksimal chegarasi.** *4 haftalik chegara infografikadagi xizmat yoʻnalishi taklifi, Apley qoidasi yoki muolajaga avtomatik koʻrsatma emas."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber: infografik Rehabilitasi Fraktur & Penyatuan Tulang (Apley & Solomon edisi ke-10, Bab 23, hlm. 715, 738–739, 743–744; fase rehabilitasi NHS/NHSGGC; tibia AAOS) · PP 44/2015 jo. PP 82/2019 (rehabilitasi medik).",
+     "en": "Source: Fracture Rehabilitation & Bone Union infographic (Apley & Solomon 10th ed., Ch. 23, pp. 715, 738–739, 743–744; rehabilitation phases NHS/NHSGGC; tibia AAOS) · PP 44/2015 as amended by PP 82/2019 (Government Regulation; medical rehabilitation).",
+     "zh": "来源：《骨折康复与骨愈合》信息图（Apley & Solomon 第10版，第23章，第715、738–739、743–744页；康复分期 NHS/NHSGGC；胫骨 AAOS）· PP 44/2015 及 PP 82/2019（印尼政府条例；医疗康复）。",
+     "uz": "Manba: Sinish reabilitatsiyasi va suyak bitishi infografikasi (Apley & Solomon, 10-nashr, 23-bob, 715, 738–739, 743–744-betlar; reabilitatsiya bosqichlari NHS/NHSGGC; katta boldir suyagi AAOS) · PP 44/2015 va PP 82/2019 (Hukumat qarori; tibbiy reabilitatsiya)."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 24,
+  "id": "infografik-rehabilitasi-fraktur",
+  "kicker": {
+   "id": "INFOGRAFIK · REHABILITASI FRAKTUR",
+   "en": "INFOGRAPHIC · FRACTURE REHABILITATION",
+   "zh": "信息图 · 骨折康复",
+   "uz": "INFOGRAFIKA · SINISH REABILITATSIYASI"
+  },
+  "judul": {
+   "id": "Rehabilitasi fraktur dan penyatuan tulang",
+   "en": "Fracture rehabilitation and bone union",
+   "zh": "骨折康复与骨愈合",
+   "uz": "Sinish reabilitatsiyasi va suyak bitishi"
+  },
+  "pesan": {
+   "id": "Waktu penyatuan bukan batas maksimal fisioterapi. Empat minggu tanpa kemajuan sejak rehabilitasi yang sesuai dimulai: rujuk untuk evaluasi.",
+   "en": "Union time is not the maximum limit for physiotherapy. Four weeks without progress after appropriate rehabilitation has started: refer for evaluation.",
+   "zh": "骨愈合时间并非物理治疗的最长期限。规范康复开始后 4 周无进展：转诊评估。",
+   "uz": "Bitish muddati fizioterapiyaning maksimal chegarasi emas. Tegishli reabilitatsiya boshlangandan keyin toʻrt hafta rivojlanish boʻlmasa: baholash uchun yoʻllang."
+  },
+  "blok": [
+   {
+    "tipe": "gambar",
+    "id": "verif-info-rehab-fraktur",
+    "keterangan": {
+     "id": "Infografik Rehabilitasi Fraktur & Penyatuan Tulang, ditampilkan utuh.",
+     "en": "Fracture Rehabilitation & Bone Union infographic, shown in full.",
+     "zh": "《骨折康复与骨愈合》信息图（完整展示）。",
+     "uz": "Sinish reabilitatsiyasi va suyak bitishi infografikasi, toʻliq koʻrsatilgan."
+    }
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Relevansi untuk verifikasi",
+     "en": "Relevance for verification",
+     "zh": "与核查的关联",
+     "uz": "Tekshiruv uchun ahamiyati"
+    },
+    "butir": [
+     {
+      "id": "Lanjutan terapi dinilai dari status penyatuan: union berprogres, delayed union, atau non-union.",
+      "en": "Continuation of therapy is judged by union status: progressing union, delayed union or non-union.",
+      "zh": "是否继续治疗取决于愈合状态：愈合进展中、延迟愈合或骨不连。",
+      "uz": "Terapiyani davom ettirish bitish holatiga koʻra baholanadi: rivojlanayotgan bitish, kechikkan bitish (delayed union) yoki bitmaslik (non-union)."
+     },
+     {
+      "id": "Non-union umumnya: belum menyatu 9 bulan dan tanpa progres 3 bulan terakhir; jangan menunggu bila ada masalah stabilitas, infeksi, atau kegagalan implan.",
+      "en": "Non-union generally: not united at 9 months and no progress in the last 3 months; do not wait if there is instability, infection or implant failure.",
+      "zh": "骨不连一般指：9个月未愈合且近3个月无进展；如存在稳定性问题、感染或植入物失效，不要等待。",
+      "uz": "Bitmaslik odatda: 9 oyda bitmagan va oxirgi 3 oyda rivojlanish yoʻq; barqarorlik muammosi, infeksiya yoki implant yetishmovchiligi boʻlsa, kutmang."
+     },
+     {
+      "id": "Ambang 4 minggu adalah usulan alur layanan, bukan ketentuan Apley dan bukan indikasi otomatis tindakan.",
+      "en": "The 4-week threshold is a care-pathway proposal, not an Apley rule and not an automatic indication for a procedure.",
+      "zh": "4 周阈值是服务流程建议，并非 Apley 的规定，也不是实施操作的自动适应证。",
+      "uz": "4 haftalik chegara xizmat yoʻnalishi taklifi, Apley qoidasi ham, muolajaga avtomatik koʻrsatma ham emas."
+     },
+     {
+      "id": "Setiap perpanjangan terapi memuat target jelas, alasan klinis, dan tanggal evaluasi.",
+      "en": "Every therapy extension states a clear target, clinical reason and evaluation date.",
+      "zh": "每次延长治疗都应写明明确目标、临床理由和评估日期。",
+      "uz": "Har bir terapiya uzaytirilishida aniq maqsad, klinik sabab va baholash sanasi koʻrsatiladi."
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber infografik: Apley & Solomon edisi ke-10, Bab 23, hlm. 715, 738–739, 743–744; fase rehabilitasi: NHS/NHSGGC; tibia: AAOS. Protokol anak dan fraktur kompleks disesuaikan. Infografik dokter ditampilkan utuh; relevansi untuk verifikasi ditulis penulis.",
+     "en": "Infographic sources: Apley & Solomon 10th ed., Ch. 23, pp. 715, 738–739, 743–744; rehabilitation phases: NHS/NHSGGC; tibia: AAOS. Protocols for children and complex fractures are adapted. The physician's infographic is shown in full; the relevance for verification is written by the author.",
+     "zh": "信息图来源：Apley & Solomon 第10版，第23章，第715、738–739、743–744页；康复分期：NHS/NHSGGC；胫骨：AAOS。儿童及复杂骨折方案需个体化调整。医生信息图完整展示；与核查的关联由作者撰写。",
+     "uz": "Infografika manbalari: Apley & Solomon, 10-nashr, 23-bob, 715, 738–739, 743–744-betlar; reabilitatsiya bosqichlari: NHS/NHSGGC; katta boldir suyagi: AAOS. Bolalar va murakkab sinishlar uchun protokollar moslashtiriladi. Shifokor infografikasi toʻliq koʻrsatilgan; tekshiruv uchun ahamiyati muallif tomonidan yozilgan."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 25,
+  "id": "verifikasi-intervensi-nyeri",
+  "kicker": {
+   "id": "TATALAKSANA · INTERVENSI NYERI",
+   "en": "MANAGEMENT · PAIN INTERVENTION",
+   "zh": "治疗 · 疼痛介入",
+   "uz": "DAVOLASH · OGʻRIQ INTERVENSIYASI"
+  },
+  "judul": {
+   "id": "Intervensi nyeri: apa yang diverifikasi?",
+   "en": "Pain intervention: what is verified?",
+   "zh": "疼痛介入：核查什么？",
+   "uz": "Ogʻriq intervensiyasi: nima tekshiriladi?"
+  },
+  "pesan": {
+   "id": "Tidak otomatis dibayar berdasarkan gelar atau sertifikat; dibayar bila keempat syarat terpenuhi.",
+   "en": "Not paid automatically on the basis of a title or certificate; paid when all four requirements are met.",
+   "zh": "不会仅凭学位或证书自动支付；四项条件全部满足才予以支付。",
+   "uz": "Unvon yoki sertifikat asosida avtomatik toʻlanmaydi; toʻrtta shart bajarilganda toʻlanadi."
+  },
+  "blok": [
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Kapan dipertimbangkan",
+     "en": "When to consider",
+     "zh": "何时考虑",
+     "uz": "Qachon koʻrib chiqiladi"
+    },
+    "butir": [
+     {
+      "id": "Nyeri menetap meski rehabilitasi sesuai sudah berjalan; usulan alur: evaluasi bila 4 minggu tanpa kemajuan.",
+      "en": "Pain persists despite appropriate rehabilitation; proposed pathway: evaluate after 4 weeks without progress.",
+      "zh": "规范康复已进行但疼痛仍持续；流程建议：4 周无进展时进行评估。",
+      "uz": "Tegishli reabilitatsiyaga qaramay ogʻriq saqlanadi; yoʻnalish taklifi: 4 hafta rivojlanishsiz boʻlsa, baholash."
+     },
+     {
+      "id": "Nyeri kronis (>3 bulan) atau nyeri pascacedera dan pascaoperasi.",
+      "en": "Chronic pain (>3 months) or post-injury and postoperative pain.",
+      "zh": "慢性疼痛（>3个月）或伤后及术后疼痛。",
+      "uz": "Surunkali ogʻriq (>3 oy) yoki jarohatdan va operatsiyadan keyingi ogʻriq."
+     },
+     {
+      "id": "Sumber nyeri teridentifikasi, misalnya HNP dengan radikulopati, saraf terjepit, atau sendi degeneratif.",
+      "en": "An identified pain source, e.g. HNP (disc herniation) with radiculopathy, nerve entrapment or a degenerative joint.",
+      "zh": "疼痛来源已明确，例如伴神经根病的 HNP（椎间盘突出）、神经卡压或退行性关节病。",
+      "uz": "Ogʻriq manbai aniqlangan, masalan, radikulopatiyali HNP (disk churrasi), nerv qisilishi yoki degenerativ boʻgʻim."
+     },
+     {
+      "id": "Berjalan bersama rehabilitasi; tidak menggantikan koreksi non-union atau infeksi.",
+      "en": "Runs alongside rehabilitation; does not replace correction of non-union or infection.",
+      "zh": "与康复同步进行；不能替代对骨不连或感染的纠正。",
+      "uz": "Reabilitatsiya bilan birga olib boriladi; bitmaslik yoki infeksiyani tuzatishni almashtirmaydi."
+     }
+    ]
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": {
+       "id": "SYARAT 1",
+       "en": "REQUIREMENT 1",
+       "zh": "条件 1",
+       "uz": "1-SHART"
+      },
+      "judul": {
+       "id": "Kasus dijamin",
+       "en": "Covered case",
+       "zh": "属于保障范围的病例",
+       "uz": "Kafolatlangan holat"
+      },
+      "teks": {
+       "id": "Nyeri berasal dari kecelakaan kerja atau PAK; kronologi dan diagnosis awal cocok.",
+       "en": "The pain arises from a work accident or PAK (occupational disease); the chronology and initial diagnosis match.",
+       "zh": "疼痛源于工伤事故或 PAK（职业病）；经过与初始诊断相符。",
+       "uz": "Ogʻriq ishlab chiqarishdagi baxtsiz hodisa yoki PAK (kasbiy kasallik) natijasida; xronologiya va dastlabki tashxis mos keladi."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "SYARAT 2",
+       "en": "REQUIREMENT 2",
+       "zh": "条件 2",
+       "uz": "2-SHART"
+      },
+      "judul": {
+       "id": "Indikasi medis",
+       "en": "Medical indication",
+       "zh": "医学适应证",
+       "uz": "Tibbiy koʻrsatma"
+      },
+      "teks": {
+       "id": "Diagnosis sumber nyeri, terapi konservatif sebelumnya, skor nyeri dan fungsi awal.",
+       "en": "Diagnosis of the pain source, prior conservative therapy, baseline pain and function scores.",
+       "zh": "疼痛来源诊断、既往保守治疗、初始疼痛与功能评分。",
+       "uz": "Ogʻriq manbai tashxisi, oldingi konservativ terapiya, boshlangʻich ogʻriq va funksiya ballari."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "SYARAT 3",
+       "en": "REQUIREMENT 3",
+       "zh": "条件 3",
+       "uz": "3-SHART"
+      },
+      "judul": {
+       "id": "Kewenangan klinis",
+       "en": "Clinical privileges",
+       "zh": "临床权限",
+       "uz": "Klinik vakolat"
+      },
+      "teks": {
+       "id": "Dokter subspesialis atau pemegang AIPM/CIPP; tetap memerlukan STR/SIP dan kewenangan klinis.",
+       "en": "A subspecialist or an AIPM/CIPP holder; STR/SIP (registration and practice licence) and clinical privileges are still required.",
+       "zh": "亚专科医师或持有 AIPM/CIPP 者；仍须具备 STR/SIP（注册证与执业许可）及临床权限。",
+       "uz": "Subspetsialist shifokor yoki AIPM/CIPP egasi; baribir STR/SIP (roʻyxat va amaliyot litsenziyasi) hamda klinik vakolat talab etiladi."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "SYARAT 4",
+       "en": "REQUIREMENT 4",
+       "zh": "条件 4",
+       "uz": "4-SHART"
+      },
+      "judul": {
+       "id": "PKS, tarif, dan dokumen",
+       "en": "PKS, tariff and documents",
+       "zh": "PKS、收费标准与文件",
+       "uz": "PKS, tarif va hujjatlar"
+      },
+      "teks": {
+       "id": "Laporan tindakan: target, obat dan dosis, panduan pencitraan; tarif sesuai PKS.",
+       "en": "Procedure report: target, drug and dose, imaging guidance; tariff according to the PKS (cooperation agreement).",
+       "zh": "操作报告：靶点、药物及剂量、影像引导；收费符合 PKS（合作协议）。",
+       "uz": "Muolaja hisoboti: nishon, dori va doza, tasviriy yoʻnaltirish; tarif PKS (hamkorlik shartnomasi) boʻyicha."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Tindakan ulangan",
+     "en": "Repeat procedures",
+     "zh": "重复操作",
+     "uz": "Takroriy muolajalar"
+    },
+    "teks": {
+     "id": "Wajar bila tindakan sebelumnya memberi respons terukur (nyeri, fungsi, kebutuhan obat, kembali kerja) dan alasannya tercatat. Tingkat bukti berbeda antarjenis tindakan; untuk tindakan yang buktinya masih terbatas, cantumkan dasar indikasinya.",
+     "en": "Reasonable when the previous procedure produced a measurable response (pain, function, medication need, return to work) and the reason is documented. The level of evidence differs between procedure types; for procedures with limited evidence, state the basis for the indication.",
+     "zh": "如前次操作产生了可量化的反应（疼痛、功能、用药需求、重返工作）且理由有记录，则重复操作是合理的。不同操作的证据等级不同；对于证据尚有限的操作，应写明适应证依据。",
+     "uz": "Oldingi muolaja oʻlchanadigan javob bergan (ogʻriq, funksiya, dori ehtiyoji, ishga qaytish) va sababi qayd etilgan boʻlsa, oʻrinli. Dalil darajasi muolaja turlariga koʻra farq qiladi; dalili hali cheklangan muolajalar uchun koʻrsatma asosini yozing."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber: infografik Intervensi Nyeri (AAPM, APS, NIH, Kemenkes RI) · infografik Rehabilitasi Fraktur (ambang 4 minggu: usulan alur) · empat syarat klaim dan rujukan kompetensi dari deck Cedera ACL, Lampiran D (Permenkes 13/2025, PP 10/2018).",
+     "en": "Sources: Pain Intervention infographic (AAPM, APS, NIH, Indonesian Ministry of Health) · Fracture Rehabilitation infographic (4-week threshold: proposed pathway) · four claim requirements and competency references from the ACL Injury deck, Appendix D (Permenkes 13/2025, PP 10/2018).",
+     "zh": "来源：《疼痛介入》信息图（AAPM、APS、NIH、印尼卫生部）·《骨折康复》信息图（4 周阈值：流程建议）· 四项理赔条件及资质依据取自《ACL 损伤》课件附录 D（Permenkes 13/2025、PP 10/2018）。",
+     "uz": "Manbalar: Ogʻriq intervensiyasi infografikasi (AAPM, APS, NIH, Indoneziya Sogʻliqni saqlash vazirligi) · Sinish reabilitatsiyasi infografikasi (4 haftalik chegara: yoʻnalish taklifi) · toʻrt daʼvo (klaim) sharti va malaka manbalari ACL jarohati taqdimotidan, D-ilova (Permenkes 13/2025, PP 10/2018)."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 26,
+  "id": "infografik-intervensi-nyeri",
+  "kicker": {
+   "id": "INFOGRAFIK · INTERVENSI NYERI",
+   "en": "INFOGRAPHIC · PAIN INTERVENTION",
+   "zh": "信息图 · 疼痛介入",
+   "uz": "INFOGRAFIKA · OGʻRIQ INTERVENSIYASI"
+  },
+  "judul": {
+   "id": "Intervensi nyeri",
+   "en": "Pain intervention",
+   "zh": "疼痛介入",
+   "uz": "Ogʻriq intervensiyasi"
+  },
+  "pesan": {
+   "id": "Intervensi nyeri bukan sekadar pemadam kebakaran: ia menargetkan sumber dan mekanisme nyeri sesuai diagnosis, dan pilihannya disesuaikan dengan penyebab nyeri dan kondisi pasien.",
+   "en": "Pain intervention is not merely firefighting: it targets the source and mechanism of pain according to the diagnosis, and the choice is tailored to the cause of pain and the patient's condition.",
+   "zh": "疼痛介入不只是“救火”：它根据诊断针对疼痛的来源和机制，并依据疼痛原因和患者状况选择方案。",
+   "uz": "Ogʻriq intervensiyasi shunchaki “oʻt oʻchirish” emas: u tashxisga koʻra ogʻriq manbai va mexanizmini nishonga oladi, tanlov esa ogʻriq sababi va bemor holatiga moslanadi."
+  },
+  "blok": [
+   {
+    "tipe": "gambar",
+    "id": "verif-info-intervensi-nyeri",
+    "keterangan": {
+     "id": "Infografik Intervensi Nyeri, ditampilkan utuh.",
+     "en": "Pain Intervention infographic, shown in full.",
+     "zh": "《疼痛介入》信息图（完整展示）。",
+     "uz": "Ogʻriq intervensiyasi infografikasi, toʻliq koʻrsatilgan."
+    }
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Relevansi untuk verifikasi",
+     "en": "Relevance for verification",
+     "zh": "与核查的关联",
+     "uz": "Tekshiruv uchun ahamiyati"
+    },
+    "butir": [
+     {
+      "id": "Tujuan bukan hanya skor nyeri: juga fungsi, kualitas hidup, dan pengurangan obat; ukur sebelum dan sesudah.",
+      "en": "The goal is not just the pain score: also function, quality of life and reduced medication; measure before and after.",
+      "zh": "目标不仅是疼痛评分，还包括功能、生活质量和减少用药；须在操作前后进行测量。",
+      "uz": "Maqsad faqat ogʻriq bali emas: funksiya, hayot sifati va dorini kamaytirish ham; oldin va keyin oʻlchang."
+     },
+     {
+      "id": "Indikasi di infografik luas (nyeri kronis >3 bulan, pascacedera atau operasi, OA, HNP, neuropati); pada JKK, hubungannya dengan kecelakaan kerja atau PAK tetap ditelusuri.",
+      "en": "The infographic's indications are broad (chronic pain >3 months, post-injury or postoperative, OA, HNP, neuropathy); in JKK, the link to a work accident or PAK must still be traced.",
+      "zh": "信息图中的适应证较宽（慢性疼痛 >3个月、伤后或术后、OA、HNP、神经病变）；在 JKK 中，仍须追溯其与工伤事故或 PAK 的关联。",
+      "uz": "Infografikadagi koʻrsatmalar keng (surunkali ogʻriq >3 oy, jarohat yoki operatsiyadan keyin, OA, HNP, neyropatiya); JKK da ishlab chiqarishdagi baxtsiz hodisa yoki PAK bilan bogʻliqligi baribir tekshiriladi."
+     },
+     {
+      "id": "Risiko (nyeri pascaprosedur, bengkak, infeksi, alergi, cedera saraf yang jarang) dan komplikasi dicatat.",
+      "en": "Risks (post-procedural pain, swelling, infection, allergy, rare nerve injury) and complications are documented.",
+      "zh": "风险（操作后疼痛、肿胀、感染、过敏、罕见的神经损伤）及并发症均应记录。",
+      "uz": "Xavflar (muolajadan keyingi ogʻriq, shish, infeksiya, allergiya, kamdan-kam nerv shikastlanishi) va asoratlar qayd etiladi."
+     },
+     {
+      "id": "Sebelum memilih: pemeriksaan medis, diskusi manfaat dan risiko, prosedur yang tepat untuk kondisi pasien.",
+      "en": "Before choosing: medical examination, discussion of benefits and risks, and the right procedure for the patient's condition.",
+      "zh": "选择前：医学检查、讨论获益与风险、选择适合患者状况的操作。",
+      "uz": "Tanlashdan oldin: tibbiy koʻrik, foyda va xavflarni muhokama qilish, bemor holatiga mos muolaja."
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber infografik: American Academy of Pain Medicine; American Pain Society; National Institutes of Health; Kementerian Kesehatan RI (sebagaimana tercantum pada infografik). Infografik dokter ditampilkan utuh; relevansi untuk verifikasi ditulis penulis.",
+     "en": "Infographic sources: American Academy of Pain Medicine; American Pain Society; National Institutes of Health; Indonesian Ministry of Health (as listed on the infographic). The physician's infographic is shown in full; the relevance for verification is written by the author.",
+     "zh": "信息图来源：American Academy of Pain Medicine；American Pain Society；National Institutes of Health；印尼卫生部（按信息图所列）。医生信息图完整展示；与核查的关联由作者撰写。",
+     "uz": "Infografika manbalari: American Academy of Pain Medicine; American Pain Society; National Institutes of Health; Indoneziya Sogʻliqni saqlash vazirligi (infografikada koʻrsatilganidek). Shifokor infografikasi toʻliq koʻrsatilgan; tekshiruv uchun ahamiyati muallif tomonidan yozilgan."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 27,
+  "id": "pesan-inti-verifikasi",
+  "kicker": {
+   "id": "PESAN INTI",
+   "en": "KEY MESSAGE",
+   "zh": "核心信息",
+   "uz": "ASOSIY XABAR"
+  },
+  "judul": {
+   "id": "Verifikasi menautkan diagnosis, kebutuhan, dan bukti, bukan menebak ulang keputusan dokter.",
+   "en": "Verification links diagnosis, need and evidence; it does not second-guess the doctor's decision.",
+   "zh": "核查是把诊断、需求与证据联系起来，而不是事后揣测医生的决定。",
+   "uz": "Tekshiruv tashxis, ehtiyoj va dalilni bogʻlaydi, shifokor qarorini qayta taxmin qilmaydi."
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Ranah",
+      "en": "Domain",
+      "zh": "领域",
+      "uz": "Soha"
+     },
+     {
+      "id": "Yang diverifikasi",
+      "en": "What is verified",
+      "zh": "核查内容",
+      "uz": "Nima tekshiriladi"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Penunjang",
+       "en": "Diagnostic tests",
+       "zh": "辅助检查",
+       "uz": "Diagnostik tekshiruvlar"
+      },
+      {
+       "id": "Menjawab pertanyaan klinis yang tercatat; rontgen dulu, lanjutan bila rontgen tidak menjawab.",
+       "en": "Answers a documented clinical question; X-ray first, further imaging if the X-ray does not answer it.",
+       "zh": "回答有记录的临床问题；先行X线检查，X线无法回答时再做进一步检查。",
+       "uz": "Qayd etilgan klinik savolga javob beradi; avval rentgen, rentgen javob bermasa, keyingi tekshiruv."
+      }
+     ],
+     [
+      {
+       "id": "Implan",
+       "en": "Implants",
+       "zh": "植入物",
+       "uz": "Implantlar"
+      },
+      {
+       "id": "Pola fraktur → jenis fiksasi → laporan operasi → label dan izin edar → rontgen → tarif PKS.",
+       "en": "Fracture pattern → type of fixation → operative report → label and marketing authorisation → X-ray → PKS tariff.",
+       "zh": "骨折类型 → 固定方式 → 手术记录 → 标签与注册证 → X线片 → PKS 收费标准。",
+       "uz": "Sinish shakli → fiksatsiya turi → operatsiya hisoboti → yorliq va roʻyxatdan oʻtkazish ruxsatnomasi → rentgen → PKS tarifi."
+      }
+     ],
+     [
+      {
+       "id": "Alat bantu",
+       "en": "Assistive devices",
+       "zh": "辅助器具",
+       "uz": "Yordamchi vositalar"
+      },
+      {
+       "id": "Resep, indikasi, dan status menapak; orthose dan prothese sebagai manfaat rehabilitasi JKK.",
+       "en": "Prescription, indication and weight-bearing status; orthoses and prostheses as JKK rehabilitation benefits.",
+       "zh": "处方、适应证和负重状态；矫形器和假肢属于 JKK 康复福利。",
+       "uz": "Retsept, koʻrsatma va oyoqqa tayanish holati; ortez va protezlar JKK reabilitatsiya imtiyozi sifatida."
+      }
+     ],
+     [
+      {
+       "id": "Tatalaksana",
+       "en": "Management",
+       "zh": "治疗",
+       "uz": "Davolash"
+      },
+      {
+       "id": "Konservatif, operatif, dan rehabilitasi sama sah bila indikasinya tepat; terapi lanjut perlu target dan tanggal evaluasi.",
+       "en": "Conservative, operative and rehabilitative care are equally valid when the indication is right; continued therapy needs a target and an evaluation date.",
+       "zh": "只要适应证恰当，保守、手术和康复同样合理；继续治疗需有目标和评估日期。",
+       "uz": "Koʻrsatma toʻgʻri boʻlsa, konservativ, operativ va reabilitatsiya bir xil asosli; davomli terapiya uchun maqsad va baholash sanasi kerak."
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sintesis penulis dari regulasi JKK, ACR Appropriateness Criteria, dan AO Principles; bukan pedoman resmi BPJS Ketenagakerjaan.",
+     "en": "Author's synthesis of JKK regulations, the ACR Appropriateness Criteria and AO Principles; not an official BPJS Ketenagakerjaan guideline.",
+     "zh": "作者根据 JKK 法规、ACR Appropriateness Criteria 和 AO Principles 综合整理；并非 BPJS Ketenagakerjaan 官方指南。",
+     "uz": "JKK qoidalari, ACR Appropriateness Criteria va AO Principles asosida muallif sintezi; BPJS Ketenagakerjaan rasmiy qoʻllanmasi emas."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 28,
+  "id": "metode-dan-batas",
+  "kicker": {
+   "id": "METODE DAN BATAS",
+   "en": "METHODS AND LIMITATIONS",
+   "zh": "方法与局限",
+   "uz": "USUL VA CHEKLOVLAR"
+  },
+  "judul": {
+   "id": "Apa yang bisa dan tidak bisa disimpulkan",
+   "en": "What can and cannot be concluded",
+   "zh": "可以得出与不能得出的结论",
+   "uz": "Nimani xulosa qilish mumkin va nimani mumkin emas"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Cara menyusun",
+       "en": "How this material was compiled",
+       "zh": "编写方法",
+       "uz": "Qanday tuzilgan"
+      },
+      "teks": {
+       "id": "• Regulasi dibaca dari portal peraturan (JDIH Kemnaker, pasal.id) dan situs BPJS Ketenagakerjaan.\n• Kriteria pencitraan dari ACR Appropriateness Criteria, aturan Ottawa dan Canadian C-spine, NICE, serta Choosing Wisely (AMSSM, ACR).\n• Konten implan, kegawatan, penyembuhan, dan rehabilitasi dari sembilan infografik dokter (AO, Apley, Perkins, NHS, AAOS, Miller, APTA, AAPM).\n• Contoh ACL dari deck sebelumnya (6 November 2026).",
+       "en": "• Regulations were read from regulatory portals (JDIH Kemnaker, pasal.id) and the BPJS Ketenagakerjaan website.\n• Imaging criteria from the ACR Appropriateness Criteria, the Ottawa and Canadian C-spine rules, NICE and Choosing Wisely (AMSSM, ACR).\n• Content on implants, emergencies, healing and rehabilitation from nine physician infographics (AO, Apley, Perkins, NHS, AAOS, Miller, APTA, AAPM).\n• ACL example from the previous deck (6 November 2026).",
+       "zh": "• 法规取自法规门户网站（JDIH Kemnaker、pasal.id）及 BPJS Ketenagakerjaan 官网。\n• 影像学标准取自 ACR Appropriateness Criteria、Ottawa 和 Canadian C-spine 规则、NICE 以及 Choosing Wisely（AMSSM、ACR）。\n• 植入物、急症、愈合和康复内容取自九份医生信息图（AO、Apley、Perkins、NHS、AAOS、Miller、APTA、AAPM）。\n• ACL 示例取自上一份课件（2026年11月6日）。",
+       "uz": "• Qoidalar meʼyoriy portallardan (JDIH Kemnaker, pasal.id) va BPJS Ketenagakerjaan saytidan oʻqildi.\n• Tasvirlash mezonlari ACR Appropriateness Criteria, Ottawa va Canadian C-spine qoidalari, NICE hamda Choosing Wisely (AMSSM, ACR) dan.\n• Implantlar, shoshilinch holatlar, bitish va reabilitatsiya boʻyicha mazmun toʻqqizta shifokor infografikasidan (AO, Apley, Perkins, NHS, AAOS, Miller, APTA, AAPM).\n• ACL misoli oldingi taqdimotdan (2026-yil 6-noyabr)."
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Batas",
+       "en": "Limitations",
+       "zh": "局限",
+       "uz": "Cheklovlar"
+      },
+      "teks": {
+       "id": "• Teks Perban BPJS Ketenagakerjaan 1/2024 dan Permenaker 5/2021 dibaca dari portal sekunder yang sebagian rusak; cocokkan pasal dengan salinan resmi.\n• “Lima kesesuaian”, daftar sinyal, dan ilustrasi hitung implan adalah sintesis penulis.\n• Pedoman ACR dan aturan Ottawa disusun dari populasi luar negeri, terutama IGD.\n• Rincian dokumen klaim dan harga implan mengikuti PKS masing-masing faskes; tidak dibahas.\n• Materi edukasi, bukan pedoman resmi BPJS Ketenagakerjaan.",
+       "en": "• The texts of Perban BPJS Ketenagakerjaan 1/2024 (BPJS regulation) and Permenaker 5/2021 (Minister of Manpower regulation) were read from secondary portals that are partly corrupted; check the articles against official copies.\n• The “five concordances”, the list of signals and the implant calculation illustration are the author's synthesis.\n• ACR guidelines and the Ottawa rules were developed in foreign populations, mainly emergency departments.\n• Claim document details and implant prices follow each facility's PKS; not discussed.\n• Educational material, not an official BPJS Ketenagakerjaan guideline.",
+       "zh": "• Perban BPJS Ketenagakerjaan 1/2024（BPJS 条例）和 Permenaker 5/2021（人力部长条例）的文本取自部分损坏的二手门户网站；条款请与官方文本核对。\n•“五项相符”、信号清单和植入物计算示例为作者综合整理。\n• ACR 指南和 Ottawa 规则来源于国外人群，主要是急诊科。\n• 理赔文件细节和植入物价格依各医疗机构的 PKS 而定；本材料不讨论。\n• 本材料为教育用途，并非 BPJS Ketenagakerjaan 官方指南。",
+       "uz": "• Perban BPJS Ketenagakerjaan 1/2024 (BPJS qarori) va Permenaker 5/2021 (Mehnat vazirining qarori) matnlari qisman buzilgan ikkilamchi portallardan oʻqildi; moddalarni rasmiy nusxalar bilan solishtiring.\n• “Besh muvofiqlik”, signallar roʻyxati va implant hisob-kitobi namunasi muallif sintezi.\n• ACR qoʻllanmalari va Ottawa qoidalari xorijiy aholida, asosan shoshilinch boʻlimlarda ishlab chiqilgan.\n• Daʼvo (klaim) hujjatlari tafsilotlari va implant narxlari har bir tibbiy muassasaning PKS iga bogʻliq; muhokama qilinmaydi.\n• Taʼlimiy material, BPJS Ketenagakerjaan rasmiy qoʻllanmasi emas."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber lengkap: lihat dua bagian Referensi berikut.",
+     "en": "Full sources: see the two Reference sections that follow.",
+     "zh": "完整来源：见随后的两个参考文献部分。",
+     "uz": "Toʻliq manbalar: keyingi ikkita Manbalar boʻlimiga qarang."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 29,
+  "id": "referensi-regulasi-klaim",
+  "kicker": {
+   "id": "REFERENSI 1 DARI 2",
+   "en": "REFERENCES 1 OF 2",
+   "zh": "参考文献 1/2",
+   "uz": "MANBALAR 1/2"
+  },
+  "judul": {
+   "id": "Regulasi dan klaim",
+   "en": "Regulations and claims",
+   "zh": "法规与理赔",
+   "uz": "Qoidalar va daʼvolar (klaim)"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "rujukan",
+    "item": [
+     "PP 44/2015 tentang Penyelenggaraan Program JKK dan JKM, beserta perubahan PP 82/2019 dan PP 49/2023; Pasal 25 manfaat pelayanan kesehatan",
+     "Permenaker 11/2016 tentang pelayanan kesehatan dan besaran tarif JKK; Pasal 2, 5–8; status berlaku menurut JDIH Kemnaker",
+     "Permenaker 5/2021 dan perubahannya (Permenaker 1/2025): tata cara penyelenggaraan JKK, JKM, JHT; laporan tahap I/II, data medis",
+     "Peraturan BPJS Ketenagakerjaan 1/2024: tata cara kerja sama dan pembayaran klaim faskes; Pasal 10–22",
+     "BPJS Ketenagakerjaan: manfaat lengkap JKK penerima upah — daftar manfaat pelayanan kesehatan, alat dan implan, orthose/prothese",
+     "BPJS Ketenagakerjaan: sosialisasi standar layanan JKK (22 November 2024) — jaringan PLKK; 97,98% klaim JKK lewat PLKK",
+     "Permenkes 62/2017 tentang izin edar alat kesehatan — kode AKD/AKL; kelas risiko; cek di Infoalkes atau Regalkes",
+     "Sertifikasi CIPP: profil LSP Praktisi Intervensi Nyeri (bnsp.go.id) · UU 13/2003 · PP 10/2018 · Pedoman BNSP 201 dan 208 — lisensi BNSP-LSP-2680-ID; diakses 8 Nov 2026 menurut slide dokter"
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Teks pasal dibaca dari portal resmi dan sekunder pada 8 November 2026; cocokkan dengan salinan resmi di peraturan.go.id atau JDIH masing-masing instansi sebelum mengutip dalam dokumen resmi. Tautan membuka portal peraturan, halaman BPJS Ketenagakerjaan, PubMed, atau penerbit. Rujukan tanpa tautan dikutip dari teks atau infografik.",
+     "en": "Article texts were read from official and secondary portals on 8 November 2026; check against official copies at peraturan.go.id or each agency's JDIH before citing in official documents. Links open regulatory portals, BPJS Ketenagakerjaan pages, PubMed or publishers. References without links are cited from text or infographics.",
+     "zh": "条款文本于 2026年11月8日 取自官方及二手门户网站；在正式文件中引用前，请与 peraturan.go.id 或各机构 JDIH 的官方文本核对。链接指向法规门户、BPJS Ketenagakerjaan 页面、PubMed 或出版商。无链接的文献引自正文或信息图。",
+     "uz": "Modda matnlari 2026-yil 8-noyabrda rasmiy va ikkilamchi portallardan oʻqildi; rasmiy hujjatlarda iqtibos keltirishdan oldin peraturan.go.id yoki har bir idoraning JDIH dagi rasmiy nusxalari bilan solishtiring. Havolalar meʼyoriy portallar, BPJS Ketenagakerjaan sahifalari, PubMed yoki nashriyotlarni ochadi. Havolasiz manbalar matn yoki infografikadan keltirilgan."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 30,
+  "id": "referensi-pedoman-klinis",
+  "kicker": {
+   "id": "REFERENSI 2 DARI 2",
+   "en": "REFERENCES 2 OF 2",
+   "zh": "参考文献 2/2",
+   "uz": "MANBALAR 2/2"
+  },
+  "judul": {
+   "id": "Pedoman klinis dan sumber infografik",
+   "en": "Clinical guidelines and infographic sources",
+   "zh": "临床指南与信息图来源",
+   "uz": "Klinik qoʻllanmalar va infografika manbalari"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "rujukan",
+    "item": [
+     "ACR Appropriateness Criteria: Acute Trauma to the Knee (revisi 2019) — Variant 1–7; Ottawa knee rule; MRI, CT, CTA",
+     "Bachmann dkk. BMJ 2003;326:417 — Ottawa ankle rules: 27 studi, 15.581 pasien, sensitivitas 97,6%",
+     "Stiell dkk. N Engl J Med 2003;349:2510–8 — Canadian C-spine rule vs NEXUS; sensitivitas 99,4% vs 90,7%",
+     "AMSSM. Choosing Wisely (2014, 2022) — MRI lutut nyeri depan; Ottawa ankle; USG rotator cuff",
+     "NICE CG124 Hip fracture · ACR Choosing Wisely — MRI pada curiga fraktur panggul tersembunyi; pencitraan nyeri punggung bawah",
+     "Apley & Solomon's System of Orthopaedics and Trauma, edisi ke-10 — rule of twos; kegawatan (Bab 23); timetable hlm. 715",
+     "AO Principles of Fracture Management, edisi ke-3; AO Surgery Reference — alat fiksasi, screw, locking, bahan",
+     "Siemieniuk dkk. BMJ 2017;357:j1982 — pedoman: artroskopi pada penyakit lutut degeneratif dan robekan meniskus",
+     "Miller's Review of Orthopaedics ed. 8 · APTA Initial Examination & Reexamination — sumber infografik tatalaksana",
+     "Deck Cedera ACL (6 November 2026) — AAOS CPG 2022, Sokal 2022, Aspetar 2023–24, Perkins (UK MoD)"
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Angka Ottawa ankle dari ringkasan AFP atas Bachmann dkk. 2003; angka Canadian C-spine dari Stiell dkk. 2003. Sumber infografik dicantumkan sebagaimana tertulis pada infografik dokter. Tautan membuka portal peraturan, halaman BPJS Ketenagakerjaan, PubMed, atau penerbit. Rujukan tanpa tautan dikutip dari teks atau infografik.",
+     "en": "The Ottawa ankle figures are from the AFP summary of Bachmann et al. 2003; the Canadian C-spine figures are from Stiell et al. 2003. Infographic sources are listed as written on the physicians' infographics. Links open regulatory portals, BPJS Ketenagakerjaan pages, PubMed or publishers. References without links are cited from text or infographics.",
+     "zh": "Ottawa 踝关节规则的数据来自 AFP 对 Bachmann 等 2003 的摘要；Canadian C-spine 的数据来自 Stiell 等 2003。信息图来源按医生信息图上所写列出。链接指向法规门户、BPJS Ketenagakerjaan 页面、PubMed 或出版商。无链接的文献引自正文或信息图。",
+     "uz": "Ottawa toʻpiq qoidalari raqamlari Bachmann va boshq. 2003 boʻyicha AFP xulosasidan; Canadian C-spine raqamlari Stiell va boshq. 2003 dan. Infografika manbalari shifokor infografikalarida yozilganidek keltirilgan. Havolalar meʼyoriy portallar, BPJS Ketenagakerjaan sahifalari, PubMed yoki nashriyotlarni ochadi. Havolasiz manbalar matn yoki infografikadan keltirilgan."
+    }
+   }
+  ]
+ }
+]

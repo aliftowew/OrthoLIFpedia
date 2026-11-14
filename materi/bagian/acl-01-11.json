@@ -1,0 +1,1394 @@
+[
+ {
+  "slide": 1,
+  "id": "sampul-rehabilitasi-acl",
+  "kicker": {
+   "id": "PANDUAN REHABILITASI BERBASIS KRITERIA",
+   "en": "CRITERIA-BASED REHABILITATION GUIDE",
+   "zh": "基于标准的康复指南",
+   "uz": "MEZONLARGA ASOSLANGAN REABILITATSIYA QOʻLLANMASI"
+  },
+  "judul": {
+   "id": "Rehabilitasi Cedera ACL",
+   "en": "ACL Injury Rehabilitation",
+   "zh": "前交叉韧带损伤康复",
+   "uz": "Oldingi xochsimon boylam (ACL) jarohati reabilitatsiyasi"
+  },
+  "pesan": {
+   "id": "Kapan boleh berlari dan kembali berolahraga?",
+   "en": "When is it safe to run and return to sport?",
+   "zh": "何时可以跑步并重返运动？",
+   "uz": "Qachon yugurish va sportga qaytish mumkin?"
+  },
+  "blok": [
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "“Kembali berolahraga bukan ditentukan oleh kalender, tetapi oleh kesiapan lutut dan seluruh tubuh.”",
+     "en": "“Return to sport is determined not by the calendar, but by the readiness of the knee and the whole body.”",
+     "zh": "“重返运动不由日历决定，而由膝关节及全身的准备程度决定。”",
+     "uz": "“Sportga qaytish taqvim bilan emas, balki tizza va butun tananing tayyorligi bilan belgilanadi.”"
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Sumber: Aspetar ACL Rehabilitation Protocol, edisi 2023–2024.",
+     "en": "Source: Aspetar ACL Rehabilitation Protocol, 2023–2024 edition.",
+     "zh": "来源：Aspetar ACL Rehabilitation Protocol，2023–2024 版。",
+     "uz": "Manba: Aspetar ACL Rehabilitation Protocol, 2023–2024 nashri."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 2,
+  "id": "narasumber",
+  "kicker": {
+   "id": "NARASUMBER",
+   "en": "SPEAKER",
+   "zh": "主讲人",
+   "uz": "MAʼRUZACHI"
+  },
+  "judul": {
+   "id": "Narasumber",
+   "en": "Speaker",
+   "zh": "主讲人",
+   "uz": "Maʼruzachi"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**Alif Noeriyanto Rahman, MD, Sp.OT, FIPM, FIPP, CIPS, C.PSH, COMSK, AIFMO, AIFO-K, AIPM**\nOrthopedi Surgeon – Pain Interventionist\nSupervisory Board of Social Security Administrator for Employments of the Republic of Indonesia\nSpecial Advisor to The Rector, The Education University of Indonesia\nHead of the Certification Board of the Indonesia Professional Certification Body for Pain Intervention Practitioner",
+     "en": "**Alif Noeriyanto Rahman, MD, Sp.OT, FIPM, FIPP, CIPS, C.PSH, COMSK, AIFMO, AIFO-K, AIPM**\nOrthopaedic Surgeon – Pain Interventionist\nSupervisory Board of Social Security Administrator for Employments of the Republic of Indonesia\nSpecial Advisor to The Rector, The Education University of Indonesia\nHead of the Certification Board of the Indonesia Professional Certification Body for Pain Intervention Practitioner",
+     "zh": "**Alif Noeriyanto Rahman, MD, Sp.OT, FIPM, FIPP, CIPS, C.PSH, COMSK, AIFMO, AIFO-K, AIPM**\n骨科医生 – 疼痛介入医师\n印度尼西亚共和国就业社会保障管理机构（BPJS Ketenagakerjaan）监事会成员\n印度尼西亚教育大学校长特别顾问\n印度尼西亚疼痛介入从业者专业认证机构认证委员会主席",
+     "uz": "**Alif Noeriyanto Rahman, MD, Sp.OT, FIPM, FIPP, CIPS, C.PSH, COMSK, AIFMO, AIFO-K, AIPM**\nOrtoped jarroh – ogʻriq intervensiyasi mutaxassisi\nIndoneziya Respublikasi Mehnatkashlar ijtimoiy sugʻurtasi maʼmuriyati (BPJS Ketenagakerjaan) Kuzatuv kengashi aʼzosi\nIndoneziya Taʼlim universiteti rektorining maxsus maslahatchisi\nIndoneziya ogʻriq intervensiyasi amaliyotchilarini kasbiy sertifikatlash organi Sertifikatlash kengashi raisi"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 3,
+  "id": "bukan-sekadar-ligamen",
+  "kicker": {
+   "id": "GAMBARAN UMUM",
+   "en": "OVERVIEW",
+   "zh": "概述",
+   "uz": "UMUMIY KOʻRINISH"
+  },
+  "judul": {
+   "id": "Bukan Sekadar Ligamen yang Putus",
+   "en": "More Than Just a Torn Ligament",
+   "zh": "不只是韧带断裂",
+   "uz": "Faqat uzilgan boylam emas"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**Cedera ACL bukan hanya masalah ligamen yang robek.** Setelah cedera atau operasi, pasien harus mengembalikan gerak lutut, kekuatan otot, keseimbangan, kemampuan berlari, kelincahan, kebugaran, dan kepercayaan diri.",
+     "en": "**An ACL injury is not just a torn ligament.** After the injury or surgery, the patient must restore knee motion, muscle strength, balance, running ability, agility, fitness and confidence.",
+     "zh": "**前交叉韧带损伤不只是韧带撕裂的问题。**受伤或手术后，患者必须恢复膝关节活动度、肌力、平衡、跑步能力、灵敏性、体能和自信心。",
+     "uz": "**ACL jarohati faqat yirtilgan boylam muammosi emas.** Jarohat yoki operatsiyadan keyin bemor tizza harakatini, mushak kuchini, muvozanatni, yugurish qobiliyatini, chaqqonlikni, jismoniy chidamlilikni va oʻziga ishonchni tiklashi kerak."
+    }
+   },
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "Karena itu, keberhasilan rehabilitasi tidak cukup dinilai dari waktu sejak operasi. Pasien harus melewati serangkaian tes dan memenuhi kriteria fungsi sebelum naik ke tahap berikutnya.",
+     "en": "Therefore, rehabilitation success cannot be judged solely by the time since surgery. The patient must pass a series of tests and meet functional criteria before progressing to the next stage.",
+     "zh": "因此，康复是否成功不能仅以术后时间来评判。患者必须通过一系列测试并满足功能标准，才能进入下一阶段。",
+     "uz": "Shu sababli reabilitatsiya muvaffaqiyatini faqat operatsiyadan keyin oʻtgan vaqt bilan baholab boʻlmaydi. Bemor keyingi bosqichga oʻtishdan oldin bir qator testlardan oʻtishi va funksional mezonlarga javob berishi kerak."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": {
+     "id": "Waktu bukan izin",
+     "en": "Time is not clearance",
+     "zh": "时间不等于许可",
+     "uz": "Vaqt — ruxsat emas"
+    },
+    "teks": {
+     "id": "“Sudah enam bulan” bukan alasan untuk naik tahap. Yang menentukan adalah hasil tes, kualitas gerakan, dan reaksi lutut setelah latihan.",
+     "en": "“It has been six months” is not a reason to progress. What decides is the test results, movement quality and the knee’s response after training.",
+     "zh": "“已经六个月了”不是进阶的理由。决定因素是测试结果、动作质量以及训练后膝关节的反应。",
+     "uz": "“Olti oy oʻtdi” — bosqichni oshirish uchun asos emas. Hal qiluvchi omil — test natijalari, harakat sifati va mashgʻulotdan keyingi tizza reaksiyasi."
+    }
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Yang harus dikembalikan",
+     "en": "What must be restored",
+     "zh": "需要恢复的能力",
+     "uz": "Tiklanishi kerak boʻlganlar"
+    },
+    "butir": [
+     {
+      "id": "Gerak lutut",
+      "en": "Knee motion",
+      "zh": "膝关节活动度",
+      "uz": "Tizza harakati"
+     },
+     {
+      "id": "Kekuatan otot",
+      "en": "Muscle strength",
+      "zh": "肌力",
+      "uz": "Mushak kuchi"
+     },
+     {
+      "id": "Keseimbangan",
+      "en": "Balance",
+      "zh": "平衡",
+      "uz": "Muvozanat"
+     },
+     {
+      "id": "Kemampuan berlari",
+      "en": "Running ability",
+      "zh": "跑步能力",
+      "uz": "Yugurish qobiliyati"
+     },
+     {
+      "id": "Kelincahan",
+      "en": "Agility",
+      "zh": "灵敏性",
+      "uz": "Chaqqonlik"
+     },
+     {
+      "id": "Kebugaran",
+      "en": "Fitness",
+      "zh": "体能",
+      "uz": "Jismoniy chidamlilik"
+     },
+     {
+      "id": "Kepercayaan diri",
+      "en": "Confidence",
+      "zh": "自信心",
+      "uz": "Oʻziga ishonch"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slide": 4,
+  "id": "tujuan-utama-rehabilitasi",
+  "kicker": {
+   "id": "SASARAN",
+   "en": "GOALS",
+   "zh": "目标",
+   "uz": "MAQSADLAR"
+  },
+  "judul": {
+   "id": "Tujuan Utama Rehabilitasi ACL",
+   "en": "Main Goals of ACL Rehabilitation",
+   "zh": "前交叉韧带康复的主要目标",
+   "uz": "ACL reabilitatsiyasining asosiy maqsadlari"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 4,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Lutut tenang",
+       "en": "Calm knee",
+       "zh": "膝关节安静",
+       "uz": "Tinch tizza"
+      },
+      "teks": {
+       "id": "Tidak ada nyeri dan bengkak yang menetap",
+       "en": "No persistent pain or swelling",
+       "zh": "无持续性疼痛和肿胀",
+       "uz": "Doimiy ogʻriq va shish yoʻq"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Gerak kembali penuh",
+       "en": "Full range of motion restored",
+       "zh": "活动度完全恢复",
+       "uz": "Harakat toʻliq tiklangan"
+      },
+      "teks": {
+       "id": "Lutut dapat lurus dan menekuk secara optimal",
+       "en": "The knee can extend and flex optimally",
+       "zh": "膝关节能够充分伸直和屈曲",
+       "uz": "Tizza optimal darajada toʻgʻrilanadi va bukiladi"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Otot kembali kuat",
+       "en": "Muscles strong again",
+       "zh": "肌力恢复",
+       "uz": "Mushaklar yana kuchli"
+      },
+      "teks": {
+       "id": "Quadriceps, hamstring, pinggul, dan betis",
+       "en": "Quadriceps, hamstrings, hip and calf",
+       "zh": "股四头肌、腘绳肌、髋部和小腿",
+       "uz": "Kvadritseps, hamstring, son-chanoq va boldir mushaklari"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Gerakan kembali baik",
+       "en": "Good movement quality restored",
+       "zh": "动作质量恢复良好",
+       "uz": "Harakat sifati tiklangan"
+      },
+      "teks": {
+       "id": "Tidak pincang, lutut tidak jatuh ke dalam",
+       "en": "No limping; the knee does not collapse inward",
+       "zh": "无跛行，膝关节不内扣",
+       "uz": "Oqsoqlanish yoʻq, tizza ichkariga tushmaydi"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Siap menghadapi benturan",
+       "en": "Ready for impact",
+       "zh": "能够承受冲击",
+       "uz": "Zarbaga tayyor"
+      },
+      "teks": {
+       "id": "Berlari, melompat, dan mendarat dengan aman",
+       "en": "Running, jumping and landing safely",
+       "zh": "安全地跑、跳和落地",
+       "uz": "Xavfsiz yugurish, sakrash va qoʻnish"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Kembali berolahraga",
+       "en": "Return to sport",
+       "zh": "重返运动",
+       "uz": "Sportga qaytish"
+      },
+      "teks": {
+       "id": "Sesuai olahraga dan tingkat aktivitas pasien",
+       "en": "According to the patient’s sport and activity level",
+       "zh": "根据患者的运动项目和活动水平",
+       "uz": "Bemorning sport turi va faollik darajasiga mos"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Mencegah cedera ulang",
+       "en": "Prevent re-injury",
+       "zh": "预防再损伤",
+       "uz": "Qayta jarohatning oldini olish"
+      },
+      "teks": {
+       "id": "Pada lutut operasi maupun lutut sebelahnya",
+       "en": "In both the operated knee and the contralateral knee",
+       "zh": "包括手术侧膝关节和对侧膝关节",
+       "uz": "Operatsiya qilingan tizzada ham, qarama-qarshi tizzada ham"
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "angka",
+    "item": [
+     {
+      "nilai": "7",
+      "label": {
+       "id": "sasaran, satu tujuan",
+       "en": "goals, one aim",
+       "zh": "个目标，一个宗旨",
+       "uz": "maqsad, bitta niyat"
+      },
+      "teks": {
+       "id": "Lutut yang siap dipakai dan dipercaya kembali.",
+       "en": "A knee that is ready to be used and trusted again.",
+       "zh": "一个可以再次使用并值得信赖的膝关节。",
+       "uz": "Yana foydalanishga tayyor va ishonchli tizza."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slide": 5,
+  "id": "enam-prinsip-rehabilitasi",
+  "kicker": {
+   "id": "KERANGKA KERJA",
+   "en": "FRAMEWORK",
+   "zh": "框架",
+   "uz": "ISH TAMOYILLARI"
+  },
+  "judul": {
+   "id": "Enam Prinsip Penting Rehabilitasi",
+   "en": "Six Key Principles of Rehabilitation",
+   "zh": "康复的六项重要原则",
+   "uz": "Reabilitatsiyaning oltita muhim tamoyili"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Individual",
+       "en": "Individualised",
+       "zh": "个体化",
+       "uz": "Individual"
+      },
+      "teks": {
+       "id": "Disesuaikan dengan jenis cedera, graft, olahraga, dan kondisi pasien",
+       "en": "Tailored to the injury type, graft, sport and patient’s condition",
+       "zh": "根据损伤类型、移植物、运动项目和患者情况而定",
+       "uz": "Jarohat turi, graft, sport turi va bemor holatiga moslashtiriladi"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Berdasarkan kriteria",
+       "en": "Criteria-based",
+       "zh": "基于标准",
+       "uz": "Mezonlarga asoslangan"
+      },
+      "teks": {
+       "id": "Bukan sekadar berdasarkan minggu atau bulan setelah operasi",
+       "en": "Not merely based on weeks or months after surgery",
+       "zh": "而不仅仅依据术后周数或月数",
+       "uz": "Faqat operatsiyadan keyingi haftalar yoki oylarga asoslanmaydi"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Bertahap",
+       "en": "Progressive",
+       "zh": "循序渐进",
+       "uz": "Bosqichma-bosqich"
+      },
+      "teks": {
+       "id": "Beban, kecepatan, dan kompleksitas gerakan dinaikkan perlahan",
+       "en": "Load, speed and movement complexity are increased gradually",
+       "zh": "负荷、速度和动作复杂度逐步增加",
+       "uz": "Yuklama, tezlik va harakat murakkabligi asta-sekin oshiriladi"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Terukur",
+       "en": "Measurable",
+       "zh": "可量化",
+       "uz": "Oʻlchanadigan"
+      },
+      "teks": {
+       "id": "Nyeri, bengkak, kekuatan, lompatan, dan fungsi diperiksa berkala",
+       "en": "Pain, swelling, strength, hop performance and function are assessed regularly",
+       "zh": "定期评估疼痛、肿胀、肌力、跳跃和功能",
+       "uz": "Ogʻriq, shish, kuch, sakrash va funksiya muntazam tekshiriladi"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Multidisiplin",
+       "en": "Multidisciplinary",
+       "zh": "多学科",
+       "uz": "Koʻp tarmoqli"
+      },
+      "teks": {
+       "id": "Dokter, fisioterapis, pelatih fisik, ahli gizi, dan psikolog",
+       "en": "Physicians, physiotherapists, strength and conditioning coaches, nutritionists and psychologists",
+       "zh": "医生、物理治疗师、体能教练、营养师和心理师",
+       "uz": "Shifokor, fizioterapevt, jismoniy tayyorgarlik murabbiyi, dietolog va psixolog"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Berorientasi kualitas",
+       "en": "Quality-oriented",
+       "zh": "注重质量",
+       "uz": "Sifatga yoʻnaltirilgan"
+      },
+      "teks": {
+       "id": "Gerakan yang benar lebih penting daripada banyaknya latihan",
+       "en": "Correct movement matters more than the amount of training",
+       "zh": "正确的动作比训练量更重要",
+       "uz": "Toʻgʻri harakat mashgʻulotlar sonidan muhimroq"
+      },
+      "gambar": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slide": 6,
+  "id": "peta-tahapan-rehabilitasi",
+  "kicker": {
+   "id": "PETA PERJALANAN",
+   "en": "ROADMAP",
+   "zh": "康复路线图",
+   "uz": "YOʻL XARITASI"
+  },
+  "judul": {
+   "id": "Tahapan Rehabilitasi dari Awal sampai Bertanding",
+   "en": "Rehabilitation Stages from Start to Competition",
+   "zh": "从起步到比赛的康复阶段",
+   "uz": "Boshlanishdan musobaqagacha reabilitatsiya bosqichlari"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": {
+       "id": "1 · Sebelum operasi",
+       "en": "1 · Before surgery",
+       "zh": "1 · 术前",
+       "uz": "1 · Operatsiyadan oldin"
+      },
+      "judul": {
+       "id": "Menenangkan lutut & mempersiapkan otot",
+       "en": "Calm the knee & prepare the muscles",
+       "zh": "使膝关节安静并为肌肉做好准备",
+       "uz": "Tizzani tinchlantirish va mushaklarni tayyorlash"
+      },
+      "teks": {
+       "id": "Target: lurus penuh, fleksi >120°, tidak pincang",
+       "en": "Target: full extension, flexion >120°, no limp",
+       "zh": "目标：完全伸直，屈曲 >120°，无跛行",
+       "uz": "Maqsad: toʻliq toʻgʻrilanish, fleksiya >120°, oqsoqlanmaslik"
+      }
+     },
+     {
+      "label": {
+       "id": "2 · 0–6 minggu",
+       "en": "2 · 0–6 weeks",
+       "zh": "2 · 0–6 周",
+       "uz": "2 · 0–6 hafta"
+      },
+      "judul": {
+       "id": "Proteksi, kurangi bengkak, aktivasi otot",
+       "en": "Protection, reduce swelling, muscle activation",
+       "zh": "保护、消肿、激活肌肉",
+       "uz": "Himoya, shishni kamaytirish, mushaklarni faollashtirish"
+      },
+      "teks": {
+       "id": "Target: ekstensi penuh, pola jalan membaik",
+       "en": "Target: full extension, improving gait",
+       "zh": "目标：完全伸直，步态改善",
+       "uz": "Maqsad: toʻliq ekstenziya, yurish yaxshilanmoqda"
+      }
+     },
+     {
+      "label": {
+       "id": "3 · 6–12 minggu",
+       "en": "3 · 6–12 weeks",
+       "zh": "3 · 6–12 周",
+       "uz": "3 · 6–12 hafta"
+      },
+      "judul": {
+       "id": "Kontrol gerak & kekuatan dasar",
+       "en": "Movement control & basic strength",
+       "zh": "动作控制与基础力量",
+       "uz": "Harakat nazorati va asosiy kuch"
+      },
+      "teks": {
+       "id": "Target: squat & latihan satu kaki dengan teknik baik",
+       "en": "Target: squat & single-leg exercises with good technique",
+       "zh": "目标：深蹲和单腿训练技术良好",
+       "uz": "Maqsad: squat va bir oyoqli mashqlar yaxshi texnika bilan"
+      }
+     },
+     {
+      "label": {
+       "id": "4 · >12 minggu",
+       "en": "4 · >12 weeks",
+       "zh": "4 · >12 周",
+       "uz": "4 · >12 hafta"
+      },
+      "judul": {
+       "id": "Kekuatan lanjut & persiapan lari",
+       "en": "Advanced strength & running preparation",
+       "zh": "进阶力量与跑步准备",
+       "uz": "Ilgʻor kuch va yugurishga tayyorgarlik"
+      },
+      "teks": {
+       "id": "Target: nyeri minimal, quadriceps ≥70%",
+       "en": "Target: minimal pain, quadriceps ≥70%",
+       "zh": "目标：疼痛轻微，股四头肌 ≥70%",
+       "uz": "Maqsad: minimal ogʻriq, kvadritseps ≥70%"
+      }
+     },
+     {
+      "label": {
+       "id": "5 · >18 minggu",
+       "en": "5 · >18 weeks",
+       "zh": "5 · >18 周",
+       "uz": "5 · >18 hafta"
+      },
+      "judul": {
+       "id": "Perubahan arah & latihan olahraga awal",
+       "en": "Change of direction & early sport-specific training",
+       "zh": "变向与早期专项运动训练",
+       "uz": "Yoʻnalishni oʻzgartirish va dastlabki sport mashgʻulotlari"
+      },
+      "teks": {
+       "id": "Target: kekuatan dan lompatan ≥80%",
+       "en": "Target: strength and hop tests ≥80%",
+       "zh": "目标：力量和跳跃 ≥80%",
+       "uz": "Maqsad: kuch va sakrash ≥80%"
+      }
+     },
+     {
+      "label": {
+       "id": "6 · >24 minggu",
+       "en": "6 · >24 weeks",
+       "zh": "6 · >24 周",
+       "uz": "6 · >24 hafta"
+      },
+      "judul": {
+       "id": "Latihan lapangan lebih intensif",
+       "en": "More intensive on-field training",
+       "zh": "更高强度的场上训练",
+       "uz": "Maydonda yanada jadal mashgʻulotlar"
+      },
+      "teks": {
+       "id": "Target: gerak cepat multidirectional terkontrol",
+       "en": "Target: controlled fast multidirectional movement",
+       "zh": "目标：快速多方向动作可控",
+       "uz": "Maqsad: tez koʻp yoʻnalishli harakatlar nazorat ostida"
+      }
+     },
+     {
+      "label": {
+       "id": "7 · >30 minggu",
+       "en": "7 · >30 weeks",
+       "zh": "7 · >30 周",
+       "uz": "7 · >30 hafta"
+      },
+      "judul": {
+       "id": "Persiapan kembali bermain",
+       "en": "Preparation for return to play",
+       "zh": "重返比赛准备",
+       "uz": "Oʻyinga qaytishga tayyorgarlik"
+      },
+      "teks": {
+       "id": "Target: hasil tes umumnya ≥90%",
+       "en": "Target: test results generally ≥90%",
+       "zh": "目标：测试结果一般 ≥90%",
+       "uz": "Maqsad: test natijalari odatda ≥90%"
+      }
+     },
+     {
+      "label": {
+       "id": "8 · Kembali bertanding",
+       "en": "8 · Return to competition",
+       "zh": "8 · 重返比赛",
+       "uz": "8 · Musobaqaga qaytish"
+      },
+      "judul": {
+       "id": "Ditentukan secara individual",
+       "en": "Determined individually",
+       "zh": "个体化决定",
+       "uz": "Individual ravishda belgilanadi"
+      },
+      "teks": {
+       "id": "Target: seluruh kriteria terpenuhi",
+       "en": "Target: all criteria met",
+       "zh": "目标：满足全部标准",
+       "uz": "Maqsad: barcha mezonlar bajarilgan"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": null,
+    "teks": {
+     "id": "Tabel waktu adalah panduan umum, bukan izin otomatis untuk naik tahap.",
+     "en": "The timeline is a general guide, not automatic clearance to progress to the next stage.",
+     "zh": "时间表仅为一般性指导，并不意味着自动获准进入下一阶段。",
+     "uz": "Vaqt jadvali umumiy yoʻriqnoma boʻlib, keyingi bosqichga avtomatik ruxsat emas."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 7,
+  "id": "fase-pra-operasi",
+  "kicker": {
+   "id": "FASE PRA-OPERASI",
+   "en": "PRE-OPERATIVE PHASE",
+   "zh": "术前阶段",
+   "uz": "OPERATSIYADAN OLDINGI BOSQICH"
+  },
+  "judul": {
+   "id": "Lutut Harus Tenang Dahulu Sebelum Dioperasi",
+   "en": "The Knee Must Be Calm Before Surgery",
+   "zh": "手术前膝关节必须先安静下来",
+   "uz": "Operatsiyadan oldin tizza tinchlanishi kerak"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": {
+     "id": "Risiko operasi terlalu cepat",
+     "en": "Risk of operating too early",
+     "zh": "过早手术的风险",
+     "uz": "Juda erta operatsiya xavfi"
+    },
+    "teks": {
+     "id": "Operasi pada lutut yang masih sangat bengkak dan kaku dapat meningkatkan risiko kekakuan menetap atau arthrofibrosis.",
+     "en": "Operating on a knee that is still very swollen and stiff can increase the risk of permanent stiffness or arthrofibrosis.",
+     "zh": "对仍明显肿胀、僵硬的膝关节进行手术，可能增加永久性僵硬或关节纤维化的风险。",
+     "uz": "Hali kuchli shishgan va qotib qolgan tizzada operatsiya qilish doimiy qotib qolish yoki artrofibroz xavfini oshirishi mumkin."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Pengecualian",
+     "en": "Exceptions",
+     "zh": "例外情况",
+     "uz": "Istisnolar"
+    },
+    "teks": {
+     "id": "Cedera meniskus, tulang rawan, beberapa ligamen sekaligus, atau gangguan saraf dan pembuluh darah dapat membutuhkan tindakan lebih cepat.",
+     "en": "Meniscal or cartilage injuries, multiligament injuries, or nerve and vascular damage may require earlier intervention.",
+     "zh": "半月板损伤、软骨损伤、多韧带同时损伤或神经血管损伤，可能需要更早进行处理。",
+     "uz": "Menisk yoki togʻay jarohati, bir nechta boylamning birga shikastlanishi yoki nerv va qon tomir shikastlanishi tezroq aralashuvni talab qilishi mumkin."
+    }
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Kriteria ideal sebelum operasi",
+     "en": "Ideal criteria before surgery",
+     "zh": "理想的术前标准",
+     "uz": "Operatsiyadan oldingi ideal mezonlar"
+    },
+    "butir": [
+     {
+      "id": "**Meluruskan lutut:** penuh dan sama dengan lutut sehat",
+      "en": "**Knee extension:** full and symmetrical with the healthy knee",
+      "zh": "**膝关节伸直：**完全伸直，与健侧膝关节相同",
+      "uz": "**Tizzani toʻgʻrilash:** toʻliq va sogʻlom tizza bilan bir xil"
+     },
+     {
+      "id": "**Menekuk lutut:** lebih dari 120°",
+      "en": "**Knee flexion:** more than 120°",
+      "zh": "**膝关节屈曲：**超过 120°",
+      "uz": "**Tizzani bukish:** 120° dan ortiq"
+     },
+     {
+      "id": "**Bengkak:** minimal",
+      "en": "**Swelling:** minimal",
+      "zh": "**肿胀：**轻微",
+      "uz": "**Shish:** minimal"
+     },
+     {
+      "id": "**Aktivasi quadriceps:** baik, tanpa quadriceps lag",
+      "en": "**Quadriceps activation:** good, with no quadriceps lag",
+      "zh": "**股四头肌激活：**良好，无股四头肌迟滞（quadriceps lag）",
+      "uz": "**Kvadritseps faollashuvi:** yaxshi, kvadritseps kechikishi (quadriceps lag) yoʻq"
+     },
+     {
+      "id": "**Pola berjalan:** normal dan tidak pincang",
+      "en": "**Gait:** normal, without limping",
+      "zh": "**步态：**正常，无跛行",
+      "uz": "**Yurish:** normal, oqsoqlanishsiz"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slide": 8,
+  "id": "pembatasan-pasca-operasi",
+  "kicker": {
+   "id": "PASCA-OPERASI",
+   "en": "POST-OPERATIVE",
+   "zh": "术后",
+   "uz": "OPERATSIYADAN KEYIN"
+  },
+  "judul": {
+   "id": "Pembatasan Berbeda Sesuai Tindakan yang Dilakukan",
+   "en": "Restrictions Differ According to the Procedure Performed",
+   "zh": "限制措施因所行手术而异",
+   "uz": "Cheklovlar bajarilgan muolajaga qarab farqlanadi"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Kondisi atau tindakan",
+      "en": "Condition or procedure",
+      "zh": "情况或手术",
+      "uz": "Holat yoki muolaja"
+     },
+     {
+      "id": "Menapak",
+      "en": "Weight-bearing",
+      "zh": "负重",
+      "uz": "Oyoqqa tayanish"
+     },
+     {
+      "id": "Gerak lutut awal",
+      "en": "Early knee motion",
+      "zh": "早期膝关节活动",
+      "uz": "Tizzaning dastlabki harakati"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Rekonstruksi ACL tanpa tindakan tambahan",
+       "en": "Isolated ACL reconstruction",
+       "zh": "单纯前交叉韧带重建",
+       "uz": "Qoʻshimcha muolajasiz ACL rekonstruksiyasi"
+      },
+      {
+       "id": "Sesuai toleransi",
+       "en": "As tolerated",
+       "zh": "按耐受程度",
+       "uz": "Toqat qilinishiga qarab"
+      },
+      {
+       "id": "Sesuai toleransi",
+       "en": "As tolerated",
+       "zh": "按耐受程度",
+       "uz": "Toqat qilinishiga qarab"
+      }
+     ],
+     [
+      {
+       "id": "Perbaikan meniskus",
+       "en": "Meniscal repair",
+       "zh": "半月板修复",
+       "uz": "Menisk tikish"
+      },
+      {
+       "id": "Tidak menapak ±4 minggu",
+       "en": "Non-weight-bearing for ±4 weeks",
+       "zh": "不负重约 4 周",
+       "uz": "±4 hafta oyoqqa tayanmaslik"
+      },
+      {
+       "id": "Brace 0–90°",
+       "en": "Brace 0–90°",
+       "zh": "支具 0–90°",
+       "uz": "Ortez 0–90°"
+      }
+     ],
+     [
+      {
+       "id": "Perbaikan tulang rawan",
+       "en": "Cartilage repair",
+       "zh": "软骨修复",
+       "uz": "Togʻay tiklash"
+      },
+      {
+       "id": "Tidak menapak ±4 minggu",
+       "en": "Non-weight-bearing for ±4 weeks",
+       "zh": "不负重约 4 周",
+       "uz": "±4 hafta oyoqqa tayanmaslik"
+      },
+      {
+       "id": "Brace 0–90°",
+       "en": "Brace 0–90°",
+       "zh": "支具 0–90°",
+       "uz": "Ortez 0–90°"
+      }
+     ],
+     [
+      {
+       "id": "Lateral extra-articular tenodesis",
+       "en": "Lateral extra-articular tenodesis",
+       "zh": "外侧关节外肌腱固定术（Lateral extra-articular tenodesis）",
+       "uz": "Lateral extra-articular tenodesis"
+      },
+      {
+       "id": "Sesuai toleransi",
+       "en": "As tolerated",
+       "zh": "按耐受程度",
+       "uz": "Toqat qilinishiga qarab"
+      },
+      {
+       "id": "Sesuai toleransi",
+       "en": "As tolerated",
+       "zh": "按耐受程度",
+       "uz": "Toqat qilinishiga qarab"
+      }
+     ],
+     [
+      {
+       "id": "Cedera ligamen tambahan tertentu",
+       "en": "Certain additional ligament injuries",
+       "zh": "某些合并韧带损伤",
+       "uz": "Ayrim qoʻshimcha boylam jarohatlari"
+      },
+      {
+       "id": "Dapat tidak menapak ±4 minggu",
+       "en": "May be non-weight-bearing for ±4 weeks",
+       "zh": "可能需不负重约 4 周",
+       "uz": "±4 hafta oyoqqa tayanmaslik mumkin"
+      },
+      {
+       "id": "Brace 0–90°",
+       "en": "Brace 0–90°",
+       "zh": "支具 0–90°",
+       "uz": "Ortez 0–90°"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": null,
+    "teks": {
+     "id": "Instruksi dokter operator tetap menjadi acuan utama — teknik operasi dan kondisi setiap pasien berbeda.",
+     "en": "The operating surgeon’s instructions remain the primary reference — surgical techniques and each patient’s condition differ.",
+     "zh": "主刀医生的医嘱始终是首要依据——手术技术和每位患者的情况各不相同。",
+     "uz": "Operatsiya qilgan shifokor koʻrsatmalari asosiy mezon boʻlib qoladi — operatsiya texnikasi va har bir bemorning holati turlicha."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Tindakan tambahan pada meniskus atau tulang rawan memperlambat fase awal, bukan seluruh program.",
+     "en": "Additional meniscal or cartilage procedures slow down the early phase, not the entire programme.",
+     "zh": "半月板或软骨的附加手术会减慢早期阶段，而非整个康复计划。",
+     "uz": "Menisk yoki togʻaydagi qoʻshimcha muolajalar butun dasturni emas, faqat dastlabki bosqichni sekinlashtiradi."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 9,
+  "id": "fokus-tahap-awal",
+  "kicker": {
+   "id": "0–6 MINGGU",
+   "en": "0–6 WEEKS",
+   "zh": "0–6 周",
+   "uz": "0–6 HAFTA"
+  },
+  "judul": {
+   "id": "Fokus Rehabilitasi Tahap Awal",
+   "en": "Focus of Early-Stage Rehabilitation",
+   "zh": "早期康复重点",
+   "uz": "Dastlabki bosqich reabilitatsiyasining asosiy yoʻnalishlari"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Aspek",
+      "en": "Aspect",
+      "zh": "方面",
+      "uz": "Jihat"
+     },
+     {
+      "id": "Fokus",
+      "en": "Focus",
+      "zh": "重点",
+      "uz": "Asosiy eʼtibor"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Luka operasi",
+       "en": "Surgical wound",
+       "zh": "手术切口",
+       "uz": "Operatsiya jarohati"
+      },
+      {
+       "id": "Jaga kebersihan; hindari kolam sampai luka sembuh",
+       "en": "Keep it clean; avoid swimming pools until the wound has healed",
+       "zh": "保持清洁；伤口愈合前避免进入泳池",
+       "uz": "Tozaligini saqlang; jarohat bitguncha basseyndan saqlaning"
+      }
+     ],
+     [
+      {
+       "id": "Bengkak",
+       "en": "Swelling",
+       "zh": "肿胀",
+       "uz": "Shish"
+      },
+      {
+       "id": "Kompresi, elevasi, dan cryotherapy sesuai kebutuhan",
+       "en": "Compression, elevation and cryotherapy as needed",
+       "zh": "根据需要进行加压、抬高和冷疗",
+       "uz": "Ehtiyojga qarab kompressiya, oyoqni koʻtarish va krioterapiya"
+      }
+     ],
+     [
+      {
+       "id": "Ekstensi lutut",
+       "en": "Knee extension",
+       "zh": "膝关节伸直",
+       "uz": "Tizza ekstenziyasi"
+      },
+      {
+       "id": "Diupayakan kembali penuh sejak minggu pertama",
+       "en": "Aim to restore full extension from the first week",
+       "zh": "从第一周起争取恢复完全伸直",
+       "uz": "Birinchi haftadan toʻliq tiklashga intiling"
+      }
+     ],
+     [
+      {
+       "id": "Fleksi lutut",
+       "en": "Knee flexion",
+       "zh": "膝关节屈曲",
+       "uz": "Tizza fleksiyasi"
+      },
+      {
+       "id": "Ditingkatkan bertahap sesuai toleransi",
+       "en": "Increase gradually as tolerated",
+       "zh": "按耐受程度逐步增加",
+       "uz": "Toqat qilinishiga qarab asta-sekin oshiriladi"
+      }
+     ],
+     [
+      {
+       "id": "Aktivasi quadriceps",
+       "en": "Quadriceps activation",
+       "zh": "股四头肌激活",
+       "uz": "Kvadritseps faollashuvi"
+      },
+      {
+       "id": "Latihan kontraksi; dapat dibantu NMES",
+       "en": "Contraction exercises; may be assisted by NMES",
+       "zh": "收缩训练；可辅以 NMES",
+       "uz": "Qisqarish mashqlari; NMES yordamida bajarish mumkin"
+      }
+     ],
+     [
+      {
+       "id": "Berjalan",
+       "en": "Walking",
+       "zh": "行走",
+       "uz": "Yurish"
+      },
+      {
+       "id": "Dua kruk → satu kruk → tanpa kruk",
+       "en": "Two crutches → one crutch → no crutches",
+       "zh": "双拐 → 单拐 → 无拐",
+       "uz": "Ikki qoʻltiqtayoq → bitta qoʻltiqtayoq → qoʻltiqtayoqsiz"
+      }
+     ],
+     [
+      {
+       "id": "Cegah penyusutan otot",
+       "en": "Prevent muscle atrophy",
+       "zh": "预防肌肉萎缩",
+       "uz": "Mushak atrofiyasining oldini olish"
+      },
+      {
+       "id": "Latihan dini; BFR bila aman dan diawasi",
+       "en": "Early exercise; BFR when safe and supervised",
+       "zh": "早期训练；在安全且有监督时使用 BFR",
+       "uz": "Erta mashqlar; xavfsiz va nazorat ostida boʻlsa BFR"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": {
+     "id": "Tanda perlu evaluasi ulang",
+     "en": "Red flag for re-evaluation",
+     "zh": "需要重新评估的信号",
+     "uz": "Qayta baholash zarurligi belgisi"
+    },
+    "teks": {
+     "id": "Bila gerak lutut berhenti mengalami kemajuan dalam enam minggu pertama, pasien sebaiknya dievaluasi kembali.",
+     "en": "If knee range of motion stops progressing within the first six weeks, the patient should be re-evaluated.",
+     "zh": "如果膝关节活动度在前六周内停止改善，应对患者重新评估。",
+     "uz": "Agar dastlabki olti hafta ichida tizza harakati yaxshilanishdan toʻxtasa, bemorni qayta baholash lozim."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": {
+     "id": "Latihan keseimbangan",
+     "en": "Balance training",
+     "zh": "平衡训练",
+     "uz": "Muvozanat mashqlari"
+    },
+    "teks": {
+     "id": "Naik tingkat bila posisi tetap stabil.",
+     "en": "Progress to the next level when the position remains stable.",
+     "zh": "姿势保持稳定时再进阶。",
+     "uz": "Holat barqaror qolsa, keyingi darajaga oʻting."
+    }
+   },
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": {
+       "id": "1",
+       "en": "1",
+       "zh": "1",
+       "uz": "1"
+      },
+      "judul": {
+       "id": "Berdiri dua kaki",
+       "en": "Double-leg stance",
+       "zh": "双腿站立",
+       "uz": "Ikki oyoqda turish"
+      },
+      "teks": null
+     },
+     {
+      "label": {
+       "id": "2",
+       "en": "2",
+       "zh": "2",
+       "uz": "2"
+      },
+      "judul": {
+       "id": "Posisi tandem",
+       "en": "Tandem stance",
+       "zh": "前后脚（串联）站立",
+       "uz": "Tandem holatda turish"
+      },
+      "teks": null
+     },
+     {
+      "label": {
+       "id": "3",
+       "en": "3",
+       "zh": "3",
+       "uz": "3"
+      },
+      "judul": {
+       "id": "Berdiri satu kaki",
+       "en": "Single-leg stance",
+       "zh": "单腿站立",
+       "uz": "Bir oyoqda turish"
+      },
+      "teks": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slide": 10,
+  "id": "otot-pelindung-lutut",
+  "kicker": {
+   "id": "ANATOMI FUNGSIONAL",
+   "en": "FUNCTIONAL ANATOMY",
+   "zh": "功能解剖",
+   "uz": "FUNKSIONAL ANATOMIYA"
+  },
+  "judul": {
+   "id": "Otot yang Melindungi Lutut",
+   "en": "Muscles That Protect the Knee",
+   "zh": "保护膝关节的肌肉",
+   "uz": "Tizzani himoya qiluvchi mushaklar"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Quadriceps",
+       "en": "Quadriceps",
+       "zh": "股四头肌",
+       "uz": "Kvadritseps"
+      },
+      "teks": {
+       "id": "Meluruskan lutut dan menyerap beban saat mendarat",
+       "en": "Extends the knee and absorbs load during landing",
+       "zh": "伸直膝关节，并在落地时吸收负荷",
+       "uz": "Tizzani toʻgʻrilaydi va qoʻnishda yuklamani yutadi"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Hamstring",
+       "en": "Hamstrings",
+       "zh": "腘绳肌",
+       "uz": "Hamstring"
+      },
+      "teks": {
+       "id": "Membantu mengontrol pergerakan tulang kering",
+       "en": "Helps control movement of the tibia",
+       "zh": "帮助控制胫骨的移动",
+       "uz": "Katta boldir suyagi harakatini nazorat qilishga yordam beradi"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Gluteus / pinggul",
+       "en": "Gluteals / hip",
+       "zh": "臀肌 / 髋部",
+       "uz": "Dumba / son-chanoq mushaklari"
+      },
+      "teks": {
+       "id": "Mencegah lutut jatuh ke arah dalam",
+       "en": "Prevents the knee from collapsing inward",
+       "zh": "防止膝关节内扣",
+       "uz": "Tizzaning ichkariga tushishining oldini oladi"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Betis",
+       "en": "Calf",
+       "zh": "小腿肌",
+       "uz": "Boldir"
+      },
+      "teks": {
+       "id": "Mengontrol dorongan, pendaratan, dan pergelangan kaki",
+       "en": "Controls push-off, landing and the ankle",
+       "zh": "控制蹬伸、落地和踝关节",
+       "uz": "Itarilish, qoʻnish va toʻpiq boʻgʻimini nazorat qiladi"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Otot telapak kaki",
+       "en": "Intrinsic foot muscles",
+       "zh": "足底肌",
+       "uz": "Oyoq kafti mushaklari"
+      },
+      "teks": {
+       "id": "Menjaga tumpuan dan arah gerakan",
+       "en": "Maintain the base of support and direction of movement",
+       "zh": "维持支撑基础和动作方向",
+       "uz": "Tayanch va harakat yoʻnalishini saqlaydi"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Otot inti",
+       "en": "Core muscles",
+       "zh": "核心肌群",
+       "uz": "Kor (markaziy) mushaklar"
+      },
+      "teks": {
+       "id": "Menjaga posisi badan dan panggul saat bergerak",
+       "en": "Maintain trunk and pelvic position during movement",
+       "zh": "运动时维持躯干和骨盆的位置",
+       "uz": "Harakat paytida tana va chanoq holatini saqlaydi"
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": null,
+    "teks": {
+     "id": "Semua kelompok otot ini dilatih bersama — bukan quadriceps saja.",
+     "en": "All these muscle groups are trained together — not just the quadriceps.",
+     "zh": "所有这些肌群需一起训练——而不仅仅是股四头肌。",
+     "uz": "Bu mushak guruhlarining barchasi birga mashq qildiriladi — faqat kvadritseps emas."
+    }
+   }
+  ]
+ },
+ {
+  "slide": 11,
+  "id": "progresi-dua-ke-satu-kaki",
+  "kicker": {
+   "id": "PROGRESI LATIHAN",
+   "en": "EXERCISE PROGRESSION",
+   "zh": "训练进阶",
+   "uz": "MASHQLAR PROGRESSIYASI"
+  },
+  "judul": {
+   "id": "Dari Dua Kaki Menuju Satu Kaki",
+   "en": "From Double-Leg to Single-Leg",
+   "zh": "从双腿到单腿",
+   "uz": "Ikki oyoqdan bir oyoqqa"
+  },
+  "pesan": null,
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Latihan awal",
+      "en": "Initial exercise",
+      "zh": "初始训练",
+      "uz": "Dastlabki mashq"
+     },
+     {
+      "id": "Perkembangan latihan",
+      "en": "Progression",
+      "zh": "进阶训练",
+      "uz": "Mashqning rivojlanishi"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "Squat dua kaki",
+       "en": "Double-leg squat",
+       "zh": "双腿深蹲",
+       "uz": "Ikki oyoqli squat"
+      },
+      {
+       "id": "**Front squat dengan beban**",
+       "en": "**Loaded front squat**",
+       "zh": "**负重前蹲（front squat）**",
+       "uz": "**Yuk bilan front squat**"
+      }
+     ],
+     [
+      {
+       "id": "Leg press ringan",
+       "en": "Light leg press",
+       "zh": "轻负荷腿举",
+       "uz": "Yengil leg press"
+      },
+      {
+       "id": "**Leg press satu kaki**",
+       "en": "**Single-leg leg press**",
+       "zh": "**单腿腿举**",
+       "uz": "**Bir oyoqli leg press**"
+      }
+     ],
+     [
+      {
+       "id": "Hip hinge dua kaki",
+       "en": "Double-leg hip hinge",
+       "zh": "双腿髋铰链",
+       "uz": "Ikki oyoqli hip hinge"
+      },
+      {
+       "id": "**Single-leg Romanian deadlift**",
+       "en": "**Single-leg Romanian deadlift**",
+       "zh": "**单腿罗马尼亚硬拉**",
+       "uz": "**Bir oyoqli rumincha deadlift (Single-leg Romanian deadlift)**"
+      }
+     ],
+     [
+      {
+       "id": "Calf raise dua kaki",
+       "en": "Double-leg calf raise",
+       "zh": "双腿提踵",
+       "uz": "Ikki oyoqli calf raise"
+      },
+      {
+       "id": "**Calf raise satu kaki dengan beban**",
+       "en": "**Loaded single-leg calf raise**",
+       "zh": "**负重单腿提踵**",
+       "uz": "**Yuk bilan bir oyoqli calf raise**"
+      }
+     ],
+     [
+      {
+       "id": "Latihan pinggul tanpa beban",
+       "en": "Unloaded hip exercises",
+       "zh": "无负重髋部训练",
+       "uz": "Yuksiz son-chanoq mashqlari"
+      },
+      {
+       "id": "**Abduksi, adduksi, rotasi dengan beban progresif**",
+       "en": "**Abduction, adduction and rotation with progressive load**",
+       "zh": "**渐进负荷下的外展、内收和旋转**",
+       "uz": "**Progressiv yuklama bilan abduksiya, adduksiya va rotatsiya**"
+      }
+     ],
+     [
+      {
+       "id": "Keseimbangan sederhana",
+       "en": "Simple balance",
+       "zh": "简单平衡训练",
+       "uz": "Oddiy muvozanat"
+      },
+      {
+       "id": "**Gerakan satu kaki dengan gangguan tambahan**",
+       "en": "**Single-leg movements with added perturbation**",
+       "zh": "**附加干扰的单腿动作**",
+       "uz": "**Qoʻshimcha gʻalayon bilan bir oyoqli harakatlar**"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": null,
+    "teks": {
+     "id": "Target bukan sekadar menyelesaikan latihan, tetapi mempertahankan posisi panggul, lutut, dan kaki yang benar.",
+     "en": "The goal is not merely to complete the exercise, but to maintain correct pelvic, knee and foot alignment.",
+     "zh": "目标不只是完成训练，而是保持骨盆、膝关节和足部的正确位置。",
+     "uz": "Maqsad mashqni shunchaki bajarish emas, balki chanoq, tizza va oyoqning toʻgʻri holatini saqlashdir."
+    }
+   }
+  ]
+ }
+]

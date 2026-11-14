@@ -17,7 +17,8 @@ ganti('.logo-ortholif { display: block;',
   ' background: var(--logo-mendatar) left center / contain no-repeat; background-origin: content-box; }\n'
   '.app.menu-sembunyi .logo-bar { display: block; }\n'
   '@media (max-width: 960px) { .logo-bar { display: block; } }\n'
-  '@media (max-width: 600px) { .logo-bar { aspect-ratio: 113 / 132; padding-right: 0.55rem; background-image: var(--marka); } }\n'
+  '@media (max-width: 600px) { .logo-bar { aspect-ratio: 113 / 132; height: 2rem; padding-right: 0; border-right: 0; margin: 0 -0.15rem; background-image: var(--marka); } }\n'
+  '@media (max-width: 420px) { .app .bar-atas { gap: 0.4rem; padding-left: 0.6rem; padding-right: 0.6rem; } .app .bar-aksi { gap: 0.3rem; } }\n'
   '.logo-ortholif { display: block;')
 # markup
 ganti('data-aksi="menu" title="${M("menu")} (M)">${h("menu")}</button>',

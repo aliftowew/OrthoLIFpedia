@@ -1,0 +1,2032 @@
+[
+ {
+  "slide": 1,
+  "id": "pemulihan-acl-meniskus",
+  "kicker": {
+   "id": "REHABILITASI MEDIK · CEDERA LUTUT",
+   "en": "MEDICAL REHABILITATION · KNEE INJURY",
+   "zh": "康复医学 · 膝关节损伤",
+   "uz": "TIBBIY REABILITATSIYA · TIZZA JAROHATI"
+  },
+  "judul": {
+   "id": "Pemulihan Pasca Cedera ACL & Meniskus",
+   "en": "Recovery After ACL & Meniscus Injury",
+   "zh": "前交叉韧带与半月板损伤后的康复",
+   "uz": "ACL va menisk jarohatidan keyingi tiklanish"
+  },
+  "pesan": {
+   "id": "Timeline berbasis kriteria dan rekomendasi rehabilitasi dari fase pra-operasi hingga kembali bertanding",
+   "en": "A criteria-based timeline and rehabilitation recommendations from the pre-operative phase to return to competition",
+   "zh": "基于标准的时间线及康复建议：从术前阶段到重返赛场",
+   "uz": "Operatsiyadan oldingi bosqichdan musobaqaga qaytishgacha mezonlarga asoslangan vaqt jadvali va reabilitatsiya tavsiyalari"
+  },
+  "blok": [
+   {
+    "tipe": "paragraf",
+    "teks": {
+     "id": "**dr. Florencia Wirawan, Sp.KFR, MM, MARS**\nSpesialis Kedokteran Fisik dan Rehabilitasi",
+     "en": "**dr. Florencia Wirawan, Sp.KFR, MM, MARS**\nPhysical Medicine and Rehabilitation Specialist",
+     "zh": "**dr. Florencia Wirawan, Sp.KFR, MM, MARS**\n物理医学与康复专科医师",
+     "uz": "**dr. Florencia Wirawan, Sp.KFR, MM, MARS**\nJismoniy tibbiyot va reabilitatsiya mutaxassisi"
+    }
+   },
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": {
+       "id": "Fase 0",
+       "en": "Phase 0",
+       "zh": "第0期",
+       "uz": "0-bosqich"
+      },
+      "judul": {
+       "id": "Pra-operasi",
+       "en": "Pre-operative",
+       "zh": "术前",
+       "uz": "Operatsiyadan oldin"
+      },
+      "teks": null
+     },
+     {
+      "label": {
+       "id": "Fase 1",
+       "en": "Phase 1",
+       "zh": "第1期",
+       "uz": "1-bosqich"
+      },
+      "judul": {
+       "id": "0–2 minggu",
+       "en": "0–2 weeks",
+       "zh": "0–2周",
+       "uz": "0–2 hafta"
+      },
+      "teks": null
+     },
+     {
+      "label": {
+       "id": "Fase 2",
+       "en": "Phase 2",
+       "zh": "第2期",
+       "uz": "2-bosqich"
+      },
+      "judul": {
+       "id": "2–6 minggu",
+       "en": "2–6 weeks",
+       "zh": "2–6周",
+       "uz": "2–6 hafta"
+      },
+      "teks": null
+     },
+     {
+      "label": {
+       "id": "Fase 3",
+       "en": "Phase 3",
+       "zh": "第3期",
+       "uz": "3-bosqich"
+      },
+      "judul": {
+       "id": "6–12 minggu",
+       "en": "6–12 weeks",
+       "zh": "6–12周",
+       "uz": "6–12 hafta"
+      },
+      "teks": null
+     },
+     {
+      "label": {
+       "id": "Fase 4",
+       "en": "Phase 4",
+       "zh": "第4期",
+       "uz": "4-bosqich"
+      },
+      "judul": {
+       "id": "3–5 bulan",
+       "en": "3–5 months",
+       "zh": "3–5个月",
+       "uz": "3–5 oy"
+      },
+      "teks": null
+     },
+     {
+      "label": {
+       "id": "Fase 5",
+       "en": "Phase 5",
+       "zh": "第5期",
+       "uz": "5-bosqich"
+      },
+      "judul": {
+       "id": "5–9 bulan",
+       "en": "5–9 months",
+       "zh": "5–9个月",
+       "uz": "5–9 oy"
+      },
+      "teks": null
+     },
+     {
+      "label": {
+       "id": "Fase 6",
+       "en": "Phase 6",
+       "zh": "第6期",
+       "uz": "6-bosqich"
+      },
+      "judul": {
+       "id": "≥ 9 bulan",
+       "en": "≥ 9 months",
+       "zh": "≥ 9个月",
+       "uz": "≥ 9 oy"
+      },
+      "teks": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": null,
+    "teks": {
+     "id": "**Kriteria > Kalender**",
+     "en": "**Criteria > Calendar**",
+     "zh": "**标准 > 日历**",
+     "uz": "**Mezon > Kalendar**"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 2,
+  "id": "kriteria-bukan-kalender",
+  "kicker": {
+   "id": "MENGAPA BERBASIS KRITERIA",
+   "en": "WHY CRITERIA-BASED",
+   "zh": "为何以标准为基础",
+   "uz": "NEGA MEZONLARGA ASOSLANGAN"
+  },
+  "judul": {
+   "id": "Kriteria, Bukan Kalender",
+   "en": "Criteria, Not the Calendar",
+   "zh": "看标准，而非看日历",
+   "uz": "Kalendar emas, mezon"
+  },
+  "pesan": {
+   "id": "Lulus tes dulu, baru naik level",
+   "en": "Pass the test first, then move up a level",
+   "zh": "先通过测试，再进阶",
+   "uz": "Avval testdan oʻting, keyin keyingi bosqichga"
+  },
+  "blok": [
+   {
+    "tipe": "angka",
+    "item": [
+     {
+      "nilai": "51%",
+      "label": {
+       "id": "lebih rendah angka cedera ulang untuk setiap bulan penundaan kembali berolahraga, hingga bulan ke-9",
+       "en": "lower re-injury rate for each month that return to sport is delayed, up to month 9",
+       "zh": "重返运动每推迟1个月，再损伤率降低的幅度（直至第9个月）",
+       "uz": "sportga qaytish har oy kechiktirilganda qayta jarohat darajasining pasayishi (9-oygacha)"
+      },
+      "teks": {
+       "id": "Grindem 2016 [3]",
+       "en": "Grindem 2016 [3]",
+       "zh": "Grindem等，2016 [3]",
+       "uz": "Grindem 2016 [3]"
+      }
+     },
+     {
+      "nilai": "4,1×",
+      "label": {
+       "id": "risiko ruptur graft bila atlet kembali bermain tanpa memenuhi seluruh 6 kriteria klinis",
+       "en": "risk of graft rupture when athletes return to play without meeting all 6 clinical criteria",
+       "zh": "运动员未满足全部6项临床标准即重返比赛时的移植物断裂风险",
+       "uz": "sportchi barcha 6 ta klinik mezonni bajarmasdan oʻyinga qaytganda graft yorilishi xavfi"
+      },
+      "teks": {
+       "id": "Kyritsis 2016 [4]",
+       "en": "Kyritsis 2016 [4]",
+       "zh": "Kyritsis等，2016 [4]",
+       "uz": "Kyritsis 2016 [4]"
+      }
+     },
+     {
+      "nilai": "24 / 40",
+      "label": {
+       "id": "pasien yang lulus Limb Symmetry Index (LSI) ≥ 90% pada 6 bulan belum mencapai 90% kapasitas pra-cedera",
+       "en": "patients who passed a Limb Symmetry Index (LSI) ≥ 90% at 6 months had not yet reached 90% of their pre-injury capacity",
+       "zh": "6个月时肢体对称指数（LSI）≥ 90% 的患者中，尚未恢复到伤前能力90%的人数",
+       "uz": "6 oyda Limb Symmetry Index (LSI) ≥ 90% ni bajargan, ammo jarohatdan oldingi imkoniyatning 90% iga yetmagan bemorlar"
+      },
+      "teks": {
+       "id": "Wellsandt 2017 [8]",
+       "en": "Wellsandt 2017 [8]",
+       "zh": "Wellsandt等，2017 [8]",
+       "uz": "Wellsandt 2017 [8]"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": {
+     "id": "Pesan utama",
+     "en": "Key message",
+     "zh": "核心信息",
+     "uz": "Asosiy xulosa"
+    },
+    "teks": {
+     "id": "Pasien naik fase karena lulus tes fungsi, bukan karena “sudah 6 bulan”. Waktu tetap penting sebagai batas bawah, bukan izin otomatis.",
+     "en": "Patients progress to the next phase because they pass functional tests, not because “it has been 6 months”. Time still matters as a minimum threshold, not as automatic clearance.",
+     "zh": "患者进入下一阶段是因为通过了功能测试，而不是因为“已经6个月了”。时间仍然重要，但它是下限，而非自动放行。",
+     "uz": "Bemor keyingi bosqichga “6 oy boʻldi” deb emas, funksional testlardan oʻtgani uchun oʻtadi. Vaqt baribir muhim, lekin u quyi chegara, avtomatik ruxsat emas."
+    }
+   },
+   {
+    "tipe": "rujukan",
+    "item": [
+     "[3] Grindem dkk. Br J Sports Med. 2016",
+     "[4] Kyritsis dkk. Br J Sports Med. 2016",
+     "[8] Wellsandt dkk. J Orthop Sports Phys Ther. 2017"
+    ]
+   }
+  ]
+ },
+ {
+  "slide": 3,
+  "id": "anatomi-acl",
+  "kicker": {
+   "id": "ANATOMI",
+   "en": "ANATOMY",
+   "zh": "解剖",
+   "uz": "ANATOMIYA"
+  },
+  "judul": {
+   "id": "Anatomi Ligamen Krusiatum Anterior (ACL)",
+   "en": "Anatomy of the Anterior Cruciate Ligament (ACL)",
+   "zh": "前交叉韧带（ACL）解剖",
+   "uz": "Oldingi xochsimon boylam (ACL) anatomiyasi"
+  },
+  "pesan": {
+   "id": "ACL = sabuk pengaman lutut",
+   "en": "The ACL = the knee's seat belt",
+   "zh": "ACL＝膝关节的安全带",
+   "uz": "ACL = tizzaning xavfsizlik kamari"
+  },
+  "blok": [
+   {
+    "tipe": "gambar",
+    "id": "aclm-anatomi-acl",
+    "keterangan": {
+     "id": "Lutut kanan, tampak depan, posisi fleksi (patela diangkat). Ilustrasi skematik, bukan skala sebenarnya.",
+     "en": "Right knee, anterior view, in flexion (patella lifted). Schematic illustration, not to scale.",
+     "zh": "右膝，前面观，屈曲位（髌骨掀起）。示意图，非实际比例。",
+     "uz": "Oʻng tizza, old tomondan koʻrinish, bukilgan holatda (tizza qopqogʻi koʻtarilgan). Sxematik tasvir, haqiqiy oʻlchamda emas."
+    }
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 2,
+    "item": [
+     {
+      "label": {
+       "id": "UKURAN",
+       "en": "SIZE",
+       "zh": "尺寸",
+       "uz": "OʻLCHAMI"
+      },
+      "judul": {
+       "id": "Panjang rata-rata 32 mm (22–41 mm); lebar 7–12 mm",
+       "en": "Mean length 32 mm (22–41 mm); width 7–12 mm",
+       "zh": "平均长度32 mm（22–41 mm）；宽7–12 mm",
+       "uz": "Oʻrtacha uzunligi 32 mm (22–41 mm); eni 7–12 mm"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "ORIGO (FEMUR)",
+       "en": "ORIGIN (FEMUR)",
+       "zh": "起点（股骨）",
+       "uz": "BOSHLANISHI (FEMUR)"
+      },
+      "judul": {
+       "id": "Sisi dalam bagian posterior kondilus lateral femur",
+       "en": "Inner (medial) aspect of the posterior lateral femoral condyle",
+       "zh": "股骨外侧髁后部的内侧面",
+       "uz": "Femur lateral kondilining orqa qismi ichki yuzasi"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "INSERSI (TIBIA)",
+       "en": "INSERTION (TIBIA)",
+       "zh": "止点（胫骨）",
+       "uz": "BIRIKISHI (TIBIA)"
+      },
+      "judul": {
+       "id": "Fossa di anterior-lateral spina tibia medial; lebih lebar dan kuat dari origo",
+       "en": "Fossa anterolateral to the medial tibial spine; wider and stronger than the origin",
+       "zh": "胫骨内侧髁间棘前外侧的窝；较起点更宽、更坚固",
+       "uz": "Tibia medial qirrasining old-lateral tomonidagi chuqurcha; boshlanishidan kengroq va mustahkamroq"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "DUA BUNDEL",
+       "en": "TWO BUNDLES",
+       "zh": "双束",
+       "uz": "IKKI TUTAM"
+      },
+      "judul": {
+       "id": "Anteromedial (AM) dan posterolateral (PL), dengan pola tegangan berbeda",
+       "en": "Anteromedial (AM) and posterolateral (PL), with different tension patterns",
+       "zh": "前内侧束（AM）与后外侧束（PL），张力模式不同",
+       "uz": "Anteromedial (AM) va posterolateral (PL), taranglik shakli turlicha"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "VASKULARISASI & SARAF",
+       "en": "BLOOD SUPPLY & INNERVATION",
+       "zh": "血供与神经",
+       "uz": "QON TAʼMINOTI VA INNERVATSIYA"
+      },
+      "judul": {
+       "id": "A. genikulata media; mekanoreseptor (Ruffini, Pacini, Golgi) untuk propriosepsi",
+       "en": "Middle genicular artery; mechanoreceptors (Ruffini, Pacini, Golgi) for proprioception",
+       "zh": "膝中动脉；机械感受器（Ruffini、Pacini、Golgi）参与本体感觉",
+       "uz": "Oʻrta tizza arteriyasi; propriotseptsiya uchun mexanoretseptorlar (Ruffini, Pacini, Golgi)"
+      },
+      "teks": null,
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [19] Duthon dkk., Knee Surg Sports Traumatol Arthrosc 2006",
+     "en": "References: [19] Duthon dkk., Knee Surg Sports Traumatol Arthrosc 2006",
+     "zh": "参考文献：[19] Duthon dkk., Knee Surg Sports Traumatol Arthrosc 2006",
+     "uz": "Manbalar: [19] Duthon dkk., Knee Surg Sports Traumatol Arthrosc 2006"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 4,
+  "id": "anatomi-meniskus",
+  "kicker": {
+   "id": "ANATOMI",
+   "en": "ANATOMY",
+   "zh": "解剖",
+   "uz": "ANATOMIYA"
+  },
+  "judul": {
+   "id": "Anatomi Meniskus Medial dan Lateral",
+   "en": "Anatomy of the Medial and Lateral Menisci",
+   "zh": "内侧与外侧半月板解剖",
+   "uz": "Medial va lateral menisk anatomiyasi"
+  },
+  "pesan": {
+   "id": "Meniskus = shock absorber lutut",
+   "en": "The meniscus = the knee's shock absorber",
+   "zh": "半月板＝膝关节的减震器",
+   "uz": "Menisk = tizzaning amortizatori"
+  },
+  "blok": [
+   {
+    "tipe": "gambar",
+    "id": "aclm-anatomi-meniskus",
+    "keterangan": {
+     "id": "Lutut kanan, tampak atas: meniskus medial berbentuk C, meniskus lateral hampir O; zona merah (vaskular), merah-putih, dan putih (avaskular); root/akar meniskus; jejak ACL dan PCL.",
+     "en": "Right knee, superior view: C-shaped medial meniscus, nearly O-shaped lateral meniscus; red (vascular), red-white and white (avascular) zones; meniscal roots; ACL and PCL footprints.",
+     "zh": "右膝，上面观：内侧半月板呈C形，外侧半月板近O形；红区（有血管）、红-白区和白区（无血管）；半月板根部；ACL与PCL止点。",
+     "uz": "Oʻng tizza, yuqoridan koʻrinish: medial menisk C shaklida, lateral menisk deyarli O shaklida; qizil (tomirli), qizil-oq va oq (tomirsiz) zonalar; menisk ildizlari; ACL va PCL izlari."
+    }
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": {
+       "id": "MENISKUS MEDIAL",
+       "en": "MEDIAL MENISCUS",
+       "zh": "内侧半月板",
+       "uz": "MEDIAL MENISK"
+      },
+      "judul": {
+       "id": "Bentuk C",
+       "en": "C-shaped",
+       "zh": "C形",
+       "uz": "C shaklida"
+      },
+      "teks": {
+       "id": "Menutup ± 60% permukaan kompartemen medial. Menyatu dengan kapsul sendi sehingga kurang mobil; kornu posterior lebih lebar.",
+       "en": "Covers about 60% of the medial compartment surface. Blends with the joint capsule, so it is less mobile; the posterior horn is wider.",
+       "zh": "覆盖内侧间室约60%的关节面。与关节囊紧密相连，活动度较小；后角较宽。",
+       "uz": "Medial boʻlim yuzasining taxminan 60% ini qoplaydi. Boʻgʻim kapsulasi bilan qoʻshilib ketgan, shuning uchun kam harakatchan; orqa shoxi kengroq."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "MENISKUS LATERAL",
+       "en": "LATERAL MENISCUS",
+       "zh": "外侧半月板",
+       "uz": "LATERAL MENISK"
+      },
+      "judul": {
+       "id": "Hampir bulat (O)",
+       "en": "Nearly circular (O)",
+       "zh": "近圆形（O形）",
+       "uz": "Deyarli dumaloq (O)"
+      },
+      "teks": {
+       "id": "Menutup ± 80% permukaan kompartemen lateral. Lebih mobil; terhubung ke tendon popliteus.",
+       "en": "Covers about 80% of the lateral compartment surface. More mobile; connected to the popliteus tendon.",
+       "zh": "覆盖外侧间室约80%的关节面。活动度较大；与腘肌腱相连。",
+       "uz": "Lateral boʻlim yuzasining taxminan 80% ini qoplaydi. Harakatchanroq; popliteus payiga bogʻlangan."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "STRUKTUR KOLAGEN",
+       "en": "COLLAGEN STRUCTURE",
+       "zh": "胶原结构",
+       "uz": "KOLLAGEN TUZILISHI"
+      },
+      "judul": {
+       "id": "Serat sirkumferensial + serat radial",
+       "en": "Circumferential + radial fibres",
+       "zh": "环形纤维 + 放射状纤维",
+       "uz": "Aylana + radial tolalar"
+      },
+      "teks": {
+       "id": "Serat sirkumferensial di lapisan dalam, diikat oleh serat radial (“tie fibres”).",
+       "en": "Circumferential fibres in the deep layer, bound together by radial “tie fibres”.",
+       "zh": "深层为环形纤维，由放射状“系带纤维”（tie fibres）相互连接。",
+       "uz": "Ichki qavatdagi aylana tolalar radial “tie fibres” tolalar bilan bogʻlangan."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": {
+     "id": "Vaskularisasi terbatas",
+     "en": "Limited blood supply",
+     "zh": "血供有限",
+     "uz": "Qon taʼminoti cheklangan"
+    },
+    "teks": {
+     "id": "Hanya 10–30% perifer (medial) dan 10–25% (lateral). Sisanya bergantung pada difusi cairan sendi, sehingga robekan di zona putih sulit sembuh.",
+     "en": "Only the peripheral 10–30% (medial) and 10–25% (lateral). The rest depends on diffusion from synovial fluid, so tears in the white zone heal poorly.",
+     "zh": "仅外周10–30%（内侧）和10–25%（外侧）有血供。其余部分依赖关节液弥散营养，因此白区撕裂难以愈合。",
+     "uz": "Faqat periferik 10–30% (medial) va 10–25% (lateral) qismi. Qolgan qismi boʻgʻim suyuqligidan diffuziyaga bogʻliq, shuning uchun oq zonadagi yirtiqlar qiyin bitadi."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [18] Arnoczky & Warren, Am J Sports Med 1982 · [20] Fox dkk., Clin Anat 2015",
+     "en": "References: [18] Arnoczky & Warren, Am J Sports Med 1982 · [20] Fox dkk., Clin Anat 2015",
+     "zh": "参考文献：[18] Arnoczky & Warren, Am J Sports Med 1982 · [20] Fox dkk., Clin Anat 2015",
+     "uz": "Manbalar: [18] Arnoczky & Warren, Am J Sports Med 1982 · [20] Fox dkk., Clin Anat 2015"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 5,
+  "id": "fungsi-acl-meniskus",
+  "kicker": {
+   "id": "ANATOMI FUNGSIONAL",
+   "en": "FUNCTIONAL ANATOMY",
+   "zh": "功能解剖",
+   "uz": "FUNKSIONAL ANATOMIYA"
+  },
+  "judul": {
+   "id": "Apa yang Dikerjakan ACL dan Meniskus",
+   "en": "What the ACL and Meniscus Do",
+   "zh": "前交叉韧带与半月板的作用",
+   "uz": "ACL va menisk nima vazifani bajaradi"
+  },
+  "pesan": {
+   "id": "Fungsi menentukan batasan",
+   "en": "Function determines the restrictions",
+   "zh": "功能决定限制",
+   "uz": "Funksiya cheklovlarni belgilaydi"
+  },
+  "blok": [
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "ACL: penstabil utama",
+     "en": "ACL: the primary stabiliser",
+     "zh": "ACL：主要稳定结构",
+     "uz": "ACL: asosiy stabilizator"
+    },
+    "butir": [
+     {
+      "id": "Menahan 82–89% beban anterior tibia pada fleksi 30°, dan 74–85% pada fleksi 90°",
+      "en": "Resists 82–89% of anterior tibial load at 30° of flexion, and 74–85% at 90° of flexion",
+      "zh": "屈膝30°时承担82–89%的胫骨前向负荷，屈膝90°时承担74–85%",
+      "uz": "30° bukilishda tibiaga oldinga yoʻnalgan yukning 82–89% ini, 90° bukilishda 74–85% ini ushlab turadi"
+     },
+     {
+      "id": "Penahan sekunder rotasi internal, terutama mendekati ekstensi",
+      "en": "Secondary restraint to internal rotation, especially near extension",
+      "zh": "内旋的次级限制结构，尤其在接近伸直位时",
+      "uz": "Ichki rotatsiyaning ikkilamchi cheklovchisi, ayniqsa yozilishga yaqin holatda"
+     },
+     {
+      "id": "Bundel AM makin tegang saat fleksi; bundel PL saat ekstensi",
+      "en": "The AM bundle tightens in flexion; the PL bundle in extension",
+      "zh": "AM束在屈曲时张力增加；PL束在伸直时张力增加",
+      "uz": "AM tutam bukilishda, PL tutam yozilishda tarang boʻladi"
+     },
+     {
+      "id": "Ruptur ACL disertai kelemahan quadriceps dan turunnya sensasi posisi sendi",
+      "en": "ACL rupture is accompanied by quadriceps weakness and reduced joint position sense",
+      "zh": "ACL断裂伴有股四头肌无力和关节位置觉下降",
+      "uz": "ACL yorilishi kvadritseps zaifligi va boʻgʻim holatini sezishning pasayishi bilan kechadi"
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Meniskus: peredam & penyalur beban",
+     "en": "Meniscus: shock absorber & load distributor",
+     "zh": "半月板：减震与负荷传导",
+     "uz": "Menisk: amortizator va yuk taqsimlovchi"
+    },
+    "butir": [
+     {
+      "id": "Menyalurkan 40–60% beban saat ekstensi, hingga 90% saat fleksi",
+      "en": "Transmits 40–60% of load in extension and up to 90% in flexion",
+      "zh": "伸直时传导40–60%的负荷，屈曲时可达90%",
+      "uz": "Yozilishda yukning 40–60% ini, bukilishda 90% gachasini oʻtkazadi"
+     },
+     {
+      "id": "Hoop stress: serat sirkumferensial mengubah beban tekan menjadi tegangan melingkar",
+      "en": "Hoop stress: circumferential fibres convert compressive load into circumferential tension",
+      "zh": "环向应力（hoop stress）：环形纤维将压缩负荷转化为环向张力",
+      "uz": "Hoop stress: aylana tolalar bosim yukini aylana taranglikka aylantiradi"
+     },
+     {
+      "id": "Root tear medial menaikkan tekanan puncak 25%, setara meniskektomi total; repair mengembalikannya",
+      "en": "A medial root tear raises peak pressure by 25%, equivalent to total meniscectomy; repair restores it",
+      "zh": "内侧根部撕裂使峰值压力升高25%，相当于全半月板切除；修复可使其恢复",
+      "uz": "Medial ildiz yirtigʻi choʻqqi bosimni 25% ga oshiradi, bu toʻliq meniskektomiyaga teng; tikish uni tiklaydi"
+     },
+     {
+      "id": "Kornu posterior medial: penahan sekunder translasi anterior pada lutut tanpa ACL",
+      "en": "Medial posterior horn: secondary restraint to anterior translation in the ACL-deficient knee",
+      "zh": "内侧半月板后角：ACL缺失膝中胫骨前移的次级限制结构",
+      "uz": "Medial orqa shox: ACL boʻlmagan tizzada oldinga siljishning ikkilamchi cheklovchisi"
+     }
+    ]
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": {
+       "id": "IMPLIKASI REHAB",
+       "en": "REHAB IMPLICATION",
+       "zh": "康复启示",
+       "uz": "REABILITATSIYA UCHUN AHAMIYATI"
+      },
+      "judul": {
+       "id": "Open kinetic chain dimulai di rentang 90–45° dari minggu ke-4 untuk membatasi beban pada graft",
+       "en": "Open kinetic chain starts in the 90–45° range from week 4 to limit load on the graft",
+       "zh": "开链运动从第4周起在90–45°范围内开始，以限制移植物负荷",
+       "uz": "Graftga yukni cheklash uchun ochiq kinetik zanjir 4-haftadan 90–45° oraligʻida boshlanadi"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "IMPLIKASI REHAB",
+       "en": "REHAB IMPLICATION",
+       "zh": "康复启示",
+       "uz": "REABILITATSIYA UCHUN AHAMIYATI"
+      },
+      "judul": {
+       "id": "Beban meniskus naik saat fleksi: hindari fleksi dalam berbeban setelah repair",
+       "en": "Meniscal load rises with flexion: avoid deep loaded flexion after repair",
+       "zh": "半月板负荷随屈曲增加：修复后避免负重深屈",
+       "uz": "Menisk yuki bukilishda ortadi: tikishdan keyin yuk bilan chuqur bukishdan saqlaning"
+      },
+      "teks": null,
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "IMPLIKASI REHAB",
+       "en": "REHAB IMPLICATION",
+       "zh": "康复启示",
+       "uz": "REABILITATSIYA UCHUN AHAMIYATI"
+      },
+      "judul": {
+       "id": "Robekan radial/root memutus hoop stress, sehingga butuh proteksi lebih lama",
+       "en": "Radial/root tears disrupt hoop stress, so they need longer protection",
+       "zh": "放射状/根部撕裂破坏环向应力，因此需要更长时间的保护",
+       "uz": "Radial/ildiz yirtiqlari hoop stressni uzadi, shuning uchun uzoqroq himoya talab qilinadi"
+      },
+      "teks": null,
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki 2023 · [14] Calanna 2022 · [19] Duthon 2006 · [20] Fox dkk., Clin Anat 2015 · [21] Allaire dkk., J Bone Joint Surg Am 2008",
+     "en": "References: [1] Kotsifaki 2023 · [14] Calanna 2022 · [19] Duthon 2006 · [20] Fox dkk., Clin Anat 2015 · [21] Allaire dkk., J Bone Joint Surg Am 2008",
+     "zh": "参考文献：[1] Kotsifaki 2023 · [14] Calanna 2022 · [19] Duthon 2006 · [20] Fox dkk., Clin Anat 2015 · [21] Allaire dkk., J Bone Joint Surg Am 2008",
+     "uz": "Manbalar: [1] Kotsifaki 2023 · [14] Calanna 2022 · [19] Duthon 2006 · [20] Fox dkk., Clin Anat 2015 · [21] Allaire dkk., J Bone Joint Surg Am 2008"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 6,
+  "id": "langkah-rekonstruksi-acl",
+  "kicker": {
+   "id": "PROSEDUR",
+   "en": "PROCEDURE",
+   "zh": "手术操作",
+   "uz": "MUOLAJA"
+  },
+  "judul": {
+   "id": "Rekonstruksi ACL: Langkah Utama",
+   "en": "ACL Reconstruction: Key Steps",
+   "zh": "ACL重建：主要步骤",
+   "uz": "ACL rekonstruksiyasi: asosiy bosqichlar"
+  },
+  "pesan": {
+   "id": "Baca laporan operasi dulu!",
+   "en": "Read the operative report first!",
+   "zh": "先读手术记录！",
+   "uz": "Avval operatsiya bayonnomasini oʻqing!"
+  },
+  "blok": [
+   {
+    "tipe": "gambar",
+    "id": "aclm-rekonstruksi-acl",
+    "keterangan": {
+     "id": "Skema graft di posisi ACL: terowongan femur dan tibia dengan fiksasi femur dan tibia. Teknik dan jenis fiksasi bervariasi menurut operator.",
+     "en": "Schematic of the graft in the ACL position: femoral and tibial tunnels with femoral and tibial fixation. Technique and fixation type vary by surgeon.",
+     "zh": "移植物位于ACL位置的示意图：股骨隧道与胫骨隧道，以及股骨端与胫骨端固定。技术与固定方式因术者而异。",
+     "uz": "ACL oʻrnidagi graft sxemasi: femur va tibia kanallari, femur va tibia fiksatsiyasi. Texnika va fiksatsiya turi operatorga qarab farq qiladi."
+    }
+   },
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Artroskopi diagnostik",
+       "en": "Diagnostic arthroscopy",
+       "zh": "诊断性关节镜检查",
+       "uz": "Diagnostik artroskopiya"
+      },
+      "teks": {
+       "id": "Menilai dan menangani cedera penyerta (meniskus, kartilago)",
+       "en": "Assess and treat associated injuries (meniscus, cartilage)",
+       "zh": "评估并处理合并损伤（半月板、软骨）",
+       "uz": "Hamroh jarohatlarni (menisk, togʻay) baholash va davolash"
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Pengambilan graft",
+       "en": "Graft harvest",
+       "zh": "移植物切取",
+       "uz": "Graft olish"
+      },
+      "teks": {
+       "id": "Autograft tendon patela (BPTB), hamstring, atau tendon quadriceps",
+       "en": "Patellar tendon (BPTB), hamstring or quadriceps tendon autograft",
+       "zh": "自体髌腱（BPTB）、腘绳肌腱或股四头肌腱移植物",
+       "uz": "Tizza qopqogʻi payi (BPTB), hamstring yoki kvadritseps payi autografti"
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Pembuatan terowongan",
+       "en": "Tunnel drilling",
+       "zh": "骨隧道制备",
+       "uz": "Kanallar hosil qilish"
+      },
+      "teks": {
+       "id": "Terowongan femur dan tibia pada jejak (footprint) anatomis ACL",
+       "en": "Femoral and tibial tunnels at the anatomical ACL footprint",
+       "zh": "在ACL解剖止点（footprint）处制备股骨与胫骨隧道",
+       "uz": "ACL anatomik izida (footprint) femur va tibia kanallari"
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Pemasangan & fiksasi",
+       "en": "Graft passage & fixation",
+       "zh": "移植物置入与固定",
+       "uz": "Oʻrnatish va fiksatsiya"
+      },
+      "teks": {
+       "id": "Graft ditarik melalui terowongan lalu difiksasi (sekrup interferensi atau suspensory button)",
+       "en": "The graft is pulled through the tunnels and fixed (interference screw or suspensory button)",
+       "zh": "将移植物穿过隧道并固定（挤压螺钉或悬吊纽扣）",
+       "uz": "Graft kanallar orqali tortiladi va mahkamlanadi (interferension vint yoki suspensory button)"
+      }
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Uji stabilitas & ROM",
+       "en": "Stability & ROM check",
+       "zh": "稳定性与活动度检查",
+       "uz": "Barqarorlik va ROM sinovi"
+      },
+      "teks": {
+       "id": "Memastikan ekstensi penuh dan lutut stabil sebelum luka ditutup",
+       "en": "Confirm full extension and a stable knee before wound closure",
+       "zh": "关闭切口前确认膝关节可完全伸直且稳定",
+       "uz": "Jarohat yopilishidan oldin toʻliq yozilish va tizza barqarorligini tasdiqlash"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [19] Duthon 2006 · [22] Mouarbes dkk., Am J Sports Med 2019",
+     "en": "References: [19] Duthon 2006 · [22] Mouarbes dkk., Am J Sports Med 2019",
+     "zh": "参考文献：[19] Duthon 2006 · [22] Mouarbes dkk., Am J Sports Med 2019",
+     "uz": "Manbalar: [19] Duthon 2006 · [22] Mouarbes dkk., Am J Sports Med 2019"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 7,
+  "id": "pilihan-graft",
+  "kicker": {
+   "id": "PROSEDUR",
+   "en": "PROCEDURE",
+   "zh": "手术操作",
+   "uz": "MUOLAJA"
+  },
+  "judul": {
+   "id": "Pilihan Graft dan Implikasinya bagi Rehabilitasi",
+   "en": "Graft Choice and Its Implications for Rehabilitation",
+   "zh": "移植物选择及其对康复的影响",
+   "uz": "Graft tanlovi va uning reabilitatsiyaga taʼsiri"
+  },
+  "pesan": {
+   "id": "Lokasi donor = fokus pantau",
+   "en": "Donor site = monitoring focus",
+   "zh": "供区＝监测重点",
+   "uz": "Donor joy = kuzatuv markazi"
+  },
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "judul": {
+       "id": "Tendon patela (BPTB)",
+       "en": "Patellar tendon (BPTB)",
+       "zh": "髌腱（BPTB）",
+       "uz": "Tizza qopqogʻi payi (BPTB)"
+      },
+      "teks": {
+       "id": "**Catatan:** Fiksasi tulang-ke-tulang. Nyeri di lokasi donor dan nyeri saat berlutut lebih sering dibanding tendon quadriceps.\n**Implikasi rehab:** Pantau nyeri lutut depan; progresi beban patelofemoral bertahap.",
+       "en": "**Note:** Bone-to-bone fixation. Donor-site pain and kneeling pain are more common than with the quadriceps tendon.\n**Rehab implication:** Monitor anterior knee pain; progress patellofemoral loading gradually.",
+       "zh": "**说明：**骨-骨固定。供区疼痛和跪地痛比股四头肌腱更常见。\n**康复启示：**监测膝前痛；髌股关节负荷逐步递增。",
+       "uz": "**Izoh:** Suyak-suyak fiksatsiyasi. Donor joydagi ogʻriq va tiz choʻkkanda ogʻriq kvadritseps payiga qaraganda koʻproq uchraydi.\n**Reabilitatsiya uchun ahamiyati:** Tizza old qismidagi ogʻriqni kuzating; patellofemoral yukni bosqichma-bosqich oshiring."
+      },
+      "label": null,
+      "gambar": null
+     },
+     {
+      "judul": {
+       "id": "Hamstring (ST ± G)",
+       "en": "Hamstring (ST ± G)",
+       "zh": "腘绳肌腱（ST ± G）",
+       "uz": "Hamstring (ST ± G)"
+      },
+      "teks": {
+       "id": "**Catatan:** Semitendinosus ± gracilis, sayatan kecil. Laksitas dan kegagalan graft setara dengan tendon quadriceps.\n**Implikasi rehab:** Lokasi donor di fleksor lutut: progresi penguatan hamstring bertahap, pantau nyeri.",
+       "en": "**Note:** Semitendinosus ± gracilis, small incision. Laxity and graft failure are comparable to the quadriceps tendon.\n**Rehab implication:** Donor site is in the knee flexors: progress hamstring strengthening gradually and monitor pain.",
+       "zh": "**说明：**半腱肌 ± 股薄肌，切口小。松弛度和移植物失败率与股四头肌腱相当。\n**康复启示：**供区位于屈膝肌群：腘绳肌力量训练逐步递增，监测疼痛。",
+       "uz": "**Izoh:** Semitendinosus ± gracilis, kichik kesma. Boʻshashish va graft muvaffaqiyatsizligi kvadritseps payi bilan teng.\n**Reabilitatsiya uchun ahamiyati:** Donor joy tizza bukuvchi mushaklarida: hamstringni kuchaytirishni bosqichma-bosqich oshiring, ogʻriqni kuzating."
+      },
+      "label": null,
+      "gambar": null
+     },
+     {
+      "judul": {
+       "id": "Tendon quadriceps (QT)",
+       "en": "Quadriceps tendon (QT)",
+       "zh": "股四头肌腱（QT）",
+       "uz": "Kvadritseps payi (QT)"
+      },
+      "teks": {
+       "id": "**Catatan:** Nyeri lokasi donor lebih rendah dari BPTB (RR 0,25). Kegagalan graft setara (gabungan 2,1%).\n**Implikasi rehab:** Prioritaskan aktivasi dan kekuatan quadriceps sejak awal.",
+       "en": "**Note:** Lower donor-site pain than BPTB (RR 0.25). Comparable graft failure (pooled 2.1%).\n**Rehab implication:** Prioritise quadriceps activation and strength from the outset.",
+       "zh": "**说明：**供区疼痛低于BPTB（RR 0.25）。移植物失败率相当（合并2.1%）。\n**康复启示：**从早期即优先进行股四头肌激活与力量训练。",
+       "uz": "**Izoh:** Donor joy ogʻrigʻi BPTB dan past (RR 0,25). Graft muvaffaqiyatsizligi teng (umumiy 2,1%).\n**Reabilitatsiya uchun ahamiyati:** Boshidanoq kvadritseps faollashuvi va kuchiga ustuvorlik bering."
+      },
+      "label": null,
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "angka",
+    "item": [
+     {
+      "nilai": "11% → 4%",
+      "label": {
+       "id": "Augmentasi LET (lateral extra-articular tenodesis)",
+       "en": "LET augmentation (lateral extra-articular tenodesis)",
+       "zh": "LET增强（外侧关节外肌腱固定术）",
+       "uz": "LET augmentatsiyasi (lateral extra-articular tenodesis)"
+      },
+      "teks": {
+       "id": "Pada pasien muda risiko tinggi (usia 14–25, olahraga pivot, pivot shift ≥ derajat 2 atau hiperlaksitas), menambahkan LET pada graft hamstring menurunkan ruptur graft dari 11% menjadi 4% dalam 2 tahun (RCT STABILITY, n = 618).",
+       "en": "In young high-risk patients (aged 14–25, pivoting sports, pivot shift ≥ grade 2 or generalised hyperlaxity), adding LET to a hamstring graft reduced graft rupture from 11% to 4% at 2 years (STABILITY RCT, n = 618).",
+       "zh": "在年轻高危患者（14–25岁、从事轴移类运动、pivot shift ≥ 2级或关节过度松弛）中，在腘绳肌腱移植物基础上加做LET，可使2年移植物断裂率从11%降至4%（STABILITY RCT，n = 618）。",
+       "uz": "Yosh yuqori xavfli bemorlarda (14–25 yosh, burilishli sport turlari, pivot shift ≥ 2-daraja yoki giperboʻshashish) hamstring graftiga LET qoʻshish 2 yil ichida graft yorilishini 11% dan 4% gacha kamaytirgan (STABILITY RCT, n = 618)."
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [22] Mouarbes dkk., Am J Sports Med 2019 · [23] Getgood dkk., Am J Sports Med 2020",
+     "en": "References: [22] Mouarbes dkk., Am J Sports Med 2019 · [23] Getgood dkk., Am J Sports Med 2020",
+     "zh": "参考文献：[22] Mouarbes dkk., Am J Sports Med 2019 · [23] Getgood dkk., Am J Sports Med 2020",
+     "uz": "Manbalar: [22] Mouarbes dkk., Am J Sports Med 2019 · [23] Getgood dkk., Am J Sports Med 2020"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 8,
+  "id": "robekan-tindakan-meniskus",
+  "kicker": {
+   "id": "PROSEDUR",
+   "en": "PROCEDURE",
+   "zh": "手术操作",
+   "uz": "MUOLAJA"
+  },
+  "judul": {
+   "id": "Robekan dan Tindakan pada Meniskus",
+   "en": "Meniscal Tears and Their Treatment",
+   "zh": "半月板撕裂及其处理",
+   "uz": "Menisk yirtiqlari va ularni davolash"
+  },
+  "pesan": {
+   "id": "Selamatkan meniskus!",
+   "en": "Save the meniscus!",
+   "zh": "保留半月板！",
+   "uz": "Meniskni saqlab qoling!"
+  },
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 4,
+    "item": [
+     {
+      "label": {
+       "id": "POLA ROBEKAN",
+       "en": "TEAR PATTERN",
+       "zh": "撕裂类型",
+       "uz": "YIRTIQ TURI"
+      },
+      "judul": {
+       "id": "Longitudinal",
+       "en": "Longitudinal",
+       "zh": "纵行撕裂",
+       "uz": "Uzunasiga"
+      },
+      "teks": {
+       "id": "Sejajar serat; kandidat repair, terutama di zona merah",
+       "en": "Parallel to the fibres; a candidate for repair, especially in the red zone",
+       "zh": "与纤维平行；适合修复，尤其位于红区时",
+       "uz": "Tolalarga parallel; tikish uchun nomzod, ayniqsa qizil zonada"
+      },
+      "gambar": "aclm-robek-1"
+     },
+     {
+      "label": {
+       "id": "POLA ROBEKAN",
+       "en": "TEAR PATTERN",
+       "zh": "撕裂类型",
+       "uz": "YIRTIQ TURI"
+      },
+      "judul": {
+       "id": "Radial",
+       "en": "Radial",
+       "zh": "放射状撕裂",
+       "uz": "Radial"
+      },
+      "teks": {
+       "id": "Memotong serat sirkumferensial; hoop stress hilang",
+       "en": "Cuts across the circumferential fibres; hoop stress is lost",
+       "zh": "切断环形纤维；环向应力丧失",
+       "uz": "Aylana tolalarni kesib oʻtadi; hoop stress yoʻqoladi"
+      },
+      "gambar": "aclm-robek-2"
+     },
+     {
+      "label": {
+       "id": "POLA ROBEKAN",
+       "en": "TEAR PATTERN",
+       "zh": "撕裂类型",
+       "uz": "YIRTIQ TURI"
+      },
+      "judul": {
+       "id": "Horizontal",
+       "en": "Horizontal",
+       "zh": "水平撕裂",
+       "uz": "Gorizontal"
+      },
+      "teks": {
+       "id": "Membelah meniskus menjadi lapisan atas dan bawah",
+       "en": "Splits the meniscus into upper and lower layers",
+       "zh": "将半月板分为上下两层",
+       "uz": "Meniskni yuqori va pastki qavatlarga ajratadi"
+      },
+      "gambar": "aclm-robek-3"
+     },
+     {
+      "label": {
+       "id": "POLA ROBEKAN",
+       "en": "TEAR PATTERN",
+       "zh": "撕裂类型",
+       "uz": "YIRTIQ TURI"
+      },
+      "judul": {
+       "id": "Root",
+       "en": "Root",
+       "zh": "根部撕裂",
+       "uz": "Ildiz (root)"
+      },
+      "teks": {
+       "id": "Lepas dari perlekatan tulang; fungsi ≈ meniskektomi total",
+       "en": "Detached from its bony attachment; function ≈ total meniscectomy",
+       "zh": "自骨性附着处撕脱；功能≈全半月板切除",
+       "uz": "Suyakka birikkan joyidan ajraladi; funksiyasi ≈ toʻliq meniskektomiya"
+      },
+      "gambar": "aclm-robek-4"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": {
+     "id": "Prinsip ESSKA 2019",
+     "en": "ESSKA 2019 principle",
+     "zh": "ESSKA 2019原则",
+     "uz": "ESSKA 2019 tamoyili"
+    },
+    "teks": {
+     "id": "**Pertahankan meniskus sebagai pilihan pertama.** Hasil jangka panjang meniskektomi parsial lebih buruk dibanding repair. Bila repair diindikasikan, operasi sesegera mungkin.",
+     "en": "**Preserve the meniscus as the first choice.** Long-term outcomes of partial meniscectomy are worse than those of repair. When repair is indicated, operate as soon as possible.",
+     "zh": "**保留半月板为首选。**半月板部分切除的远期疗效差于修复。若有修复指征，应尽早手术。",
+     "uz": "**Meniskni saqlash — birinchi tanlov.** Qisman meniskektomiyaning uzoq muddatli natijalari tikishdan yomonroq. Tikishga koʻrsatma boʻlsa, imkon qadar tezroq operatsiya qiling."
+    }
+   },
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": {
+       "id": "TINDAKAN",
+       "en": "PROCEDURE",
+       "zh": "术式",
+       "uz": "MUOLAJA"
+      },
+      "judul": {
+       "id": "Meniskektomi parsial",
+       "en": "Partial meniscectomy",
+       "zh": "半月板部分切除术",
+       "uz": "Qisman meniskektomiya"
+      },
+      "teks": {
+       "id": "Membuang bagian yang rusak saja. Rehab cepat tanpa proteksi khusus, tetapi fungsi penyalur beban berkurang.",
+       "en": "Removes only the damaged portion. Fast rehab without special protection, but load-distributing function is reduced.",
+       "zh": "仅切除损伤部分。康复快、无需特殊保护，但负荷传导功能下降。",
+       "uz": "Faqat shikastlangan qism olib tashlanadi. Reabilitatsiya maxsus himoyasiz tez, ammo yuk taqsimlash funksiyasi kamayadi."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "TINDAKAN",
+       "en": "PROCEDURE",
+       "zh": "术式",
+       "uz": "MUOLAJA"
+      },
+      "judul": {
+       "id": "Repair (penjahitan)",
+       "en": "Repair (suturing)",
+       "zh": "修复（缝合）",
+       "uz": "Tikish (repair)"
+      },
+      "teks": {
+       "id": "Teknik all-inside, inside-out, atau outside-in. Butuh proteksi beban dan fleksi di fase awal.",
+       "en": "All-inside, inside-out or outside-in technique. Requires protection of weight-bearing and flexion in the early phase.",
+       "zh": "全内、由内向外或由外向内技术。早期需限制负重与屈曲。",
+       "uz": "All-inside, inside-out yoki outside-in texnikasi. Dastlabki bosqichda yuk va bukilishdan himoya talab qilinadi."
+      },
+      "gambar": null
+     },
+     {
+      "label": {
+       "id": "TINDAKAN",
+       "en": "PROCEDURE",
+       "zh": "术式",
+       "uz": "MUOLAJA"
+      },
+      "judul": {
+       "id": "Root repair",
+       "en": "Root repair",
+       "zh": "根部修复",
+       "uz": "Ildizni tikish (root repair)"
+      },
+      "teks": {
+       "id": "Umumnya transtibial pull-out. Mengembalikan tekanan kontak mendekati normal; proteksi paling ketat.",
+       "en": "Usually transtibial pull-out. Restores contact pressure close to normal; the strictest protection.",
+       "zh": "通常采用经胫骨拉出（transtibial pull-out）技术。可使接触压力接近正常；保护要求最严格。",
+       "uz": "Odatda transtibial pull-out. Kontakt bosimini meʼyorga yaqin tiklaydi; eng qatʼiy himoya."
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [14] Calanna 2022 · [20] Fox dkk. 2015 · [21] Allaire dkk. 2008 · [24] Kopf dkk., Knee Surg Sports Traumatol Arthrosc 2020",
+     "en": "References: [14] Calanna 2022 · [20] Fox dkk. 2015 · [21] Allaire dkk. 2008 · [24] Kopf dkk., Knee Surg Sports Traumatol Arthrosc 2020",
+     "zh": "参考文献：[14] Calanna 2022 · [20] Fox dkk. 2015 · [21] Allaire dkk. 2008 · [24] Kopf dkk., Knee Surg Sports Traumatol Arthrosc 2020",
+     "uz": "Manbalar: [14] Calanna 2022 · [20] Fox dkk. 2015 · [21] Allaire dkk. 2008 · [24] Kopf dkk., Knee Surg Sports Traumatol Arthrosc 2020"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 9,
+  "id": "batasan-awal-pascaoperasi",
+  "kicker": {
+   "id": "PASCA-OPERASI",
+   "en": "POST-OPERATIVE",
+   "zh": "术后",
+   "uz": "OPERATSIYADAN KEYIN"
+  },
+  "judul": {
+   "id": "Jenis Tindakan Menentukan Batasan Awal",
+   "en": "The Type of Procedure Determines Early Restrictions",
+   "zh": "术式决定早期限制",
+   "uz": "Muolaja turi dastlabki cheklovlarni belgilaydi"
+  },
+  "pesan": {
+   "id": "Beda operasi, beda aturan main",
+   "en": "Different surgery, different rules",
+   "zh": "术式不同，规则不同",
+   "uz": "Operatsiya boshqa — qoidalar ham boshqa"
+  },
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Tindakan",
+      "en": "Procedure",
+      "zh": "术式",
+      "uz": "Muolaja"
+     },
+     {
+      "id": "Menapak",
+      "en": "Weight-bearing",
+      "zh": "负重",
+      "uz": "Oyoqqa tayanish"
+     },
+     {
+      "id": "ROM awal",
+      "en": "Early ROM",
+      "zh": "早期活动度",
+      "uz": "Dastlabki ROM"
+     },
+     {
+      "id": "Fleksi berbeban dalam",
+      "en": "Deep loaded flexion",
+      "zh": "负重深屈",
+      "uz": "Yuk bilan chuqur bukish"
+     },
+     {
+      "id": "Perkiraan kembali berolahraga",
+      "en": "Estimated return to sport",
+      "zh": "预计重返运动时间",
+      "uz": "Sportga qaytishning taxminiy muddati"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "**Rekonstruksi ACL saja**",
+       "en": "**Isolated ACL reconstruction**",
+       "zh": "**单纯ACL重建**",
+       "uz": "**Faqat ACL rekonstruksiyasi**"
+      },
+      {
+       "id": "Sesuai toleransi",
+       "en": "As tolerated",
+       "zh": "按耐受程度",
+       "uz": "Chidamlilikka qarab"
+      },
+      {
+       "id": "Ekstensi penuh segera; fleksi sesuai toleransi",
+       "en": "Full extension immediately; flexion as tolerated",
+       "zh": "立即完全伸直；屈曲按耐受",
+       "uz": "Darhol toʻliq yozish; bukish chidamlilikka qarab"
+      },
+      {
+       "id": "Bertahap sesuai fase",
+       "en": "Gradual, according to phase",
+       "zh": "按阶段逐步进行",
+       "uz": "Bosqichga qarab asta-sekin"
+      },
+      {
+       "id": "≥ 9 bulan + kriteria terpenuhi",
+       "en": "≥ 9 months + criteria met",
+       "zh": "≥ 9个月 + 满足标准",
+       "uz": "≥ 9 oy + mezonlar bajarilgan"
+      }
+     ],
+     [
+      {
+       "id": "**Meniskektomi parsial**",
+       "en": "**Partial meniscectomy**",
+       "zh": "**半月板部分切除术**",
+       "uz": "**Qisman meniskektomiya**"
+      },
+      {
+       "id": "Sesuai toleransi",
+       "en": "As tolerated",
+       "zh": "按耐受程度",
+       "uz": "Chidamlilikka qarab"
+      },
+      {
+       "id": "Bebas sesuai gejala",
+       "en": "Free, guided by symptoms",
+       "zh": "按症状自由活动",
+       "uz": "Simptomlarga qarab erkin"
+      },
+      {
+       "id": "Tanpa batasan khusus",
+       "en": "No specific restriction",
+       "zh": "无特殊限制",
+       "uz": "Maxsus cheklov yoʻq"
+      },
+      {
+       "id": "Lebih cepat; berbasis gejala & fungsi",
+       "en": "Sooner; based on symptoms & function",
+       "zh": "较早；依据症状与功能",
+       "uz": "Tezroq; simptom va funksiyaga asoslanib"
+      }
+     ],
+     [
+      {
+       "id": "**Repair meniskus stabil** (longitudinal, ramp)",
+       "en": "**Stable meniscal repair** (longitudinal, ramp)",
+       "zh": "**稳定型半月板修复**（纵行、ramp损伤）",
+       "uz": "**Barqaror menisk tikilishi** (uzunasiga, ramp)"
+      },
+      {
+       "id": "Parsial 20 kg, 0–4 minggu",
+       "en": "Partial, 20 kg, weeks 0–4",
+       "zh": "部分负重20 kg，0–4周",
+       "uz": "Qisman 20 kg, 0–4 hafta"
+      },
+      {
+       "id": "0–90° dengan brace, 6 minggu",
+       "en": "0–90° in a brace, 6 weeks",
+       "zh": "支具下0–90°，6周",
+       "uz": "Ortez bilan 0–90°, 6 hafta"
+      },
+      {
+       "id": "Hindari ± 4 bulan",
+       "en": "Avoid for about 4 months",
+       "zh": "避免约4个月",
+       "uz": "Taxminan 4 oy saqlaning"
+      },
+      {
+       "id": "Olahraga kontak 4–6 bulan (repair terisolasi)",
+       "en": "Contact sport at 4–6 months (isolated repair)",
+       "zh": "对抗性运动4–6个月（单纯修复）",
+       "uz": "Kontakt sport 4–6 oyda (alohida tikish)"
+      }
+     ],
+     [
+      {
+       "id": "**Repair radial / root**",
+       "en": "**Radial / root repair**",
+       "zh": "**放射状/根部撕裂修复**",
+       "uz": "**Radial / ildiz tikilishi**"
+      },
+      {
+       "id": "Tidak menapak, 6 minggu",
+       "en": "Non-weight-bearing, 6 weeks",
+       "zh": "不负重，6周",
+       "uz": "Oyoqqa tayanmaslik, 6 hafta"
+      },
+      {
+       "id": "0–90°, 6 minggu",
+       "en": "0–90°, 6 weeks",
+       "zh": "0–90°，6周",
+       "uz": "0–90°, 6 hafta"
+      },
+      {
+       "id": "Hindari ≥ 4 bulan; penguatan mulai 4–5 bulan",
+       "en": "Avoid for ≥ 4 months; strengthening from 4–5 months",
+       "zh": "避免≥ 4个月；4–5个月开始力量训练",
+       "uz": "≥ 4 oy saqlaning; kuchaytirish 4–5 oydan"
+      },
+      {
+       "id": "± 9 bulan untuk olahraga pivot profesional",
+       "en": "About 9 months for professional pivoting sport",
+       "zh": "职业轴移类运动约9个月",
+       "uz": "Professional burilishli sport uchun taxminan 9 oy"
+      }
+     ],
+     [
+      {
+       "id": "**ACL + repair meniskus**",
+       "en": "**ACL + meniscal repair**",
+       "zh": "**ACL + 半月板修复**",
+       "uz": "**ACL + menisk tikilishi**"
+      },
+      {
+       "id": "Ikuti batasan meniskus",
+       "en": "Follow meniscal restrictions",
+       "zh": "遵循半月板限制",
+       "uz": "Menisk cheklovlariga amal qiling"
+      },
+      {
+       "id": "Ikuti batasan meniskus",
+       "en": "Follow meniscal restrictions",
+       "zh": "遵循半月板限制",
+       "uz": "Menisk cheklovlariga amal qiling"
+      },
+      {
+       "id": "Ikuti batasan meniskus",
+       "en": "Follow meniscal restrictions",
+       "zh": "遵循半月板限制",
+       "uz": "Menisk cheklovlariga amal qiling"
+      },
+      {
+       "id": "≥ 9 bulan + kriteria ACL",
+       "en": "≥ 9 months + ACL criteria",
+       "zh": "≥ 9个月 + ACL标准",
+       "uz": "≥ 9 oy + ACL mezonlari"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "awas",
+    "judul": null,
+    "teks": {
+     "id": "Batasan di atas adalah acuan umum. Instruksi dokter operator tetap menjadi patokan utama, karena teknik fiksasi, lokasi dan stabilitas robekan berbeda pada tiap pasien.",
+     "en": "The restrictions above are general guidance. The operating surgeon's instructions remain the primary reference, because fixation technique, tear location and stability differ in each patient.",
+     "zh": "以上限制为一般参考。手术医师的医嘱仍是首要依据，因为每位患者的固定技术、撕裂部位及稳定性各不相同。",
+     "uz": "Yuqoridagi cheklovlar umumiy yoʻriqnomadir. Asosiy mezon — operatsiya qilgan shifokor koʻrsatmalari, chunki fiksatsiya texnikasi, yirtiq joyi va barqarorligi har bir bemorda turlicha."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [1] Kotsifaki dkk. 2023 · [3] Grindem dkk. 2016 · [14] Calanna dkk., J Exp Orthop 2022 · [15] Mueller dkk., J Orthop Sports Phys Ther 2016 · [16] Kise dkk., BMJ 2016",
+     "en": "References: [1] Kotsifaki dkk. 2023 · [3] Grindem dkk. 2016 · [14] Calanna dkk., J Exp Orthop 2022 · [15] Mueller dkk., J Orthop Sports Phys Ther 2016 · [16] Kise dkk., BMJ 2016",
+     "zh": "参考文献：[1] Kotsifaki dkk. 2023 · [3] Grindem dkk. 2016 · [14] Calanna dkk., J Exp Orthop 2022 · [15] Mueller dkk., J Orthop Sports Phys Ther 2016 · [16] Kise dkk., BMJ 2016",
+     "uz": "Manbalar: [1] Kotsifaki dkk. 2023 · [3] Grindem dkk. 2016 · [14] Calanna dkk., J Exp Orthop 2022 · [15] Mueller dkk., J Orthop Sports Phys Ther 2016 · [16] Kise dkk., BMJ 2016"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 10,
+  "id": "jenis-brace-lutut",
+  "kicker": {
+   "id": "ORTHOSIS",
+   "en": "ORTHOSIS",
+   "zh": "矫形器",
+   "uz": "ORTEZ"
+  },
+  "judul": {
+   "id": "Jenis Brace Lutut dan Kapan Dipakai",
+   "en": "Types of Knee Brace and When to Use Them",
+   "zh": "膝关节支具类型及使用时机",
+   "uz": "Tizza ortezlari turlari va ularni qachon qoʻllash"
+  },
+  "pesan": {
+   "id": "Brace sesuai indikasi, bukan kebiasaan",
+   "en": "Brace by indication, not by habit",
+   "zh": "支具按指征使用，而非出于习惯",
+   "uz": "Ortez odat boʻyicha emas, koʻrsatma boʻyicha"
+  },
+  "blok": [
+   {
+    "tipe": "kartu",
+    "kolom": 3,
+    "item": [
+     {
+      "label": null,
+      "judul": {
+       "id": "Knee immobilizer",
+       "en": "Knee immobilizer",
+       "zh": "膝关节固定器",
+       "uz": "Knee immobilizer (tizza immobilizatori)"
+      },
+      "teks": {
+       "id": "Brace lurus, terkunci di ekstensi\n\n**Kapan:** Hari-hari awal pasca-operasi untuk berjalan, bila quadriceps belum terkontrol (extension lag)\n**Lepas:** Setelah SLR tanpa lag dan pola jalan aman\nPraktik klinis umum; ikuti instruksi operator",
+       "en": "Straight brace, locked in extension\n\n**When:** First post-operative days for walking, when the quadriceps is not yet controlled (extension lag)\n**Remove:** Once SLR is achieved without lag and gait is safe\nCommon clinical practice; follow the surgeon's instructions",
+       "zh": "直型支具，锁定于伸直位\n\n**使用时机：**术后最初几天用于行走，适用于股四头肌尚未能控制时（伸膝迟滞，extension lag）\n**停用：**可完成无迟滞直腿抬高（SLR）且步态安全后\n常规临床做法；遵从手术医师医嘱",
+       "uz": "Toʻgʻri ortez, yozilgan holatda qulflangan\n\n**Qachon:** Operatsiyadan keyingi dastlabki kunlarda yurish uchun, kvadritseps hali nazorat qilinmaganda (extension lag)\n**Yechish:** SLR lagsiz bajarilganda va yurish xavfsiz boʻlganda\nUmumiy klinik amaliyot; operator koʻrsatmalariga amal qiling"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Hinged post-op brace",
+       "en": "Hinged post-op brace",
+       "zh": "术后铰链式支具",
+       "uz": "Sharnirli operatsiyadan keyingi ortez"
+      },
+      "teks": {
+       "id": "Brace berengsel dengan pengatur sudut (ROM brace)\n\n**Kapan:** Repair meniskus: dibatasi 0–90° selama ± 6 minggu; cedera ligamen penyerta sesuai operator\n**ACL saja:** Tidak rutin diperlukan; tidak terbukti bermanfaat dan menambah biaya\n[13][14][28]",
+       "en": "Hinged brace with adjustable angle (ROM brace)\n\n**When:** Meniscal repair: limited to 0–90° for about 6 weeks; associated ligament injuries as per surgeon\n**ACL only:** Not routinely needed; no proven benefit and adds cost\n[13][14][28]",
+       "zh": "带角度调节的铰链式支具（ROM支具）\n\n**使用时机：**半月板修复：限制在0–90°约6周；合并韧带损伤遵医嘱\n**单纯ACL：**无需常规使用；未证实有益且增加费用\n[13][14][28]",
+       "uz": "Burchak sozlagichli sharnirli ortez (ROM ortezi)\n\n**Qachon:** Menisk tikilishi: taxminan 6 hafta 0–90° bilan cheklanadi; hamroh boylam jarohatlarida operatorga qarab\n**Faqat ACL:** Muntazam kerak emas; foydasi isbotlanmagan va xarajatni oshiradi\n[13][14][28]"
+      },
+      "gambar": null
+     },
+     {
+      "label": null,
+      "judul": {
+       "id": "Functional brace",
+       "en": "Functional brace",
+       "zh": "功能性支具",
+       "uz": "Funksional ortez"
+      },
+      "teks": {
+       "id": "Brace ACL / derotasi untuk aktivitas olahraga\n\n**Kapan:** Opsional saat kembali berolahraga, terutama bila pasien merasa lebih percaya diri\n**Bukti:** Belum terbukti menurunkan cedera ulang; bukan pengganti kriteria RTS\n[29]",
+       "en": "ACL / derotation brace for sporting activity\n\n**When:** Optional on return to sport, especially if the patient feels more confident\n**Evidence:** Not proven to reduce re-injury; not a substitute for RTS criteria\n[29]",
+       "zh": "用于运动的ACL/抗旋支具\n\n**使用时机：**重返运动时可选用，尤其当患者佩戴后更有信心时\n**证据：**未证实可降低再损伤；不能替代RTS标准\n[29]",
+       "uz": "Sport faoliyati uchun ACL / derotatsion ortez\n\n**Qachon:** Sportga qaytishda ixtiyoriy, ayniqsa bemor oʻzini ishonchliroq his qilsa\n**Dalil:** Qayta jarohatni kamaytirishi isbotlanmagan; RTS mezonlari oʻrnini bosmaydi\n[29]"
+      },
+      "gambar": null
+     }
+    ]
+   },
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Jenis brace",
+      "en": "Brace type",
+      "zh": "支具类型",
+      "uz": "Ortez turi"
+     },
+     {
+      "id": "0–2 mgg",
+      "en": "0–2 wk",
+      "zh": "0–2周",
+      "uz": "0–2 hafta"
+     },
+     {
+      "id": "2–6 mgg",
+      "en": "2–6 wk",
+      "zh": "2–6周",
+      "uz": "2–6 hafta"
+     },
+     {
+      "id": "6–12 mgg",
+      "en": "6–12 wk",
+      "zh": "6–12周",
+      "uz": "6–12 hafta"
+     },
+     {
+      "id": "3–9 bln",
+      "en": "3–9 mo",
+      "zh": "3–9个月",
+      "uz": "3–9 oy"
+     },
+     {
+      "id": "≥ 9 bln",
+      "en": "≥ 9 mo",
+      "zh": "≥ 9个月",
+      "uz": "≥ 9 oy"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "**Immobilizer**",
+       "en": "**Immobilizer**",
+       "zh": "**固定器**",
+       "uz": "**Immobilizator**"
+      },
+      {
+       "id": "✓ bila ada extension lag",
+       "en": "✓ if extension lag present",
+       "zh": "✓ 存在伸膝迟滞时",
+       "uz": "✓ extension lag boʻlsa"
+      },
+      {
+       "id": "–",
+       "en": "–",
+       "zh": "–",
+       "uz": "–"
+      },
+      {
+       "id": "–",
+       "en": "–",
+       "zh": "–",
+       "uz": "–"
+      },
+      {
+       "id": "–",
+       "en": "–",
+       "zh": "–",
+       "uz": "–"
+      },
+      {
+       "id": "–",
+       "en": "–",
+       "zh": "–",
+       "uz": "–"
+      }
+     ],
+     [
+      {
+       "id": "**Hinged 0–90°**",
+       "en": "**Hinged 0–90°**",
+       "zh": "**铰链式 0–90°**",
+       "uz": "**Sharnirli 0–90°**"
+      },
+      {
+       "id": "✓ repair meniskus",
+       "en": "✓ meniscal repair",
+       "zh": "✓ 半月板修复",
+       "uz": "✓ menisk tikilishi"
+      },
+      {
+       "id": "✓ repair meniskus",
+       "en": "✓ meniscal repair",
+       "zh": "✓ 半月板修复",
+       "uz": "✓ menisk tikilishi"
+      },
+      {
+       "id": "–",
+       "en": "–",
+       "zh": "–",
+       "uz": "–"
+      },
+      {
+       "id": "–",
+       "en": "–",
+       "zh": "–",
+       "uz": "–"
+      },
+      {
+       "id": "–",
+       "en": "–",
+       "zh": "–",
+       "uz": "–"
+      }
+     ],
+     [
+      {
+       "id": "**Functional**",
+       "en": "**Functional**",
+       "zh": "**功能性**",
+       "uz": "**Funksional**"
+      },
+      {
+       "id": "–",
+       "en": "–",
+       "zh": "–",
+       "uz": "–"
+      },
+      {
+       "id": "–",
+       "en": "–",
+       "zh": "–",
+       "uz": "–"
+      },
+      {
+       "id": "–",
+       "en": "–",
+       "zh": "–",
+       "uz": "–"
+      },
+      {
+       "id": "opsional (akhir fase)",
+       "en": "optional (late phase)",
+       "zh": "可选（后期）",
+       "uz": "ixtiyoriy (oxirgi davr)"
+      },
+      {
+       "id": "opsional",
+       "en": "optional",
+       "zh": "可选",
+       "uz": "ixtiyoriy"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Referensi: [13] Lind 2013 · [14] Calanna 2022 · [28] Kruse dkk., J Bone Joint Surg Am 2012 · [29] Marois dkk., Int J Environ Res Public Health 2021",
+     "en": "References: [13] Lind 2013 · [14] Calanna 2022 · [28] Kruse dkk., J Bone Joint Surg Am 2012 · [29] Marois dkk., Int J Environ Res Public Health 2021",
+     "zh": "参考文献：[13] Lind 2013 · [14] Calanna 2022 · [28] Kruse dkk., J Bone Joint Surg Am 2012 · [29] Marois dkk., Int J Environ Res Public Health 2021",
+     "uz": "Manbalar: [13] Lind 2013 · [14] Calanna 2022 · [28] Kruse dkk., J Bone Joint Surg Am 2012 · [29] Marois dkk., Int J Environ Res Public Health 2021"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 11,
+  "id": "tujuh-fase-tujuh-gerbang",
+  "kicker": {
+   "id": "PETA PERJALANAN",
+   "en": "ROADMAP",
+   "zh": "康复路线图",
+   "uz": "YOʻL XARITASI"
+  },
+  "judul": {
+   "id": "Timeline Pemulihan: Tujuh Fase, Tujuh Gerbang",
+   "en": "Recovery Timeline: Seven Phases, Seven Gates",
+   "zh": "康复时间线：七个阶段，七道关卡",
+   "uz": "Tiklanish vaqt jadvali: yetti bosqich, yetti darvoza"
+  },
+  "pesan": {
+   "id": "7 level, 7 gerbang",
+   "en": "7 levels, 7 gates",
+   "zh": "7个级别，7道关卡",
+   "uz": "7 daraja, 7 darvoza"
+  },
+  "blok": [
+   {
+    "tipe": "langkah",
+    "item": [
+     {
+      "label": {
+       "id": "Fase 0 · Pra-operasi",
+       "en": "Phase 0 · Pre-operative",
+       "zh": "第0期 · 术前",
+       "uz": "0-bosqich · Operatsiyadan oldin"
+      },
+      "judul": {
+       "id": "Prehabilitasi",
+       "en": "Prehabilitation",
+       "zh": "术前康复",
+       "uz": "Prereabilitatsiya"
+      },
+      "teks": {
+       "id": "**Gerbang:** Lutut tenang, ekstensi penuh, quadriceps aktif",
+       "en": "**Gate:** Quiet knee, full extension, active quadriceps",
+       "zh": "**关卡：**膝关节无急性炎症、可完全伸直、股四头肌可激活",
+       "uz": "**Darvoza:** Tizza tinch, toʻliq yozilish, kvadritseps faol"
+      }
+     },
+     {
+      "label": {
+       "id": "Fase 1 · 0–2 minggu",
+       "en": "Phase 1 · 0–2 weeks",
+       "zh": "第1期 · 0–2周",
+       "uz": "1-bosqich · 0–2 hafta"
+      },
+      "judul": {
+       "id": "Proteksi & aktivasi",
+       "en": "Protection & activation",
+       "zh": "保护与激活",
+       "uz": "Himoya va faollashtirish"
+      },
+      "teks": {
+       "id": "**Gerbang:** Ekstensi penuh, SLR tanpa lag",
+       "en": "**Gate:** Full extension, SLR without lag",
+       "zh": "**关卡：**完全伸直，无迟滞直腿抬高（SLR）",
+       "uz": "**Darvoza:** Toʻliq yozilish, lagsiz SLR"
+      }
+     },
+     {
+      "label": {
+       "id": "Fase 2 · 2–6 minggu",
+       "en": "Phase 2 · 2–6 weeks",
+       "zh": "第2期 · 2–6周",
+       "uz": "2-bosqich · 2–6 hafta"
+      },
+      "judul": {
+       "id": "ROM & pola jalan",
+       "en": "ROM & gait",
+       "zh": "活动度与步态",
+       "uz": "ROM va yurish"
+      },
+      "teks": {
+       "id": "**Gerbang:** Jalan normal tanpa kruk",
+       "en": "**Gate:** Normal gait without crutches",
+       "zh": "**关卡：**无拐杖正常行走",
+       "uz": "**Darvoza:** Qoʻltiqtayoqsiz normal yurish"
+      }
+     },
+     {
+      "label": {
+       "id": "Fase 3 · 6–12 minggu",
+       "en": "Phase 3 · 6–12 weeks",
+       "zh": "第3期 · 6–12周",
+       "uz": "3-bosqich · 6–12 hafta"
+      },
+      "judul": {
+       "id": "Kekuatan & kontrol",
+       "en": "Strength & control",
+       "zh": "力量与控制",
+       "uz": "Kuch va nazorat"
+      },
+      "teks": {
+       "id": "**Gerbang:** Kontrol satu kaki, kekuatan meningkat",
+       "en": "**Gate:** Single-leg control, improving strength",
+       "zh": "**关卡：**单腿控制良好，力量提高",
+       "uz": "**Darvoza:** Bir oyoqda nazorat, kuch ortgan"
+      }
+     },
+     {
+      "label": {
+       "id": "Fase 4 · 3–5 bulan",
+       "en": "Phase 4 · 3–5 months",
+       "zh": "第4期 · 3–5个月",
+       "uz": "4-bosqich · 3–5 oy"
+      },
+      "judul": {
+       "id": "Kembali berlari",
+       "en": "Return to running",
+       "zh": "恢复跑步",
+       "uz": "Yugurishga qaytish"
+      },
+      "teks": {
+       "id": "**Gerbang:** Kriteria lari terpenuhi",
+       "en": "**Gate:** Running criteria met",
+       "zh": "**关卡：**满足跑步标准",
+       "uz": "**Darvoza:** Yugurish mezonlari bajarilgan"
+      }
+     },
+     {
+      "label": {
+       "id": "Fase 5 · 5–9 bulan",
+       "en": "Phase 5 · 5–9 months",
+       "zh": "第5期 · 5–9个月",
+       "uz": "5-bosqich · 5–9 oy"
+      },
+      "judul": {
+       "id": "Plyometrik & perubahan arah",
+       "en": "Plyometrics & change of direction",
+       "zh": "增强式训练与变向",
+       "uz": "Pliometrika va yoʻnalish oʻzgartirish"
+      },
+      "teks": {
+       "id": "**Gerbang:** Agility & latihan lapangan",
+       "en": "**Gate:** Agility & on-field training",
+       "zh": "**关卡：**敏捷性与场上训练",
+       "uz": "**Darvoza:** Chaqqonlik va maydon mashgʻulotlari"
+      }
+     },
+     {
+      "label": {
+       "id": "Fase 6 · ≥ 9 bulan",
+       "en": "Phase 6 · ≥ 9 months",
+       "zh": "第6期 · ≥ 9个月",
+       "uz": "6-bosqich · ≥ 9 oy"
+      },
+      "judul": {
+       "id": "Kembali bertanding",
+       "en": "Return to competition",
+       "zh": "重返赛场",
+       "uz": "Musobaqaga qaytish"
+      },
+      "teks": {
+       "id": "**Gerbang:** Seluruh kriteria RTS",
+       "en": "**Gate:** All RTS criteria",
+       "zh": "**关卡：**满足全部RTS标准",
+       "uz": "**Darvoza:** Barcha RTS mezonlari"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "poin",
+    "judul": {
+     "id": "Modifikasi bila ada repair meniskus",
+     "en": "Modifications when a meniscal repair is present",
+     "zh": "合并半月板修复时的调整",
+     "uz": "Menisk tikilgan boʻlsa oʻzgartirishlar"
+    },
+    "butir": [
+     {
+      "id": "Menapak terbatas, ROM 0–90° (6 minggu)",
+      "en": "Restricted weight-bearing, ROM 0–90° (6 weeks)",
+      "zh": "限制负重，活动度0–90°（6周）",
+      "uz": "Cheklangan tayanish, ROM 0–90° (6 hafta)"
+     },
+     {
+      "id": "Hindari fleksi berbeban dalam hingga ± 4 bulan",
+      "en": "Avoid deep loaded flexion until about 4 months",
+      "zh": "约4个月内避免负重深屈",
+      "uz": "Taxminan 4 oygacha yuk bilan chuqur bukishdan saqlaning"
+     },
+     {
+      "id": "Radial/root: kembali ke olahraga pivot ± 9 bulan",
+      "en": "Radial/root: return to pivoting sport at about 9 months",
+      "zh": "放射状/根部撕裂：约9个月重返轴移类运动",
+      "uz": "Radial/ildiz: burilishli sportga taxminan 9 oyda qaytish"
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Rentang waktu adalah perkiraan; naik fase hanya bila kriteria gerbang terpenuhi.\nReferensi: [1] Kotsifaki 2023 · [2] van Melick 2016 · [3] Grindem 2016 · [14] Calanna 2022",
+     "en": "Time ranges are estimates; progress to the next phase only when the gate criteria are met.\nReferences: [1] Kotsifaki 2023 · [2] van Melick 2016 · [3] Grindem 2016 · [14] Calanna 2022",
+     "zh": "时间范围仅为估计；只有满足关卡标准才能进入下一阶段。\n参考文献：[1] Kotsifaki 2023 · [2] van Melick 2016 · [3] Grindem 2016 · [14] Calanna 2022",
+     "uz": "Vaqt oraliqlari taxminiy; keyingi bosqichga faqat darvoza mezonlari bajarilganda oʻtiladi.\nManbalar: [1] Kotsifaki 2023 · [2] van Melick 2016 · [3] Grindem 2016 · [14] Calanna 2022"
+    }
+   }
+  ]
+ },
+ {
+  "slide": 12,
+  "id": "kembali-bekerja",
+  "kicker": {
+   "id": "KEMBALI BEKERJA",
+   "en": "RETURN TO WORK",
+   "zh": "重返工作",
+   "uz": "ISHGA QAYTISH"
+  },
+  "judul": {
+   "id": "Kembali Bekerja Jauh Sebelum Pulih Total",
+   "en": "Returning to Work Well Before Full Recovery",
+   "zh": "远在完全康复之前即可重返工作",
+   "uz": "Toʻliq tiklanishdan ancha oldin ishga qaytish"
+  },
+  "pesan": {
+   "id": "Kantor dulu, lapangan nanti",
+   "en": "Office first, field later",
+   "zh": "先回办公室，再上赛场",
+   "uz": "Avval ofis, keyin maydon"
+  },
+  "blok": [
+   {
+    "tipe": "tabel",
+    "kepala": [
+     {
+      "id": "Tuntutan fisik pekerjaan",
+      "en": "Physical demands of the job",
+      "zh": "工作体力需求",
+      "uz": "Ishning jismoniy talablari"
+     },
+     {
+      "id": "METs",
+      "en": "METs",
+      "zh": "METs",
+      "uz": "METs"
+     },
+     {
+      "id": "Perkiraan waktu kembali bekerja/beraktivitas",
+      "en": "Estimated time to return to work/activity",
+      "zh": "预计重返工作/活动时间",
+      "uz": "Ishga/faoliyatga qaytishning taxminiy muddati"
+     }
+    ],
+    "baris": [
+     [
+      {
+       "id": "**Kantoran / duduk**",
+       "en": "**Office / sedentary**",
+       "zh": "**办公室/坐姿工作**",
+       "uz": "**Ofis / oʻtirib ishlash**"
+      },
+      {
+       "id": "1,3–1,5",
+       "en": "1.3–1.5",
+       "zh": "1.3–1.5",
+       "uz": "1,3–1,5"
+      },
+      {
+       "id": "Mulai 2–4 minggu, jam kerja bertahap",
+       "en": "From 2–4 weeks, with graded working hours",
+       "zh": "2–4周起，逐步增加工作时长",
+       "uz": "2–4 haftadan, ish soatlari bosqichma-bosqich"
+      }
+     ],
+     [
+      {
+       "id": "**Ringan: berdiri & berjalan**",
+       "en": "**Light: standing & walking**",
+       "zh": "**轻度：站立与行走**",
+       "uz": "**Yengil: tik turish va yurish**"
+      },
+      {
+       "id": "1,8–3,8",
+       "en": "1.8–3.8",
+       "zh": "1.8–3.8",
+       "uz": "1,8–3,8"
+      },
+      {
+       "id": "4–8 minggu · + repair meniskus 8–10 minggu",
+       "en": "4–8 weeks · with meniscal repair 8–10 weeks",
+       "zh": "4–8周 · 合并半月板修复8–10周",
+       "uz": "4–8 hafta · menisk tikilgan boʻlsa 8–10 hafta"
+      }
+     ],
+     [
+      {
+       "id": "**Sedang**",
+       "en": "**Moderate**",
+       "zh": "**中度**",
+       "uz": "**Oʻrtacha**"
+      },
+      {
+       "id": "± 2,3–4",
+       "en": "~2.3–4",
+       "zh": "约2.3–4",
+       "uz": "± 2,3–4"
+      },
+      {
+       "id": "8–10 minggu · + repair meniskus 10–12 minggu",
+       "en": "8–10 weeks · with meniscal repair 10–12 weeks",
+       "zh": "8–10周 · 合并半月板修复10–12周",
+       "uz": "8–10 hafta · menisk tikilgan boʻlsa 10–12 hafta"
+      }
+     ],
+     [
+      {
+       "id": "**Berat / manual**",
+       "en": "**Heavy / manual**",
+       "zh": "**重度/体力劳动**",
+       "uz": "**Ogʻir / qoʻl mehnati**"
+      },
+      {
+       "id": "≥ 6",
+       "en": "≥ 6",
+       "zh": "≥ 6",
+       "uz": "≥ 6"
+      },
+      {
+       "id": "10–16 minggu",
+       "en": "10–16 weeks",
+       "zh": "10–16周",
+       "uz": "10–16 hafta"
+      }
+     ],
+     [
+      {
+       "id": "**Aktivitas harian normal penuh** (fase 3–4)",
+       "en": "**Full normal daily activity** (phases 3–4)",
+       "zh": "**完全恢复正常日常活动**（第3–4期）",
+       "uz": "**Toʻliq normal kundalik faoliyat** (3–4-bosqichlar)"
+      },
+      {
+       "id": "–",
+       "en": "–",
+       "zh": "–",
+       "uz": "–"
+      },
+      {
+       "id": "Target program 3–6 bulan",
+       "en": "Programme target 3–6 months",
+       "zh": "项目目标3–6个月",
+       "uz": "Dastur maqsadi 3–6 oy"
+      }
+     ],
+     [
+      {
+       "id": "**Atlet / olahraga pivot** (fase 6)",
+       "en": "**Athlete / pivoting sport** (phase 6)",
+       "zh": "**运动员/轴移类运动**（第6期）",
+       "uz": "**Sportchi / burilishli sport** (6-bosqich)"
+      },
+      {
+       "id": "–",
+       "en": "–",
+       "zh": "–",
+       "uz": "–"
+      },
+      {
+       "id": "≥ 9–12 bulan + kriteria RTS",
+       "en": "≥ 9–12 months + RTS criteria",
+       "zh": "≥ 9–12个月 + RTS标准",
+       "uz": "≥ 9–12 oy + RTS mezonlari"
+      }
+     ]
+    ]
+   },
+   {
+    "tipe": "angka",
+    "item": [
+     {
+      "nilai": "90%",
+      "label": {
+       "id": "pasien pasca-rekonstruksi ACL sudah kembali bekerja dalam 90 hari",
+       "en": "of patients after ACL reconstruction had returned to work within 90 days",
+       "zh": "ACL重建术后患者在90天内已重返工作的比例",
+       "uz": "ACL rekonstruksiyasidan keyingi bemorlar 90 kun ichida ishga qaytgan"
+      },
+      "teks": {
+       "id": "Tinjauan sistematis, n = 1.791",
+       "en": "Systematic review, n = 1,791",
+       "zh": "系统综述，n = 1791",
+       "uz": "Tizimli sharh, n = 1791"
+      }
+     }
+    ]
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "baik",
+    "judul": {
+     "id": "Pesan",
+     "en": "Message",
+     "zh": "要点",
+     "uz": "Xulosa"
+    },
+    "teks": {
+     "id": "Angka 9–12 bulan adalah untuk kembali bertanding. Pasien non-atlet tidak perlu menunggu selama itu untuk bekerja.",
+     "en": "The 9–12-month figure is for return to competition. Non-athlete patients do not need to wait that long to return to work.",
+     "zh": "9–12个月指的是重返赛场的时间。非运动员患者无需等待这么久才重返工作。",
+     "uz": "9–12 oy — bu musobaqaga qaytish muddati. Sportchi boʻlmagan bemorlar ishga qaytish uchun shuncha kutishlari shart emas."
+    }
+   },
+   {
+    "tipe": "catatan",
+    "gaya": "info",
+    "judul": null,
+    "teks": {
+     "id": "Waktu kerja = opini ahli New Zealand Knee Society; METs = contoh tugas dari Compendium.\nReferensi: [3] Grindem 2016 · [31] Özbek 2024 · [32] ACC/NZOA · [33] Herrmann 2024",
+     "en": "Return-to-work times = expert opinion of the New Zealand Knee Society; METs = example tasks from the Compendium.\nReferences: [3] Grindem 2016 · [31] Özbek 2024 · [32] ACC/NZOA · [33] Herrmann 2024",
+     "zh": "重返工作时间＝New Zealand Knee Society专家意见；METs＝Compendium中的示例任务。\n参考文献：[3] Grindem 2016 · [31] Özbek 2024 · [32] ACC/NZOA · [33] Herrmann 2024",
+     "uz": "Ishga qaytish muddatlari = New Zealand Knee Society ekspert fikri; METs = Compendium dagi vazifa misollari.\nManbalar: [3] Grindem 2016 · [31] Özbek 2024 · [32] ACC/NZOA · [33] Herrmann 2024"
+    }
+   }
+  ]
+ }
+]
